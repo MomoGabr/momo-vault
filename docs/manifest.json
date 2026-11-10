@@ -1,0 +1,25 @@
+{
+  "name": "Momo Vault — Cinema, Musica & Libri",
+  "short_name": "Momo Vault",
+  "description": "Il Vault personale di Cinema, Serie TV, Musica e Libri sincronizzato con Trakt e Streaming CH/IT.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1014",
+  "theme_color": "#0f1014",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

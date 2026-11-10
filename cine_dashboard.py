@@ -1544,7 +1544,14 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
 <html lang="it">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0f1014">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Momo Vault">
+<link rel="apple-touch-icon" sizes="180x180" href="icon-180.png">
+<link rel="icon" type="image/png" sizes="180x180" href="icon-180.png">
+<link rel="manifest" href="manifest.json">
 <title>Momo Vault 🇨🇭 — Cinema, Musica & Libri</title>
 <style>
   :root {{
@@ -2072,6 +2079,54 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
     text-decoration: none;
   }}
   .card-links a:hover {{ color: var(--text); text-decoration: underline; }}
+  @media (max-width: 768px) {{
+    header {{
+      position: relative;
+      padding: max(12px, env(safe-area-inset-top)) 12px 12px;
+    }}
+    main {{
+      padding: 12px 10px max(24px, env(safe-area-inset-bottom));
+    }}
+    .tabs {{
+      width: 100%;
+      overflow-x: auto;
+      justify-content: space-between;
+    }}
+    .tab-btn {{
+      padding: 7px 10px;
+      font-size: 12px;
+      white-space: nowrap;
+      flex: 1;
+      text-align: center;
+    }}
+    input[type="search"] {{
+      min-width: 0;
+      width: 100%;
+      flex: 1;
+    }}
+    .filter-group {{
+      width: 100%;
+      overflow-x: auto;
+      flex-wrap: nowrap;
+      padding: 7px 9px;
+      -webkit-overflow-scrolling: touch;
+    }}
+    .cine-chip, .toggle-btn, .seg-btn, .action-btn, select {{
+      white-space: nowrap;
+      flex-shrink: 0;
+    }}
+    .grid {{
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 10px;
+    }}
+    .card-body {{
+      padding: 9px;
+      gap: 5px;
+    }}
+    .movie-title {{
+      font-size: 13.5px;
+    }}
+  }}
 </style>
 </head>
 <body>
