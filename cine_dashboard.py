@@ -1491,6 +1491,19 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
         copy_it["creator_count"] = len(creators_list)
         yr = copy_it.get("year")
         copy_it["decade"] = f"{(yr // 10) * 10}s" if isinstance(yr, int) and 1910 <= yr <= 2030 else ""
+        # Compatta il payload JSON rimuovendo chiavi vuote o ridondanti per dimezzare il peso di index.html
+        copy_it.pop("id", None)
+        copy_it.pop("rubriche", None)
+        if not copy_it.get("ch_flatrate"):
+            copy_it.pop("ch_flatrate", None)
+        if not copy_it.get("it_flatrate"):
+            copy_it.pop("it_flatrate", None)
+        if not copy_it.get("my_rating"):
+            copy_it.pop("my_rating", None)
+        if not copy_it.get("watched"):
+            copy_it.pop("watched", None)
+        if copy_it.get("imdb_id") and copy_it.get("category") in ("movie", "show"):
+            copy_it.pop("external_url", None)
         items_out.append(copy_it)
 
     items_out.sort(
@@ -1505,7 +1518,7 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
     done_vids = len(db_data.get("processed_videos", []))
     tot_vids = 11330  # 5499 (Frusciante) + 5831 (Alò + Criticoni + Marra + Victorlaszlo88)
     last_vid_label = f"#{done_vids} / {tot_vids}"
-    data_json = json.dumps(items_out, ensure_ascii=False)
+    data_json = json.dumps(items_out, ensure_ascii=False, separators=(",", ":"))
 
     html = f"""<!DOCTYPE html>
 <html lang="it">
@@ -2130,6 +2143,7 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
   </section>
 
   <div class="grid" id="moviesGrid"></div>
+  <div id="scrollSentinel" style="height:40px;margin-top:20px;"></div>
 </main>
 
 <script>
@@ -2495,28 +2509,11 @@ function getFilteredItems() {{
   return filtered;
 }}
 
-function render() {{
-  renderActiveFiltersBar();
-  const isVideo = activeCategory === 'movie' || activeCategory === 'show';
-  const catItems = ITEMS.filter(m => (m.category || 'movie') === activeCategory);
-  const filtered = getFilteredItems();
+let currentFiltered = [];
+let renderedCount = 0;
+const PAGE_SIZE = 120;
 
-  if (isVideo) {{
-    const flag = getCountryFlag();
-    const totalFlat = catItems.filter(m => getActiveFlatrate(m).length > 0).length;
-    const totalWatched = catItems.filter(m => m.watched).length;
-    statsPills.innerHTML = `
-      <span class="stat-pill">Mostrati: <strong>${{filtered.length}}</strong> / ${{catItems.length}}</span>
-      <span class="stat-pill">${{flag}} In Abbonamento ${{streamCountry}}: <strong>${{totalFlat}}</strong></span>
-      <span class="stat-pill">👁️ Visti su Trakt: <strong>${{totalWatched}}</strong></span>
-    `;
-  }} else {{
-    statsPills.innerHTML = `
-      <span class="stat-pill">Mostrati: <strong>${{filtered.length}}</strong> / ${{catItems.length}}</span>
-    `;
-  }}
-
-  moviesGrid.innerHTML = filtered.slice(0, 6000).map(m => {{
+function renderCardHtml(m) {{
     const sameTitle = m.it_title.toLowerCase() === (m.orig_title || '').toLowerCase();
     const subLine = [m.year, (!sameTitle && m.orig_title) ? m.orig_title : ''].filter(Boolean).join(' • ');
     const flag = getCountryFlag();
@@ -2528,7 +2525,6 @@ function render() {{
       `<span class="dir-badge" onclick="selectDirector('${{d.replace(/'/g, "\\'")}}')">🎬 ${{d}}</span>`
     ).join(' ');
 
-    // Raggruppa raccomandazioni per Creator e mostra Mini-Pill compatti (con menu a tendina se >1 video)
     const byCreator = {{}};
     (m.recommendations || []).forEach(r => {{
       const cr = r.creator || 'Federico Frusciante';
@@ -2551,7 +2547,7 @@ function render() {{
         const r = rList[0];
         const href = r.external_rec_url
           ? r.external_rec_url
-          : `https://youtu.be/${{r.video_id}}?t=${{r.seconds}}s`;
+          : `https://youtu.be/${{r.video_id}}?t=${{r.seconds || 0}}s`;
         const tsBadge = (r.timestamp && r.timestamp !== '00:00') ? ` <span style="opacity:0.8">${{r.timestamp}}</span>` : '';
         return `<a class="${{pillClass}}" href="${{href}}" target="_blank" rel="noopener" title="${{r.video_title}}">
           ${{icon}} ${{shortCr}}${{tsBadge}}
@@ -2561,7 +2557,7 @@ function render() {{
       const menuItems = rList.map(r => {{
         const href = r.external_rec_url
           ? r.external_rec_url
-          : `https://youtu.be/${{r.video_id}}?t=${{r.seconds}}s`;
+          : `https://youtu.be/${{r.video_id}}?t=${{r.seconds || 0}}s`;
         const cleanVT = (r.video_title || '')
           .replace(/^Federico Frusciante\s*[:\-]\s*/i, '')
           .replace(/^Le Monografie di Frusciante\s*[:\-]\s*/i, 'Monografia: ')
@@ -2612,7 +2608,47 @@ function render() {{
         </div>
       </div>
     `;
-  }}).join('');
+}}
+
+function appendNextBatch() {{
+  if (renderedCount >= currentFiltered.length) return;
+  const slice = currentFiltered.slice(renderedCount, renderedCount + PAGE_SIZE);
+  moviesGrid.insertAdjacentHTML('beforeend', slice.map(renderCardHtml).join(''));
+  renderedCount += slice.length;
+}}
+
+function render() {{
+  renderActiveFiltersBar();
+  const isVideo = activeCategory === 'movie' || activeCategory === 'show';
+  const catItems = ITEMS.filter(m => (m.category || 'movie') === activeCategory);
+  currentFiltered = getFilteredItems();
+  renderedCount = 0;
+
+  if (isVideo) {{
+    const flag = getCountryFlag();
+    const totalFlat = catItems.filter(m => getActiveFlatrate(m).length > 0).length;
+    const totalWatched = catItems.filter(m => m.watched).length;
+    statsPills.innerHTML = `
+      <span class="stat-pill">Mostrati: <strong>${{currentFiltered.length}}</strong> / ${{catItems.length}}</span>
+      <span class="stat-pill">${{flag}} In Abbonamento ${{streamCountry}}: <strong>${{totalFlat}}</strong></span>
+      <span class="stat-pill">👁️ Visti su Trakt: <strong>${{totalWatched}}</strong></span>
+    `;
+  }} else {{
+    statsPills.innerHTML = `
+      <span class="stat-pill">Mostrati: <strong>${{currentFiltered.length}}</strong> / ${{catItems.length}}</span>
+    `;
+  }}
+
+  moviesGrid.innerHTML = '';
+  appendNextBatch();
+}}
+
+const sentinel = document.getElementById('scrollSentinel');
+if (sentinel && 'IntersectionObserver' in window) {{
+  const io = new IntersectionObserver((entries) => {{
+    if (entries[0].isIntersecting) appendNextBatch();
+  }}, {{ rootMargin: '600px' }});
+  io.observe(sentinel);
 }}
 
 window.toggleCrMenu = function(e, el) {{
