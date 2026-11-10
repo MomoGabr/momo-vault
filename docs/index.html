@@ -1142,6 +1142,43 @@ document.addEventListener('click', () => {
 
 buildInsightsClouds();
 render();
+
+// Live Client-Side Trakt Sync (0 secondi di attesa: legge direttamente il profilo pubblico momo-gabr all'apertura della pagina!)
+async function syncLiveTraktFromBrowser() {
+  const TRAKT_PUB_KEY = '201dc70c5ec6af530f12f079ea1922733f6e1085ad7b02f36d8e011b75bcea7d';
+  const hdrs = { 'trakt-api-version': '2', 'trakt-api-key': TRAKT_PUB_KEY };
+  try {
+    const [wMov, wShow, rMov, rShow] = await Promise.all([
+      fetch('https://api.trakt.tv/users/momo-gabr/watched/movies', { headers: hdrs }).then(r => r.ok ? r.json() : []),
+      fetch('https://api.trakt.tv/users/momo-gabr/watched/shows', { headers: hdrs }).then(r => r.ok ? r.json() : []),
+      fetch('https://api.trakt.tv/users/momo-gabr/ratings/movies', { headers: hdrs }).then(r => r.ok ? r.json() : []),
+      fetch('https://api.trakt.tv/users/momo-gabr/ratings/shows', { headers: hdrs }).then(r => r.ok ? r.json() : []),
+    ]);
+    const liveWatched = new Set();
+    const liveRatings = {};
+    wMov.forEach(x => { const id = x.movie?.ids?.imdb; if (id) liveWatched.add(id); });
+    wShow.forEach(x => { const id = x.show?.ids?.imdb; if (id) liveWatched.add(id); });
+    rMov.forEach(x => { const id = x.movie?.ids?.imdb; if (id) { liveWatched.add(id); liveRatings[id] = x.rating; } });
+    rShow.forEach(x => { const id = x.show?.ids?.imdb; if (id) { liveWatched.add(id); liveRatings[id] = x.rating; } });
+    if (liveWatched.size > 0) {
+      let changed = false;
+      ITEMS.forEach(m => {
+        if (!m.imdb_id) return;
+        const w = liveWatched.has(m.imdb_id);
+        const rt = liveRatings[m.imdb_id];
+        if (Boolean(m.watched) !== w || m.my_rating !== rt) {
+          m.watched = w;
+          if (rt) m.my_rating = rt; else delete m.my_rating;
+          changed = true;
+        }
+      });
+      if (changed) render();
+    }
+  } catch (err) {
+    console.warn('Live Trakt sync skip:', err);
+  }
+}
+syncLiveTraktFromBrowser();
 </script>
 </body>
 </html>
