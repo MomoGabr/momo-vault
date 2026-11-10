@@ -6747,6 +6747,73 @@
         }
       ]
     },
+    "movie:ne zha 2:tt34956443": {
+      "id": "movie:ne zha 2:tt34956443",
+      "imdb_id": "tt34956443",
+      "category": "movie",
+      "it_title": "Ne Zha 2",
+      "orig_title": "Ne Zha 2",
+      "year": 2025,
+      "cast": "Yanting Lü, Joseph",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDBlMWRiZmItN2Q4ZC00NGI3LTk2NjMtMzBlZmVmMmFiNmY5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt34956443",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "UsKYLSkEzSw",
+          "video_title": "Federico Frusciante: Il Meglio e Peggio 2025",
+          "timestamp": "02:32:24",
+          "seconds": 9144,
+          "mentioned_as": "Ne Zha 2"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "THei1K4rtpM",
+          "video_title": "I MIGLIORI FILM DEL 2025",
+          "timestamp": "4:42:32",
+          "seconds": 16952,
+          "mentioned_as": "Ne Zha 2"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "vV_KlX8fJOc",
+          "video_title": "MovieBlog- 1043: Recensione Ne Zha 2",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Ne Zha 2"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "2mWXMg-HXzg",
+          "video_title": "Patreon: Ne Zha - L'ascesa del guerriero di fuoco (2025) di Jiaozi - A  NOMORELIBS, Her92, LollyLuna",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Ne Zha - L'ascesa del guerriero di fuoco"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_ne-zha-2-chinese-film-review-2025",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/ne-zha-2-chinese-film-review-2025",
+          "mentioned_as": "Ne Zha 2"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_nezhaii_2025",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best25.html",
+          "mentioned_as": "Ne Zha II"
+        }
+      ],
+      "director": "Jiaozi",
+      "it_flatrate": []
+    },
     "movie:taxi driver:tt0075314": {
       "id": "movie:taxi driver:tt0075314",
       "imdb_id": "tt0075314",
@@ -11161,64 +11228,6 @@
           "link": "https://watchnow.trakt.tv/watchnow/300378601"
         }
       ]
-    },
-    "movie:ne zha 2:tt34956443": {
-      "id": "movie:ne zha 2:tt34956443",
-      "imdb_id": "tt34956443",
-      "category": "movie",
-      "it_title": "Ne Zha 2",
-      "orig_title": "Ne Zha 2",
-      "year": 2025,
-      "cast": "Yanting Lü, Joseph",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDBlMWRiZmItN2Q4ZC00NGI3LTk2NjMtMzBlZmVmMmFiNmY5XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt34956443",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "UsKYLSkEzSw",
-          "video_title": "Federico Frusciante: Il Meglio e Peggio 2025",
-          "timestamp": "02:32:24",
-          "seconds": 9144,
-          "mentioned_as": "Ne Zha 2"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "THei1K4rtpM",
-          "video_title": "I MIGLIORI FILM DEL 2025",
-          "timestamp": "4:42:32",
-          "seconds": 16952,
-          "mentioned_as": "Ne Zha 2"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "vV_KlX8fJOc",
-          "video_title": "MovieBlog- 1043: Recensione Ne Zha 2",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Ne Zha 2"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "2mWXMg-HXzg",
-          "video_title": "Patreon: Ne Zha - L'ascesa del guerriero di fuoco (2025) di Jiaozi - A  NOMORELIBS, Her92, LollyLuna",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Ne Zha - L'ascesa del guerriero di fuoco"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_ne-zha-2-chinese-film-review-2025",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/ne-zha-2-chinese-film-review-2025",
-          "mentioned_as": "Ne Zha 2"
-        }
-      ],
-      "director": "Jiaozi",
-      "it_flatrate": []
     },
     "movie:the apprentice - alle origini di trump:tt8368368": {
       "id": "movie:the apprentice - alle origini di trump:tt8368368",
@@ -67943,6 +67952,102 @@
       "external_url": "https://app.trakt.tv/movies/tt14444726",
       "director": "Todd Field"
     },
+    "movie:i diabolici:tt0046911": {
+      "id": "movie:i diabolici:tt0046911",
+      "imdb_id": "tt0046911",
+      "category": "movie",
+      "it_title": "I diabolici",
+      "orig_title": "Diabolique",
+      "year": 1955,
+      "cast": "Simone Signoret, Véra Clouzot",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDg5OTRmOTgtYzk0ZC00M2E5LWFmNzItMDc5NmNlMDM0MTdmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "artify",
+          "name": "Artify",
+          "link": "https://watchnow.trakt.tv/watchnow/327674896"
+        },
+        {
+          "source": "plex",
+          "name": "Plex",
+          "link": "https://watchnow.trakt.tv/watchnow/327674898"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0046911",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "MWX1YW1GBOw",
+          "video_title": "Patreon: I diabolici (1955) di Henri-Georges Clouzot - Minirece richiesta da Federico Cattozzi",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_diabolique-1995",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/diabolique-1995",
+          "mentioned_as": "Diabolique"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_devils_1955",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/clouzot.html",
+          "mentioned_as": "The Devils"
+        }
+      ],
+      "director": "Henri-Georges Clouzot",
+      "it_flatrate": []
+    },
+    "movie:lanterne rosse:tt0101640": {
+      "id": "movie:lanterne rosse:tt0101640",
+      "imdb_id": "tt0101640",
+      "category": "movie",
+      "it_title": "Lanterne Rosse",
+      "orig_title": "Raise the Red Lantern",
+      "year": 1991,
+      "cast": "Gong Li, Jingwu Ma",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjZlMThlZTktOGYxNS00NjY0LWFkMzAtMjNiOTYxYjYxZWFmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0101640",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "AWIihDOKinQ",
+          "video_title": "Patreon: Lanterne Rosse (1991) di Zhang Yimou - Minirece richiesta da Simone Giovanardi",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Lanterne Rosse"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_raise-the-red-lantern-1992",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/raise-the-red-lantern-1992",
+          "mentioned_as": "Raise The Red Lantern"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_raiseoftheredlantern_1991",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/yimou.html",
+          "mentioned_as": "Raise of the Red Lantern"
+        }
+      ],
+      "director": "Zhāng Yìmóu",
+      "it_flatrate": []
+    },
     "movie:fino alla fine del mondo:tt0101458": {
       "id": "movie:fino alla fine del mondo:tt0101458",
       "imdb_id": "tt0101458",
@@ -72907,11 +73012,11 @@
         },
         {
           "creator": "Piero Scaruffi",
-          "video_id": "scaruffi",
-          "external_rec_url": "https://www.scaruffi.com/director/paradzan.html",
+          "video_id": "scaruffi_colorofpomegrenates_1969",
           "video_title": "Piero Scaruffi",
           "timestamp": "",
           "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/paradzan.html",
           "mentioned_as": "Color of Pomegrenates"
         }
       ],
@@ -93962,50 +94067,6 @@
       "director": "Federico Fellini",
       "it_flatrate": []
     },
-    "movie:i diabolici:tt0046911": {
-      "id": "movie:i diabolici:tt0046911",
-      "imdb_id": "tt0046911",
-      "category": "movie",
-      "it_title": "I diabolici",
-      "orig_title": "Diabolique",
-      "year": 1955,
-      "cast": "Simone Signoret, Véra Clouzot",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDg5OTRmOTgtYzk0ZC00M2E5LWFmNzItMDc5NmNlMDM0MTdmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "artify",
-          "name": "Artify",
-          "link": "https://watchnow.trakt.tv/watchnow/327674896"
-        },
-        {
-          "source": "plex",
-          "name": "Plex",
-          "link": "https://watchnow.trakt.tv/watchnow/327674898"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0046911",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "MWX1YW1GBOw",
-          "video_title": "Patreon: I diabolici (1955) di Henri-Georges Clouzot - Minirece richiesta da Federico Cattozzi",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_diabolique-1995",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/diabolique-1995",
-          "mentioned_as": "Diabolique"
-        }
-      ],
-      "director": "Henri-Georges Clouzot",
-      "it_flatrate": []
-    },
     "movie:la foresta dei pugnali volanti:tt0385004": {
       "id": "movie:la foresta dei pugnali volanti:tt0385004",
       "imdb_id": "tt0385004",
@@ -100736,40 +100797,6 @@
         }
       ],
       "director": "Ken Loach",
-      "it_flatrate": []
-    },
-    "movie:lanterne rosse:tt0101640": {
-      "id": "movie:lanterne rosse:tt0101640",
-      "imdb_id": "tt0101640",
-      "category": "movie",
-      "it_title": "Lanterne Rosse",
-      "orig_title": "Raise the Red Lantern",
-      "year": 1991,
-      "cast": "Gong Li, Jingwu Ma",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjZlMThlZTktOGYxNS00NjY0LWFkMzAtMjNiOTYxYjYxZWFmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0101640",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "AWIihDOKinQ",
-          "video_title": "Patreon: Lanterne Rosse (1991) di Zhang Yimou - Minirece richiesta da Simone Giovanardi",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Lanterne Rosse"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_raise-the-red-lantern-1992",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/raise-the-red-lantern-1992",
-          "mentioned_as": "Raise The Red Lantern"
-        }
-      ],
-      "director": "Zhāng Yìmóu",
       "it_flatrate": []
     },
     "movie:arizona dream:tt0106307": {
@@ -134213,6 +134240,110 @@
         }
       ],
       "external_url": "https://app.trakt.tv/movies/tt10366460"
+    },
+    "movie:pinocchio:tt0032910": {
+      "id": "movie:pinocchio:tt0032910",
+      "imdb_id": "tt0032910",
+      "category": "movie",
+      "it_title": "Pinocchio",
+      "orig_title": "Pinocchio",
+      "year": 1940,
+      "cast": "Dickie Jones, Christian Rub",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU4Mzk3ODIyOF5BMl5BanBnXkFtZTgwODgyNzk2NjE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0032910",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "Yu6MA9ezqEw",
+          "video_title": "MovieBlog- 711: Recensione Pinocchio",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Pinocchio"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_pinocchio_1940",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro940.html",
+          "mentioned_as": "Pinocchio"
+        }
+      ],
+      "director": "Norman Ferguson, Hamilton Luske",
+      "it_flatrate": []
+    },
+    "movie:il ragazzo con la bicicletta:tt1827512": {
+      "id": "movie:il ragazzo con la bicicletta:tt1827512",
+      "imdb_id": "tt1827512",
+      "category": "movie",
+      "it_title": "Il ragazzo con la bicicletta",
+      "orig_title": "The Kid with a Bike",
+      "year": 2011,
+      "director": "Jean-Pierre Dardenne",
+      "cast": "Thomas Doret, Cécile de France",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ3OTE3MzAyMl5BMl5BanBnXkFtZTcwNDU1OTIzNw@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-kid-with-a-bike-2012",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-kid-with-a-bike-2012",
+          "mentioned_as": "The Kid with a Bike"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_kidwiththebike_2011",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro010.html",
+          "mentioned_as": "The Kid With the Bike"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1827512"
+    },
+    "movie:vivere!:tt0110081": {
+      "id": "movie:vivere!:tt0110081",
+      "imdb_id": "tt0110081",
+      "category": "movie",
+      "it_title": "Vivere!",
+      "orig_title": "To Live",
+      "year": 1994,
+      "director": "Akira Kurosawa",
+      "cast": "You Ge, Gong Li",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjZlNzNmMTktNzQzZC00YWI2LTkyMmYtMGYwZjhjNzA0MDU0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_to-live-1994",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/to-live-1994",
+          "mentioned_as": "To Live"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_tolive_1994",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/yimou.html",
+          "mentioned_as": "To Live"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0110081"
     },
     "movie:nenette and boni:tt0117221": {
       "id": "movie:nenette and boni:tt0117221",
@@ -196908,31 +197039,6 @@
       "director": "Checco Zalone",
       "it_flatrate": []
     },
-    "movie:pinocchio:tt0032910": {
-      "id": "movie:pinocchio:tt0032910",
-      "imdb_id": "tt0032910",
-      "category": "movie",
-      "it_title": "Pinocchio",
-      "orig_title": "Pinocchio",
-      "year": 1940,
-      "cast": "Dickie Jones, Christian Rub",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU4Mzk3ODIyOF5BMl5BanBnXkFtZTgwODgyNzk2NjE@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0032910",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "Yu6MA9ezqEw",
-          "video_title": "MovieBlog- 711: Recensione Pinocchio",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Pinocchio"
-        }
-      ],
-      "director": "Norman Ferguson, Hamilton Luske",
-      "it_flatrate": []
-    },
     "movie:the nest:tt8338762": {
       "id": "movie:the nest:tt8338762",
       "imdb_id": "tt8338762",
@@ -203715,32 +203821,6 @@
         }
       ],
       "external_url": "https://app.trakt.tv/movies/tt1700844"
-    },
-    "movie:il ragazzo con la bicicletta:tt1827512": {
-      "id": "movie:il ragazzo con la bicicletta:tt1827512",
-      "imdb_id": "tt1827512",
-      "category": "movie",
-      "it_title": "Il ragazzo con la bicicletta",
-      "orig_title": "The Kid with a Bike",
-      "year": 2011,
-      "director": "Jean-Pierre Dardenne",
-      "cast": "Thomas Doret, Cécile de France",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ3OTE3MzAyMl5BMl5BanBnXkFtZTcwNDU1OTIzNw@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "it_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_the-kid-with-a-bike-2012",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/the-kid-with-a-bike-2012",
-          "mentioned_as": "The Kid with a Bike"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1827512"
     },
     "movie:saving faith:tt2246971": {
       "id": "movie:saving faith:tt2246971",
@@ -219757,32 +219837,6 @@
         }
       ],
       "external_url": "https://app.trakt.tv/movies/tt0110116"
-    },
-    "movie:vivere!:tt0110081": {
-      "id": "movie:vivere!:tt0110081",
-      "imdb_id": "tt0110081",
-      "category": "movie",
-      "it_title": "Vivere!",
-      "orig_title": "To Live",
-      "year": 1994,
-      "director": "Akira Kurosawa",
-      "cast": "You Ge, Gong Li",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjZlNzNmMTktNzQzZC00YWI2LTkyMmYtMGYwZjhjNzA0MDU0XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "it_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_to-live-1994",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/to-live-1994",
-          "mentioned_as": "To Live"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0110081"
     },
     "movie:vanya sulla 42ª strada:tt0111590": {
       "id": "movie:vanya sulla 42ª strada:tt0111590",
@@ -252524,7 +252578,7 @@
           "video_title": "Piero Scaruffi",
           "timestamp": "",
           "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/haroun.html",
+          "external_rec_url": "https://www.scaruffi.com/cinema/best02.html",
           "mentioned_as": "Abouna"
         }
       ],
@@ -282481,6 +282535,4608 @@
         }
       ],
       "external_url": "https://app.trakt.tv/movies/tt36460247"
+    },
+    "movie:the cheat:tt0005078": {
+      "id": "movie:the cheat:tt0005078",
+      "imdb_id": "tt0005078",
+      "category": "movie",
+      "it_title": "The Cheat",
+      "orig_title": "The Cheat",
+      "year": 1915,
+      "director": "Cecil DeMille",
+      "cast": "Fannie Ward, Sessue Hayakawa",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjEzMjcxNTM5M15BMl5BanBnXkFtZTgwMzgwNjQ1MjE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_cheat_1915",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chrono.html",
+          "mentioned_as": "The Cheat"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0005078"
+    },
+    "movie:civilization:tt0006517": {
+      "id": "movie:civilization:tt0006517",
+      "imdb_id": "tt0006517",
+      "category": "movie",
+      "it_title": "Civilization",
+      "orig_title": "Civilization",
+      "year": 1916,
+      "director": "Thomas Ince",
+      "cast": "Howard Hickman, Enid Markey",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzFjNWMxNDMtYmFhZC00MmE0LWJmNDEtZGI5NTM4NzkzNjc5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_civilization_1916",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chrono.html",
+          "mentioned_as": "Civilization"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0006517"
+    },
+    "movie:der student von prag:tt0003419": {
+      "id": "movie:der student von prag:tt0003419",
+      "imdb_id": "tt0003419",
+      "category": "movie",
+      "it_title": "Der Student von Prag",
+      "orig_title": "The Student of Prague",
+      "year": 1913,
+      "director": "Stellan Rye (Paul Wegener)",
+      "cast": "Paul Wegener, Grete Berger",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDQzMmFlZjgtYmNjYS00NGFjLWJkMzctNWNhMDRjZDRkOGE2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_derstudentvonprag_1913",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chrono.html",
+          "mentioned_as": "Der Student von Prag"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0003419"
+    },
+    "movie:mickey:tt0009369": {
+      "id": "movie:mickey:tt0009369",
+      "imdb_id": "tt0009369",
+      "category": "movie",
+      "it_title": "Mickey",
+      "orig_title": "Mickey",
+      "year": 1918,
+      "director": "Richard Jones & James Young (Mack Sennett)",
+      "cast": "Mabel Normand, George Nichols",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDM1MzViZGEtOGMzNC00YzBlLWE5MDktNjhlMjBkNGIyNDdkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_mickey_1918",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chrono.html",
+          "mentioned_as": "Mickey"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0009369"
+    },
+    "movie:storm over asia:tt0019286": {
+      "id": "movie:storm over asia:tt0019286",
+      "imdb_id": "tt0019286",
+      "category": "movie",
+      "it_title": "Storm over Asia",
+      "orig_title": "Storm Over Asia",
+      "year": 1928,
+      "director": "Vsevolod Pudovkin",
+      "cast": "I. Inkizhinov, Valéry Inkijinoff",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg0Mjg5ODAwNV5BMl5BanBnXkFtZTgwMzE3ODgwMjE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_stormoverasia_1928",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/pudovkin.html",
+          "mentioned_as": "Storm over Asia"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0019286"
+    },
+    "movie:mother:tt0017128": {
+      "id": "movie:mother:tt0017128",
+      "imdb_id": "tt0017128",
+      "category": "movie",
+      "it_title": "Mother",
+      "orig_title": "Mother",
+      "year": 1926,
+      "director": "Vsevolod Pudovkin",
+      "cast": "Vera Baranovskaya, Nikolay Batalov",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODZmMjhlZmYtYzgwNi00MTM0LWI3YTItOGQ2YTIyZTUwNGJhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_mother_1926",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/pudovkin.html",
+          "mentioned_as": "Mother"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0017128"
+    },
+    "movie:nanook of the north:tt0013427": {
+      "id": "movie:nanook of the north:tt0013427",
+      "imdb_id": "tt0013427",
+      "category": "movie",
+      "it_title": "Nanook Of The North",
+      "orig_title": "Nanook of the North",
+      "year": 1922,
+      "director": "Robert Flaherty",
+      "cast": "Allakariallak, Alice Nevalinga",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg4Njk3MjU5Ml5BMl5BanBnXkFtZTgwOTIyODg5MTE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_nanookofthenorth_1922",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro920.html",
+          "mentioned_as": "Nanook Of The North"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0013427"
+    },
+    "movie:fragment of an empire:tt0020232": {
+      "id": "movie:fragment of an empire:tt0020232",
+      "imdb_id": "tt0020232",
+      "category": "movie",
+      "it_title": "Fragment of an Empire",
+      "orig_title": "Fragment of an Empire",
+      "year": 1929,
+      "director": "Fridrick Ermler",
+      "cast": "Emil Gal, Sergey Gerasimov",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTg0YjBjZmQtNDY0YS00NTRhLWE3ZWMtMWYwNmNiODVkOGRkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_fragmentofanempire_1929",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/ermler.html",
+          "mentioned_as": "Fragment of an Empire"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0020232"
+    },
+    "movie:menilmontant:tt0147039": {
+      "id": "movie:menilmontant:tt0147039",
+      "imdb_id": "tt0147039",
+      "category": "movie",
+      "it_title": "Menilmontant",
+      "orig_title": "Ménilmontant",
+      "year": 1926,
+      "director": "Dimitri Kirsanov",
+      "cast": "Nadia Sibirskaïa, Yolande Beaulieu",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjQ0NjQwY2YtMDJmYS00YmRiLWJhMGYtYjI0MzEyNGQ2OGUzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_menilmontant_1926",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro920.html",
+          "mentioned_as": "Menilmontant"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0147039"
+    },
+    "movie:the adventures of the three reporters:tt0017159": {
+      "id": "movie:the adventures of the three reporters:tt0017159",
+      "imdb_id": "tt0017159",
+      "category": "movie",
+      "it_title": "The Adventures of the Three Reporters",
+      "orig_title": "Miss Mend",
+      "year": 1926,
+      "director": "Boris Barnet",
+      "cast": "Natalya Glan, Igor Ilyinsky",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzgyNzRhMWMtYjFiYy00YzgwLWJjZDEtNjk4Njg5ZjZhODdjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_adventuresofthethreereporters_1926",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro920.html",
+          "mentioned_as": "The Adventures of the Three Reporters"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0017159"
+    },
+    "movie:house on trubnaya sq:tt0018841": {
+      "id": "movie:house on trubnaya sq:tt0018841",
+      "imdb_id": "tt0018841",
+      "category": "movie",
+      "it_title": "House on Trubnaya Sq",
+      "orig_title": "The House on Trubnaya Square",
+      "year": 1928,
+      "director": "Boris Barnet",
+      "cast": "Vera Maretskaya, Anel Sudakevich",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODdjNmRhMzEtZTE3ZC00MjkxLTg4NzEtMTRkZDJhMGFjY2QxXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_houseontrubnayasq_1928",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro920.html",
+          "mentioned_as": "House on Trubnaya Sq"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0018841"
+    },
+    "movie:robin hood:tt0013556": {
+      "id": "movie:robin hood:tt0013556",
+      "imdb_id": "tt0013556",
+      "category": "movie",
+      "it_title": "Robin Hood",
+      "orig_title": "Robin Hood",
+      "year": 1922,
+      "director": "Allan Dwan (Douglas Fairbanks)",
+      "cast": "Douglas Fairbanks, Wallace Beery",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQwODY0MTUyM15BMl5BanBnXkFtZTgwNzk4OTcwMjE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_robinhood_1922",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro920.html",
+          "mentioned_as": "Robin Hood"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0013556"
+    },
+    "movie:a night at the opera:tt0026778": {
+      "id": "movie:a night at the opera:tt0026778",
+      "imdb_id": "tt0026778",
+      "category": "movie",
+      "it_title": "A Night at the Opera",
+      "orig_title": "A Night at the Opera",
+      "year": 1935,
+      "director": "Sam Wood (Marx Brothers)",
+      "cast": "Groucho Marx, Chico Marx",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTYyNjgwMDg4NF5BMl5BanBnXkFtZTgwNTQ5MTM4MTE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_nightattheopera_1935",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro930.html",
+          "mentioned_as": "A Night at the Opera"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0026778"
+    },
+    "movie:a day at the races:tt0028772": {
+      "id": "movie:a day at the races:tt0028772",
+      "imdb_id": "tt0028772",
+      "category": "movie",
+      "it_title": "A Day At The Races",
+      "orig_title": "A Day at the Races",
+      "year": 1937,
+      "director": "Sam Wood (Marx Brothers)",
+      "cast": "Groucho Marx, Chico Marx",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTkxMzVhNDktOGJhOS00YjEyLThlNjctYjIwODQ1M2UyNzNiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_dayattheraces_1936",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro930.html",
+          "mentioned_as": "A Day At The Races"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0028772"
+    },
+    "movie:horse feathers:tt0023027": {
+      "id": "movie:horse feathers:tt0023027",
+      "imdb_id": "tt0023027",
+      "category": "movie",
+      "it_title": "Horse Feathers",
+      "orig_title": "Horse Feathers",
+      "year": 1932,
+      "director": "Norman McLeod (Marx Brothers)",
+      "cast": "Groucho Marx, Chico Marx",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNmQwZDJlODktN2MzNC00YTE2LWJhMDctNWJiZWUyOWJlN2RkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_horsefeathers_1932",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro930.html",
+          "mentioned_as": "Horse Feathers"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0023027"
+    },
+    "movie:king kong:tt0024216": {
+      "id": "movie:king kong:tt0024216",
+      "imdb_id": "tt0024216",
+      "category": "movie",
+      "it_title": "King Kong",
+      "orig_title": "King Kong",
+      "year": 1933,
+      "director": "Ernest Schoedsack",
+      "cast": "Fay Wray, Robert Armstrong",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYmFmNTFlN2QtZmEzNS00MTRmLWE1ZGUtODk5YzY1ZTkzMGUzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_kingkong_1933",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro930.html",
+          "mentioned_as": "King Kong"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0024216"
+    },
+    "movie:the bohemian girl:tt0027376": {
+      "id": "movie:the bohemian girl:tt0027376",
+      "imdb_id": "tt0027376",
+      "category": "movie",
+      "it_title": "The Bohemian Girl",
+      "orig_title": "The Bohemian Girl",
+      "year": 1936,
+      "director": "James Horne (Laurel & Hardy)",
+      "cast": "Stan Laurel, Oliver Hardy",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZWJhNTU2MzQtNjdhZi00YzgyLWEyMTEtZDlhZTkwNTBlMmJmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_bohemiangirl_1936",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro930.html",
+          "mentioned_as": "The Bohemian Girl"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0027376"
+    },
+    "movie:our relations:tt0028070": {
+      "id": "movie:our relations:tt0028070",
+      "imdb_id": "tt0028070",
+      "category": "movie",
+      "it_title": "Our Relations",
+      "orig_title": "Our Relations",
+      "year": 1936,
+      "director": "Harry Lachman (Laurel & Hardy)",
+      "cast": "Stan Laurel, Oliver Hardy",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjZkMTBiODEtYjNhMi00ZTcxLThmYzEtYjVmYzBiNzM4YzI3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_ourrelations_1936",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro930.html",
+          "mentioned_as": "Our Relations"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0028070"
+    },
+    "movie:the public enemy:tt0022286": {
+      "id": "movie:the public enemy:tt0022286",
+      "imdb_id": "tt0022286",
+      "category": "movie",
+      "it_title": "The Public Enemy",
+      "orig_title": "The Public Enemy",
+      "year": 1931,
+      "director": "William Wellman",
+      "cast": "James Cagney, Jean Harlow",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2NmZjQ2NGQtZGQwYi00NTVmLTg2YTEtNDEyNGVhZDIzNmVjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_publicenemy_1931",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro930.html",
+          "mentioned_as": "The Public Enemy"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0022286"
+    },
+    "movie:nothing sacred:tt0029322": {
+      "id": "movie:nothing sacred:tt0029322",
+      "imdb_id": "tt0029322",
+      "category": "movie",
+      "it_title": "Nothing Sacred",
+      "orig_title": "Nothing Sacred",
+      "year": 1937,
+      "director": "William Wellman",
+      "cast": "Carole Lombard, Fredric March",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjg5NTA4OWYtYzY0YS00ZjM1LWI3NmQtYWVkM2FkNzljZGRjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_nothingsacred_1937",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro930.html",
+          "mentioned_as": "Nothing Sacred"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0029322"
+    },
+    "movie:animal crackers:tt0020640": {
+      "id": "movie:animal crackers:tt0020640",
+      "imdb_id": "tt0020640",
+      "category": "movie",
+      "it_title": "Animal Crackers",
+      "orig_title": "Animal Crackers",
+      "year": 1930,
+      "director": "Victor Heerman (Marx Brothers)",
+      "cast": "Groucho Marx, Harpo Marx",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BM2E2YmUyNTktM2Q3Yy00M2ViLWJlNzAtMjEwZDgzZTI0YzI1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_animalcrackers_1930",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro930.html",
+          "mentioned_as": "Animal Crackers"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0020640"
+    },
+    "movie:viktor und viktoria:tt0024736": {
+      "id": "movie:viktor und viktoria:tt0024736",
+      "imdb_id": "tt0024736",
+      "category": "movie",
+      "it_title": "Viktor und Viktoria",
+      "orig_title": "Victor and Victoria",
+      "year": 1933,
+      "director": "Reinhold Schuenzel",
+      "cast": "Renate Müller, Hermann Thimig",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZmM0MDQyOTEtZjFhYS00MzcxLTg3NmMtYTgxYzk3NmIzNzdiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_viktorundviktoria_1933",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro930.html",
+          "mentioned_as": "Viktor und Viktoria"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0024736"
+    },
+    "movie:way out west:tt0029747": {
+      "id": "movie:way out west:tt0029747",
+      "imdb_id": "tt0029747",
+      "category": "movie",
+      "it_title": "Way Out West",
+      "orig_title": "Way Out West",
+      "year": 1937,
+      "director": "James Horne (Laurel & Hardy)",
+      "cast": "Stan Laurel, Oliver Hardy",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzllNjFiYmYtMTk3MS00ZTI2LWFkM2YtNDI1MTIwOWE4NGI2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_wayoutwest_1937",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro930.html",
+          "mentioned_as": "Way Out West"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0029747"
+    },
+    "movie:the most dangerous game:tt0023238": {
+      "id": "movie:the most dangerous game:tt0023238",
+      "imdb_id": "tt0023238",
+      "category": "movie",
+      "it_title": "The Most Dangerous Game",
+      "orig_title": "The Most Dangerous Game",
+      "year": 1932,
+      "director": "Ernest Schoedsack",
+      "cast": "Joel McCrea, Fay Wray",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmYzZjZlMmItNjMyYS00ZDNlLWE5ZjQtOTdmMzM4ZDY5YzIxXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_mostdangerousgame_1932",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro930.html",
+          "mentioned_as": "The Most Dangerous Game"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0023238"
+    },
+    "movie:snow white and the seven dwarfs:tt0029583": {
+      "id": "movie:snow white and the seven dwarfs:tt0029583",
+      "imdb_id": "tt0029583",
+      "category": "movie",
+      "it_title": "Snow White and the Seven Dwarfs",
+      "orig_title": "Snow White and the Seven Dwarfs",
+      "year": 1937,
+      "director": "David Hand (Walt Disney)",
+      "cast": "Adriana Caselotti, Harry Stockwell",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQwMzE2Mzc4M15BMl5BanBnXkFtZTcwMTE4NTc1Nw@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_snowwhiteandthesevendwarfs_1937",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro930.html",
+          "mentioned_as": "Snow White and the Seven Dwarfs"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0029583"
+    },
+    "movie:marius:tt0022125": {
+      "id": "movie:marius:tt0022125",
+      "imdb_id": "tt0022125",
+      "category": "movie",
+      "it_title": "Marius",
+      "orig_title": "Marius",
+      "year": 1931,
+      "director": "Alexander Korda (Marcel Pagnol)",
+      "cast": "Raimu, Pierre Fresnay",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmY4YzY4MGYtMmY2Yi00NDBlLTkxOGMtMDVmYzJhOGJlM2QwXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_marius_1931",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro930.html",
+          "mentioned_as": "Marius"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0022125"
+    },
+    "movie:city girl:tt0020768": {
+      "id": "movie:city girl:tt0020768",
+      "imdb_id": "tt0020768",
+      "category": "movie",
+      "it_title": "City Girl",
+      "orig_title": "City Girl",
+      "year": 1930,
+      "director": "Friedrich Murnau",
+      "cast": "Charles Farrell, Mary Duncan",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTFiNGE1ZjItYWE3NS00MjFiLWI5OGUtMDFjZDI4Y2VhOTY0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_citygirl_1930",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/murnau.html",
+          "mentioned_as": "City Girl"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0020768"
+    },
+    "movie:quay of the goldsmiths:tt0039739": {
+      "id": "movie:quay of the goldsmiths:tt0039739",
+      "imdb_id": "tt0039739",
+      "category": "movie",
+      "it_title": "Quay of the Goldsmiths",
+      "orig_title": "Jenny Lamour",
+      "year": 1947,
+      "director": "Henri Clouzot",
+      "cast": "Louis Jouvet, Simone Renant",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzg5ZmFjYWUtOTk2Mi00NDg4LWExMTUtNjMwNDJiMzExYWVkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_quayofthegoldsmiths_1947",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/clouzot.html",
+          "mentioned_as": "Quay of the Goldsmiths"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0039739"
+    },
+    "movie:ivan the terrible:tt0037824": {
+      "id": "movie:ivan the terrible:tt0037824",
+      "imdb_id": "tt0037824",
+      "category": "movie",
+      "it_title": "Ivan the Terrible",
+      "orig_title": "Ivan the Terrible, Part I",
+      "year": 1944,
+      "director": "Sergei Eisenstein",
+      "cast": "Nikolay Cherkasov, Lyudmila Tselikovskaya",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmExMzkyN2EtNDdjMi00ZDA5LTlkOGUtZjBiOGJlZjJmNDZkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_ivantheterrible_1944",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/ejzenste.html",
+          "mentioned_as": "Ivan the Terrible"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0037824"
+    },
+    "movie:road to rio:tt0039776": {
+      "id": "movie:road to rio:tt0039776",
+      "imdb_id": "tt0039776",
+      "category": "movie",
+      "it_title": "Road to Rio",
+      "orig_title": "Road to Rio",
+      "year": 1947,
+      "director": "Norman McLeod (Bob Hope)",
+      "cast": "Bing Crosby, Bob Hope",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDFjMDlhNTktNjU3ZC00YzI3LWI0MTUtMzY2NjI5YmY4YWE5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_roadtorio_1947",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro940.html",
+          "mentioned_as": "Road to Rio"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0039776"
+    },
+    "movie:dr cyclops:tt0032412": {
+      "id": "movie:dr cyclops:tt0032412",
+      "imdb_id": "tt0032412",
+      "category": "movie",
+      "it_title": "Dr Cyclops",
+      "orig_title": "Dr. Cyclops",
+      "year": 1940,
+      "director": "Ernest Schoedsack",
+      "cast": "Albert Dekker, Thomas Coley",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjA1OGE2YzQtNWU4Yi00MzRlLWJlODktMWQ2YzAzNmExY2UwXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_drcyclops_1940",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro940.html",
+          "mentioned_as": "Dr Cyclops"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0032412"
+    },
+    "movie:road to morocco:tt0035262": {
+      "id": "movie:road to morocco:tt0035262",
+      "imdb_id": "tt0035262",
+      "category": "movie",
+      "it_title": "Road to Morocco",
+      "orig_title": "Road to Morocco",
+      "year": 1942,
+      "director": "David Butler (Bob Hope)",
+      "cast": "Bing Crosby, Bob Hope",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDUyZGVhZDEtMTJlMS00N2NhLTk5NmMtZDIzY2E0MDg0YmQ1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_roadtomorocco_1942",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro940.html",
+          "mentioned_as": "Road to Morocco"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0035262"
+    },
+    "movie:cranes are flying:tt0050634": {
+      "id": "movie:cranes are flying:tt0050634",
+      "imdb_id": "tt0050634",
+      "category": "movie",
+      "it_title": "Cranes are Flying",
+      "orig_title": "The Cranes Are Flying",
+      "year": 1957,
+      "director": "Michail Kalatozov",
+      "cast": "Tatyana Samoylova, Aleksey Batalov",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjVmNTllYjUtYTc2MS00OTZhLTllMWEtOWYzMGQ2YmYzMzgyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_cranesareflying_1957",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro950.html",
+          "mentioned_as": "Cranes are Flying"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0050634"
+    },
+    "movie:ballada o soldate:tt0052600": {
+      "id": "movie:ballada o soldate:tt0052600",
+      "imdb_id": "tt0052600",
+      "category": "movie",
+      "it_title": "Ballada o soldate",
+      "orig_title": "Ballad of a Soldier",
+      "year": 1959,
+      "director": "Grigorij Chukrai",
+      "cast": "Vladimir Ivashov, Zhanna Prokhorenko",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjYxMjg5YWUtNmU0OS00YjU1LTlkZDAtMmNjM2MxODQ2NjcxXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_balladaosoldate_1959",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro950.html",
+          "mentioned_as": "Ballada o soldate"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0052600"
+    },
+    "movie:the barefoot contessa:tt0046754": {
+      "id": "movie:the barefoot contessa:tt0046754",
+      "imdb_id": "tt0046754",
+      "category": "movie",
+      "it_title": "The Barefoot Contessa",
+      "orig_title": "The Barefoot Contessa",
+      "year": 1954,
+      "director": "Joseph Mankiewicz",
+      "cast": "Humphrey Bogart, Ava Gardner",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDUzN2JmMWMtM2Y5NS00NmE4LWJiODUtMWFmNjIwOGQ4MTBkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_barefootcontessa_1954",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/mankiewi.html",
+          "mentioned_as": "The Barefoot Contessa"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0046754"
+    },
+    "movie:people will talk:tt0043915": {
+      "id": "movie:people will talk:tt0043915",
+      "imdb_id": "tt0043915",
+      "category": "movie",
+      "it_title": "People Will Talk",
+      "orig_title": "People Will Talk",
+      "year": 1951,
+      "director": "Joseph Mankiewicz",
+      "cast": "Cary Grant, Jeanne Crain",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTUyMjc2MWYtZjQyYS00NjFlLWI0ZTItMTU0ZTdhMmNlYzlkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_peoplewilltalk_1951",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/mankiewi.html",
+          "mentioned_as": "People Will Talk"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0043915"
+    },
+    "movie:track of the cat:tt0047603": {
+      "id": "movie:track of the cat:tt0047603",
+      "imdb_id": "tt0047603",
+      "category": "movie",
+      "it_title": "Track of the Cat",
+      "orig_title": "Track of the Cat",
+      "year": 1954,
+      "director": "William Wellman",
+      "cast": "Robert Mitchum, Teresa Wright",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTY1NzA3NTQtM2Q0Yi00NDJiLTllOTEtM2E5Y2ZjZDQ4MGZjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_trackofthecat_1954",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/wellman.html",
+          "mentioned_as": "Track of the Cat"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0047603"
+    },
+    "movie:shadows of forgotten ancestors:tt0058642": {
+      "id": "movie:shadows of forgotten ancestors:tt0058642",
+      "imdb_id": "tt0058642",
+      "category": "movie",
+      "it_title": "Shadows of Forgotten Ancestors",
+      "orig_title": "Shadows of Forgotten Ancestors",
+      "year": 1965,
+      "director": "Sergej Paradzanov",
+      "cast": "Ivan Mikolaychuk, Larisa Kadochnikova",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTc4ZTU4MDYtMDIyZi00MGI4LTlmMzMtNjRmMjJlNGIyOGFhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_shadowsofforgottenancestors_1964",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/paradzan.html",
+          "mentioned_as": "Shadows of Forgotten Ancestors"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0058642"
+    },
+    "movie:chelsea girls:tt0061465": {
+      "id": "movie:chelsea girls:tt0061465",
+      "imdb_id": "tt0061465",
+      "category": "movie",
+      "it_title": "Chelsea Girls",
+      "orig_title": "Chelsea Girls",
+      "year": 1966,
+      "director": "Andy Warhol & Paul Morrissey",
+      "cast": "Brigid Berlin, Randy Bourscheidt",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGY2NTJiODItMTM1My00NDUwLWE3YmItMDcxNjQ3MjIzNTQyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_chelseagirls_1966",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro960.html",
+          "mentioned_as": "Chelsea Girls"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0061465"
+    },
+    "movie:asya klyachina's story:tt0060549": {
+      "id": "movie:asya klyachina's story:tt0060549",
+      "imdb_id": "tt0060549",
+      "category": "movie",
+      "it_title": "Asya Klyachina's Story",
+      "orig_title": "Istoriya Asi Klyachinoy, kotoraya lyubila, da ne vyshla zamuzh",
+      "year": 1966,
+      "director": "Andrei Konchalovsky",
+      "cast": "Iya Savvina, Lyubov Sokolova",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGFhNWI1MjAtNTc4Mi00NDRlLThiMTgtMzczNmFjNmQ1NWUyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_asyaklyachinasstory_1967",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/konchalo.html",
+          "mentioned_as": "Asya Klyachina's Story"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0060549"
+    },
+    "movie:ivan's childhood:tt0056111": {
+      "id": "movie:ivan's childhood:tt0056111",
+      "imdb_id": "tt0056111",
+      "category": "movie",
+      "it_title": "Ivan's Childhood",
+      "orig_title": "Ivan's Childhood",
+      "year": 1962,
+      "director": "Andrei Tarkovsky",
+      "cast": "Nikolay Burlyaev, Valentin Zubkov",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGM0ZGQ3ZWMtMGZjMi00MTIzLTg2ODItMjdmNmY3YTlkMDNiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_ivanschildhood_1962",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/tarkovsk.html",
+          "mentioned_as": "Ivan's Childhood"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0056111"
+    },
+    "movie:the letter that was never sent:tt0053106": {
+      "id": "movie:the letter that was never sent:tt0053106",
+      "imdb_id": "tt0053106",
+      "category": "movie",
+      "it_title": "The Letter That Was Never Sent",
+      "orig_title": "Letter Never Sent",
+      "year": 1960,
+      "director": "Michail Kalatozov",
+      "cast": "Innokentiy Smoktunovskiy, Tatyana Samoylova",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDVmM2M5YmUtYTRlMC00NWJjLWJkNTYtNjc2MjdjYmRiNjFkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_letterthatwasneversent_1960",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/kalatozo.html",
+          "mentioned_as": "The Letter That Was Never Sent"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0053106"
+    },
+    "movie:struktura krysztalu:tt0065043": {
+      "id": "movie:struktura krysztalu:tt0065043",
+      "imdb_id": "tt0065043",
+      "category": "movie",
+      "it_title": "Struktura Krysztalu",
+      "orig_title": "The Structure of Crystal",
+      "year": 1969,
+      "director": "Krzystof Zanussi",
+      "cast": "Barbara Wrzesinska, Jan Myslowicz",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDRkMTc2MjctZmU3MC00M2FjLWFiOWEtOWJhN2IyZDYwZDBiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_strukturakrysztalu_1969",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro960.html",
+          "mentioned_as": "Struktura Krysztalu"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0065043"
+    },
+    "movie:i even met happy gypsies:tt0062277": {
+      "id": "movie:i even met happy gypsies:tt0062277",
+      "imdb_id": "tt0062277",
+      "category": "movie",
+      "it_title": "I Even Met Happy Gypsies",
+      "orig_title": "I Even Met Happy Gypsies",
+      "year": 1967,
+      "director": "Aleksandr Petrovic",
+      "cast": "Bekim Fehmiu, Olivera Katarina",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDUwNmJlNDQtYWRhOC00NzFhLTk3NWUtM2UyNzdmNzMzYmIwXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_evenmethappygypsies_1967",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro960.html",
+          "mentioned_as": "I Even Met Happy Gypsies"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0062277"
+    },
+    "movie:troublemaker:tt0064536": {
+      "id": "movie:troublemaker:tt0064536",
+      "imdb_id": "tt0064536",
+      "category": "movie",
+      "it_title": "Troublemaker",
+      "orig_title": "Katzelmacher",
+      "year": 1969,
+      "director": "Rainer Fassbinder",
+      "cast": "Hanna Schygulla, Lilith Ungerer",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMWZhZmJlOGMtMTc5MS00NGQ5LWEwNzQtY2QwZDFmMjIzOTNmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_troublemaker_1969",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/fassbind.html",
+          "mentioned_as": "Troublemaker"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0064536"
+    },
+    "movie:the bitter tears of petra von kant:tt0068278": {
+      "id": "movie:the bitter tears of petra von kant:tt0068278",
+      "imdb_id": "tt0068278",
+      "category": "movie",
+      "it_title": "The Bitter Tears of Petra von Kant",
+      "orig_title": "The Bitter Tears of Petra von Kant",
+      "year": 1972,
+      "director": "Rainer Fassbinder",
+      "cast": "Margit Carstensen, Hanna Schygulla",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjc4YTdjZGEtZDJkMS00OGY5LThjNzUtMGY1Y2QzOTdkMTRlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_bittertearsofpetravonkant_1972",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/fassbind.html",
+          "mentioned_as": "The Bitter Tears of Petra von Kant"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0068278"
+    },
+    "movie:there was a crooked man:tt0066448": {
+      "id": "movie:there was a crooked man:tt0066448",
+      "imdb_id": "tt0066448",
+      "category": "movie",
+      "it_title": "There Was A Crooked Man",
+      "orig_title": "There Was a Crooked Man...",
+      "year": 1970,
+      "director": "Joseph Mankiewicz",
+      "cast": "Kirk Douglas, Henry Fonda",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDZhNjMxMDEtM2NhZi00NzlhLWEzYzUtMjk5MmRkNzA5MGFiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_therewasacrookedman_1970",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/mankiewi.html",
+          "mentioned_as": "There Was A Crooked Man"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0066448"
+    },
+    "movie:slave of love:tt0075119": {
+      "id": "movie:slave of love:tt0075119",
+      "imdb_id": "tt0075119",
+      "category": "movie",
+      "it_title": "Slave of Love",
+      "orig_title": "A Slave of Love",
+      "year": 1976,
+      "director": "Nikita Mikhalkov",
+      "cast": "Elena Solovey, Rodion Nakhapetov",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjk5MGRlZmYtNTViOC00NWUxLTlmMTktNzBkMjNhNjk4MGE0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_slaveoflove_1975",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/mikhalko.html",
+          "mentioned_as": "Slave of Love"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0075119"
+    },
+    "movie:chinese roulette:tt0074312": {
+      "id": "movie:chinese roulette:tt0074312",
+      "imdb_id": "tt0074312",
+      "category": "movie",
+      "it_title": "Chinese Roulette",
+      "orig_title": "Chinese Roulette",
+      "year": 1976,
+      "director": "Rainer Fassbinder",
+      "cast": "Anna Karina, Margit Carstensen",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDEzYTAxMzctZjdmOS00MmE2LTk5YjMtZjE1NzMzMTlhNTM5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_chineseroulette_1976",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/fassbind.html",
+          "mentioned_as": "Chinese Roulette"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0074312"
+    },
+    "movie:the marriage of maria braun:tt0079095": {
+      "id": "movie:the marriage of maria braun:tt0079095",
+      "imdb_id": "tt0079095",
+      "category": "movie",
+      "it_title": "The Marriage of Maria Braun",
+      "orig_title": "The Marriage of Maria Braun",
+      "year": 1979,
+      "director": "Rainer Fassbinder",
+      "cast": "Hanna Schygulla, Klaus Löwitsch",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGE3OTIyNzAtMDk3Yy00MTlhLTk0MDUtZjljMWE0ZGU3MjIzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_marriageofmariabraun_1979",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/fassbind.html",
+          "mentioned_as": "The Marriage of Maria Braun"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0079095"
+    },
+    "movie:viburno rosso:tt0070262": {
+      "id": "movie:viburno rosso:tt0070262",
+      "imdb_id": "tt0070262",
+      "category": "movie",
+      "it_title": "Viburno Rosso",
+      "orig_title": "The Red Snowball Tree",
+      "year": 1974,
+      "director": "Vasilij Suksin",
+      "cast": "Lidiya Fedoseeva-Shukshina, Vasiliy Shukshin",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTJiZmUyYzctNmVkNy00Nzg1LTk1MTgtYzliMGQzY2IxNGU4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_viburnorosso_1974",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro970.html",
+          "mentioned_as": "Viburno Rosso"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0070262"
+    },
+    "movie:fragment of fear:tt0065737": {
+      "id": "movie:fragment of fear:tt0065737",
+      "imdb_id": "tt0065737",
+      "category": "movie",
+      "it_title": "Fragment of Fear",
+      "orig_title": "Fragment of Fear",
+      "year": 1970,
+      "director": "Richard Sarafian",
+      "cast": "David Hemmings, Gayle Hunnicutt",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZGNjODdjOGYtNWM3YS00YWQ5LTllMDItZDIzY2Y4M2VkMzg4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_fragmentoffear_1970",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro970.html",
+          "mentioned_as": "Fragment of Fear"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0065737"
+    },
+    "movie:there once was a singing blackbird:tt0151035": {
+      "id": "movie:there once was a singing blackbird:tt0151035",
+      "imdb_id": "tt0151035",
+      "category": "movie",
+      "it_title": "There Once Was a Singing Blackbird",
+      "orig_title": "Once Upon a Time There Was a Singing Blackbird",
+      "year": 1970,
+      "director": "Otar Iosseliani",
+      "cast": "Gela Kandelaki, Gogi Chkheidze",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZGJlZjJmOGEtM2I0Ni00YWZjLTk0YTItMmVlMzdiMzE1OWUzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_thereoncewasasingingblackbird_1970",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/ioselian.html",
+          "mentioned_as": "There Once Was a Singing Blackbird"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0151035"
+    },
+    "movie:the battle wizard:tt0081631": {
+      "id": "movie:the battle wizard:tt0081631",
+      "imdb_id": "tt0081631",
+      "category": "movie",
+      "it_title": "The Battle Wizard",
+      "orig_title": "The Battle Wizard",
+      "year": 1977,
+      "director": "Li-Pao Hsueh",
+      "cast": "Danny Lee, Ni Tien",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg2ZWI5YTYtYzk1Yi00MTJiLTg0YzAtM2Y2YjQ2YjQzZDgwXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_battlewizard_1977",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro970.html",
+          "mentioned_as": "The Battle Wizard"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0081631"
+    },
+    "movie:finger of doom:tt0186598": {
+      "id": "movie:finger of doom:tt0186598",
+      "imdb_id": "tt0186598",
+      "category": "movie",
+      "it_title": "Finger of Doom",
+      "orig_title": "Finger of Doom",
+      "year": 1972,
+      "director": "Li-Pao Hsueh",
+      "cast": "Han Chin, Ivy Ling Po",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjNkYmRlY2MtNTc3MS00NDA5LWFhMTMtYWUxNzI1MDE1NmNjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_fingerofdoom_1971",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro970.html",
+          "mentioned_as": "Finger of Doom"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0186598"
+    },
+    "movie:illuminacja:tt0070217": {
+      "id": "movie:illuminacja:tt0070217",
+      "imdb_id": "tt0070217",
+      "category": "movie",
+      "it_title": "Illuminacja",
+      "orig_title": "The Illumination",
+      "year": 1973,
+      "director": "Krzystof Zanussi",
+      "cast": "Stanislaw Latallo, Monika Dzienisiewicz-Olbrychska",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyODY0Ml5BMl5BanBnXkFtZTgwMzU4NzUwMTE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_illuminacja_1973",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro970.html",
+          "mentioned_as": "Illuminacja"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0070217"
+    },
+    "movie:sibiriada:tt0079907": {
+      "id": "movie:sibiriada:tt0079907",
+      "imdb_id": "tt0079907",
+      "category": "movie",
+      "it_title": "Sibiriada",
+      "orig_title": "Siberiade",
+      "year": 1979,
+      "director": "Andrei Konchalovsky",
+      "cast": "Vladimir Samoylov, Vitali Solomin",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTEwYWJlMTgtYTQ0YS00MzA3LTk0MTktMDQ2OGM0ZTVmYWFlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_sibiriada_1979",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro970.html",
+          "mentioned_as": "Sibiriada"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0079907"
+    },
+    "movie:at home among strangers:tt0072231": {
+      "id": "movie:at home among strangers:tt0072231",
+      "imdb_id": "tt0072231",
+      "category": "movie",
+      "it_title": "At Home Among Strangers",
+      "orig_title": "At Home Among Strangers, a Stranger Among His Own",
+      "year": 1974,
+      "director": "Nikita Mikhalkov",
+      "cast": "Yuriy Bogatyryov, Anatoliy Solonitsyn",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjM4NzRhYWMtODYxZi00NjhhLThjM2YtMTkyZmNmY2U0Zjc1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_athomeamongstrangers_1974",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/mikhalko.html",
+          "mentioned_as": "At Home Among Strangers"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0072231"
+    },
+    "movie:veronika voss:tt0084654": {
+      "id": "movie:veronika voss:tt0084654",
+      "imdb_id": "tt0084654",
+      "category": "movie",
+      "it_title": "Veronika Voss",
+      "orig_title": "Veronika Voss",
+      "year": 1982,
+      "director": "Rainer Fassbinder",
+      "cast": "Rosel Zech, Hilmar Thate",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNmFkOWJmMzktZDcwNy00NjBkLWI0MDgtYTRjMTc1MTllYTQ1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_veronikavoss_1982",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/fassbind.html",
+          "mentioned_as": "Veronika Voss"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0084654"
+    },
+    "movie:sacrifice:tt0091670": {
+      "id": "movie:sacrifice:tt0091670",
+      "imdb_id": "tt0091670",
+      "category": "movie",
+      "it_title": "Sacrifice",
+      "orig_title": "The Sacrifice",
+      "year": 1986,
+      "director": "Andrej Tarkovsky",
+      "cast": "Erland Josephson, Susan Fleetwood",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWQ5ODRjNzktOTI2OC00ZGFhLWE1MGMtYjEyNTNjODA3NmNlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_sacrifice_1986",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/tarkovsk.html",
+          "mentioned_as": "Sacrifice"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0091670"
+    },
+    "movie:lola:tt0082671": {
+      "id": "movie:lola:tt0082671",
+      "imdb_id": "tt0082671",
+      "category": "movie",
+      "it_title": "Lola",
+      "orig_title": "Lola",
+      "year": 1981,
+      "director": "Rainer Fassbinder",
+      "cast": "Barbara Sukowa, Armin Mueller-Stahl",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjE0MzMxMmMtMjJjNS00NDUxLTliMmQtMDRiYTE1Y2RjYzg0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_lola_1981",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/fassbind.html",
+          "mentioned_as": "Lola"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0082671"
+    },
+    "movie:a time to live a time to die:tt0090185": {
+      "id": "movie:a time to live a time to die:tt0090185",
+      "imdb_id": "tt0090185",
+      "category": "movie",
+      "it_title": "A Time To Live A Time To Die",
+      "orig_title": "A Time to Live and a Time to Die",
+      "year": 1985,
+      "director": "Hsiao-Hsien Hou",
+      "cast": "Yu An-Shun, Chia-bao Chang",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDIzZjQ5NzUtMDU2Yi00ZTBkLTllZTMtYzk1YmJiM2FlYWJkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_timetoliveatimetodie_1985",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/hou.html",
+          "mentioned_as": "A Time To Live A Time To Die"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0090185"
+    },
+    "movie:letters from a dead man:tt0091759": {
+      "id": "movie:letters from a dead man:tt0091759",
+      "imdb_id": "tt0091759",
+      "category": "movie",
+      "it_title": "Letters from a Dead Man",
+      "orig_title": "Dead Man's Letters",
+      "year": 1986,
+      "director": "Konstantin Lopushansky",
+      "cast": "Rolan Bykov, Iosif Ryklin",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTE3MzM5NmUtZjUwZS00ZjNkLWIwZjQtYzA3OGU5ZDdmZDYwXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_lettersfromadeadman_1986",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/lopushan.html",
+          "mentioned_as": "Letters from a Dead Man"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0091759"
+    },
+    "movie:city of sadness:tt0096908": {
+      "id": "movie:city of sadness:tt0096908",
+      "imdb_id": "tt0096908",
+      "category": "movie",
+      "it_title": "City of Sadness",
+      "orig_title": "A City of Sadness",
+      "year": 1989,
+      "director": "Hsiao-Hsien Hou",
+      "cast": "Tony Leung Chiu-wai, Shu-Fen Hsin",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNWM2MGZmODUtOGJmNi00NTVhLTg2MDktNDdlMWM3YmNjNGZlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_cityofsadness_1989",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/hou.html",
+          "mentioned_as": "City of Sadness"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0096908"
+    },
+    "movie:dust in the wind:tt0091406": {
+      "id": "movie:dust in the wind:tt0091406",
+      "imdb_id": "tt0091406",
+      "category": "movie",
+      "it_title": "Dust in the Wind",
+      "orig_title": "Dust in the Wind",
+      "year": 1986,
+      "director": "Hsiao-Hsien Hou",
+      "cast": "Shu-Fen Hsin, Chien-wen Wang",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDUzMDhjNWItNzYyMC00ZDgwLWE0NmEtMDUxNTBkMTcyZDM2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_dustinthewind_1986",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/hou.html",
+          "mentioned_as": "Dust in the Wind"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0091406"
+    },
+    "movie:the museum visitor:tt0173024": {
+      "id": "movie:the museum visitor:tt0173024",
+      "imdb_id": "tt0173024",
+      "category": "movie",
+      "it_title": "The Museum Visitor",
+      "orig_title": "Visitor of a Museum",
+      "year": 1989,
+      "director": "Konstantin Lopushansky",
+      "cast": "Viktor Mikhaylov, Vera Mayorova",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjA0MDhlNDUtNzFjYy00YmM3LWJmOWUtMGViNmMzNGMwZDVlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_museumvisitor_1989",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/lopushan.html",
+          "mentioned_as": "The Museum Visitor"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0173024"
+    },
+    "movie:my friend ivan lapshin:tt0084345": {
+      "id": "movie:my friend ivan lapshin:tt0084345",
+      "imdb_id": "tt0084345",
+      "category": "movie",
+      "it_title": "My Friend Ivan Lapshin",
+      "orig_title": "My Friend Ivan Lapshin",
+      "year": 1985,
+      "director": "Aleksei German",
+      "cast": "Andrei Boltnev, Nina Ruslanova",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGQyMGY4ZWUtOWI3Zi00ZjRlLTgyNzctY2Y5OTY1ZmMxZTEyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_myfriendivanlapshin_1984",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/german.html",
+          "mentioned_as": "My Friend Ivan Lapshin"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0084345"
+    },
+    "movie:little vera:tt0095574": {
+      "id": "movie:little vera:tt0095574",
+      "imdb_id": "tt0095574",
+      "category": "movie",
+      "it_title": "Little Vera",
+      "orig_title": "Little Vera",
+      "year": 1988,
+      "director": "Vasily Pichul",
+      "cast": "Natalya Negoda, Andrey Sokolov",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNWNlM2MyZTAtNzQxNy00NWNlLThhZjctMzgwZWM5ZWJmYTc2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_littlevera_1988",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro980.html",
+          "mentioned_as": "Little Vera"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0095574"
+    },
+    "movie:street of crocodiles:tt0092020": {
+      "id": "movie:street of crocodiles:tt0092020",
+      "imdb_id": "tt0092020",
+      "category": "movie",
+      "it_title": "Street of Crocodiles",
+      "orig_title": "Street of Crocodiles",
+      "year": 1986,
+      "director": "Stephen & Timothy Quay",
+      "cast": "Feliks Stawinski",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTVmZThjZDktYjZlYi00ZTc2LThiMzktYjk3YzNjMWJhZjcxXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_streetofcrocodiles_1986",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro980.html",
+          "mentioned_as": "Street of Crocodiles"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0092020"
+    },
+    "movie:my twentieth century:tt0096863": {
+      "id": "movie:my twentieth century:tt0096863",
+      "imdb_id": "tt0096863",
+      "category": "movie",
+      "it_title": "My Twentieth Century",
+      "orig_title": "My Twentieth Century",
+      "year": 1989,
+      "director": "Ildiko Enyendi",
+      "cast": "Dorota Segda, Oleg Yankovskiy",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTk1ZGRkOWUtZGFmYi00OThkLTg1NzMtZDU0NDE1MTYyOTdiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_mytwentiethcentury_1989",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro980.html",
+          "mentioned_as": "My Twentieth Century"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0096863"
+    },
+    "movie:three man and a cradle:tt0090206": {
+      "id": "movie:three man and a cradle:tt0090206",
+      "imdb_id": "tt0090206",
+      "category": "movie",
+      "it_title": "Three Man and a Cradle",
+      "orig_title": "Three Men and a Cradle",
+      "year": 1985,
+      "director": "Colin Serreau",
+      "cast": "Roland Giraud, Michel Boujenah",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTMxMWRmOGYtMTg4OS00NTI2LWE3NDAtYmIzOGUyNjRlYzVjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_threemanandacradle_1985",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro980.html",
+          "mentioned_as": "Three Man and a Cradle"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0090206"
+    },
+    "movie:a summer at grandpa's:tt0087164": {
+      "id": "movie:a summer at grandpa's:tt0087164",
+      "imdb_id": "tt0087164",
+      "category": "movie",
+      "it_title": "A Summer at Grandpa's",
+      "orig_title": "A Summer at Grandpa's",
+      "year": 1984,
+      "director": "Hsiao-Hsien Hou",
+      "cast": "Chi-Kuang Wang, Shu-Chen Li",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYThmNDc5ZTktMWNlMS00NTA3LTkwMGMtNzUwMDQxNzUyMDhiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_summeratgrandpas_1984",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/hou.html",
+          "mentioned_as": "A Summer at Grandpa's"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0087164"
+    },
+    "movie:parade of planets:tt0087878": {
+      "id": "movie:parade of planets:tt0087878",
+      "imdb_id": "tt0087878",
+      "category": "movie",
+      "it_title": "Parade of Planets",
+      "orig_title": "Parade of the Planets",
+      "year": 1984,
+      "director": "Vadim Abdrashitov",
+      "cast": "Oleg Borisov, Liliya Gritsenko",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjYwYjczYzItNmNlNy00NTVmLThmNDItNzA2ZTZiYTk3MTZkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_paradeofplanets_1984",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/abdrashi.html",
+          "mentioned_as": "Parade of Planets"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0087878"
+    },
+    "movie:suspended step of the stork:tt0102439": {
+      "id": "movie:suspended step of the stork:tt0102439",
+      "imdb_id": "tt0102439",
+      "category": "movie",
+      "it_title": "Suspended Step of the Stork",
+      "orig_title": "The Suspended Step of the Stork",
+      "year": 1991,
+      "director": "Theo Angelopoulos",
+      "cast": "Marcello Mastroianni, Jeanne Moreau",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDI5ZGQxZWUtMzE2ZC00NjkwLWIwYjAtOWZmZjE4OWUzOGYzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_suspendedstepofthestork_1991",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/anghelop.html",
+          "mentioned_as": "Suspended Step of the Stork"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0102439"
+    },
+    "movie:rebels of the neon god:tt0103935": {
+      "id": "movie:rebels of the neon god:tt0103935",
+      "imdb_id": "tt0103935",
+      "category": "movie",
+      "it_title": "Rebels of the Neon God",
+      "orig_title": "Rebels of the Neon God",
+      "year": 1992,
+      "director": "Ming-Liang Tsai",
+      "cast": "Chen Chao-jung, Kang-sheng Lee",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODkxNjgwNjk0MF5BMl5BanBnXkFtZTgwNzM0NjA5NDE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_rebelsoftheneongod_1992",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/tsai.html",
+          "mentioned_as": "Rebels of the Neon God"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0103935"
+    },
+    "movie:eternity and a day:tt0156794": {
+      "id": "movie:eternity and a day:tt0156794",
+      "imdb_id": "tt0156794",
+      "category": "movie",
+      "it_title": "Eternity and a Day",
+      "orig_title": "Eternity and a Day",
+      "year": 1998,
+      "director": "Theo Angelopoulos",
+      "cast": "Bruno Ganz, Isabelle Renauld",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTc1YWY2YzktODNlYS00Mjg4LWEyODUtOWRkMDY0MTJkZDY1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_eternityandaday_1998",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/anghelop.html",
+          "mentioned_as": "Eternity and a Day"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0156794"
+    },
+    "movie:ju dou:tt0099902": {
+      "id": "movie:ju dou:tt0099902",
+      "imdb_id": "tt0099902",
+      "category": "movie",
+      "it_title": "Ju Dou",
+      "orig_title": "Ju Dou",
+      "year": 1990,
+      "director": "Yimou Zhang",
+      "cast": "Gong Li, Wei Li",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjY0NTdlZmUtM2M4MS00YjcwLThlMDMtZjg1MmZkOTJiMmY3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_judou_1990",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/yimou.html",
+          "mentioned_as": "Ju Dou"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0099902"
+    },
+    "movie:ulysses' gaze:tt0114863": {
+      "id": "movie:ulysses' gaze:tt0114863",
+      "imdb_id": "tt0114863",
+      "category": "movie",
+      "it_title": "Ulysses' Gaze",
+      "orig_title": "Ulysses' Gaze",
+      "year": 1995,
+      "director": "Theo Angelopulos",
+      "cast": "Harvey Keitel, Maia Morgenstern",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjE1YzNkY2YtMGI0Mi00OWJjLWExYmMtNDBmNzI5NjhmMGM1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_ulyssesgaze_1995",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/anghelop.html",
+          "mentioned_as": "Ulysses' Gaze"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0114863"
+    },
+    "movie:green fish:tt0126838": {
+      "id": "movie:green fish:tt0126838",
+      "imdb_id": "tt0126838",
+      "category": "movie",
+      "it_title": "Green Fish",
+      "orig_title": "Green Fish",
+      "year": 1997,
+      "director": "Chang-dong Lee",
+      "cast": "Han Suk-kyu, Shim Hye-jin",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGNkNjI1ZjEtZDdjYS00OTdiLWFmNzItNzY5Njc2NTRjOWI5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_greenfish_1997",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/cdlee.html",
+          "mentioned_as": "Green Fish"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0126838"
+    },
+    "movie:not one less:tt0209189": {
+      "id": "movie:not one less:tt0209189",
+      "imdb_id": "tt0209189",
+      "category": "movie",
+      "it_title": "Not One Less",
+      "orig_title": "Not One Less",
+      "year": 1999,
+      "director": "Yimou Zhang",
+      "cast": "Minzhi Wei, Huike Zhang",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzAyNjg3N2ItODFlYy00NGVkLWE2M2YtYjdhMDU4ZjEzNDBlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_notoneless_1999",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/yimou.html",
+          "mentioned_as": "Not One Less"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0209189"
+    },
+    "movie:the hole:tt0156610": {
+      "id": "movie:the hole:tt0156610",
+      "imdb_id": "tt0156610",
+      "category": "movie",
+      "it_title": "The Hole",
+      "orig_title": "The Hole",
+      "year": 1998,
+      "director": "Ming-Liang Tsai",
+      "cast": "Kuei-Mei Yang, Kang-sheng Lee",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg1ZTk2ZmEtZmYxMC00MmZjLWI2MGEtYjU5ZWU3YzZjN2YxXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_hole_1998",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/tsai.html",
+          "mentioned_as": "The Hole"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0156610"
+    },
+    "movie:russian symphony:tt0111040": {
+      "id": "movie:russian symphony:tt0111040",
+      "imdb_id": "tt0111040",
+      "category": "movie",
+      "it_title": "Russian Symphony",
+      "orig_title": "Russian Symphony",
+      "year": 1994,
+      "director": "Konstantin Lopushansky",
+      "cast": "Viktor Mikhaylov, Aleksandr Ilyin",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzE3YmVlM2YtOTYxZi00YzVlLTg0ZGItYjRjOGNmMDZhNDcwXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_russiansymphony_1994",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/lopushan.html",
+          "mentioned_as": "Russian Symphony"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0111040"
+    },
+    "movie:days of being wild:tt0101258": {
+      "id": "movie:days of being wild:tt0101258",
+      "imdb_id": "tt0101258",
+      "category": "movie",
+      "it_title": "Days of Being Wild",
+      "orig_title": "Days of Being Wild",
+      "year": 1990,
+      "director": "Kar-Wai Wong",
+      "cast": "Leslie Cheung, Maggie Cheung",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTE0OGQxNmYtMTU0Mi00ZTc1LTk5OGUtZWY2NDIzNTQ0YjgyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_daysofbeingwild_1991",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/wong.html",
+          "mentioned_as": "Days of Being Wild"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0101258"
+    },
+    "movie:the river:tt0119263": {
+      "id": "movie:the river:tt0119263",
+      "imdb_id": "tt0119263",
+      "category": "movie",
+      "it_title": "The River",
+      "orig_title": "The River",
+      "year": 1997,
+      "director": "Ming-Liang Tsai",
+      "cast": "Miao Tien, Kang-sheng Lee",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTEzMWZmMmYtMzBhOC00N2NlLTkzZTYtMzk1OTkzZWY5ODJlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_river_1997",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/tsai.html",
+          "mentioned_as": "The River"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0119263"
+    },
+    "movie:the puppetmaster:tt0107157": {
+      "id": "movie:the puppetmaster:tt0107157",
+      "imdb_id": "tt0107157",
+      "category": "movie",
+      "it_title": "The Puppetmaster",
+      "orig_title": "The Puppetmaster",
+      "year": 1993,
+      "director": "Hsiao-Hsien Hou",
+      "cast": "Tien-Lu Li, Giong Lim",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2FlNGI2ZjctMTYyNC00NWY4LWE0M2EtNGJkOGI0YWIyMjRkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_puppetmaster_1993",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/hou.html",
+          "mentioned_as": "The Puppetmaster"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0107157"
+    },
+    "movie:flowers of shangai:tt0156587": {
+      "id": "movie:flowers of shangai:tt0156587",
+      "imdb_id": "tt0156587",
+      "category": "movie",
+      "it_title": "Flowers of Shangai",
+      "orig_title": "Flowers of Shanghai",
+      "year": 1998,
+      "director": "Hsiao-Hsien Hou",
+      "cast": "Tony Leung Chiu-wai, Michiko Hada",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjIyMjgwZjAtY2Y2Mi00YTMyLTk3ZDctMDk5OTY5OTliMWU1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_flowersofshangai_1998",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/hou.html",
+          "mentioned_as": "Flowers of Shangai"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0156587"
+    },
+    "movie:close to eden:tt0103176": {
+      "id": "movie:close to eden:tt0103176",
+      "imdb_id": "tt0103176",
+      "category": "movie",
+      "it_title": "Close to Eden",
+      "orig_title": "Close to Eden",
+      "year": 1991,
+      "director": "Nikita Mikhalkov",
+      "cast": "Badema, Bayaertu",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzI1ZGNkM2ItMjYzYy00MGQ1LWE0ODAtYWJmMThiOWMwZGI3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_closetoeden_1990",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/mikhalko.html",
+          "mentioned_as": "Close to Eden"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0103176"
+    },
+    "movie:goodbye south goodbye:tt0117151": {
+      "id": "movie:goodbye south goodbye:tt0117151",
+      "imdb_id": "tt0117151",
+      "category": "movie",
+      "it_title": "Goodbye South Goodbye",
+      "orig_title": "Goodbye South, Goodbye",
+      "year": 1996,
+      "director": "Hsiao-Hsien Hou",
+      "cast": "King Jieh-Wen, Kuei-Ying Hsu",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMxODA1MjUxOV5BMl5BanBnXkFtZTcwMjU4MTEyMQ@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_goodbyesouthgoodbye_1996",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/hou.html",
+          "mentioned_as": "Goodbye South Goodbye"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0117151"
+    },
+    "movie:seopyeonje:tt0108192": {
+      "id": "movie:seopyeonje:tt0108192",
+      "imdb_id": "tt0108192",
+      "category": "movie",
+      "it_title": "Seopyeonje",
+      "orig_title": "Sopyonje",
+      "year": 1993,
+      "director": "Kwon-taek Im",
+      "cast": "Kim Myung-gon, Jung-hae Oh",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWFlOWJkYTgtODdhYi00ZWYyLTllZTMtYWFhNDM3YzUyNzk1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_seopyeonje_1993",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro990.html",
+          "mentioned_as": "Seopyeonje"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0108192"
+    },
+    "movie:the adventures of priscilla queen of the desert:tt0109045": {
+      "id": "movie:the adventures of priscilla queen of the desert:tt0109045",
+      "imdb_id": "tt0109045",
+      "category": "movie",
+      "it_title": "The Adventures of Priscilla Queen of the Desert",
+      "orig_title": "The Adventures of Priscilla, Queen of the Desert",
+      "year": 1994,
+      "director": "Stephen Elliott",
+      "cast": "Hugo Weaving, Guy Pearce",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTc5MDU1NzcyN15BMl5BanBnXkFtZTcwMDA0ODYyNA@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_adventuresofpriscillaqueenofthedesert_1994",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro990.html",
+          "mentioned_as": "The Adventures of Priscilla Queen of the Desert"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0109045"
+    },
+    "movie:the legend of drunken master:tt0111512": {
+      "id": "movie:the legend of drunken master:tt0111512",
+      "imdb_id": "tt0111512",
+      "category": "movie",
+      "it_title": "The Legend Of Drunken Master",
+      "orig_title": "Drunken Master II",
+      "year": 1994,
+      "director": "Lau Ka Leung",
+      "cast": "Jackie Chan, Ho-Sung Pak",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzBlMGZlZTctODdmYi00N2ZkLThkYjItZDdiNTQzNWIxMjAzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_legendofdrunkenmaster_1995",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro990.html",
+          "mentioned_as": "The Legend Of Drunken Master"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0111512"
+    },
+    "movie:the day a pig fell into the well:tt0116005": {
+      "id": "movie:the day a pig fell into the well:tt0116005",
+      "imdb_id": "tt0116005",
+      "category": "movie",
+      "it_title": "The Day a Pig Fell into the Well",
+      "orig_title": "The Day a Pig Fell Into the Well",
+      "year": 1996,
+      "director": "Sang-soo Hong",
+      "cast": "Park Choong-seon, Kim Eui-sung",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzIxZjk2ZGMtZDQ4MS00NTM3LWIyOTYtNjc1YTQ2ZDQ3M2JkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_dayapigfellintothewell_1996",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/hong.html",
+          "mentioned_as": "The Day a Pig Fell into the Well"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0116005"
+    },
+    "movie:the power of kangwon province:tt0156906": {
+      "id": "movie:the power of kangwon province:tt0156906",
+      "imdb_id": "tt0156906",
+      "category": "movie",
+      "it_title": "The Power of Kangwon Province",
+      "orig_title": "The Power of Kangwon Province",
+      "year": 1998,
+      "director": "Sang-soo Hong",
+      "cast": "Baek Jong-hak, Oh Yun-hong",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjQwZmU2MDktYmNjOC00MGUzLWIzOTMtOGJhOWNjMjRiYjQxXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_powerofkangwonprovince_1998",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/hong.html",
+          "mentioned_as": "The Power of Kangwon Province"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0156906"
+    },
+    "movie:the fall of otrar:tt0104224": {
+      "id": "movie:the fall of otrar:tt0104224",
+      "imdb_id": "tt0104224",
+      "category": "movie",
+      "it_title": "The Fall of Otrar",
+      "orig_title": "The Fall of Otrar",
+      "year": 1990,
+      "director": "Ardak Armirkulov",
+      "cast": "Dokhdurbek Kydyraliyev, Tungyshpai Zhamankulov",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjg3NzBjODAtNGY0ZS00YmVmLTk4MDItOGFmYjMyY2M5ZGZiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_fallofotrar_1991",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro990.html",
+          "mentioned_as": "The Fall of Otrar"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0104224"
+    },
+    "movie:the end of evangelion:tt0169858": {
+      "id": "movie:the end of evangelion:tt0169858",
+      "imdb_id": "tt0169858",
+      "category": "movie",
+      "it_title": "The End of Evangelion",
+      "orig_title": "Neon Genesis Evangelion: The End of Evangelion",
+      "year": 1997,
+      "director": "Hideaki Anno & Kazuya Tsurumaki",
+      "cast": "Megumi Ogata, Megumi Hayashibara",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGI2Y2RiYTctYWIwZi00NjA2LWFmYzYtZDhkNTk1ZGNmNDVmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_endofevangelion_1997",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro990.html",
+          "mentioned_as": "The End of Evangelion"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0169858"
+    },
+    "movie:moscow parade:tt0105182": {
+      "id": "movie:moscow parade:tt0105182",
+      "imdb_id": "tt0105182",
+      "category": "movie",
+      "it_title": "Moscow Parade",
+      "orig_title": "Moscow Parade",
+      "year": 1992,
+      "director": "Ivan Dykhovichnyy",
+      "cast": "Aleksandr Feklistov, Ute Lemper",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjRmMTZmMGMtYzJkYi00ZDk5LTg2MGItYWVmNzJlMDk3NGRiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_moscowparade_1992",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro990.html",
+          "mentioned_as": "Moscow Parade"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0105182"
+    },
+    "movie:drumroll:tt0106354": {
+      "id": "movie:drumroll:tt0106354",
+      "imdb_id": "tt0106354",
+      "category": "movie",
+      "it_title": "Drumroll",
+      "orig_title": "Drumroll",
+      "year": 1993,
+      "director": "Sergei Ovcharov",
+      "cast": "Aleksandr Polovtsev, Andrey Urgant",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BM2Q5NmIzYjctMWZjOC00OTZmLTk1YzgtMmRmZjEyNzkzN2I5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_drumroll_1993",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro990.html",
+          "mentioned_as": "Drumroll"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0106354"
+    },
+    "movie:of freaks and men:tt0156849": {
+      "id": "movie:of freaks and men:tt0156849",
+      "imdb_id": "tt0156849",
+      "category": "movie",
+      "it_title": "Of Freaks and Men",
+      "orig_title": "Of Freaks and Men",
+      "year": 1998,
+      "director": "Aleksei Balabanov",
+      "cast": "Sergey Makovetskiy, Dinara Drukarova",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjEyNDMyNzU4NV5BMl5BanBnXkFtZTgwMTUwNDgwMzE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_offreaksandmen_1998",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/balabano.html",
+          "mentioned_as": "Of Freaks and Men"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0156849"
+    },
+    "movie:21 grams:tt0315733": {
+      "id": "movie:21 grams:tt0315733",
+      "imdb_id": "tt0315733",
+      "category": "movie",
+      "it_title": "21 Grams",
+      "orig_title": "21 Grams",
+      "year": 2003,
+      "director": "Alejandro Gonzales Inarritu",
+      "cast": "Sean Penn, Benicio Del Toro",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjA4MjI2OTM5N15BMl5BanBnXkFtZTcwNDA1NjUzMw@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_21grams_2003",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/inarritu.html",
+          "mentioned_as": "21 Grams"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0315733"
+    },
+    "movie:the weeping meadow:tt0366721": {
+      "id": "movie:the weeping meadow:tt0366721",
+      "imdb_id": "tt0366721",
+      "category": "movie",
+      "it_title": "The Weeping Meadow",
+      "orig_title": "Trilogy: The Weeping Meadow",
+      "year": 2004,
+      "director": "Theo Angelopoulos",
+      "cast": "Alexandra Aidini, Nikos Poursanidis",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTQ4ZDRmZTItNDBhMi00YjEyLTg2ZWYtNzFmYTMzYjU1OGQ0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_weepingmeadow_2004",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/anghelop.html",
+          "mentioned_as": "The Weeping Meadow"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0366721"
+    },
+    "movie:in july:tt0177858": {
+      "id": "movie:in july:tt0177858",
+      "imdb_id": "tt0177858",
+      "category": "movie",
+      "it_title": "In July",
+      "orig_title": "In July",
+      "year": 2000,
+      "director": "Fatih Akin",
+      "cast": "Moritz Bleibtreu, Christiane Paul",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGM4MjYxZjktNGFmMC00NDI4LWFkOWUtN2IxYmE5NzRiNmM5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_injuly_2000",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/akin.html",
+          "mentioned_as": "In July"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0177858"
+    },
+    "movie:platform:tt0258885": {
+      "id": "movie:platform:tt0258885",
+      "imdb_id": "tt0258885",
+      "category": "movie",
+      "it_title": "Platform",
+      "orig_title": "Platform",
+      "year": 2000,
+      "director": "Zhang-Ke Jia",
+      "cast": "Hongwei Wang, Tao Zhao",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTFiNTU5OGMtNjMwNS00ZmFhLWEwNzItMjllYWRhNjg5ZTQyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_platform_2000",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/jia.html",
+          "mentioned_as": "Platform"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0258885"
+    },
+    "movie:secret sunshine:tt0817225": {
+      "id": "movie:secret sunshine:tt0817225",
+      "imdb_id": "tt0817225",
+      "category": "movie",
+      "it_title": "Secret Sunshine",
+      "orig_title": "Secret Sunshine",
+      "year": 2007,
+      "director": "Chang-dong Lee",
+      "cast": "Jeon Do-yeon, Song Kang-ho",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAzMDE5MDM5OV5BMl5BanBnXkFtZTgwMDE1NzE1MjE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_secretsunshine_2007",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/cdlee.html",
+          "mentioned_as": "Secret Sunshine"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0817225"
+    },
+    "movie:2009 lost memories:tt0294252": {
+      "id": "movie:2009 lost memories:tt0294252",
+      "imdb_id": "tt0294252",
+      "category": "movie",
+      "it_title": "2009 Lost Memories",
+      "orig_title": "2009: Lost Memories",
+      "year": 2002,
+      "director": "Lee Simyung",
+      "cast": "Jang Dong-gun, Tōru Nakamura",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjY0M2RlYWUtYjkyZi00MzU4LTk3NWEtYjM0ZDIzYjM4Mzk3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_2009lostmemories_2002",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro000.html",
+          "mentioned_as": "2009 Lost Memories"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0294252"
+    },
+    "movie:i don't want to sleep alone:tt0855824": {
+      "id": "movie:i don't want to sleep alone:tt0855824",
+      "imdb_id": "tt0855824",
+      "category": "movie",
+      "it_title": "I Don't Want to Sleep Alone",
+      "orig_title": "I Don't Want to Sleep Alone",
+      "year": 2006,
+      "director": "Ming-Liang Tsai",
+      "cast": "Kang-sheng Lee, Shiang-chyi Chen",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZmUzYzE2NGUtMGE4Ny00MTA4LTg2ZGYtM2M4NGFkZmFkYmJjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_dontwanttosleepalone_2006",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/tsai.html",
+          "mentioned_as": "I Don't Want to Sleep Alone"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0855824"
+    },
+    "movie:the princess of mount ledang:tt0420101": {
+      "id": "movie:the princess of mount ledang:tt0420101",
+      "imdb_id": "tt0420101",
+      "category": "movie",
+      "it_title": "The Princess of Mount Ledang",
+      "orig_title": "A Legendary Love",
+      "year": 2004,
+      "director": "Teong Hin Saw",
+      "cast": "Tiara Jacquelina, M. Nasir",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDIxNDQ3ODMtZjEwMi00ZmY1LTg5MGYtYWExZGU0MzA3MTE5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_princessofmountledang_2004",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro000.html",
+          "mentioned_as": "The Princess of Mount Ledang"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0420101"
+    },
+    "movie:fermat's room:tt1016301": {
+      "id": "movie:fermat's room:tt1016301",
+      "imdb_id": "tt1016301",
+      "category": "movie",
+      "it_title": "Fermat's Room",
+      "orig_title": "Fermat's Room",
+      "year": 2007,
+      "director": "Luis Piedrahita & Rodrigo Sopena",
+      "cast": "Alejo Sauras, Elena Ballesteros",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTIzNTcxMzgxN15BMl5BanBnXkFtZTcwMjQwODc3MQ@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_fermatsroom_2007",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro000.html",
+          "mentioned_as": "Fermat's Room"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1016301"
+    },
+    "movie:house of fools:tt0332605": {
+      "id": "movie:house of fools:tt0332605",
+      "imdb_id": "tt0332605",
+      "category": "movie",
+      "it_title": "House of Fools",
+      "orig_title": "House of Fools",
+      "year": 2002,
+      "director": "Andrei Konchalovsky",
+      "cast": "Yuliya Vysotskaya, Sultan Islamov",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjhjMWVjODItMzI5NS00YTQ3LTkyYmItM2U0YjdjYzgzMTQ0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_houseoffools_2002",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/konchalo.html",
+          "mentioned_as": "House of Fools"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0332605"
+    },
+    "movie:unknown pleasures:tt0318025": {
+      "id": "movie:unknown pleasures:tt0318025",
+      "imdb_id": "tt0318025",
+      "category": "movie",
+      "it_title": "Unknown Pleasures",
+      "orig_title": "Unknown Pleasures",
+      "year": 2002,
+      "director": "Zhangke Jia",
+      "cast": "Wei Wei Zhao, Qiong Wu",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTExMzE1MzgxODFeQTJeQWpwZ15BbWU3MDk4NTA1MjE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_unknownpleasures_2002",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro000.html",
+          "mentioned_as": "Unknown Pleasures"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0318025"
+    },
+    "movie:uncertainty:tt1086216": {
+      "id": "movie:uncertainty:tt1086216",
+      "imdb_id": "tt1086216",
+      "category": "movie",
+      "it_title": "Uncertainty",
+      "orig_title": "Uncertainty",
+      "year": 2008,
+      "director": "Scott McGehee and David Siegel",
+      "cast": "Joseph Gordon-Levitt, Lynn Collins",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDI2YmE3NTQtNWRkNy00Y2VjLTk4OWYtZTg0ZDIxN2JmMDM2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_uncertainty_2009",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro000.html",
+          "mentioned_as": "Uncertainty"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1086216"
+    },
+    "movie:tale of cinema:tt0461795": {
+      "id": "movie:tale of cinema:tt0461795",
+      "imdb_id": "tt0461795",
+      "category": "movie",
+      "it_title": "Tale of Cinema",
+      "orig_title": "Tale of Cinema",
+      "year": 2005,
+      "director": "Sangsoo Hong",
+      "cast": "Kim Sang-kyung, Uhm Ji-won",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTgyYWI2OWMtOTI2Mi00Y2U3LTkzYzktYmM1MWRhZGUzNTIwXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_taleofcinema_2005",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro000.html",
+          "mentioned_as": "Tale of Cinema"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0461795"
+    },
+    "movie:the gift to stalin:tt1305027": {
+      "id": "movie:the gift to stalin:tt1305027",
+      "imdb_id": "tt1305027",
+      "category": "movie",
+      "it_title": "The Gift to Stalin",
+      "orig_title": "Podarok Stalinu",
+      "year": 2008,
+      "director": "Rustem Abdrashev",
+      "cast": "Nurzhuman Ikhtymbaev, Bakhtiyar Kozha",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDgyYWUyMWUtZGFmNS00NmRhLTgxZjYtMjQwOGQ2Y2Q2NzgzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_gifttostalin_2008",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro000.html",
+          "mentioned_as": "The Gift to Stalin"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1305027"
+    },
+    "movie:paradox lake:tt0303374": {
+      "id": "movie:paradox lake:tt0303374",
+      "imdb_id": "tt0303374",
+      "category": "movie",
+      "it_title": "Paradox Lake",
+      "orig_title": "Paradox Lake",
+      "year": 2002,
+      "director": "Przemyslaw Reut",
+      "cast": "Phe Caplan, Jessica Fuchs",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2U2MzcyYWQtMDMzMi00OGFiLTgwNDgtNDQ5NWNkZWU2ZWU0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_paradoxlake_2002",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro000.html",
+          "mentioned_as": "Paradox Lake"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0303374"
+    },
+    "movie:last life in the universe:tt0345549": {
+      "id": "movie:last life in the universe:tt0345549",
+      "imdb_id": "tt0345549",
+      "category": "movie",
+      "it_title": "Last Life in the Universe",
+      "orig_title": "Last Life in the Universe",
+      "year": 2003,
+      "director": "Pen-ek Ratanaruang",
+      "cast": "Tadanobu Asano, Sinitta Boonyasak",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTdkNDFlY2MtZjg0MS00NTJhLThkN2YtNTNkOWVkMzM3OTlmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_lastlifeintheuniverse_2003",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro000.html",
+          "mentioned_as": "Last Life in the Universe"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0345549"
+    },
+    "movie:the child:tt0456396": {
+      "id": "movie:the child:tt0456396",
+      "imdb_id": "tt0456396",
+      "category": "movie",
+      "it_title": "The Child",
+      "orig_title": "The Child",
+      "year": 2005,
+      "director": "Jean-Pierre and Luc Dardenne",
+      "cast": "Jérémie Renier, Déborah François",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTk5NjI0NDExNl5BMl5BanBnXkFtZTcwOTQwNzIzMQ@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_child_2005",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro000.html",
+          "mentioned_as": "The Child"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0456396"
+    },
+    "movie:save the green planet:tt0354668": {
+      "id": "movie:save the green planet:tt0354668",
+      "imdb_id": "tt0354668",
+      "category": "movie",
+      "it_title": "Save the Green Planet",
+      "orig_title": "Save the Green Planet!",
+      "year": 2003,
+      "director": "Jang Jun-hwan",
+      "cast": "Shin Ha-kyun, Baek Yoon-shik",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTkxYWZiMGItYTg3NS00NWYwLTlhNjctNzc0ZDAwYjZiY2E0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_savethegreenplanet_2003",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro000.html",
+          "mentioned_as": "Save the Green Planet"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0354668"
+    },
+    "movie:spanglish:tt0371246": {
+      "id": "movie:spanglish:tt0371246",
+      "imdb_id": "tt0371246",
+      "category": "movie",
+      "it_title": "Spanglish",
+      "orig_title": "Spanglish",
+      "year": 2004,
+      "director": "James Brooks",
+      "cast": "Adam Sandler, Téa Leoni",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTUxM2JiZTAtNjJlMC00NGM5LTgyNDYtNjQ3NWFiODcyZjY2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_spanglish_2004",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro000.html",
+          "mentioned_as": "Spanglish"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0371246"
+    },
+    "movie:it is fine! everything is fine:tt0795405": {
+      "id": "movie:it is fine! everything is fine:tt0795405",
+      "imdb_id": "tt0795405",
+      "category": "movie",
+      "it_title": "It Is Fine! Everything Is Fine",
+      "orig_title": "It Is Fine! Everything Is Fine.",
+      "year": 2007,
+      "director": "Crispin Hellion Glover",
+      "cast": "Margit Carstensen, Steven C. Stewart",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTYwNzAxNDI2OV5BMl5BanBnXkFtZTcwNzk1ODQxNA@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_itisfineeverythingisfine_2007",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro000.html",
+          "mentioned_as": "It Is Fine! Everything Is Fine"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0795405"
+    },
+    "movie:i'm glad my mother is alive:tt1406161": {
+      "id": "movie:i'm glad my mother is alive:tt1406161",
+      "imdb_id": "tt1406161",
+      "category": "movie",
+      "it_title": "I'm Glad My Mother Is Alive",
+      "orig_title": "I'm Glad My Mother Is Alive",
+      "year": 2009,
+      "director": "Claude and Nathan Miller",
+      "cast": "Vincent Rottiers, Sophie Cattani",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTcwODc3NjkxMl5BMl5BanBnXkFtZTcwMzQ3MDkxNg@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_imgladmymotherisalive_2009",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro000.html",
+          "mentioned_as": "I'm Glad My Mother Is Alive"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1406161"
+    },
+    "movie:the italian:tt0450450": {
+      "id": "movie:the italian:tt0450450",
+      "imdb_id": "tt0450450",
+      "category": "movie",
+      "it_title": "The Italian",
+      "orig_title": "The Italian",
+      "year": 2005,
+      "director": "Andrei Kravchuk",
+      "cast": "Nikolay Spiridonov, Mariya Kuznetsova",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU2Nzc0NDA0N15BMl5BanBnXkFtZTcwODQwMTM0MQ@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_italian_2005",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro000.html",
+          "mentioned_as": "The Italian"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0450450"
+    },
+    "movie:babel:tt0449467": {
+      "id": "movie:babel:tt0449467",
+      "imdb_id": "tt0449467",
+      "category": "movie",
+      "it_title": "Babel",
+      "orig_title": "Babel",
+      "year": 2006,
+      "director": "Alejandro Gonzales Inarritu",
+      "cast": "Brad Pitt, Cate Blanchett",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDY3YjliMzgtMTkxYi00MmRkLWI1YTktNGQ3NGJhNzVhNzg5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_babel_2006",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro000.html",
+          "mentioned_as": "Babel"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0449467"
+    },
+    "movie:the edge of heaven:tt0880502": {
+      "id": "movie:the edge of heaven:tt0880502",
+      "imdb_id": "tt0880502",
+      "category": "movie",
+      "it_title": "The Edge of Heaven",
+      "orig_title": "The Edge of Heaven",
+      "year": 2007,
+      "director": "Fatih Akin",
+      "cast": "Baki Davrak, Gürsoy Gemec",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjgxMDQ5ZGUtZDk0MS00MDkzLWIxNDMtZmE0M2VhMjU3NTg2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_edgeofheaven_2007",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/akin.html",
+          "mentioned_as": "The Edge of Heaven"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0880502"
+    },
+    "movie:black:tt0375611": {
+      "id": "movie:black:tt0375611",
+      "imdb_id": "tt0375611",
+      "category": "movie",
+      "it_title": "Black",
+      "orig_title": "Black",
+      "year": 2005,
+      "director": "Sanjay Bhansali",
+      "cast": "Amitabh Bachchan, Rani Mukerji",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjMzN2Y2MTUtOGZiOC00NmQ5LWJjNGYtNGFiMWIzMzA3OWY1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_black_2005",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro000.html",
+          "mentioned_as": "Black"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0375611"
+    },
+    "movie:leviathan:tt2802154": {
+      "id": "movie:leviathan:tt2802154",
+      "imdb_id": "tt2802154",
+      "category": "movie",
+      "it_title": "Leviathan",
+      "orig_title": "Leviathan",
+      "year": 2014,
+      "director": "Andrei Zvyagintsev",
+      "cast": "Aleksey Serebryakov, Elena Lyadova",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAwMTY3MTU0Ml5BMl5BanBnXkFtZTgwNzE0ODAwMzE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_leviathan_2014",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/zvjagint.html",
+          "mentioned_as": "Leviathan"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt2802154"
+    },
+    "movie:so long my son:tt9581076": {
+      "id": "movie:so long my son:tt9581076",
+      "imdb_id": "tt9581076",
+      "category": "movie",
+      "it_title": "So Long My Son",
+      "orig_title": "So Long, My Son",
+      "year": 2019,
+      "director": "Xiaoshuai Wang",
+      "cast": "Jingchun Wang, Mei Yong",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDRiZDlmOGMtZDlhYi00NWMyLThjZTYtN2JlNzI2MjBiMmRlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_solongmyson_2019",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/xiaoshua.html",
+          "mentioned_as": "So Long My Son"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt9581076"
+    },
+    "movie:right now wrong then:tt4768776": {
+      "id": "movie:right now wrong then:tt4768776",
+      "imdb_id": "tt4768776",
+      "category": "movie",
+      "it_title": "Right Now Wrong Then",
+      "orig_title": "Right Now, Wrong Then",
+      "year": 2015,
+      "director": "Sang-soo Hong",
+      "cast": "Jeong Jae-yeong, Kim Min-hee",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTUwMjY3OTE5OF5BMl5BanBnXkFtZTgwMzgwMDY2ODE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_rightnowwrongthen_2015",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/hong.html",
+          "mentioned_as": "Right Now Wrong Then"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt4768776"
+    },
+    "movie:atlantis:tt10749786": {
+      "id": "movie:atlantis:tt10749786",
+      "imdb_id": "tt10749786",
+      "category": "movie",
+      "it_title": "Atlantis",
+      "orig_title": "Atlantis",
+      "year": 2019,
+      "director": "Valentyn Vasyanovych",
+      "cast": "Andriy Rymaruk, Liudmyla Bileka",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjdkNzdhZDYtNzUzYi00MTY4LTgxY2YtMGZhMmVkOTViZWNmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_atlantis_2019",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro010.html",
+          "mentioned_as": "Atlantis"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt10749786"
+    },
+    "movie:the spy gone north:tt8290698": {
+      "id": "movie:the spy gone north:tt8290698",
+      "imdb_id": "tt8290698",
+      "category": "movie",
+      "it_title": "The Spy Gone North",
+      "orig_title": "The Spy Gone North",
+      "year": 2018,
+      "director": "Jong-bin Yoon",
+      "cast": "Hwang Jung-min, Lee Sung-min",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTM3ZGU2OGYtYjQzNC00MjZhLTlhMTgtNDA2MzNiNjFlN2JjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_spygonenorth_2018",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro010.html",
+          "mentioned_as": "The Spy Gone North"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt8290698"
+    },
+    "movie:on the beach at night alone:tt6412864": {
+      "id": "movie:on the beach at night alone:tt6412864",
+      "imdb_id": "tt6412864",
+      "category": "movie",
+      "it_title": "On the Beach at Night Alone",
+      "orig_title": "On the Beach at Night Alone",
+      "year": 2017,
+      "director": "Sang-soo Hong",
+      "cast": "Kim Min-hee, Seo Young-hwa",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZWJmZWY2YTgtZDkxOS00OTM2LThhNTctYzg1MzFlMjEzNGIxXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_onthebeachatnightalone_2017",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/hong.html",
+          "mentioned_as": "On the Beach at Night Alone"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt6412864"
+    },
+    "movie:mountains may depart:tt3740778": {
+      "id": "movie:mountains may depart:tt3740778",
+      "imdb_id": "tt3740778",
+      "category": "movie",
+      "it_title": "Mountains May Depart",
+      "orig_title": "Mountains May Depart",
+      "year": 2015,
+      "director": "Zhangke Jia",
+      "cast": "Tao Zhao, Yi Zhang",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjMwNjgyMjk1OV5BMl5BanBnXkFtZTgwMzgzNDc5NzE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_mountainsmaydepart_2015",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/jia.html",
+          "mentioned_as": "Mountains May Depart"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt3740778"
+    },
+    "movie:the postman's white nights:tt3591984": {
+      "id": "movie:the postman's white nights:tt3591984",
+      "imdb_id": "tt3591984",
+      "category": "movie",
+      "it_title": "The Postman's White Nights",
+      "orig_title": "The Postman's White Nights",
+      "year": 2014,
+      "director": "Andrei Konchalovsky",
+      "cast": "Aleksey Tryapitsyn, Irina Ermolova",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTkxMTAzNTQ5M15BMl5BanBnXkFtZTgwODMyOTU2MjE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_postmanswhitenights_2014",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/konchalo.html",
+          "mentioned_as": "The Postman's White Nights"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt3591984"
+    },
+    "movie:nobody's daughter haewon:tt2576522": {
+      "id": "movie:nobody's daughter haewon:tt2576522",
+      "imdb_id": "tt2576522",
+      "category": "movie",
+      "it_title": "Nobody's Daughter Haewon",
+      "orig_title": "Nobody's Daughter Haewon",
+      "year": 2013,
+      "director": "Sangsoo Hong",
+      "cast": "Jung Eun-chae, Lee Sun-kyun",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTg3OTkyNTgxMl5BMl5BanBnXkFtZTgwMDc0OTAxMzE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_nobodysdaughterhaewon_2013",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro010.html",
+          "mentioned_as": "Nobody's Daughter Haewon"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt2576522"
+    },
+    "movie:how i ended this summer:tt1588875": {
+      "id": "movie:how i ended this summer:tt1588875",
+      "imdb_id": "tt1588875",
+      "category": "movie",
+      "it_title": "How I Ended This Summer",
+      "orig_title": "How I Ended This Summer",
+      "year": 2010,
+      "director": "Alexei Popogrebsky",
+      "cast": "Grigory Dobrygin, Sergey Puskepalis",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTUyNjE5NTEzM15BMl5BanBnXkFtZTcwNjc0MTI5Mw@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_howiendedthissummer_2010",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/popogreb.html",
+          "mentioned_as": "How I Ended This Summer"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1588875"
+    },
+    "movie:r:tt1434443": {
+      "id": "movie:r:tt1434443",
+      "imdb_id": "tt1434443",
+      "category": "movie",
+      "it_title": "R",
+      "orig_title": "R",
+      "year": 2010,
+      "director": "Tobias Lindholm and Michael Noer",
+      "cast": "Pilou Asbæk, Dulfi Al-Jabouri",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTM3NDE0ODg0OF5BMl5BanBnXkFtZTcwNDE5NDk1NQ@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_r_2010",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro010.html",
+          "mentioned_as": "R"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1434443"
+    },
+    "movie:the king of pigs:tt2086830": {
+      "id": "movie:the king of pigs:tt2086830",
+      "imdb_id": "tt2086830",
+      "category": "movie",
+      "it_title": "The King of Pigs",
+      "orig_title": "The King of Pigs",
+      "year": 2011,
+      "director": "Sang-ho Yeon",
+      "cast": "Yang Ik-joon, Oh Jung-se",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDhiY2Q4MWItYzEzZC00YWMzLTgxNGUtNTFmYzMyNWFhODFhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_kingofpigs_2011",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro010.html",
+          "mentioned_as": "The King of Pigs"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt2086830"
+    },
+    "movie:elena:tt1925421": {
+      "id": "movie:elena:tt1925421",
+      "imdb_id": "tt1925421",
+      "category": "movie",
+      "it_title": "Elena",
+      "orig_title": "Elena",
+      "year": 2011,
+      "director": "Andrei Zvyagintsev",
+      "cast": "Nadezhda Markina, Andrey Smirnov",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2I3M2Q2MmEtOTRkNy00YzU4LWJmYmItMTAxYTMxNWMwMmE0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_elena_2011",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/zvjagint.html",
+          "mentioned_as": "Elena"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1925421"
+    },
+    "movie:a hard day:tt3697626": {
+      "id": "movie:a hard day:tt3697626",
+      "imdb_id": "tt3697626",
+      "category": "movie",
+      "it_title": "A Hard Day",
+      "orig_title": "A Hard Day",
+      "year": 2014,
+      "director": "Seong-hun Kim",
+      "cast": "Lee Sun-kyun, Cho Jin-woong",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjI3YWY0YWQtMTNhZS00N2E4LWE4MzYtMzQ4YjJjN2IzM2ZhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_hardday_2014",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro010.html",
+          "mentioned_as": "A Hard Day"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt3697626"
+    },
+    "movie:kumiko the treasure hunter:tt3263614": {
+      "id": "movie:kumiko the treasure hunter:tt3263614",
+      "imdb_id": "tt3263614",
+      "category": "movie",
+      "it_title": "Kumiko the Treasure Hunter",
+      "orig_title": "Kumiko, The Treasure Hunter",
+      "year": 2014,
+      "director": "David and Nathan Zellner",
+      "cast": "Rinko Kikuchi, Nobuyuki Katsube",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTAzNzI1MTkyNzBeQTJeQWpwZ15BbWU4MDQ0NDU0MzQx._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_kumikothetreasurehunter_2014",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro010.html",
+          "mentioned_as": "Kumiko the Treasure Hunter"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt3263614"
+    },
+    "movie:yourself and yours:tt5907916": {
+      "id": "movie:yourself and yours:tt5907916",
+      "imdb_id": "tt5907916",
+      "category": "movie",
+      "it_title": "Yourself and Yours",
+      "orig_title": "Yourself and Yours",
+      "year": 2016,
+      "director": "Sangsoo Hong",
+      "cast": "Kim Ju-hyuk, Lee Yoo-young",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTE5MWU1ZDgtZjM2Zi00ZTNmLTkwZjQtY2Y5NTM5MjVjMWQ3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_yourselfandyours_2016",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro010.html",
+          "mentioned_as": "Yourself and Yours"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt5907916"
+    },
+    "movie:the day after:tt6462506": {
+      "id": "movie:the day after:tt6462506",
+      "imdb_id": "tt6462506",
+      "category": "movie",
+      "it_title": "The Day After",
+      "orig_title": "The Day After",
+      "year": 2017,
+      "director": "Sangsoo Hong",
+      "cast": "Kwon Hae-hyo, Ki Joabang",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTZhMDM3NjMtOTI5Mi00MDEwLTk2ZDAtYjE0NGY0NzJjOGI4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_dayafter_2017",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro010.html",
+          "mentioned_as": "The Day After"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt6462506"
+    },
+    "movie:forever young:tt2401825": {
+      "id": "movie:forever young:tt2401825",
+      "imdb_id": "tt2401825",
+      "category": "movie",
+      "it_title": "Forever Young",
+      "orig_title": "Forever Young",
+      "year": 2018,
+      "director": "Fangfang Li",
+      "cast": "Ziyi Zhang, Xiaoming Huang",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjMxMTdiZjktZDYxNy00MDExLWJiM2QtOTlhYzRhZWNkNjVmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_foreveryoung_2018",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro010.html",
+          "mentioned_as": "Forever Young"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt2401825"
+    },
+    "movie:the announcement:tt8751804": {
+      "id": "movie:the announcement:tt8751804",
+      "imdb_id": "tt8751804",
+      "category": "movie",
+      "it_title": "The Announcement",
+      "orig_title": "Anons",
+      "year": 2017,
+      "director": "Mahmut Fazil Coskun",
+      "cast": "Ali Seçkiner Alici, Tarhan Karagöz",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjZlMzVjZDItNjBiMS00NDAwLTgyMmEtZGNlYmFiMjUzYzVhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_announcement_2017",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro010.html",
+          "mentioned_as": "The Announcement"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt8751804"
+    },
+    "movie:my brother's name is robert and he is an idiot:tt3552348": {
+      "id": "movie:my brother's name is robert and he is an idiot:tt3552348",
+      "imdb_id": "tt3552348",
+      "category": "movie",
+      "it_title": "My Brother's Name Is Robert and He Is an Idiot",
+      "orig_title": "My Brother's Name Is Robert and He Is an Idiot",
+      "year": 2018,
+      "director": "Philip Groening",
+      "cast": "Josef Mattes, Julia Zange",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzMzYWM2ZTYtZjc0Zi00YjA2LTk0NjktN2ZiZThmMzQ4NzQ0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_mybrothersnameisrobertandheisanidiot_2018",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro010.html",
+          "mentioned_as": "My Brother's Name Is Robert and He Is an Idiot"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt3552348"
+    },
+    "movie:dovlatov:tt7763020": {
+      "id": "movie:dovlatov:tt7763020",
+      "imdb_id": "tt7763020",
+      "category": "movie",
+      "it_title": "Dovlatov",
+      "orig_title": "Dovlatov",
+      "year": 2018,
+      "director": "Aleksey German",
+      "cast": "Milan Maric, Danila Kozlovskiy",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzc3YmViNjktMTQ2My00YmVlLWJmNTgtMzNhZWM2MjVlNWFjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_dovlatov_2018",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best18.html",
+          "mentioned_as": "Dovlatov"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt7763020"
+    },
+    "movie:limbo:tt1523326": {
+      "id": "movie:limbo:tt1523326",
+      "imdb_id": "tt1523326",
+      "category": "movie",
+      "it_title": "Limbo",
+      "orig_title": "Limbo",
+      "year": 2010,
+      "director": "Maria Sodahl",
+      "cast": "Line Verndal, Henrik Rafaelsen",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjIxNzk4NjIxMF5BMl5BanBnXkFtZTcwNzQ2MTA5Mw@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_limbo_2010",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro010.html",
+          "mentioned_as": "Limbo"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1523326"
+    },
+    "movie:the banishment:tt0488905": {
+      "id": "movie:the banishment:tt0488905",
+      "imdb_id": "tt0488905",
+      "category": "movie",
+      "it_title": "The Banishment",
+      "orig_title": "The Banishment",
+      "year": 2007,
+      "director": "Andrei Zvyagintsev",
+      "cast": "Konstantin Lavronenko, Maria Bonnevie",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODFmOTU5NWYtMjZmNS00NDc3LWJkZjAtODJiMzQ3ZDFmYTYyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_banishment_2007",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best07.html",
+          "mentioned_as": "The Banishment"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0488905"
+    },
+    "movie:under electric clouds:tt4285198": {
+      "id": "movie:under electric clouds:tt4285198",
+      "imdb_id": "tt4285198",
+      "category": "movie",
+      "it_title": "Under Electric Clouds",
+      "orig_title": "Under Electric Clouds",
+      "year": 2015,
+      "director": "Aleksei German",
+      "cast": "Louis Franck, Viktoria Korotkova",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGIwNWQxZWMtNzc4OS00ZDc2LTgxNWYtZjA1ZjZiY2RiNDA2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_underelectricclouds_2015",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best15.html",
+          "mentioned_as": "Under Electric Clouds"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt4285198"
+    },
+    "movie:sin senas particulares identifying features:tt11394282": {
+      "id": "movie:sin senas particulares identifying features:tt11394282",
+      "imdb_id": "tt11394282",
+      "category": "movie",
+      "it_title": "Sin Senas Particulares Identifying Features",
+      "orig_title": "Identifying Features",
+      "year": 2020,
+      "director": "Fernanda Veladez",
+      "cast": "Mercedes Hernández, David Illescas",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMWU2MzYwNTQtNjQ0Yi00NDA0LThjYTQtNDlhNDk2NmQ0M2ZjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_sinsenasparticularesidentifyingfeatures_2020",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best20.html",
+          "mentioned_as": "Sin Senas Particulares Identifying Features"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt11394282"
+    },
+    "movie:dear comrades:tt10796286": {
+      "id": "movie:dear comrades:tt10796286",
+      "imdb_id": "tt10796286",
+      "category": "movie",
+      "it_title": "Dear Comrades",
+      "orig_title": "Dear Comrades!",
+      "year": 2020,
+      "director": "Andrei Konchalovsky",
+      "cast": "Yuliya Vysotskaya, Sergei Erlish",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDRhODc2NDMtOTY3Zi00ZTVlLWJkMzYtNDI0OWM3OWEzM2NhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_dearcomrades_2020",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best20.html",
+          "mentioned_as": "Dear Comrades"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt10796286"
+    },
+    "movie:time to hunt:tt11777040": {
+      "id": "movie:time to hunt:tt11777040",
+      "imdb_id": "tt11777040",
+      "category": "movie",
+      "it_title": "Time to Hunt",
+      "orig_title": "Time to Hunt",
+      "year": 2020,
+      "director": "Sung-hyun Yoon",
+      "cast": "Lee Je-hoon, Ahn Jae-hong",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTI2OTlhOTQtYzY5My00MzIwLWFiMWQtNDZhYmQ4OGQ0MzEzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_timetohunt_2020",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best20.html",
+          "mentioned_as": "Time to Hunt"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt11777040"
+    },
+    "movie:the girl and the spider:tt11967484": {
+      "id": "movie:the girl and the spider:tt11967484",
+      "imdb_id": "tt11967484",
+      "category": "movie",
+      "it_title": "The Girl and the Spider",
+      "orig_title": "The Girl and the Spider",
+      "year": 2021,
+      "director": "Ramon & Silvan Zuercher",
+      "cast": "Henriette Confurius, Liliane Amuat",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODNiMzMwMjctODZhZS00YzAxLWFhNGYtYjBiODY0ODI1Y2Q1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_girlandthespider_2021",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best21.html",
+          "mentioned_as": "The Girl and the Spider"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt11967484"
+    },
+    "movie:la civil:tt13827606": {
+      "id": "movie:la civil:tt13827606",
+      "imdb_id": "tt13827606",
+      "category": "movie",
+      "it_title": "La Civil",
+      "orig_title": "La civil",
+      "year": 2021,
+      "director": "Teodora Ana Mihai",
+      "cast": "Arcelia Ramírez, Álvaro Guerrero",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGU0NzA5MDQtZmRjMy00NGQxLTlmYmQtN2ZjMjY3OTNiM2FhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_civil_2021",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best21.html",
+          "mentioned_as": "La Civil"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt13827606"
+    },
+    "movie:aloners:tt14598598": {
+      "id": "movie:aloners:tt14598598",
+      "imdb_id": "tt14598598",
+      "category": "movie",
+      "it_title": "Aloners",
+      "orig_title": "Aloners",
+      "year": 2021,
+      "director": "Sung-eun Hong",
+      "cast": "Gong Seung-yeon, Jung Da-eun",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTBjNDE1M2YtNjE3MC00YjIxLTkyNDAtNDdmYzQ1NWViYThiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_aloners_2021",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best21.html",
+          "mentioned_as": "Aloners"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt14598598"
+    },
+    "movie:reflection:tt14225832": {
+      "id": "movie:reflection:tt14225832",
+      "imdb_id": "tt14225832",
+      "category": "movie",
+      "it_title": "Reflection",
+      "orig_title": "Reflection",
+      "year": 2021,
+      "director": "Valentyn Vasyanovych",
+      "cast": "Roman Lutskyi, Stanislav Aseyev",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTNlNjE2NmMtMzE0Zi00YTdjLWEyODUtMTY4OTU5Mzc3YmIyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_reflection_2021",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best21.html",
+          "mentioned_as": "Reflection"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt14225832"
+    },
+    "movie:feathers:tt14805128": {
+      "id": "movie:feathers:tt14805128",
+      "imdb_id": "tt14805128",
+      "category": "movie",
+      "it_title": "Feathers",
+      "orig_title": "Feathers",
+      "year": 2021,
+      "director": "Omar El Zohairi",
+      "cast": "Demyana Nassar, Samy Bassiouny",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjA1Y2RhYzMtMTc0YS00NDIxLTgxNzQtMWYzMjZlOWI2YzNlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_feathers_2021",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best21.html",
+          "mentioned_as": "Feathers"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt14805128"
+    },
+    "movie:murina:tt8434110": {
+      "id": "movie:murina:tt8434110",
+      "imdb_id": "tt8434110",
+      "category": "movie",
+      "it_title": "Murina",
+      "orig_title": "Murina",
+      "year": 2021,
+      "director": "Antoneta Kusijanovic",
+      "cast": "Gracija Filipović, Leon Lučev",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTM1YjliYjgtMzJiZi00YTFkLTk1ODMtNzhjNzc3NjJkY2VjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_murina_2021",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best21.html",
+          "mentioned_as": "Murina"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt8434110"
+    },
+    "movie:alienoid:tt20168564": {
+      "id": "movie:alienoid:tt20168564",
+      "imdb_id": "tt20168564",
+      "category": "movie",
+      "it_title": "Alienoid",
+      "orig_title": "Alienoid",
+      "year": 2022,
+      "director": "Dong-hoon Choi",
+      "cast": "Ryu Jun-yeol, Kim Woo-bin",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYmI1N2MxYzEtNWFiYy00NDk1LWEzNWItZGE3MDRmYTMxYjdmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_alienoid_2022",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best22.html",
+          "mentioned_as": "Alienoid"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt20168564"
+    },
+    "movie:war pony:tt16227002": {
+      "id": "movie:war pony:tt16227002",
+      "imdb_id": "tt16227002",
+      "category": "movie",
+      "it_title": "War Pony",
+      "orig_title": "War Pony",
+      "year": 2022,
+      "director": "Riley Keough & Gina Gammell",
+      "cast": "Stanley Good Voice Elk, Jojo Bapteise Whiting",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDk2MmZlNTQtODNmNS00ZTM0LTg0NjAtMGRmNTIwZmZkZjkyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_warpony_2022",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best22.html",
+          "mentioned_as": "War Pony"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt16227002"
+    },
+    "movie:the worst ones:tt19719862": {
+      "id": "movie:the worst ones:tt19719862",
+      "imdb_id": "tt19719862",
+      "category": "movie",
+      "it_title": "The Worst Ones",
+      "orig_title": "The Worst Ones",
+      "year": 2022,
+      "director": "Lise Akoka and Romane Gueret",
+      "cast": "Mallory Wanecque, Timéo Mahaut",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjU4YjkyNGItODE3ZC00NDQ2LTg5MGItMjYzYjUxZDlhYzViXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_worstones_2022",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best22.html",
+          "mentioned_as": "The Worst Ones"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt19719862"
+    },
+    "movie:world war iii:tt21378744": {
+      "id": "movie:world war iii:tt21378744",
+      "imdb_id": "tt21378744",
+      "category": "movie",
+      "it_title": "World War III",
+      "orig_title": "World War III",
+      "year": 2022,
+      "director": "Houman Seyidi",
+      "cast": "Alireza Ghaedi, Mohsen Tanabandeh",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTAwZWFkZjctNTcxMi00Y2MyLTljZDktZjI0MWNjMmIwY2ZmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_worldwariii_2022",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best22.html",
+          "mentioned_as": "World War III"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt21378744"
+    },
+    "movie:tori and lokita:tt18317064": {
+      "id": "movie:tori and lokita:tt18317064",
+      "imdb_id": "tt18317064",
+      "category": "movie",
+      "it_title": "Tori And Lokita",
+      "orig_title": "Tori and Lokita",
+      "year": 2022,
+      "director": "Jean-Pierre Et Luc Dardenne",
+      "cast": "Pablo Schils, Joely Mbundu",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjUxNTJhZjMtZDA1Ny00YzY1LWE2NGYtZWQ4MWEwNWNiZDFkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_toriandlokita_2022",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best22.html",
+          "mentioned_as": "Tori And Lokita"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt18317064"
+    },
+    "movie:dodo:tt16310962": {
+      "id": "movie:dodo:tt16310962",
+      "imdb_id": "tt16310962",
+      "category": "movie",
+      "it_title": "Dodo",
+      "orig_title": "Dodo",
+      "year": 2022,
+      "director": "Panos Koutras",
+      "cast": "Smaragda Karydi, Akis Sakellariou",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2I5NmNlMGItYWQ0ZC00Njc4LWE2ZWYtMjM3Njg1MDU0YzAzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_dodo_2022",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best22.html",
+          "mentioned_as": "Dodo"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt16310962"
+    },
+    "movie:one fine morning:tt13482828": {
+      "id": "movie:one fine morning:tt13482828",
+      "imdb_id": "tt13482828",
+      "category": "movie",
+      "it_title": "One Fine Morning",
+      "orig_title": "One Fine Morning",
+      "year": 2022,
+      "director": "Mia Hansen-Love",
+      "cast": "Léa Seydoux, Pascal Greggory",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTA4YmU2MTktYTI3Mi00MWJjLWIwN2YtMWUwMzM5YjQ2ZDBlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_onefinemorning_2022",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/hansenlo.html",
+          "mentioned_as": "One Fine Morning"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt13482828"
+    },
+    "movie:rhinegold:tt15536668": {
+      "id": "movie:rhinegold:tt15536668",
+      "imdb_id": "tt15536668",
+      "category": "movie",
+      "it_title": "Rhinegold",
+      "orig_title": "Rheingold",
+      "year": 2022,
+      "director": "Fatih Akin",
+      "cast": "Emilio Sakraya, Mona Pirzad",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGQyOWVkZDMtMGI0MC00MTg5LTg2MzctYThmM2I5ZWZmZWMxXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_rhinegold_2022",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best22.html",
+          "mentioned_as": "Rhinegold"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt15536668"
+    },
+    "movie:the novelist's film:tt17146978": {
+      "id": "movie:the novelist's film:tt17146978",
+      "imdb_id": "tt17146978",
+      "category": "movie",
+      "it_title": "The Novelist's Film",
+      "orig_title": "The Novelist's Film",
+      "year": 2022,
+      "director": "Sang-soo Hong",
+      "cast": "Lee Hye-yeong, Kim Min-hee",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2I5OGVjMDctOWI5Yi00MzBmLWE4Y2MtMWFkNzJmODcxODQxXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_novelistsfilm_2022",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best22.html",
+          "mentioned_as": "The Novelist's Film"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt17146978"
+    },
+    "movie:great absence:tt28568332": {
+      "id": "movie:great absence:tt28568332",
+      "imdb_id": "tt28568332",
+      "category": "movie",
+      "it_title": "Great Absence",
+      "orig_title": "Great Absence",
+      "year": 2023,
+      "director": "Chika-ura Kei",
+      "cast": "Mirai Moriyama, Tatsuya Fuji",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTc2M2FjZjQtMjdkOC00NTAxLTk1MzEtNDM1NjAxM2JkY2UzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_greatabsence_2023",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best23.html",
+          "mentioned_as": "Great Absence"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt28568332"
+    },
+    "movie:concrete utopia:tt13086266": {
+      "id": "movie:concrete utopia:tt13086266",
+      "imdb_id": "tt13086266",
+      "category": "movie",
+      "it_title": "Concrete Utopia",
+      "orig_title": "Concrete Utopia",
+      "year": 2023,
+      "director": "Tae-hwa Um/ Eom",
+      "cast": "Lee Byung-hun, Park Seo-joon",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjEwOTcwMTgtODVjYi00NWI1LWFmNGItMTEzZWE5YTAzOGJkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_concreteutopia_2023",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best23.html",
+          "mentioned_as": "Concrete Utopia"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt13086266"
+    },
+    "movie:the universal theory:tt18453866": {
+      "id": "movie:the universal theory:tt18453866",
+      "imdb_id": "tt18453866",
+      "category": "movie",
+      "it_title": "The Universal Theory",
+      "orig_title": "The Universal Theory",
+      "year": 2023,
+      "director": "Timm Kroeger",
+      "cast": "Jan Bülow, Olivia Ross",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTIxYzYxMmMtNzYxYy00YzdhLTlkOTEtN2M2NDY1OTIyYjIwXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_universaltheory_2023",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best23.html",
+          "mentioned_as": "The Universal Theory"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt18453866"
+    },
+    "movie:the pig the snake and the pigeon:tt29319990": {
+      "id": "movie:the pig the snake and the pigeon:tt29319990",
+      "imdb_id": "tt29319990",
+      "category": "movie",
+      "it_title": "The Pig The Snake and The Pigeon",
+      "orig_title": "The Pig, the Snake and the Pigeon",
+      "year": 2023,
+      "director": "Ching-Po Wang",
+      "cast": "Ethan Juan, Ben Yuen",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzdkZTgzZWUtNGI4NS00MTJmLTllMjktMmE5YzA5YTU5MGRkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_pigthesnakeandthepigeon_2023",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best23.html",
+          "mentioned_as": "The Pig The Snake and The Pigeon"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt29319990"
+    },
+    "movie:hopeless:tt27502351": {
+      "id": "movie:hopeless:tt27502351",
+      "imdb_id": "tt27502351",
+      "category": "movie",
+      "it_title": "Hopeless",
+      "orig_title": "Hopeless",
+      "year": 2023,
+      "director": "Chang-hoon Kim",
+      "cast": "Hong Xa-bin, Song Joong-ki",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDdjZjE4NmItMGVhNi00YzhmLTg3ZGYtODYwMmUwMjA3NGMyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_hopeless_2023",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best23.html",
+          "mentioned_as": "Hopeless"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt27502351"
+    },
+    "movie:kill boksoon:tt16900880": {
+      "id": "movie:kill boksoon:tt16900880",
+      "imdb_id": "tt16900880",
+      "category": "movie",
+      "it_title": "Kill Boksoon",
+      "orig_title": "Kill Boksoon",
+      "year": 2023,
+      "director": "Sung-hyun Byun",
+      "cast": "Jeon Do-yeon, Sul Kyung-gu",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjkyOTBlMmItYTFmNS00ZDZkLTk5OTktODEwZWJhOGQ3OTI0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_killboksoon_2023",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best23.html",
+          "mentioned_as": "Kill Boksoon"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt16900880"
+    },
+    "movie:all we imagine as light:tt32086077": {
+      "id": "movie:all we imagine as light:tt32086077",
+      "imdb_id": "tt32086077",
+      "category": "movie",
+      "it_title": "All We Imagine as Light",
+      "orig_title": "All We Imagine as Light",
+      "year": 2024,
+      "director": "Payal Kapadia",
+      "cast": "Kani Kusruti, Divya Prabha",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzg5OWVkODQtNDViMS00YmFkLTg4YjctMGFmZjM4OTdlYWRhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_allweimagineaslight_2024",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/kapadia.html",
+          "mentioned_as": "All We Imagine as Light"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt32086077"
+    },
+    "movie:sons:tt27496775": {
+      "id": "movie:sons:tt27496775",
+      "imdb_id": "tt27496775",
+      "category": "movie",
+      "it_title": "Sons",
+      "orig_title": "Sons",
+      "year": 2024,
+      "director": "Gustav Moeller",
+      "cast": "Sidse Babett Knudsen, Sebastian Bull",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjUzNzJjOWMtN2FkNi00ZTYxLWFlYzMtNzJmMTZkMTA5NjJmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_sons_2024",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best24.html",
+          "mentioned_as": "Sons"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt27496775"
+    },
+    "movie:sasquatch sunset:tt30180830": {
+      "id": "movie:sasquatch sunset:tt30180830",
+      "imdb_id": "tt30180830",
+      "category": "movie",
+      "it_title": "Sasquatch Sunset",
+      "orig_title": "Sasquatch Sunset",
+      "year": 2024,
+      "director": "David Zellner & Nathan Zellner",
+      "cast": "Jesse Eisenberg, Riley Keough",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjZjMjgzYmYtZTYyYi00NzkyLTk0YzItM2Q2MTExZjBiYWM5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_sasquatchsunset_2024",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best24.html",
+          "mentioned_as": "Sasquatch Sunset"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt30180830"
+    },
+    "movie:sisters:tt27911420": {
+      "id": "movie:sisters:tt27911420",
+      "imdb_id": "tt27911420",
+      "category": "movie",
+      "it_title": "Sisters",
+      "orig_title": "Manas",
+      "year": 2024,
+      "director": "Marianna Brennand Fortes",
+      "cast": "Jamilli Correa, Fátima Macedo",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTY1ODAzN2EtZGRhZi00ZDVkLWE1NzAtNzE1Zjk0NzRlZmYzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_sisters_2024",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best24.html",
+          "mentioned_as": "Sisters"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt27911420"
+    },
+    "movie:the world of love:tt37661885": {
+      "id": "movie:the world of love:tt37661885",
+      "imdb_id": "tt37661885",
+      "category": "movie",
+      "it_title": "The World of Love",
+      "orig_title": "The World of Love",
+      "year": 2025,
+      "director": "Ga-eun Yoon",
+      "cast": "Seo Su-bin, Jang Hye-jin",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjU5NmQ3MGQtMWY4Zi00YmU1LWIxMDgtODNjMTBmNTEwZWQ0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_worldoflove_2025",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best25.html",
+          "mentioned_as": "The World of Love"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt37661885"
+    },
+    "movie:young mothers:tt32909489": {
+      "id": "movie:young mothers:tt32909489",
+      "imdb_id": "tt32909489",
+      "category": "movie",
+      "it_title": "Young Mothers",
+      "orig_title": "Young Mothers",
+      "year": 2025,
+      "director": "Jean-Pierre and Luc Dardenne",
+      "cast": "Babette Verbeek, Elsa Houben",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmIzNzY3YjktNWNlNi00N2ZkLWE1MDItZWQ2N2M5MjY0YjE1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_youngmothers_2025",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best25.html",
+          "mentioned_as": "Young Mothers"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt32909489"
     },
     "music:nail:foetus": {
       "id": "music:nail:foetus",
