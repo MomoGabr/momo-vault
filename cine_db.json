@@ -1482,7 +1482,8 @@
         }
       ],
       "director": "John Woo",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt15799866"
     },
     "movie:spider-man : un nuovo universo:tt4633694": {
       "id": "movie:spider-man : un nuovo universo:tt4633694",
@@ -18187,10 +18188,10 @@
         }
       ]
     },
-    "movie:arcane (2021) (stagione 1):tt11126994": {
-      "id": "movie:arcane (2021) (stagione 1):tt11126994",
+    "show:arcane (2021) (stagione 1):tt11126994": {
+      "id": "show:arcane (2021) (stagione 1):tt11126994",
       "imdb_id": "tt11126994",
-      "category": "movie",
+      "category": "show",
       "it_title": "Arcane (2021) (Stagione 1)",
       "orig_title": "Arcane",
       "year": 2021,
@@ -20600,10 +20601,10 @@
         }
       ]
     },
-    "movie:m. il figlio del secolo:tt19386538": {
-      "id": "movie:m. il figlio del secolo:tt19386538",
+    "show:m. il figlio del secolo:tt19386538": {
+      "id": "show:m. il figlio del secolo:tt19386538",
       "imdb_id": "tt19386538",
-      "category": "movie",
+      "category": "show",
       "it_title": "M. Il figlio del secolo",
       "orig_title": "Mussolini: Son of the Century",
       "year": 2024,
@@ -33896,10 +33897,10 @@
       "director": "Nacho Vigalondo",
       "it_flatrate": []
     },
-    "movie:l'attacco dei giganti:tt2560140": {
-      "id": "movie:l'attacco dei giganti:tt2560140",
+    "show:l'attacco dei giganti:tt2560140": {
+      "id": "show:l'attacco dei giganti:tt2560140",
       "imdb_id": "tt2560140",
-      "category": "movie",
+      "category": "show",
       "it_title": "L'attacco dei giganti",
       "orig_title": "Attack on Titan",
       "year": 2013,
@@ -40761,7 +40762,8 @@
         }
       ],
       "director": "Andy Muschietti",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt2023587"
     },
     "movie:ralph spaccatutto:tt1772341": {
       "id": "movie:ralph spaccatutto:tt1772341",
@@ -41973,7 +41975,8 @@
         }
       ],
       "director": "John Hillcoat",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0898367"
     },
     "movie:v per vendetta:tt0434409": {
       "id": "movie:v per vendetta:tt0434409",
@@ -45076,7 +45079,8 @@
         }
       ],
       "director": "John Erick Dowdle",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt2870612"
     },
     "movie:edge of tomorrow - senza domani:tt1631867": {
       "id": "movie:edge of tomorrow - senza domani:tt1631867",
@@ -45555,10 +45559,10 @@
       "director": "Takashi Miike, Park Chan-wook",
       "it_flatrate": []
     },
-    "movie:star wars: episodio i - la minaccia fantasma:tt0120915": {
-      "id": "movie:star wars: episodio i - la minaccia fantasma:tt0120915",
+    "show:star wars: episodio i - la minaccia fantasma:tt0120915": {
+      "id": "show:star wars: episodio i - la minaccia fantasma:tt0120915",
       "imdb_id": "tt0120915",
-      "category": "movie",
+      "category": "show",
       "it_title": "Star Wars: Episodio I - La minaccia fantasma",
       "orig_title": "Star Wars: Episode I - The Phantom Menace",
       "year": 1999,
@@ -46157,7 +46161,8 @@
         }
       ],
       "director": "Curry Barker",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt37287335"
     },
     "movie:da 5 bloods - come fratelli:tt9777644": {
       "id": "movie:da 5 bloods - come fratelli:tt9777644",
@@ -48823,7 +48828,8 @@
         }
       ],
       "director": "Matt Bettinelli-Olpin, Tyler Gillett",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt11245972"
     },
     "movie:jungle cruise:tt0870154": {
       "id": "movie:jungle cruise:tt0870154",
@@ -49170,7 +49176,8 @@
         }
       ],
       "director": "Darren Aronofsky",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt5109784"
     },
     "movie:nell'erba alta:tt4687108": {
       "id": "movie:nell'erba alta:tt4687108",
@@ -49802,7 +49809,8 @@
         }
       ],
       "director": "Thomas Kail",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt27419466"
     },
     "movie:dumbo:tt3861390": {
       "id": "movie:dumbo:tt3861390",
@@ -50899,7 +50907,8 @@
         }
       ],
       "director": "Andrea Arnold",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt28277817"
     },
     "movie:noi:tt6857112": {
       "id": "movie:noi:tt6857112",
@@ -50932,7 +50941,8 @@
         }
       ],
       "director": "Jordan Peele",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt6857112"
     },
     "movie:bull:tt13266998": {
       "id": "movie:bull:tt13266998",
@@ -50964,7 +50974,8 @@
         }
       ],
       "director": "Paul Andrew Williams",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt13266998"
     },
     "movie:dragon trainer- il mondo nascosto:tt2386490": {
       "id": "movie:dragon trainer- il mondo nascosto:tt2386490",
@@ -50999,31 +51010,6 @@
       ],
       "director": "Dean DeBlois",
       "it_flatrate": []
-    },
-    "movie:jimmy:tt33372496": {
-      "id": "movie:jimmy:tt33372496",
-      "imdb_id": "tt33372496",
-      "category": "movie",
-      "it_title": "Jimmy",
-      "orig_title": "Jimmy and Stiggs",
-      "year": 2025,
-      "cast": "Joe Begos, Matt Mercer",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDk2ZGRiY2ItZDY5Mi00ZjJlLWJiZTEtMWFiMTEwMWZiODQ1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "it_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt33372496",
-      "recommendations": [
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_jimmy-stewart-biopic-film-review-2026",
-          "video_title": "RogerEbert.com (★ Consigliato)",
-          "timestamp": "★ Consigliato",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/jimmy-stewart-biopic-film-review-2026",
-          "mentioned_as": "Jimmy"
-        }
-      ]
     },
     "movie:piccole donne:tt3281548": {
       "id": "movie:piccole donne:tt3281548",
@@ -55242,10 +55228,10 @@
       "director": "Fulvio Risuleo",
       "it_flatrate": []
     },
-    "movie:lynch/oz:tt0118421": {
-      "id": "movie:lynch/oz:tt0118421",
+    "show:lynch/oz:tt0118421": {
+      "id": "show:lynch/oz:tt0118421",
       "imdb_id": "tt0118421",
-      "category": "movie",
+      "category": "show",
       "it_title": "Lynch/Oz",
       "orig_title": "Oz",
       "year": 1997,
@@ -61291,10 +61277,10 @@
       "director": "Walter Matthau",
       "it_flatrate": []
     },
-    "movie:nikita:tt1592154": {
-      "id": "movie:nikita:tt1592154",
+    "show:nikita:tt1592154": {
+      "id": "show:nikita:tt1592154",
       "imdb_id": "tt1592154",
-      "category": "movie",
+      "category": "show",
       "it_title": "Nikita",
       "orig_title": "Nikita",
       "year": 2010,
@@ -61728,10 +61714,10 @@
       "director": "Dario Argento",
       "it_flatrate": []
     },
-    "movie:ai confini della realtà:tt0052520": {
-      "id": "movie:ai confini della realtà:tt0052520",
+    "show:ai confini della realtà:tt0052520": {
+      "id": "show:ai confini della realtà:tt0052520",
       "imdb_id": "tt0052520",
-      "category": "movie",
+      "category": "show",
       "it_title": "Ai confini della realtà",
       "orig_title": "The Twilight Zone",
       "year": 1959,
@@ -62948,10 +62934,10 @@
       "director": "Kim Ji-Woon",
       "it_flatrate": []
     },
-    "movie:paranoia agent:tt0433722": {
-      "id": "movie:paranoia agent:tt0433722",
+    "show:paranoia agent:tt0433722": {
+      "id": "show:paranoia agent:tt0433722",
       "imdb_id": "tt0433722",
-      "category": "movie",
+      "category": "show",
       "it_title": "Paranoia Agent",
       "orig_title": "Paranoia Agent",
       "year": 2004,
@@ -70978,10 +70964,10 @@
       "director": "Lana e Lilly Wachowski, Lana Wachowski",
       "it_flatrate": []
     },
-    "movie:strappare lungo i bordi:tt15614372": {
-      "id": "movie:strappare lungo i bordi:tt15614372",
+    "show:strappare lungo i bordi:tt15614372": {
+      "id": "show:strappare lungo i bordi:tt15614372",
       "imdb_id": "tt15614372",
-      "category": "movie",
+      "category": "show",
       "it_title": "Strappare lungo i bordi",
       "orig_title": "Tear Along the Dotted Line",
       "year": 2021,
@@ -71323,7 +71309,8 @@
         }
       ],
       "director": "Federico Fellini",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0056801"
     },
     "movie:the odyssey:tt33764258": {
       "id": "movie:the odyssey:tt33764258",
@@ -71354,7 +71341,8 @@
           "mentioned_as": "Odissea"
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt33764258"
     },
     "movie:the french dispatch:tt8847712": {
       "id": "movie:the french dispatch:tt8847712",
@@ -71386,7 +71374,8 @@
         }
       ],
       "director": "Wes Anderson",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt8847712"
     },
     "movie:gli spiriti dell'isola:tt11813216": {
       "id": "movie:gli spiriti dell'isola:tt11813216",
@@ -71418,7 +71407,8 @@
         }
       ],
       "director": "Martin McDonagh",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt11813216"
     },
     "movie:favolacce:tt8526370": {
       "id": "movie:favolacce:tt8526370",
@@ -71548,7 +71538,8 @@
         }
       ],
       "director": "Andy Muschietti",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt7349950"
     },
     "movie:johnny stecchino:tt0102164": {
       "id": "movie:johnny stecchino:tt0102164",
@@ -72882,7 +72873,8 @@
         }
       ],
       "director": "Matteo Garrone",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt3278330"
     },
     "movie:foxcatcher - una storia americana:tt1100089": {
       "id": "movie:foxcatcher - una storia americana:tt1100089",
@@ -74415,18 +74407,18 @@
       "director": "Matthew Vaughn",
       "it_flatrate": []
     },
-    "movie:spartacus:tt0054331": {
-      "id": "movie:spartacus:tt0054331",
+    "show:spartacus:tt0054331": {
+      "id": "show:spartacus:tt0054331",
       "imdb_id": "tt0054331",
-      "category": "movie",
+      "category": "show",
       "it_title": "Spartacus",
       "orig_title": "Spartacus",
       "year": 1960,
       "cast": "Kirk Douglas, Laurence Olivier",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BMTcyOThhYzktMTYyMi00NDU5LWExZWMtOWUzNGJiZGFlMWQwXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0054331",
+      "external_url": "https://app.trakt.tv/shows/tt0054331",
       "recommendations": [
         {
           "creator": "Federico Frusciante",
@@ -74746,10 +74738,10 @@
       "director": "Michael Haneke",
       "it_flatrate": []
     },
-    "movie:stranger things:tt4574334": {
-      "id": "movie:stranger things:tt4574334",
+    "show:stranger things:tt4574334": {
+      "id": "show:stranger things:tt4574334",
       "imdb_id": "tt4574334",
-      "category": "movie",
+      "category": "show",
       "it_title": "Stranger Things",
       "orig_title": "Stranger Things",
       "year": 2016,
@@ -74885,7 +74877,8 @@
         }
       ],
       "director": "Akira Kurosawa",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0044741"
     },
     "movie:lego batman- il film:tt4116284": {
       "id": "movie:lego batman- il film:tt4116284",
@@ -99043,7 +99036,8 @@
           "mentioned_as": "Terminator 2: Judgment Day"
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0103064"
     },
     "movie:kung fusion:tt0373074": {
       "id": "movie:kung fusion:tt0373074",
@@ -99075,7 +99069,8 @@
         }
       ],
       "director": "Stephen Chow",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0373074"
     },
     "movie:9 - il film:tt0472033": {
       "id": "movie:9 - il film:tt0472033",
@@ -99108,7 +99103,8 @@
         }
       ],
       "director": "Shane Acker",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0472033"
     },
     "movie:inland empire - l'impero della mente:tt0460829": {
       "id": "movie:inland empire - l'impero della mente:tt0460829",
@@ -99141,7 +99137,8 @@
         }
       ],
       "director": "David Lynch",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0460829"
     },
     "movie:la sirenetta:tt0097757": {
       "id": "movie:la sirenetta:tt0097757",
@@ -99174,7 +99171,8 @@
         }
       ],
       "director": "John Musker, Ron Clements",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0097757"
     },
     "movie:contagion:tt1598778": {
       "id": "movie:contagion:tt1598778",
@@ -104181,10 +104179,10 @@
       "director": "Lenny Abrahamson",
       "it_flatrate": []
     },
-    "movie:le notti di salem:tt0079844": {
-      "id": "movie:le notti di salem:tt0079844",
+    "show:le notti di salem:tt0079844": {
+      "id": "show:le notti di salem:tt0079844",
       "imdb_id": "tt0079844",
-      "category": "movie",
+      "category": "show",
       "it_title": "Le notti di Salem",
       "orig_title": "Salem's Lot",
       "year": 1979,
@@ -104401,7 +104399,8 @@
         }
       ],
       "director": "Park Chan-wook",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt4016934"
     },
     "movie:three:tt4379728": {
       "id": "movie:three:tt4379728",
@@ -104433,7 +104432,8 @@
         }
       ],
       "director": "Johnnie To",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt4379728"
     },
     "movie:joe:tt2382396": {
       "id": "movie:joe:tt2382396",
@@ -104465,7 +104465,8 @@
         }
       ],
       "director": "David Gordon Green",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt2382396"
     },
     "movie:lion- la strada verso casa:tt3741834": {
       "id": "movie:lion- la strada verso casa:tt3741834",
@@ -105281,10 +105282,10 @@
       "director": "Gore Verbinski",
       "it_flatrate": []
     },
-    "movie:love:tt4061080": {
-      "id": "movie:love:tt4061080",
+    "show:love:tt4061080": {
+      "id": "show:love:tt4061080",
       "imdb_id": "tt4061080",
-      "category": "movie",
+      "category": "show",
       "it_title": "Love",
       "orig_title": "Love",
       "year": 2016,
@@ -105382,10 +105383,10 @@
       "it_flatrate": [],
       "director": "Steven Knight"
     },
-    "movie:insider - dietro la verità:tt0140352": {
-      "id": "movie:insider - dietro la verità:tt0140352",
+    "show:insider - dietro la verità:tt0140352": {
+      "id": "show:insider - dietro la verità:tt0140352",
       "imdb_id": "tt0140352",
-      "category": "movie",
+      "category": "show",
       "it_title": "Insider - Dietro la verità",
       "orig_title": "The Insider",
       "year": 1999,
@@ -105393,7 +105394,7 @@
       "poster_url": "https://m.media-amazon.com/images/M/MV5BNmE3MjU3NzYtNTk1Ni00ZmM5LTk1ZDktN2VlYzAwM2UzZjBjXkEyXkFqcGc@._V1_UX400_.jpg",
       "media_type": "show",
       "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0140352",
+      "external_url": "https://app.trakt.tv/shows/tt0140352",
       "recommendations": [
         {
           "creator": "Federico Frusciante",
@@ -105415,10 +105416,10 @@
       "director": "Michael Mann",
       "it_flatrate": []
     },
-    "movie:l'uomo della pioggia:tt0119978": {
-      "id": "movie:l'uomo della pioggia:tt0119978",
+    "show:l'uomo della pioggia:tt0119978": {
+      "id": "show:l'uomo della pioggia:tt0119978",
       "imdb_id": "tt0119978",
-      "category": "movie",
+      "category": "show",
       "it_title": "L'uomo della pioggia",
       "orig_title": "The Rainmaker",
       "year": 1997,
@@ -105426,7 +105427,7 @@
       "poster_url": "https://m.media-amazon.com/images/M/MV5BNTc5YTljMWMtMmQ5Ni00NjA5LTg5ZjctMTdhYzI2YWUyOGI1XkEyXkFqcGc@._V1_UX400_.jpg",
       "media_type": "show",
       "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0119978",
+      "external_url": "https://app.trakt.tv/shows/tt0119978",
       "recommendations": [
         {
           "creator": "Federico Frusciante",
@@ -106678,10 +106679,10 @@
       "director": "Cary Murnion, Jonathan Milott",
       "it_flatrate": []
     },
-    "movie:manhunt:tt5618256": {
-      "id": "movie:manhunt:tt5618256",
+    "show:manhunt:tt5618256": {
+      "id": "show:manhunt:tt5618256",
       "imdb_id": "tt5618256",
-      "category": "movie",
+      "category": "show",
       "it_title": "Manhunt",
       "orig_title": "Manhunt",
       "year": 2017,
@@ -110492,7 +110493,8 @@
         }
       ],
       "director": "Will Gluck",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt37853455"
     },
     "movie:rimini:tt8956284": {
       "id": "movie:rimini:tt8956284",
@@ -110524,20 +110526,21 @@
         }
       ],
       "director": "Ulrich Seidl",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt8956284"
     },
-    "movie:ted lasso s02:tt1086064": {
-      "id": "movie:ted lasso s02:tt1086064",
+    "show:ted lasso s02:tt1086064": {
+      "id": "show:ted lasso s02:tt1086064",
       "imdb_id": "tt1086064",
-      "category": "movie",
+      "category": "show",
       "it_title": "Ted Lasso s02",
       "orig_title": "Bill & Ted Face the Music",
       "year": 2020,
       "cast": "Keanu Reeves, Alex Winter",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BZTU5NWRkNmEtZmY4Yi00ZTIzLWIxNjUtMzM3ODM2ZTdiOWNhXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt1086064",
+      "external_url": "https://app.trakt.tv/shows/tt1086064",
       "recommendations": [
         {
           "creator": "Victorlaszlo88",
@@ -110560,10 +110563,10 @@
       "director": "Dean Parisot",
       "it_flatrate": []
     },
-    "movie:midnight mass:tt10574558": {
-      "id": "movie:midnight mass:tt10574558",
+    "show:midnight mass:tt10574558": {
+      "id": "show:midnight mass:tt10574558",
       "imdb_id": "tt10574558",
-      "category": "movie",
+      "category": "show",
       "it_title": "Midnight Mass",
       "orig_title": "Midnight Mass",
       "year": 2021,
@@ -110625,7 +110628,8 @@
         }
       ],
       "director": "Cord Jefferson",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt23561236"
     },
     "movie:assassinio a venezia:tt22687790": {
       "id": "movie:assassinio a venezia:tt22687790",
@@ -110658,7 +110662,8 @@
         }
       ],
       "director": "Kenneth Branagh",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt22687790"
     },
     "movie:enola holmes 2:tt14641788": {
       "id": "movie:enola holmes 2:tt14641788",
@@ -110691,7 +110696,8 @@
         }
       ],
       "director": "Harry Bradbeer",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt14641788"
     },
     "movie:black adam:tt6443346": {
       "id": "movie:black adam:tt6443346",
@@ -110724,7 +110730,8 @@
         }
       ],
       "director": "Jaume Collet-Serra",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt6443346"
     },
     "movie:lightyear:tt10298810": {
       "id": "movie:lightyear:tt10298810",
@@ -110757,7 +110764,8 @@
         }
       ],
       "director": "Angus MacLane",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt10298810"
     },
     "movie:fear street parte 2: 1978:tt9701940": {
       "id": "movie:fear street parte 2: 1978:tt9701940",
@@ -110790,7 +110798,8 @@
         }
       ],
       "director": "Leigh Janiak",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt9701940"
     },
     "movie:zack snyder's justice league:tt12361974": {
       "id": "movie:zack snyder's justice league:tt12361974",
@@ -110823,7 +110832,8 @@
         }
       ],
       "director": "Zack Snyder",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt12361974"
     },
     "movie:il buco:tt8228288": {
       "id": "movie:il buco:tt8228288",
@@ -110856,7 +110866,8 @@
         }
       ],
       "director": "Galder Gaztelu-Urrutia",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt8228288"
     },
     "movie:cime tempestose:tt32897959": {
       "id": "movie:cime tempestose:tt32897959",
@@ -110889,7 +110900,8 @@
         }
       ],
       "director": "Emerald Fennell",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt32897959"
     },
     "movie:artemis fowl:tt3089630": {
       "id": "movie:artemis fowl:tt3089630",
@@ -111060,6 +111072,31 @@
       ],
       "director": "Joel Coen",
       "it_flatrate": []
+    },
+    "movie:jimmy:tt33372496": {
+      "id": "movie:jimmy:tt33372496",
+      "imdb_id": "tt33372496",
+      "category": "movie",
+      "it_title": "Jimmy",
+      "orig_title": "Jimmy and Stiggs",
+      "year": 2025,
+      "cast": "Joe Begos, Matt Mercer",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDk2ZGRiY2ItZDY5Mi00ZjJlLWJiZTEtMWFiMTEwMWZiODQ1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt33372496",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_jimmy-stewart-biopic-film-review-2026",
+          "video_title": "RogerEbert.com (★ Consigliato)",
+          "timestamp": "★ Consigliato",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/jimmy-stewart-biopic-film-review-2026",
+          "mentioned_as": "Jimmy"
+        }
+      ]
     },
     "movie:night nurse:tt38906892": {
       "id": "movie:night nurse:tt38906892",
@@ -111528,10 +111565,10 @@
       "external_url": "https://app.trakt.tv/movies/tt15771916",
       "director": "Nicole Holofcener"
     },
-    "movie:the english:tt11771270": {
-      "id": "movie:the english:tt11771270",
+    "show:the english:tt11771270": {
+      "id": "show:the english:tt11771270",
       "imdb_id": "tt11771270",
-      "category": "movie",
+      "category": "show",
       "it_title": "The English",
       "orig_title": "The English",
       "year": 2022,
@@ -111631,10 +111668,10 @@
       "external_url": "https://app.trakt.tv/movies/tt3420504",
       "director": "Miguel Sapochnik"
     },
-    "movie:halston:tt9569546": {
-      "id": "movie:halston:tt9569546",
+    "show:halston:tt9569546": {
+      "id": "show:halston:tt9569546",
       "imdb_id": "tt9569546",
-      "category": "movie",
+      "category": "show",
       "it_title": "Halston",
       "orig_title": "Halston",
       "year": 2021,
@@ -112638,10 +112675,10 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt2202377"
     },
-    "movie:squid game:tt10919420": {
-      "id": "movie:squid game:tt10919420",
+    "show:squid game:tt10919420": {
+      "id": "show:squid game:tt10919420",
       "imdb_id": "tt10919420",
-      "category": "movie",
+      "category": "show",
       "it_title": "SQUID GAME",
       "orig_title": "Squid Game",
       "year": 2021,
@@ -113810,7 +113847,7 @@
       "poster_url": "https://m.media-amazon.com/images/M/MV5BY2JhNzcxMTQtNGUxOS00MTBkLWEzYjUtZWJlZjMyMTdhYmZmXkEyXkFqcGc@._V1_UX400_.jpg",
       "media_type": "movie",
       "ch_flatrate": [],
-      "external_url": "",
+      "external_url": "https://app.trakt.tv/movies/tt0091506",
       "recommendations": [
         {
           "creator": "Piero Scaruffi",
@@ -114570,10 +114607,10 @@
       "director": "Spike Lee",
       "it_flatrate": []
     },
-    "movie:clerks:tt0210413": {
-      "id": "movie:clerks:tt0210413",
+    "show:clerks:tt0210413": {
+      "id": "show:clerks:tt0210413",
       "imdb_id": "tt0210413",
-      "category": "movie",
+      "category": "show",
       "it_title": "Clerks",
       "orig_title": "Clerks",
       "year": 2000,
@@ -116107,10 +116144,10 @@
       "director": "Roman Polański",
       "it_flatrate": []
     },
-    "movie:the end?:tt6257970": {
-      "id": "movie:the end?:tt6257970",
+    "show:the end?:tt6257970": {
+      "id": "show:the end?:tt6257970",
       "imdb_id": "tt6257970",
-      "category": "movie",
+      "category": "show",
       "it_title": "The end?",
       "orig_title": "The End of the F***ing World",
       "year": 2017,
@@ -117009,10 +117046,10 @@
       "director": "Roger Avary",
       "it_flatrate": []
     },
-    "movie:lucky day:tt10720914": {
-      "id": "movie:lucky day:tt10720914",
+    "show:lucky day:tt10720914": {
+      "id": "show:lucky day:tt10720914",
       "imdb_id": "tt10720914",
-      "category": "movie",
+      "category": "show",
       "it_title": "Lucky Day",
       "orig_title": "McDonald & Dodds",
       "year": 2020,
@@ -117229,10 +117266,10 @@
       "director": "Éric Gravel",
       "it_flatrate": []
     },
-    "movie:love life:tt10380768": {
-      "id": "movie:love life:tt10380768",
+    "show:love life:tt10380768": {
+      "id": "show:love life:tt10380768",
       "imdb_id": "tt10380768",
-      "category": "movie",
+      "category": "show",
       "it_title": "Love Life",
       "orig_title": "Love Life",
       "year": 2020,
@@ -117799,10 +117836,10 @@
       "director": "Yuzuru Tachikawa",
       "it_flatrate": []
     },
-    "movie:dostoevskij:tt12005620": {
-      "id": "movie:dostoevskij:tt12005620",
+    "show:dostoevskij:tt12005620": {
+      "id": "show:dostoevskij:tt12005620",
       "imdb_id": "tt12005620",
-      "category": "movie",
+      "category": "show",
       "it_title": "Dostoevskij",
       "orig_title": "Dostoyevsky",
       "year": 2024,
@@ -117895,10 +117932,10 @@
       "director": "Kiyoshi Kurosawa",
       "it_flatrate": []
     },
-    "movie:nosferatu:tt14264160": {
-      "id": "movie:nosferatu:tt14264160",
+    "show:nosferatu:tt14264160": {
+      "id": "show:nosferatu:tt14264160",
       "imdb_id": "tt14264160",
-      "category": "movie",
+      "category": "show",
       "it_title": "Nosferatu",
       "orig_title": "Irina: The Vampire Cosmonaut",
       "year": 2021,
@@ -120906,10 +120943,10 @@
       "director": "Alberto De Martino",
       "it_flatrate": []
     },
-    "movie:il signore delle illusioni:tt5263880": {
-      "id": "movie:il signore delle illusioni:tt5263880",
+    "show:il signore delle illusioni:tt5263880": {
+      "id": "show:il signore delle illusioni:tt5263880",
       "imdb_id": "tt5263880",
-      "category": "movie",
+      "category": "show",
       "it_title": "Il Signore delle Illusioni",
       "orig_title": "Il paradiso delle signore",
       "year": 2015,
@@ -123516,10 +123553,10 @@
       "director": "Steno",
       "it_flatrate": []
     },
-    "movie:milano calibro 9 - la mala ordina - il boss:tt5936838": {
-      "id": "movie:milano calibro 9 - la mala ordina - il boss:tt5936838",
+    "show:milano calibro 9 - la mala ordina - il boss:tt5936838": {
+      "id": "show:milano calibro 9 - la mala ordina - il boss:tt5936838",
       "imdb_id": "tt5936838",
-      "category": "movie",
+      "category": "show",
       "it_title": "Milano Calibro 9 - La mala ordina - il Boss",
       "orig_title": "Prime Suspect: Tennison",
       "year": 2017,
@@ -124168,10 +124205,10 @@
       "director": "Neil Marshall, Dave Parker",
       "it_flatrate": []
     },
-    "movie:amen:tt0090395": {
-      "id": "movie:amen:tt0090395",
+    "show:amen:tt0090395": {
+      "id": "show:amen:tt0090395",
       "imdb_id": "tt0090395",
-      "category": "movie",
+      "category": "show",
       "it_title": "Amen",
       "orig_title": "Amen",
       "year": 1986,
@@ -125450,10 +125487,10 @@
       "director": "F. Gary Gray",
       "it_flatrate": []
     },
-    "movie:nel nome del male:tt1451751": {
-      "id": "movie:nel nome del male:tt1451751",
+    "show:nel nome del male:tt1451751": {
+      "id": "show:nel nome del male:tt1451751",
       "imdb_id": "tt1451751",
-      "category": "movie",
+      "category": "show",
       "it_title": "Nel nome del male",
       "orig_title": "Nel nome del male",
       "year": 2009,
@@ -125799,10 +125836,10 @@
       "director": "Kike Maíllo",
       "it_flatrate": []
     },
-    "movie:andromeda:tt0213327": {
-      "id": "movie:andromeda:tt0213327",
+    "show:andromeda:tt0213327": {
+      "id": "show:andromeda:tt0213327",
       "imdb_id": "tt0213327",
-      "category": "movie",
+      "category": "show",
       "it_title": "Andromeda",
       "orig_title": "Andromeda",
       "year": 2000,
@@ -126926,10 +126963,10 @@
       "director": "Mike Marvin",
       "it_flatrate": []
     },
-    "movie:reprisal:tt8594028": {
-      "id": "movie:reprisal:tt8594028",
+    "show:reprisal:tt8594028": {
+      "id": "show:reprisal:tt8594028",
       "imdb_id": "tt8594028",
-      "category": "movie",
+      "category": "show",
       "it_title": "Reprisal",
       "orig_title": "Reprisal",
       "year": 2019,
@@ -127187,10 +127224,10 @@
       "director": "Giovanni Veronesi",
       "it_flatrate": []
     },
-    "movie:ricomincio da me:tt0476436": {
-      "id": "movie:ricomincio da me:tt0476436",
+    "show:ricomincio da me:tt0476436": {
+      "id": "show:ricomincio da me:tt0476436",
       "imdb_id": "tt0476436",
-      "category": "movie",
+      "category": "show",
       "it_title": "Ricomincio da me",
       "orig_title": "Ricomincio da me",
       "year": 2005,
@@ -128387,10 +128424,10 @@
       "director": "Miguel Arteta",
       "it_flatrate": []
     },
-    "movie:le due verità:tt6118426": {
-      "id": "movie:le due verità:tt6118426",
+    "show:le due verità:tt6118426": {
+      "id": "show:le due verità:tt6118426",
       "imdb_id": "tt6118426",
-      "category": "movie",
+      "category": "show",
       "it_title": "Le due verità",
       "orig_title": "Ordeal by Innocence",
       "year": 2018,
@@ -128459,10 +128496,10 @@
       "director": "Karzan Kader",
       "it_flatrate": []
     },
-    "movie:s.w.a.t.:tt6111130": {
-      "id": "movie:s.w.a.t.:tt6111130",
+    "show:s.w.a.t.:tt6111130": {
+      "id": "show:s.w.a.t.:tt6111130",
       "imdb_id": "tt6111130",
-      "category": "movie",
+      "category": "show",
       "it_title": "S.W.A.T.",
       "orig_title": "S.W.A.T.",
       "year": 2017,
@@ -130227,10 +130264,10 @@
       "director": "Jean-Luc Godard, Mauro Bolognini",
       "it_flatrate": []
     },
-    "movie:oceano:tt0098012": {
-      "id": "movie:oceano:tt0098012",
+    "show:oceano:tt0098012": {
+      "id": "show:oceano:tt0098012",
       "imdb_id": "tt0098012",
-      "category": "movie",
+      "category": "show",
       "it_title": "Oceano",
       "orig_title": "Ocean",
       "year": 1989,
@@ -130731,10 +130768,10 @@
       "director": "Han Jae-rim",
       "it_flatrate": []
     },
-    "movie:cortesie per gli ospiti:tt2213592": {
-      "id": "movie:cortesie per gli ospiti:tt2213592",
+    "show:cortesie per gli ospiti:tt2213592": {
+      "id": "show:cortesie per gli ospiti:tt2213592",
       "imdb_id": "tt2213592",
-      "category": "movie",
+      "category": "show",
       "it_title": "Cortesie per gli ospiti",
       "orig_title": "Cortesie per gli ospiti",
       "year": 2006,
@@ -131065,10 +131102,10 @@
       "director": "Adrian Grunberg",
       "it_flatrate": []
     },
-    "movie:the flash:tt3107288": {
-      "id": "movie:the flash:tt3107288",
+    "show:the flash:tt3107288": {
+      "id": "show:the flash:tt3107288",
       "imdb_id": "tt3107288",
-      "category": "movie",
+      "category": "show",
       "it_title": "The Flash",
       "orig_title": "The Flash",
       "year": 2014,
@@ -131401,10 +131438,10 @@
       "director": "Joe Dante",
       "it_flatrate": []
     },
-    "movie:la stagione della strega:tt0069239": {
-      "id": "movie:la stagione della strega:tt0069239",
+    "show:la stagione della strega:tt0069239": {
+      "id": "show:la stagione della strega:tt0069239",
       "imdb_id": "tt0069239",
-      "category": "movie",
+      "category": "show",
       "it_title": "La stagione della strega",
       "orig_title": "Season of the Witch",
       "year": 1972,
@@ -131656,10 +131693,10 @@
       "director": "J. J. Abrams",
       "it_flatrate": []
     },
-    "movie:star trek:tt0060028": {
-      "id": "movie:star trek:tt0060028",
+    "show:star trek:tt0060028": {
+      "id": "show:star trek:tt0060028",
       "imdb_id": "tt0060028",
-      "category": "movie",
+      "category": "show",
       "it_title": "Star Trek",
       "orig_title": "Star Trek",
       "year": 1966,
@@ -131964,10 +132001,10 @@
       "director": "Gene Stupnitsky",
       "it_flatrate": []
     },
-    "movie:thermae romae:tt2230761": {
-      "id": "movie:thermae romae:tt2230761",
+    "show:thermae romae:tt2230761": {
+      "id": "show:thermae romae:tt2230761",
       "imdb_id": "tt2230761",
-      "category": "movie",
+      "category": "show",
       "it_title": "Thermae Romae",
       "orig_title": "Thermae Romae",
       "year": 2012,
@@ -131987,10 +132024,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:survivor:tt0239195": {
-      "id": "movie:survivor:tt0239195",
+    "show:survivor:tt0239195": {
+      "id": "show:survivor:tt0239195",
       "imdb_id": "tt0239195",
-      "category": "movie",
+      "category": "show",
       "it_title": "Survivor",
       "orig_title": "Survivor",
       "year": 2000,
@@ -132274,10 +132311,10 @@
       "director": "Kuo-Ren Wu",
       "it_flatrate": []
     },
-    "movie:hack:tt0320022": {
-      "id": "movie:hack:tt0320022",
+    "show:hack:tt0320022": {
+      "id": "show:hack:tt0320022",
       "imdb_id": "tt0320022",
-      "category": "movie",
+      "category": "show",
       "it_title": "Hack",
       "orig_title": "Hack",
       "year": 2002,
@@ -132799,10 +132836,10 @@
       "director": "John Hyams",
       "it_flatrate": []
     },
-    "movie:baby:tt7645192": {
-      "id": "movie:baby:tt7645192",
+    "show:baby:tt7645192": {
+      "id": "show:baby:tt7645192",
       "imdb_id": "tt7645192",
-      "category": "movie",
+      "category": "show",
       "it_title": "Baby",
       "orig_title": "Baby",
       "year": 2018,
@@ -132870,10 +132907,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:the night:tt1399664": {
-      "id": "movie:the night:tt1399664",
+    "show:the night:tt1399664": {
+      "id": "show:the night:tt1399664",
       "imdb_id": "tt1399664",
-      "category": "movie",
+      "category": "show",
       "it_title": "The Night",
       "orig_title": "The Night Manager",
       "year": 2016,
@@ -132894,10 +132931,10 @@
       "director": "Susanne Bier",
       "it_flatrate": []
     },
-    "movie:hometown:tt14687370": {
-      "id": "movie:hometown:tt14687370",
+    "show:hometown:tt14687370": {
+      "id": "show:hometown:tt14687370",
       "imdb_id": "tt14687370",
-      "category": "movie",
+      "category": "show",
       "it_title": "Hometown",
       "orig_title": "Hometown",
       "year": 2021,
@@ -132917,10 +132954,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:alice:tt10795658": {
-      "id": "movie:alice:tt10795658",
+    "show:alice:tt10795658": {
+      "id": "show:alice:tt10795658",
       "imdb_id": "tt10795658",
-      "category": "movie",
+      "category": "show",
       "it_title": "Alice",
       "orig_title": "Alice in Borderland",
       "year": 2020,
@@ -132941,10 +132978,10 @@
       "director": "Shinsuke Sato",
       "it_flatrate": []
     },
-    "movie:matrix:tt0106062": {
-      "id": "movie:matrix:tt0106062",
+    "show:matrix:tt0106062": {
+      "id": "show:matrix:tt0106062",
       "imdb_id": "tt0106062",
-      "category": "movie",
+      "category": "show",
       "it_title": "Matrix",
       "orig_title": "Matrix",
       "year": 1993,
@@ -135266,10 +135303,10 @@
       "director": "Davide Montecchi",
       "it_flatrate": []
     },
-    "movie:andor:tt9253284": {
-      "id": "movie:andor:tt9253284",
+    "show:andor:tt9253284": {
+      "id": "show:andor:tt9253284",
       "imdb_id": "tt9253284",
-      "category": "movie",
+      "category": "show",
       "it_title": "Andor",
       "orig_title": "Andor",
       "year": 2022,
@@ -136083,10 +136120,10 @@
       "director": "Bernardo Bertolucci",
       "it_flatrate": []
     },
-    "movie:the strain (stagione 2):tt2575290": {
-      "id": "movie:the strain (stagione 2):tt2575290",
+    "show:the strain (stagione 2):tt2575290": {
+      "id": "show:the strain (stagione 2):tt2575290",
       "imdb_id": "tt2575290",
-      "category": "movie",
+      "category": "show",
       "it_title": "The Strain (Stagione 2)",
       "orig_title": "Train Station",
       "year": 2015,
@@ -143470,10 +143507,10 @@
       "director": "Martin Ritt",
       "it_flatrate": []
     },
-    "movie:blue eye samurai:tt13309742": {
-      "id": "movie:blue eye samurai:tt13309742",
+    "show:blue eye samurai:tt13309742": {
+      "id": "show:blue eye samurai:tt13309742",
       "imdb_id": "tt13309742",
-      "category": "movie",
+      "category": "show",
       "it_title": "Blue Eye Samurai",
       "orig_title": "Blue Eye Samurai",
       "year": 2023,
@@ -144454,10 +144491,10 @@
       "director": "Alfred Hitchcock",
       "it_flatrate": []
     },
-    "movie:gli anelli del potere:tt7631058": {
-      "id": "movie:gli anelli del potere:tt7631058",
+    "show:gli anelli del potere:tt7631058": {
+      "id": "show:gli anelli del potere:tt7631058",
       "imdb_id": "tt7631058",
-      "category": "movie",
+      "category": "show",
       "it_title": "Gli Anelli del Potere",
       "orig_title": "The Lord of the Rings: The Rings of Power",
       "year": 2022,
@@ -144685,10 +144722,10 @@
       "director": "Sam Peckinpah",
       "it_flatrate": []
     },
-    "movie:peacemaker:tt13146488": {
-      "id": "movie:peacemaker:tt13146488",
+    "show:peacemaker:tt13146488": {
+      "id": "show:peacemaker:tt13146488",
       "imdb_id": "tt13146488",
-      "category": "movie",
+      "category": "show",
       "it_title": "Peacemaker",
       "orig_title": "Peacemaker",
       "year": 2022,
@@ -145223,10 +145260,10 @@
       "director": "Pier Paolo Pasolini",
       "it_flatrate": []
     },
-    "movie:devilman crybaby:tt6660498": {
-      "id": "movie:devilman crybaby:tt6660498",
+    "show:devilman crybaby:tt6660498": {
+      "id": "show:devilman crybaby:tt6660498",
       "imdb_id": "tt6660498",
-      "category": "movie",
+      "category": "show",
       "it_title": "Devilman Crybaby",
       "orig_title": "Devilman: Crybaby",
       "year": 2018,
@@ -148169,10 +148206,10 @@
       "director": "Costa-Gavras",
       "it_flatrate": []
     },
-    "movie:pearl:tt13259878": {
-      "id": "movie:pearl:tt13259878",
+    "show:pearl:tt13259878": {
+      "id": "show:pearl:tt13259878",
       "imdb_id": "tt13259878",
-      "category": "movie",
+      "category": "show",
       "it_title": "Pearl",
       "orig_title": "Whitstable Pearl",
       "year": 2021,
@@ -159321,10 +159358,10 @@
       "director": "David Schmoeller",
       "it_flatrate": []
     },
-    "movie:dream scenario - hai mai sognato quest'uomo?:tt11858104": {
-      "id": "movie:dream scenario - hai mai sognato quest'uomo?:tt11858104",
+    "show:dream scenario - hai mai sognato quest'uomo?:tt11858104": {
+      "id": "show:dream scenario - hai mai sognato quest'uomo?:tt11858104",
       "imdb_id": "tt11858104",
-      "category": "movie",
+      "category": "show",
       "it_title": "Dream Scenario - Hai mai sognato quest'uomo?",
       "orig_title": "Dragon Quest: The Adventure of Dai",
       "year": 2020,
@@ -159728,10 +159765,10 @@
       "director": "Daniele Luchetti",
       "it_flatrate": []
     },
-    "movie:le avventure di pinocchio:tt0068243": {
-      "id": "movie:le avventure di pinocchio:tt0068243",
+    "show:le avventure di pinocchio:tt0068243": {
+      "id": "show:le avventure di pinocchio:tt0068243",
       "imdb_id": "tt0068243",
-      "category": "movie",
+      "category": "show",
       "it_title": "Le Avventure di Pinocchio",
       "orig_title": "The Adventures of Pinocchio",
       "year": 1972,
@@ -160317,10 +160354,10 @@
       "director": "Mariano Laurenti",
       "it_flatrate": []
     },
-    "movie:oshi no ko:tt21030032": {
-      "id": "movie:oshi no ko:tt21030032",
+    "show:oshi no ko:tt21030032": {
+      "id": "show:oshi no ko:tt21030032",
       "imdb_id": "tt21030032",
-      "category": "movie",
+      "category": "show",
       "it_title": "Oshi no ko",
       "orig_title": "Oshi No Ko",
       "year": 2023,
@@ -160532,10 +160569,10 @@
       "director": "John Woo",
       "it_flatrate": []
     },
-    "movie:mercoledì:tt13443470": {
-      "id": "movie:mercoledì:tt13443470",
+    "show:mercoledì:tt13443470": {
+      "id": "show:mercoledì:tt13443470",
       "imdb_id": "tt13443470",
-      "category": "movie",
+      "category": "show",
       "it_title": "Mercoledì",
       "orig_title": "Wednesday",
       "year": 2022,
@@ -160556,10 +160593,10 @@
       "director": "Tim Burton",
       "it_flatrate": []
     },
-    "movie:spy × family - stagione 1:tt13706018": {
-      "id": "movie:spy × family - stagione 1:tt13706018",
+    "show:spy × family - stagione 1:tt13706018": {
+      "id": "show:spy × family - stagione 1:tt13706018",
       "imdb_id": "tt13706018",
-      "category": "movie",
+      "category": "show",
       "it_title": "Spy × Family - Stagione 1",
       "orig_title": "Spy x Family",
       "year": 2022,
@@ -166442,10 +166479,10 @@
       "director": "Marco Martani",
       "it_flatrate": []
     },
-    "movie:collateral:tt6729080": {
-      "id": "movie:collateral:tt6729080",
+    "show:collateral:tt6729080": {
+      "id": "show:collateral:tt6729080",
       "imdb_id": "tt6729080",
-      "category": "movie",
+      "category": "show",
       "it_title": "Collateral",
       "orig_title": "Collateral",
       "year": 2018,
@@ -166548,10 +166585,10 @@
       "director": "Bryan Singer",
       "it_flatrate": []
     },
-    "movie:salem's lot:tt0355987": {
-      "id": "movie:salem's lot:tt0355987",
+    "show:salem's lot:tt0355987": {
+      "id": "show:salem's lot:tt0355987",
       "imdb_id": "tt0355987",
-      "category": "movie",
+      "category": "show",
       "it_title": "Salem's Lot",
       "orig_title": "Salem's Lot",
       "year": 2004,
@@ -166573,10 +166610,10 @@
       "director": "Mikael Salomon",
       "it_flatrate": []
     },
-    "movie:la tempesta del secolo:tt0135659": {
-      "id": "movie:la tempesta del secolo:tt0135659",
+    "show:la tempesta del secolo:tt0135659": {
+      "id": "show:la tempesta del secolo:tt0135659",
       "imdb_id": "tt0135659",
-      "category": "movie",
+      "category": "show",
       "it_title": "La tempesta del secolo",
       "orig_title": "Storm of the Century",
       "year": 1999,
@@ -166604,10 +166641,10 @@
       "director": "Craig R. Baxley",
       "it_flatrate": []
     },
-    "movie:rose red:tt0259153": {
-      "id": "movie:rose red:tt0259153",
+    "show:rose red:tt0259153": {
+      "id": "show:rose red:tt0259153",
       "imdb_id": "tt0259153",
-      "category": "movie",
+      "category": "show",
       "it_title": "Rose Red",
       "orig_title": "Rose Red",
       "year": 2002,
@@ -166721,10 +166758,10 @@
       "director": "Chris Thomson",
       "it_flatrate": []
     },
-    "movie:golden years:tt0101206": {
-      "id": "movie:golden years:tt0101206",
+    "show:golden years:tt0101206": {
+      "id": "show:golden years:tt0101206",
       "imdb_id": "tt0101206",
-      "category": "movie",
+      "category": "show",
       "it_title": "Golden years",
       "orig_title": "Golden Years",
       "year": 1991,
@@ -166746,10 +166783,10 @@
       "director": "Kenneth Fink",
       "it_flatrate": []
     },
-    "movie:i langolieri:tt0112040": {
-      "id": "movie:i langolieri:tt0112040",
+    "show:i langolieri:tt0112040": {
+      "id": "show:i langolieri:tt0112040",
       "imdb_id": "tt0112040",
-      "category": "movie",
+      "category": "show",
       "it_title": "I Langolieri",
       "orig_title": "The Langoliers",
       "year": 1995,
@@ -166969,10 +167006,10 @@
       "director": "Claudio Caligari",
       "it_flatrate": []
     },
-    "movie:a certain justice:tt0163932": {
-      "id": "movie:a certain justice:tt0163932",
+    "show:a certain justice:tt0163932": {
+      "id": "show:a certain justice:tt0163932",
       "imdb_id": "tt0163932",
-      "category": "movie",
+      "category": "show",
       "it_title": "A certain justice",
       "orig_title": "A Certain Justice",
       "year": 1998,
@@ -167224,10 +167261,10 @@
       "director": "Manoel de Oliveira",
       "it_flatrate": []
     },
-    "movie:new york stories, episodio edipo relitto:tt0097965": {
-      "id": "movie:new york stories, episodio edipo relitto:tt0097965",
+    "show:new york stories, episodio edipo relitto:tt0097965": {
+      "id": "show:new york stories, episodio edipo relitto:tt0097965",
       "imdb_id": "tt0097965",
-      "category": "movie",
+      "category": "show",
       "it_title": "New York Stories, episodio Edipo relitto",
       "orig_title": "New York Stories",
       "year": 1989,
@@ -167752,10 +167789,10 @@
       "director": "Walter Hill",
       "it_flatrate": []
     },
-    "movie:hannibal:tt2243973": {
-      "id": "movie:hannibal:tt2243973",
+    "show:hannibal:tt2243973": {
+      "id": "show:hannibal:tt2243973",
       "imdb_id": "tt2243973",
-      "category": "movie",
+      "category": "show",
       "it_title": "Hannibal",
       "orig_title": "Hannibal",
       "year": 2013,
@@ -167872,10 +167909,10 @@
       "director": "Michael Mann",
       "it_flatrate": []
     },
-    "movie:miami vice:tt0086759": {
-      "id": "movie:miami vice:tt0086759",
+    "show:miami vice:tt0086759": {
+      "id": "show:miami vice:tt0086759",
       "imdb_id": "tt0086759",
-      "category": "movie",
+      "category": "show",
       "it_title": "Miami Vice",
       "orig_title": "Miami Vice",
       "year": 1984,
@@ -168304,18 +168341,18 @@
       "director": "Arthur Penn",
       "it_flatrate": []
     },
-    "movie:la caccia:tt0433673": {
-      "id": "movie:la caccia:tt0433673",
+    "show:la caccia:tt0433673": {
+      "id": "show:la caccia:tt0433673",
       "imdb_id": "tt0433673",
-      "category": "movie",
+      "category": "show",
       "it_title": "La Caccia",
       "orig_title": "La caccia",
       "year": 2005,
       "cast": "Andrea Osvárt, Claudio Amendola",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BOWFmY2EzNjQtZTVkYi00M2NmLThiMmQtODEwOWQyZjhhOGRjXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0433673",
+      "external_url": "https://app.trakt.tv/shows/tt0433673",
       "recommendations": [
         {
           "creator": "Federico Frusciante",
@@ -170512,10 +170549,10 @@
       "director": "Robert A. Ferretti",
       "it_flatrate": []
     },
-    "movie:halloween 6:tt21335916": {
-      "id": "movie:halloween 6:tt21335916",
+    "show:halloween 6:tt21335916": {
+      "id": "show:halloween 6:tt21335916",
       "imdb_id": "tt21335916",
-      "category": "movie",
+      "category": "show",
       "it_title": "Halloween 6",
       "orig_title": "Bite Size Halloween",
       "year": 2020,
@@ -170655,10 +170692,10 @@
       "director": "Jonathan Mostow",
       "it_flatrate": []
     },
-    "movie:neverland:tt1720619": {
-      "id": "movie:neverland:tt1720619",
+    "show:neverland:tt1720619": {
+      "id": "show:neverland:tt1720619",
       "imdb_id": "tt1720619",
-      "category": "movie",
+      "category": "show",
       "it_title": "Neverland",
       "orig_title": "Neverland",
       "year": 2011,
@@ -171015,10 +171052,10 @@
       "director": "Peter Farrelly",
       "it_flatrate": []
     },
-    "movie:away:tt8787802": {
-      "id": "movie:away:tt8787802",
+    "show:away:tt8787802": {
+      "id": "show:away:tt8787802",
       "imdb_id": "tt8787802",
-      "category": "movie",
+      "category": "show",
       "it_title": "Away",
       "orig_title": "Away",
       "year": 2020,
@@ -171634,10 +171671,10 @@
       "director": "Vicente Amorim",
       "it_flatrate": []
     },
-    "movie:una stagione da ricordare:tt5427194": {
-      "id": "movie:una stagione da ricordare:tt5427194",
+    "show:una stagione da ricordare:tt5427194": {
+      "id": "show:una stagione da ricordare:tt5427194",
       "imdb_id": "tt5427194",
-      "category": "movie",
+      "category": "show",
       "it_title": "Una stagione da ricordare",
       "orig_title": "The Miracle Season",
       "year": 2018,
@@ -176066,10 +176103,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:crappy toilet:tt24567218": {
-      "id": "movie:crappy toilet:tt24567218",
+    "show:crappy toilet:tt24567218": {
+      "id": "show:crappy toilet:tt24567218",
       "imdb_id": "tt24567218",
-      "category": "movie",
+      "category": "show",
       "it_title": "Crappy toilet",
       "orig_title": "Happy the Hoglet",
       "year": 2022,
@@ -177074,10 +177111,10 @@
       "director": "Dmitriy Grachev",
       "it_flatrate": []
     },
-    "movie:honey 3:tt0300705": {
-      "id": "movie:honey 3:tt0300705",
+    "show:honey 3:tt0300705": {
+      "id": "show:honey 3:tt0300705",
       "imdb_id": "tt0300705",
-      "category": "movie",
+      "category": "show",
       "it_title": "Honey 3",
       "orig_title": "37 Honey St",
       "year": 1998,
@@ -177822,18 +177859,18 @@
       ],
       "it_flatrate": []
     },
-    "movie:hazbin hotel - stagione 2:tt38580968": {
-      "id": "movie:hazbin hotel - stagione 2:tt38580968",
+    "show:hazbin hotel - stagione 2:tt38580968": {
+      "id": "show:hazbin hotel - stagione 2:tt38580968",
       "imdb_id": "tt38580968",
-      "category": "movie",
+      "category": "show",
       "it_title": "Hazbin Hotel - Stagione 2",
       "orig_title": "Hazbin Hotel: Sing-Along",
       "year": 2025,
       "cast": "",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BZmExMWI4MTUtZTg0Yi00ZjJlLTgyMTQtMjQxMTYwZDQwOGQ5XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt38580968",
+      "external_url": "https://app.trakt.tv/shows/tt38580968",
       "recommendations": [
         {
           "creator": "Federico Frusciante",
@@ -177845,10 +177882,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:the strain (stagione 1):tt2654620": {
-      "id": "movie:the strain (stagione 1):tt2654620",
+    "show:the strain (stagione 1):tt2654620": {
+      "id": "show:the strain (stagione 1):tt2654620",
       "imdb_id": "tt2654620",
-      "category": "movie",
+      "category": "show",
       "it_title": "The Strain (Stagione 1)",
       "orig_title": "The Strain",
       "year": 2014,
@@ -177868,18 +177905,18 @@
       ],
       "it_flatrate": []
     },
-    "movie:l'attacco dei giganti - stagione 2:tt3646946": {
-      "id": "movie:l'attacco dei giganti - stagione 2:tt3646946",
+    "show:l'attacco dei giganti - stagione 2:tt3646946": {
+      "id": "show:l'attacco dei giganti - stagione 2:tt3646946",
       "imdb_id": "tt3646946",
-      "category": "movie",
+      "category": "show",
       "it_title": "L'attacco dei giganti - Stagione 2",
       "orig_title": "Attack on Titan: Wings of Freedom",
       "year": 2015,
       "cast": "Yûki Kaji, Yui Ishikawa",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BNDk3NzUwZmQtMGZhOC00OWE2LWE2OTQtMDJiZWIzNjMxZmY1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt3646946",
+      "external_url": "https://app.trakt.tv/shows/tt3646946",
       "recommendations": [
         {
           "creator": "Federico Frusciante",
@@ -179322,18 +179359,18 @@
       "director": "Gareth Evans",
       "it_flatrate": []
     },
-    "movie:tag:tt0068028": {
-      "id": "movie:tag:tt0068028",
+    "show:tag:tt0068028": {
+      "id": "show:tag:tt0068028",
       "imdb_id": "tt0068028",
-      "category": "movie",
+      "category": "show",
       "it_title": "Tag",
       "orig_title": "Acht Stunden sind kein Tag",
       "year": 2010,
       "cast": "Gottfried John, Wolfrid Lier",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BNjUyMjk2NDg5M15BMl5BanBnXkFtZTgwMzEyNTU0NjM@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0068028",
+      "external_url": "https://app.trakt.tv/shows/tt0068028",
       "recommendations": [
         {
           "creator": "Federico Frusciante",
@@ -179542,10 +179579,10 @@
       "director": "Pipolo",
       "it_flatrate": []
     },
-    "movie:l'ombra dello scorpione:tt0108941": {
-      "id": "movie:l'ombra dello scorpione:tt0108941",
+    "show:l'ombra dello scorpione:tt0108941": {
+      "id": "show:l'ombra dello scorpione:tt0108941",
       "imdb_id": "tt0108941",
-      "category": "movie",
+      "category": "show",
       "it_title": "L'ombra dello scorpione",
       "orig_title": "The Stand",
       "year": 1994,
@@ -179566,10 +179603,10 @@
       "director": "Mick Garris",
       "it_flatrate": []
     },
-    "movie:conan - il ragazzo del futuro:tt0077013": {
-      "id": "movie:conan - il ragazzo del futuro:tt0077013",
+    "show:conan - il ragazzo del futuro:tt0077013": {
+      "id": "show:conan - il ragazzo del futuro:tt0077013",
       "imdb_id": "tt0077013",
-      "category": "movie",
+      "category": "show",
       "it_title": "Conan - Il ragazzo del futuro",
       "orig_title": "Future Boy Conan",
       "year": 1978,
@@ -179590,10 +179627,10 @@
       "director": "Hayao Miyazaki",
       "it_flatrate": []
     },
-    "movie:nuremberg - il processo di norimberga:tt0208629": {
-      "id": "movie:nuremberg - il processo di norimberga:tt0208629",
+    "show:nuremberg - il processo di norimberga:tt0208629": {
+      "id": "show:nuremberg - il processo di norimberga:tt0208629",
       "imdb_id": "tt0208629",
-      "category": "movie",
+      "category": "show",
       "it_title": "Nuremberg - Il processo di Norimberga",
       "orig_title": "Nuremberg - Il processo di Norimberga",
       "year": 2000,
@@ -179637,10 +179674,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:futurama (stagione 1):tt0149460": {
-      "id": "movie:futurama (stagione 1):tt0149460",
+    "show:futurama (stagione 1):tt0149460": {
+      "id": "show:futurama (stagione 1):tt0149460",
       "imdb_id": "tt0149460",
-      "category": "movie",
+      "category": "show",
       "it_title": "Futurama (Stagione 1)",
       "orig_title": "Futurama",
       "year": 1999,
@@ -179671,7 +179708,7 @@
       "poster_url": "",
       "media_type": "movie",
       "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/search?q=Licantropia%20Evolution",
+      "external_url": "https://app.trakt.tv/movies/tt0210070",
       "recommendations": [
         {
           "creator": "Federico Frusciante",
@@ -180080,10 +180117,10 @@
       "director": "Kristen Stewart",
       "it_flatrate": []
     },
-    "movie:due spicci:tt38821531": {
-      "id": "movie:due spicci:tt38821531",
+    "show:due spicci:tt38821531": {
+      "id": "show:due spicci:tt38821531",
       "imdb_id": "tt38821531",
-      "category": "movie",
+      "category": "show",
       "it_title": "Due spicci",
       "orig_title": "My Two Cents",
       "year": 2026,
@@ -181902,10 +181939,10 @@
       "director": "Ferzan Özpetek",
       "it_flatrate": []
     },
-    "movie:the bad guy:tt14729094": {
-      "id": "movie:the bad guy:tt14729094",
+    "show:the bad guy:tt14729094": {
+      "id": "show:the bad guy:tt14729094",
       "imdb_id": "tt14729094",
-      "category": "movie",
+      "category": "show",
       "it_title": "The Bad Guy",
       "orig_title": "The Bad Guy",
       "year": 2022,
@@ -182100,10 +182137,10 @@
       "director": "Antonio Piazza, Fabio Grassadonia",
       "it_flatrate": []
     },
-    "movie:supersex:tt22325774": {
-      "id": "movie:supersex:tt22325774",
+    "show:supersex:tt22325774": {
+      "id": "show:supersex:tt22325774",
       "imdb_id": "tt22325774",
-      "category": "movie",
+      "category": "show",
       "it_title": "Supersex",
       "orig_title": "Supersex",
       "year": 2024,
@@ -182125,10 +182162,10 @@
       "director": "Francesco Carrozzini, Matteo Rovere",
       "it_flatrate": []
     },
-    "movie:the boys:tt1190634": {
-      "id": "movie:the boys:tt1190634",
+    "show:the boys:tt1190634": {
+      "id": "show:the boys:tt1190634",
       "imdb_id": "tt1190634",
-      "category": "movie",
+      "category": "show",
       "it_title": "THE BOYS",
       "orig_title": "The Boys",
       "year": 2019,
@@ -182299,10 +182336,10 @@
       "director": "Olivia Wilde",
       "it_flatrate": []
     },
-    "movie:supergirl:tt4016454": {
-      "id": "movie:supergirl:tt4016454",
+    "show:supergirl:tt4016454": {
+      "id": "show:supergirl:tt4016454",
       "imdb_id": "tt4016454",
-      "category": "movie",
+      "category": "show",
       "it_title": "Supergirl",
       "orig_title": "Supergirl",
       "year": 2015,
@@ -183038,10 +183075,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:dragon ball super:tt39395275": {
-      "id": "movie:dragon ball super:tt39395275",
+    "show:dragon ball super:tt39395275": {
+      "id": "show:dragon ball super:tt39395275",
       "imdb_id": "tt39395275",
-      "category": "movie",
+      "category": "show",
       "it_title": "Dragon Ball Super",
       "orig_title": "Dragon Ball Super: Beerus",
       "year": 2026,
@@ -183062,10 +183099,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:thor love and thunder:tt28275638": {
-      "id": "movie:thor love and thunder:tt28275638",
+    "show:thor love and thunder:tt28275638": {
+      "id": "show:thor love and thunder:tt28275638",
       "imdb_id": "tt28275638",
-      "category": "movie",
+      "category": "show",
       "it_title": "Thor Love and Thunder",
       "orig_title": "The Running of Love and Money",
       "year": 2026,
@@ -183159,10 +183196,10 @@
       "director": "Luca Guadagnino",
       "it_flatrate": []
     },
-    "movie:darkman:tt36481197": {
-      "id": "movie:darkman:tt36481197",
+    "show:darkman:tt36481197": {
+      "id": "show:darkman:tt36481197",
       "imdb_id": "tt36481197",
-      "category": "movie",
+      "category": "show",
       "it_title": "Darkman",
       "orig_title": "Cassie Workman Is Witchy AF",
       "year": 2026,
@@ -183351,7 +183388,7 @@
           "link": "https://watchnow.trakt.tv/watchnow/326276979"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt14145436",
+      "external_url": "https://app.trakt.tv/movies/tt8365404",
       "recommendations": [
         {
           "creator": "Federico Frusciante",
@@ -183440,7 +183477,8 @@
           "mentioned_as": "Look Back"
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt39094605"
     },
     "movie:mother:tt32399285": {
       "id": "movie:mother:tt32399285",
@@ -183463,7 +183501,8 @@
           "mentioned_as": "Mother"
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt32399285"
     },
     "movie:le porte del silenzio:tt0101760": {
       "id": "movie:le porte del silenzio:tt0101760",
@@ -183486,7 +183525,8 @@
         }
       ],
       "director": "Lucio Fulci",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0101760"
     },
     "movie:society - the horror:tt0098354": {
       "id": "movie:society - the horror:tt0098354",
@@ -183509,7 +183549,8 @@
         }
       ],
       "director": "Brian Yuzna",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0098354"
     },
     "movie:inferno:tt0080923": {
       "id": "movie:inferno:tt0080923",
@@ -183532,7 +183573,8 @@
         }
       ],
       "director": "Dario Argento",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0080923"
     },
     "movie:la casa:tt0083907": {
       "id": "movie:la casa:tt0083907",
@@ -183555,7 +183597,8 @@
         }
       ],
       "director": "Sam Raimi",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0083907"
     },
     "movie:il posto:tt0055320": {
       "id": "movie:il posto:tt0055320",
@@ -183578,7 +183621,8 @@
         }
       ],
       "director": "Ermanno Olmi",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0055320"
     },
     "movie:il ritorno:tt0376968": {
       "id": "movie:il ritorno:tt0376968",
@@ -183601,7 +183645,8 @@
         }
       ],
       "director": "Andrej Petrovič Zvjagincev",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0376968"
     },
     "movie:la bibbia:tt2254092": {
       "id": "movie:la bibbia:tt2254092",
@@ -183623,7 +183668,8 @@
           "seconds": 0
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt2254092"
     },
     "movie:wolfman:tt0780653": {
       "id": "movie:wolfman:tt0780653",
@@ -183646,7 +183692,8 @@
         }
       ],
       "director": "Joe Johnston",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0780653"
     },
     "movie:l'amante:tt0101316": {
       "id": "movie:l'amante:tt0101316",
@@ -183669,7 +183716,8 @@
         }
       ],
       "director": "Jean-Jacques Annaud",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0101316"
     },
     "movie:animal kingdom:tt1313092": {
       "id": "movie:animal kingdom:tt1313092",
@@ -183692,7 +183740,8 @@
         }
       ],
       "director": "David Michôd",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt1313092"
     },
     "movie:the piper:tt14197038": {
       "id": "movie:the piper:tt14197038",
@@ -183715,7 +183764,8 @@
         }
       ],
       "director": "Erlingur Thoroddsen",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt14197038"
     },
     "movie:nimona:tt19500164": {
       "id": "movie:nimona:tt19500164",
@@ -183738,7 +183788,8 @@
         }
       ],
       "director": "Troy Quane, Nick Bruno",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt19500164"
     },
     "movie:limite:tt0022080": {
       "id": "movie:limite:tt0022080",
@@ -183761,7 +183812,8 @@
         }
       ],
       "director": "Mário Peixoto",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0022080"
     },
     "movie:shooter:tt0822854": {
       "id": "movie:shooter:tt0822854",
@@ -183784,7 +183836,8 @@
         }
       ],
       "director": "Antoine Fuqua",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0822854"
     },
     "movie:con una mano ti rompo con due piedi ti spezzo:tt0067009": {
       "id": "movie:con una mano ti rompo con due piedi ti spezzo:tt0067009",
@@ -183807,7 +183860,8 @@
         }
       ],
       "director": "Jimmy Wang Yu",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0067009"
     },
     "movie:il mio nome è nessuno:tt0070215": {
       "id": "movie:il mio nome è nessuno:tt0070215",
@@ -183831,7 +183885,8 @@
         }
       ],
       "director": "Tonino Valerii",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0070215"
     },
     "movie:l'allenatore nel pallone 2:tt1073654": {
       "id": "movie:l'allenatore nel pallone 2:tt1073654",
@@ -183854,7 +183909,8 @@
         }
       ],
       "director": "Sergio Martino",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt1073654"
     },
     "movie:vampire:tt1624996": {
       "id": "movie:vampire:tt1624996",
@@ -183877,7 +183933,8 @@
         }
       ],
       "director": "Shunji Iwai",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt1624996"
     },
     "movie:favola:tt0294573": {
       "id": "movie:favola:tt0294573",
@@ -183900,7 +183957,8 @@
         }
       ],
       "director": "Fabrizio De Angelis",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0294573"
     },
     "movie:il bi e il ba:tt0088799": {
       "id": "movie:il bi e il ba:tt0088799",
@@ -183924,7 +183982,8 @@
         }
       ],
       "director": "Maurizio Nichetti",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0088799"
     },
     "movie:nǚhái - girl:tt33396536": {
       "id": "movie:nǚhái - girl:tt33396536",
@@ -183948,7 +184007,8 @@
         }
       ],
       "director": "Shu Qi",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt33396536"
     },
     "movie:king richard:tt34957792": {
       "id": "movie:king richard:tt34957792",
@@ -183998,18 +184058,18 @@
       ],
       "it_flatrate": []
     },
-    "movie:invasion:tt8060328": {
-      "id": "movie:invasion:tt8060328",
+    "show:invasion:tt8060328": {
+      "id": "show:invasion:tt8060328",
       "imdb_id": "tt8060328",
-      "category": "movie",
+      "category": "show",
       "it_title": "Invasion",
       "orig_title": "Attraction 2: Invasion",
       "year": 2020,
       "cast": "Irina Starshenbaum, Rinal Mukhametov",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BYzY4YzgxZTAtMDBiNi00MzQxLWFkN2MtZDc5ZTViYzI0NjU0XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt8060328",
+      "external_url": "https://app.trakt.tv/shows/tt8060328",
       "recommendations": [
         {
           "creator": "Victorlaszlo88",
@@ -184023,18 +184083,18 @@
       "director": "Fëdor Bondarčuk",
       "it_flatrate": []
     },
-    "movie:foundation:tt5379170": {
-      "id": "movie:foundation:tt5379170",
+    "show:foundation:tt5379170": {
+      "id": "show:foundation:tt5379170",
       "imdb_id": "tt5379170",
-      "category": "movie",
+      "category": "show",
       "it_title": "Foundation",
       "orig_title": "Electronic Music Awards & Foundation",
       "year": 2021,
       "cast": "",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BYTc5MjcyYTEtNWYxMy00Yjc0LThjMmUtMDM0NmM5YmIwMWVhXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt5379170",
+      "external_url": "https://app.trakt.tv/shows/tt5379170",
       "recommendations": [
         {
           "creator": "Victorlaszlo88",
@@ -184047,18 +184107,18 @@
       ],
       "it_flatrate": []
     },
-    "movie:gomorra s05:tt9048786": {
-      "id": "movie:gomorra s05:tt9048786",
+    "show:gomorra s05:tt9048786": {
+      "id": "show:gomorra s05:tt9048786",
       "imdb_id": "tt9048786",
-      "category": "movie",
+      "category": "show",
       "it_title": "Gomorra s05",
       "orig_title": "The Immortal",
       "year": 2019,
       "cast": "Marco D'Amore, Giuseppe Aiello",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BOTMyYzNmNTEtM2Q0My00NzI4LTk1ZWQtZDUzZTEyOWYyNTQxXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt9048786",
+      "external_url": "https://app.trakt.tv/shows/tt9048786",
       "recommendations": [
         {
           "creator": "Victorlaszlo88",
@@ -184072,10 +184132,10 @@
       "director": "Marco D'Amore",
       "it_flatrate": []
     },
-    "movie:l'uomo delle castagne:tt10834220": {
-      "id": "movie:l'uomo delle castagne:tt10834220",
+    "show:l'uomo delle castagne:tt10834220": {
+      "id": "show:l'uomo delle castagne:tt10834220",
       "imdb_id": "tt10834220",
-      "category": "movie",
+      "category": "show",
       "it_title": "L'Uomo delle Castagne",
       "orig_title": "The Chestnut Man",
       "year": 2021,
@@ -184097,18 +184157,18 @@
       "director": "Kasper Barfoed, Mikkel Serup",
       "it_flatrate": []
     },
-    "movie:the witcher s02:tt11657662": {
-      "id": "movie:the witcher s02:tt11657662",
+    "show:the witcher s02:tt11657662": {
+      "id": "show:the witcher s02:tt11657662",
       "imdb_id": "tt11657662",
-      "category": "movie",
+      "category": "show",
       "it_title": "The Witcher s02",
       "orig_title": "The Witcher: Nightmare of the Wolf",
       "year": 2021,
       "cast": "Theo James, Mary McDonnell",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BODQzNDE4N2ItZDAwMC00YzA3LTkwMTEtZDgyMjE3M2ZiY2NiXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt11657662",
+      "external_url": "https://app.trakt.tv/shows/tt11657662",
       "recommendations": [
         {
           "creator": "Victorlaszlo88",
@@ -184122,10 +184182,10 @@
       "director": "Kwang Il Han",
       "it_flatrate": []
     },
-    "movie:dopesick:tt9174558": {
-      "id": "movie:dopesick:tt9174558",
+    "show:dopesick:tt9174558": {
+      "id": "show:dopesick:tt9174558",
       "imdb_id": "tt9174558",
-      "category": "movie",
+      "category": "show",
       "it_title": "Dopesick",
       "orig_title": "Dopesick",
       "year": 2021,
@@ -184146,10 +184206,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:maid:tt11337908": {
-      "id": "movie:maid:tt11337908",
+    "show:maid:tt11337908": {
+      "id": "show:maid:tt11337908",
       "imdb_id": "tt11337908",
-      "category": "movie",
+      "category": "show",
       "it_title": "Maid",
       "orig_title": "Maid",
       "year": 2021,
@@ -184170,10 +184230,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:generazione 56k:tt13524842": {
-      "id": "movie:generazione 56k:tt13524842",
+    "show:generazione 56k:tt13524842": {
+      "id": "show:generazione 56k:tt13524842",
       "imdb_id": "tt13524842",
-      "category": "movie",
+      "category": "show",
       "it_title": "Generazione 56K",
       "orig_title": "Generation 56K",
       "year": 2021,
@@ -184194,10 +184254,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:them:tt9064858": {
-      "id": "movie:them:tt9064858",
+    "show:them:tt9064858": {
+      "id": "show:them:tt9064858",
       "imdb_id": "tt9064858",
-      "category": "movie",
+      "category": "show",
       "it_title": "Them",
       "orig_title": "Them",
       "year": 2021,
@@ -184218,10 +184278,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:star wars visions:tt13622982": {
-      "id": "movie:star wars visions:tt13622982",
+    "show:star wars visions:tt13622982": {
+      "id": "show:star wars visions:tt13622982",
       "imdb_id": "tt13622982",
-      "category": "movie",
+      "category": "show",
       "it_title": "Star Wars Visions",
       "orig_title": "Star Wars: Visions",
       "year": 2021,
@@ -184315,10 +184375,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:space jam- new legends:tt42287789": {
-      "id": "movie:space jam- new legends:tt42287789",
+    "show:space jam- new legends:tt42287789": {
+      "id": "show:space jam- new legends:tt42287789",
       "imdb_id": "tt42287789",
-      "category": "movie",
+      "category": "show",
       "it_title": "Space Jam- New Legends",
       "orig_title": "Space Jam Roblox",
       "year": 2024,
@@ -184413,10 +184473,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:a classic horror story:tt36590949": {
-      "id": "movie:a classic horror story:tt36590949",
+    "show:a classic horror story:tt36590949": {
+      "id": "show:a classic horror story:tt36590949",
       "imdb_id": "tt36590949",
-      "category": "movie",
+      "category": "show",
       "it_title": "A Classic Horror Story",
       "orig_title": "Fred & Rose West: A British Horror Story",
       "year": 2025,
@@ -184485,10 +184545,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:minari:tt44840674": {
-      "id": "movie:minari:tt44840674",
+    "show:minari:tt44840674": {
+      "id": "show:minari:tt44840674",
       "imdb_id": "tt44840674",
-      "category": "movie",
+      "category": "show",
       "it_title": "Minari",
       "orig_title": "Extraordinary Attorney Minami",
       "year": 2026,
@@ -184533,10 +184593,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:judas and the black messiah:tt49205110": {
-      "id": "movie:judas and the black messiah:tt49205110",
+    "show:judas and the black messiah:tt49205110": {
+      "id": "show:judas and the black messiah:tt49205110",
       "imdb_id": "tt49205110",
-      "category": "movie",
+      "category": "show",
       "it_title": "Judas and the Black Messiah",
       "orig_title": "The Red and the Black",
       "year": 2026,
@@ -184629,10 +184689,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:pieces of a woman:tt35060339": {
-      "id": "movie:pieces of a woman:tt35060339",
+    "show:pieces of a woman:tt35060339": {
+      "id": "show:pieces of a woman:tt35060339",
       "imdb_id": "tt35060339",
-      "category": "movie",
+      "category": "show",
       "it_title": "Pieces of a Woman",
       "orig_title": "A Woman of Substance",
       "year": 2026,
@@ -184678,10 +184738,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:in vacanza su marte:tt44911921": {
-      "id": "movie:in vacanza su marte:tt44911921",
+    "show:in vacanza su marte:tt44911921": {
+      "id": "show:in vacanza su marte:tt44911921",
       "imdb_id": "tt44911921",
-      "category": "movie",
+      "category": "show",
       "it_title": "In Vacanza su Marte",
       "orig_title": "Jiehunzheng Shi Jia De, Su Xiaojie Keyi Lian'ai Le",
       "year": 2026,
@@ -184702,10 +184762,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:the gentlemen:tt13210838": {
-      "id": "movie:the gentlemen:tt13210838",
+    "show:the gentlemen:tt13210838": {
+      "id": "show:the gentlemen:tt13210838",
       "imdb_id": "tt13210838",
-      "category": "movie",
+      "category": "show",
       "it_title": "The Gentlemen",
       "orig_title": "The Gentlemen",
       "year": 2024,
@@ -184802,10 +184862,10 @@
       "director": "Philip Barantini",
       "it_flatrate": []
     },
-    "movie:le strade del male:tt32226766": {
-      "id": "movie:le strade del male:tt32226766",
+    "show:le strade del male:tt32226766": {
+      "id": "show:le strade del male:tt32226766",
       "imdb_id": "tt32226766",
-      "category": "movie",
+      "category": "show",
       "it_title": "Le Strade del Male",
       "orig_title": "Le strade del benessere",
       "year": 2024,
@@ -184850,10 +184910,10 @@
       ],
       "it_flatrate": []
     },
-    "movie:cuties:tt39370855": {
-      "id": "movie:cuties:tt39370855",
+    "show:cuties:tt39370855": {
+      "id": "show:cuties:tt39370855",
       "imdb_id": "tt39370855",
-      "category": "movie",
+      "category": "show",
       "it_title": "Cuties",
       "orig_title": "Night Shift for Cuties",
       "year": 2026,
@@ -184945,7 +185005,8 @@
         }
       ],
       "director": "Darren Aronofsky",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt13833688"
     },
     "movie:una di famiglia - the housemaid:tt27543632": {
       "id": "movie:una di famiglia - the housemaid:tt27543632",
@@ -184969,7 +185030,8 @@
         }
       ],
       "director": "Paul Feig",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt27543632"
     },
     "movie:divina mortis:tt10768324": {
       "id": "movie:divina mortis:tt10768324",
@@ -184991,7 +185053,8 @@
           "seconds": 2576
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt10768324"
     },
     "movie:la fontana della vergine:tt0053976": {
       "id": "movie:la fontana della vergine:tt0053976",
@@ -185015,7 +185078,8 @@
         }
       ],
       "director": "Ingmar Bergman",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0053976"
     },
     "movie:ragione e sentimento:tt37365934": {
       "id": "movie:ragione e sentimento:tt37365934",
@@ -185038,7 +185102,8 @@
           "mentioned_as": "Ragione e sentimento"
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt37365934"
     },
     "movie:ricchi da morire:tt27052633": {
       "id": "movie:ricchi da morire:tt27052633",
@@ -185062,7 +185127,8 @@
         }
       ],
       "director": "Michael Pearce",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt27052633"
     },
     "movie:l'ombra del corvo:tt26745281": {
       "id": "movie:l'ombra del corvo:tt26745281",
@@ -185085,7 +185151,8 @@
           "mentioned_as": "L'ombra del corvo"
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt26745281"
     },
     "movie:riunione di condominio:tt34622382": {
       "id": "movie:riunione di condominio:tt34622382",
@@ -185108,7 +185175,8 @@
           "mentioned_as": "Riunione di condominio"
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt34622382"
     },
     "movie:il mago del cremlino:tt32386631": {
       "id": "movie:il mago del cremlino:tt32386631",
@@ -185131,7 +185199,8 @@
           "mentioned_as": "Le mage du Kremlin"
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt32386631"
     },
     "movie:à pied d'œuvre:tt35668622": {
       "id": "movie:à pied d'œuvre:tt35668622",
@@ -185154,7 +185223,8 @@
           "mentioned_as": "À pied d’œuvre"
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt35668622"
     },
     "movie:sonic 3 - il film:tt18259086": {
       "id": "movie:sonic 3 - il film:tt18259086",
@@ -185178,7 +185248,8 @@
         }
       ],
       "director": "Jeff Fowler",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt18259086"
     },
     "movie:a quiet place ii:tt8332922": {
       "id": "movie:a quiet place ii:tt8332922",
@@ -185202,7 +185273,8 @@
         }
       ],
       "director": "John Krasinski",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt8332922"
     },
     "movie:malcolm & marie:tt12676326": {
       "id": "movie:malcolm & marie:tt12676326",
@@ -185226,7 +185298,8 @@
         }
       ],
       "director": "Sam Levinson",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt12676326"
     },
     "movie:quello che non so di lei:tt6095984": {
       "id": "movie:quello che non so di lei:tt6095984",
@@ -185249,7 +185322,8 @@
           "mentioned_as": "QUELLO CHE NON SO DI LEI di Roman Polanski"
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt6095984"
     },
     "movie:the mandalorian & grogu:tt30825738": {
       "id": "movie:the mandalorian & grogu:tt30825738",
@@ -185273,7 +185347,8 @@
         }
       ],
       "director": "Jon Favreau",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt30825738"
     },
     "movie:finché morte non ci separi 2:tt31711618": {
       "id": "movie:finché morte non ci separi 2:tt31711618",
@@ -185296,7 +185371,8 @@
           "mentioned_as": "Finchè Morte non ci Separi 2"
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt31711618"
     },
     "movie:la sposa! (the bride!):tt30851137": {
       "id": "movie:la sposa! (the bride!):tt30851137",
@@ -185320,7 +185396,8 @@
         }
       ],
       "director": "Maggie Gyllenhaal",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt30851137"
     },
     "movie:l'illusione perfetta - now you see me:tt4712810": {
       "id": "movie:l'illusione perfetta - now you see me:tt4712810",
@@ -185344,7 +185421,8 @@
         }
       ],
       "director": "Ruben Fleischer",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt4712810"
     },
     "movie:the equalizer 3:tt17024450": {
       "id": "movie:the equalizer 3:tt17024450",
@@ -185368,7 +185446,8 @@
         }
       ],
       "director": "Antoine Fuqua",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt17024450"
     },
     "movie:le otto montagne:tt14641542": {
       "id": "movie:le otto montagne:tt14641542",
@@ -185392,7 +185471,8 @@
         }
       ],
       "director": "Charlotte Vandermeersch, Felix Van Groeningen",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt14641542"
     },
     "movie:il grande giorno:tt20871388": {
       "id": "movie:il grande giorno:tt20871388",
@@ -185416,7 +185496,8 @@
         }
       ],
       "director": "Massimo Venier",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt20871388"
     },
     "movie:il gatto con gli stivali 2 - l'ultimo desiderio:tt3915174": {
       "id": "movie:il gatto con gli stivali 2 - l'ultimo desiderio:tt3915174",
@@ -185440,7 +185521,8 @@
         }
       ],
       "director": "Joel Crawford",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt3915174"
     },
     "movie:dampyr:tt10315050": {
       "id": "movie:dampyr:tt10315050",
@@ -185463,7 +185545,8 @@
           "mentioned_as": "Dampyr"
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt10315050"
     },
     "movie:paura e delirio a las vegas:tt0120669": {
       "id": "movie:paura e delirio a las vegas:tt0120669",
@@ -185487,7 +185570,8 @@
         }
       ],
       "director": "Terry Gilliam",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0120669"
     },
     "movie:sound of metal:tt5363618": {
       "id": "movie:sound of metal:tt5363618",
@@ -185511,7 +185595,8 @@
         }
       ],
       "director": "Darius Marder",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt5363618"
     },
     "movie:orphan (árva):tt32376465": {
       "id": "movie:orphan (árva):tt32376465",
@@ -185534,7 +185619,8 @@
           "mentioned_as": "Orphan"
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt32376465"
     },
     "movie:street fighter:tt6646876": {
       "id": "movie:street fighter:tt6646876",
@@ -185557,7 +185643,8 @@
           "mentioned_as": "Street Fighter"
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt6646876"
     },
     "movie:scary movie 6:tt32094375": {
       "id": "movie:scary movie 6:tt32094375",
@@ -185580,7 +185667,8 @@
           "mentioned_as": "Scary Movie"
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt32094375"
     },
     "movie:cip & ciop agenti speciali:tt3513500": {
       "id": "movie:cip & ciop agenti speciali:tt3513500",
@@ -185604,12 +185692,13 @@
         }
       ],
       "director": "Akiva Schaffer",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt3513500"
     },
-    "movie:le bizzarre avventure di jojo:tt2359704": {
-      "id": "movie:le bizzarre avventure di jojo:tt2359704",
+    "show:le bizzarre avventure di jojo:tt2359704": {
+      "id": "show:le bizzarre avventure di jojo:tt2359704",
       "imdb_id": "tt2359704",
-      "category": "movie",
+      "category": "show",
       "it_title": "Le bizzarre avventure di JoJo",
       "orig_title": "JoJo's Bizarre Adventure",
       "year": 2012,
@@ -185627,12 +185716,13 @@
           "mentioned_as": "Le Bizzarre Avventure di JoJo- Stone Ocean"
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt2359704"
     },
-    "movie:rick and morty:tt2861424": {
-      "id": "movie:rick and morty:tt2861424",
+    "show:rick and morty:tt2861424": {
+      "id": "show:rick and morty:tt2861424",
       "imdb_id": "tt2861424",
-      "category": "movie",
+      "category": "show",
       "it_title": "Rick and Morty",
       "orig_title": "Rick and Morty",
       "year": 2013,
@@ -185650,12 +185740,13 @@
           "mentioned_as": "Rick&Morty s05"
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt2861424"
     },
-    "movie:hawkeye:tt10160804": {
-      "id": "movie:hawkeye:tt10160804",
+    "show:hawkeye:tt10160804": {
+      "id": "show:hawkeye:tt10160804",
       "imdb_id": "tt10160804",
-      "category": "movie",
+      "category": "show",
       "it_title": "Hawkeye",
       "orig_title": "Hawkeye",
       "year": 2021,
@@ -185673,12 +185764,13 @@
           "mentioned_as": "Hawkeye e WandaVision"
         }
       ],
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt10160804"
     },
-    "movie:wandavision:tt9140560": {
-      "id": "movie:wandavision:tt9140560",
+    "show:wandavision:tt9140560": {
+      "id": "show:wandavision:tt9140560",
       "imdb_id": "tt9140560",
-      "category": "movie",
+      "category": "show",
       "it_title": "WandaVision",
       "orig_title": "WandaVision",
       "year": 2021,
@@ -185697,7 +185789,8 @@
         }
       ],
       "director": "Matt Shakman",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt9140560"
     },
     "movie:the new mutants:tt4682266": {
       "id": "movie:the new mutants:tt4682266",
@@ -185721,7 +185814,8 @@
         }
       ],
       "director": "Josh Boone",
-      "it_flatrate": []
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt4682266"
     },
     "movie:guns akimbo:tt6902676": {
       "id": "movie:guns akimbo:tt6902676",
@@ -185897,10 +185991,10 @@
       "director": "David Hackl",
       "it_flatrate": []
     },
-    "movie:the social network:tt10087502": {
-      "id": "movie:the social network:tt10087502",
+    "show:the social network:tt10087502": {
+      "id": "show:the social network:tt10087502",
       "imdb_id": "tt10087502",
-      "category": "movie",
+      "category": "show",
       "it_title": "The Social Network",
       "orig_title": "The Anti Social Network",
       "year": 2019,
@@ -186792,10 +186886,10 @@
       "director": "Mel Gibson",
       "it_flatrate": []
     },
-    "movie:the crown:tt4786824": {
-      "id": "movie:the crown:tt4786824",
+    "show:the crown:tt4786824": {
+      "id": "show:the crown:tt4786824",
       "imdb_id": "tt4786824",
-      "category": "movie",
+      "category": "show",
       "it_title": "The Crown",
       "orig_title": "The Crown",
       "year": 2016,
@@ -186817,10 +186911,10 @@
       "director": "Julian Jarrold, Stephen Daldry",
       "it_flatrate": []
     },
-    "movie:gilmore girls: a year in the life da:tt0238784": {
-      "id": "movie:gilmore girls: a year in the life da:tt0238784",
+    "show:gilmore girls: a year in the life da:tt0238784": {
+      "id": "show:gilmore girls: a year in the life da:tt0238784",
       "imdb_id": "tt0238784",
-      "category": "movie",
+      "category": "show",
       "it_title": "Gilmore Girls: A Year in the Life da",
       "orig_title": "Gilmore Girls",
       "year": 2000,
@@ -188538,10 +188632,10 @@
       "director": "Greg Mottola",
       "it_flatrate": []
     },
-    "movie:breaking bad:tt0903747": {
-      "id": "movie:breaking bad:tt0903747",
+    "show:breaking bad:tt0903747": {
+      "id": "show:breaking bad:tt0903747",
       "imdb_id": "tt0903747",
-      "category": "movie",
+      "category": "show",
       "it_title": "Breaking Bad",
       "orig_title": "Breaking Bad",
       "year": 2008,
@@ -188737,10 +188831,10 @@
       "director": "John Landis",
       "it_flatrate": []
     },
-    "movie:dead set:tt1285482": {
-      "id": "movie:dead set:tt1285482",
+    "show:dead set:tt1285482": {
+      "id": "show:dead set:tt1285482",
       "imdb_id": "tt1285482",
-      "category": "movie",
+      "category": "show",
       "it_title": "Dead set",
       "orig_title": "Dead Set",
       "year": 2008,
@@ -189111,10 +189205,10 @@
       "director": "Artyom Aksenenko",
       "it_flatrate": []
     },
-    "movie:a-team:tt0084967": {
-      "id": "movie:a-team:tt0084967",
+    "show:a-team:tt0084967": {
+      "id": "show:a-team:tt0084967",
       "imdb_id": "tt0084967",
-      "category": "movie",
+      "category": "show",
       "it_title": "A-Team",
       "orig_title": "The A-Team",
       "year": 1983,
@@ -189286,10 +189380,10 @@
       "external_url": "https://app.trakt.tv/movies/tt0051365",
       "director": "Ingmar Bergman"
     },
-    "movie:the kingdom - il regno:tt0108906": {
-      "id": "movie:the kingdom - il regno:tt0108906",
+    "show:the kingdom - il regno:tt0108906": {
+      "id": "show:the kingdom - il regno:tt0108906",
       "imdb_id": "tt0108906",
-      "category": "movie",
+      "category": "show",
       "it_title": "The Kingdom - Il Regno",
       "orig_title": "The Kingdom",
       "year": 1994,
@@ -189360,10 +189454,10 @@
       "external_url": "https://app.trakt.tv/movies/tt0847745",
       "director": "Giovanni Veronesi"
     },
-    "movie:twin peaks:tt0098936": {
-      "id": "movie:twin peaks:tt0098936",
+    "show:twin peaks:tt0098936": {
+      "id": "show:twin peaks:tt0098936",
       "imdb_id": "tt0098936",
-      "category": "movie",
+      "category": "show",
       "it_title": "Twin Peaks",
       "orig_title": "Twin Peaks",
       "year": 1990,
@@ -189481,10 +189575,10 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt6250792"
     },
-    "movie:bojack horseman:tt3398228": {
-      "id": "movie:bojack horseman:tt3398228",
+    "show:bojack horseman:tt3398228": {
+      "id": "show:bojack horseman:tt3398228",
       "imdb_id": "tt3398228",
-      "category": "movie",
+      "category": "show",
       "it_title": "Bojack Horseman",
       "orig_title": "BoJack Horseman",
       "year": 2014,
@@ -189505,10 +189599,10 @@
       ],
       "external_url": "https://app.trakt.tv/shows/tt3398228"
     },
-    "movie:orange is the new black:tt2372162": {
-      "id": "movie:orange is the new black:tt2372162",
+    "show:orange is the new black:tt2372162": {
+      "id": "show:orange is the new black:tt2372162",
       "imdb_id": "tt2372162",
-      "category": "movie",
+      "category": "show",
       "it_title": "Orange Is The New Black",
       "orig_title": "Orange Is the New Black",
       "year": 2013,
@@ -189529,10 +189623,10 @@
       ],
       "external_url": "https://app.trakt.tv/shows/tt2372162"
     },
-    "movie:x-files:tt0106179": {
-      "id": "movie:x-files:tt0106179",
+    "show:x-files:tt0106179": {
+      "id": "show:x-files:tt0106179",
       "imdb_id": "tt0106179",
-      "category": "movie",
+      "category": "show",
       "it_title": "X-Files",
       "orig_title": "The X-Files",
       "year": 1993,
@@ -189554,10 +189648,10 @@
       "external_url": "https://app.trakt.tv/shows/tt0106179",
       "director": "Rob S. Bowman"
     },
-    "movie:flaked:tt4973548": {
-      "id": "movie:flaked:tt4973548",
+    "show:flaked:tt4973548": {
+      "id": "show:flaked:tt4973548",
       "imdb_id": "tt4973548",
-      "category": "movie",
+      "category": "show",
       "it_title": "Flaked",
       "orig_title": "Flaked",
       "year": 2016,
@@ -189578,10 +189672,10 @@
       ],
       "external_url": "https://app.trakt.tv/shows/tt4973548"
     },
-    "movie:game of thrones:tt0944947": {
-      "id": "movie:game of thrones:tt0944947",
+    "show:game of thrones:tt0944947": {
+      "id": "show:game of thrones:tt0944947",
       "imdb_id": "tt0944947",
-      "category": "movie",
+      "category": "show",
       "it_title": "Game of Thrones",
       "orig_title": "Game of Thrones",
       "year": 2011,
@@ -189602,10 +189696,10 @@
       ],
       "external_url": "https://app.trakt.tv/shows/tt0944947"
     },
-    "movie:designated survivor:tt5296406": {
-      "id": "movie:designated survivor:tt5296406",
+    "show:designated survivor:tt5296406": {
+      "id": "show:designated survivor:tt5296406",
       "imdb_id": "tt5296406",
-      "category": "movie",
+      "category": "show",
       "it_title": "Designated Survivor",
       "orig_title": "Designated Survivor",
       "year": 2016,
@@ -189627,10 +189721,10 @@
       "external_url": "https://app.trakt.tv/shows/tt5296406",
       "director": "Brad Turner, Paul McGuigan"
     },
-    "movie:better call saul:tt3032476": {
-      "id": "movie:better call saul:tt3032476",
+    "show:better call saul:tt3032476": {
+      "id": "show:better call saul:tt3032476",
       "imdb_id": "tt3032476",
-      "category": "movie",
+      "category": "show",
       "it_title": "Better call Saul",
       "orig_title": "Better Call Saul",
       "year": 2015,
@@ -189652,10 +189746,10 @@
       "external_url": "https://app.trakt.tv/shows/tt3032476",
       "director": "Andrew Stanton"
     },
-    "movie:the ranch:tt4998212": {
-      "id": "movie:the ranch:tt4998212",
+    "show:the ranch:tt4998212": {
+      "id": "show:the ranch:tt4998212",
       "imdb_id": "tt4998212",
-      "category": "movie",
+      "category": "show",
       "it_title": "The Ranch",
       "orig_title": "The Ranch",
       "year": 2016,
@@ -189676,10 +189770,10 @@
       ],
       "external_url": "https://app.trakt.tv/shows/tt4998212"
     },
-    "movie:3%:tt4922804": {
-      "id": "movie:3%:tt4922804",
+    "show:3%:tt4922804": {
+      "id": "show:3%:tt4922804",
       "imdb_id": "tt4922804",
-      "category": "movie",
+      "category": "show",
       "it_title": "3%",
       "orig_title": "3%",
       "year": 2016,
@@ -189701,10 +189795,10 @@
       "external_url": "https://app.trakt.tv/shows/tt4922804",
       "director": "César Charlone"
     },
-    "movie:black mirror:tt2085059": {
-      "id": "movie:black mirror:tt2085059",
+    "show:black mirror:tt2085059": {
+      "id": "show:black mirror:tt2085059",
       "imdb_id": "tt2085059",
-      "category": "movie",
+      "category": "show",
       "it_title": "Black Mirror",
       "orig_title": "Black Mirror",
       "year": 2011,
@@ -189726,10 +189820,10 @@
       "external_url": "https://app.trakt.tv/shows/tt2085059",
       "director": "Jodie Foster, Joe Wright"
     },
-    "movie:south park:tt0121955": {
-      "id": "movie:south park:tt0121955",
+    "show:south park:tt0121955": {
+      "id": "show:south park:tt0121955",
       "imdb_id": "tt0121955",
-      "category": "movie",
+      "category": "show",
       "it_title": "South park",
       "orig_title": "South Park",
       "year": 1997,
@@ -189751,10 +189845,10 @@
       "external_url": "https://app.trakt.tv/shows/tt0121955",
       "director": "Trey Parker"
     },
-    "movie:22.11.'63:tt2879552": {
-      "id": "movie:22.11.'63:tt2879552",
+    "show:22.11.'63:tt2879552": {
+      "id": "show:22.11.'63:tt2879552",
       "imdb_id": "tt2879552",
-      "category": "movie",
+      "category": "show",
       "it_title": "22.11.'63",
       "orig_title": "11.22.63",
       "year": 2016,
@@ -189776,10 +189870,10 @@
       "external_url": "https://app.trakt.tv/shows/tt2879552",
       "director": "Kevin Macdonald"
     },
-    "movie:narcos:tt2707408": {
-      "id": "movie:narcos:tt2707408",
+    "show:narcos:tt2707408": {
+      "id": "show:narcos:tt2707408",
       "imdb_id": "tt2707408",
-      "category": "movie",
+      "category": "show",
       "it_title": "Narcos",
       "orig_title": "Narcos",
       "year": 2015,
@@ -189801,10 +189895,10 @@
       "external_url": "https://app.trakt.tv/shows/tt2707408",
       "director": "José Padilha"
     },
-    "movie:dirk gently:tt4047038": {
-      "id": "movie:dirk gently:tt4047038",
+    "show:dirk gently:tt4047038": {
+      "id": "show:dirk gently:tt4047038",
       "imdb_id": "tt4047038",
-      "category": "movie",
+      "category": "show",
       "it_title": "Dirk Gently",
       "orig_title": "Dirk Gently's Holistic Detective Agency",
       "year": 2016,
@@ -189826,10 +189920,10 @@
       "external_url": "https://app.trakt.tv/shows/tt4047038",
       "director": "Dean Parisot, Tamra Davis"
     },
-    "movie:westworld:tt0475784": {
-      "id": "movie:westworld:tt0475784",
+    "show:westworld:tt0475784": {
+      "id": "show:westworld:tt0475784",
       "imdb_id": "tt0475784",
-      "category": "movie",
+      "category": "show",
       "it_title": "Westworld",
       "orig_title": "Westworld",
       "year": 2016,
@@ -189850,10 +189944,10 @@
       ],
       "external_url": "https://app.trakt.tv/shows/tt0475784"
     },
-    "movie:luke cage:tt3322314": {
-      "id": "movie:luke cage:tt3322314",
+    "show:luke cage:tt3322314": {
+      "id": "show:luke cage:tt3322314",
       "imdb_id": "tt3322314",
-      "category": "movie",
+      "category": "show",
       "it_title": "Luke Cage",
       "orig_title": "Luke Cage",
       "year": 2016,
@@ -189874,10 +189968,10 @@
       ],
       "external_url": "https://app.trakt.tv/shows/tt3322314"
     },
-    "movie:shannara chronicles:tt1051220": {
-      "id": "movie:shannara chronicles:tt1051220",
+    "show:shannara chronicles:tt1051220": {
+      "id": "show:shannara chronicles:tt1051220",
       "imdb_id": "tt1051220",
-      "category": "movie",
+      "category": "show",
       "it_title": "Shannara Chronicles",
       "orig_title": "The Shannara Chronicles",
       "year": 2016,
@@ -189898,10 +189992,10 @@
       ],
       "external_url": "https://app.trakt.tv/shows/tt1051220"
     },
-    "movie:scream:tt3921180": {
-      "id": "movie:scream:tt3921180",
+    "show:scream:tt3921180": {
+      "id": "show:scream:tt3921180",
       "imdb_id": "tt3921180",
-      "category": "movie",
+      "category": "show",
       "it_title": "Scream",
       "orig_title": "Scream: The TV Series",
       "year": 2015,
@@ -189922,10 +190016,10 @@
       ],
       "external_url": "https://app.trakt.tv/shows/tt3921180"
     },
-    "movie:marseille:tt4003966": {
-      "id": "movie:marseille:tt4003966",
+    "show:marseille:tt4003966": {
+      "id": "show:marseille:tt4003966",
       "imdb_id": "tt4003966",
-      "category": "movie",
+      "category": "show",
       "it_title": "Marseille",
       "orig_title": "Marseille",
       "year": 2016,
@@ -189946,10 +190040,10 @@
       ],
       "external_url": "https://app.trakt.tv/shows/tt4003966"
     },
-    "movie:preacher:tt5016504": {
-      "id": "movie:preacher:tt5016504",
+    "show:preacher:tt5016504": {
+      "id": "show:preacher:tt5016504",
       "imdb_id": "tt5016504",
-      "category": "movie",
+      "category": "show",
       "it_title": "Preacher",
       "orig_title": "Preacher",
       "year": 2016,
@@ -193920,17 +194014,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt2246971"
     },
-    "movie:c'era una volta:tt1843230": {
-      "id": "movie:c'era una volta:tt1843230",
+    "show:c'era una volta:tt1843230": {
+      "id": "show:c'era una volta:tt1843230",
       "imdb_id": "tt1843230",
-      "category": "movie",
+      "category": "show",
       "it_title": "C'era una volta",
       "orig_title": "Once Upon a Time",
       "year": 2011,
       "director": "Nuri Bilge Ceylan",
       "cast": "Ginnifer Goodwin, Jennifer Morrison",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BZDgwNTcwYmMtNjVmNi00NDdkLTllY2MtYmQ4MTM3ZThjZTllXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -193944,7 +194038,7 @@
           "mentioned_as": "Once Upon a Time in Anatolia"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt1843230"
+      "external_url": "https://app.trakt.tv/shows/tt1843230"
     },
     "movie:game change:tt1848902": {
       "id": "movie:game change:tt1848902",
@@ -194882,17 +194976,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt1319744"
     },
-    "movie:mirai nikki:tt2069441": {
-      "id": "movie:mirai nikki:tt2069441",
+    "show:mirai nikki:tt2069441": {
+      "id": "show:mirai nikki:tt2069441",
       "imdb_id": "tt2069441",
-      "category": "movie",
+      "category": "show",
       "it_title": "Mirai nikki",
       "orig_title": "The Future Diary",
       "year": 2011,
       "director": "Mia Hansen-Løve",
       "cast": "Jessie James Grelle, Brina Palencia",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BYjZjNmIxYTgtYzdkZC00Yzc5LWI5YTAtZWQ5YWNjZmQ1NTUyXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -194906,7 +195000,7 @@
           "mentioned_as": "The Future"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt2069441"
+      "external_url": "https://app.trakt.tv/shows/tt2069441"
     },
     "movie:a little help:tt1319722": {
       "id": "movie:a little help:tt1319722",
@@ -195558,17 +195652,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt1045772"
     },
-    "movie:carlos:tt1321865": {
-      "id": "movie:carlos:tt1321865",
+    "show:carlos:tt1321865": {
+      "id": "show:carlos:tt1321865",
       "imdb_id": "tt1321865",
-      "category": "movie",
+      "category": "show",
       "it_title": "Carlos",
       "orig_title": "Carlos",
       "year": 2010,
       "director": "Edgar Ramírez",
       "cast": "Edgar Ramírez, Alexander Scheer",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BNGQ0OTY5MmItNWM4My00M2RiLTk3OWYtNTUwNDFjNGIzMjViXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -195582,7 +195676,7 @@
           "mentioned_as": "Carlos"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt1321865"
+      "external_url": "https://app.trakt.tv/shows/tt1321865"
     },
     "movie:we want sex:tt1371155": {
       "id": "movie:we want sex:tt1371155",
@@ -195766,17 +195860,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt1645089"
     },
-    "movie:scrappers:tt1697029": {
-      "id": "movie:scrappers:tt1697029",
+    "show:scrappers:tt1697029": {
+      "id": "show:scrappers:tt1697029",
       "imdb_id": "tt1697029",
-      "category": "movie",
+      "category": "show",
       "it_title": "Scrappers",
       "orig_title": "Scrappers",
       "year": 2010,
       "director": "Liberty Bell Productions",
       "cast": "Salvatore Vassallo, Jaime Aymerich",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BNDg2NjkyMzYxNl5BMl5BanBnXkFtZTgwOTE0ODcwMzE@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -195790,7 +195884,7 @@
           "mentioned_as": "Scrappers"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt1697029"
+      "external_url": "https://app.trakt.tv/shows/tt1697029"
     },
     "movie:un anno da ricordare:tt1028576": {
       "id": "movie:un anno da ricordare:tt1028576",
@@ -197352,17 +197446,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0810784"
     },
-    "movie:profiling:tt1418572": {
-      "id": "movie:profiling:tt1418572",
+    "show:profiling:tt1418572": {
+      "id": "show:profiling:tt1418572",
       "imdb_id": "tt1418572",
-      "category": "movie",
+      "category": "show",
       "it_title": "Profiling",
       "orig_title": "The Paris Murders",
       "year": 2009,
       "director": "Cédric Klapisch",
       "cast": "Jean-Michel Martial, Raphaël Ferret",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BY2EzZWMxZTEtYjQ0ZS00YjkzLTlmMjAtMTViZmJkYmZiZjBkXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -197376,7 +197470,7 @@
           "mentioned_as": "Paris"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt1418572"
+      "external_url": "https://app.trakt.tv/shows/tt1418572"
     },
     "movie:diary of a disgraced soldier:tt1540857": {
       "id": "movie:diary of a disgraced soldier:tt1540857",
@@ -197534,17 +197628,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt1087578"
     },
-    "movie:loving you a thousand times:tt5217020": {
-      "id": "movie:loving you a thousand times:tt5217020",
+    "show:loving you a thousand times:tt5217020": {
+      "id": "show:loving you a thousand times:tt5217020",
       "imdb_id": "tt5217020",
-      "category": "movie",
+      "category": "show",
       "it_title": "Loving You a Thousand Times",
       "orig_title": "Loving You a Thousand Times",
       "year": 2009,
       "director": "Roy Andersson",
       "cast": "Lee Soo-kyung, Jung Gyu-woon",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BZjMwMDM3ZmItZDBkOS00YmVkLTkwZWMtNDRlMjZlYjNjYzY0XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -197558,7 +197652,7 @@
           "mentioned_as": "You, the Living"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt5217020"
+      "external_url": "https://app.trakt.tv/shows/tt5217020"
     },
     "movie:passing strange:tt3457144": {
       "id": "movie:passing strange:tt3457144",
@@ -199354,17 +199448,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0914797"
     },
-    "movie:elephant princess:tt1364465": {
-      "id": "movie:elephant princess:tt1364465",
+    "show:elephant princess:tt1364465": {
+      "id": "show:elephant princess:tt1364465",
       "imdb_id": "tt1364465",
-      "category": "movie",
+      "category": "show",
       "it_title": "Elephant Princess",
       "orig_title": "The Elephant Princess",
       "year": 2008,
       "director": "Aleksandr Sokurov",
       "cast": "Miles Szanto, Siam",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BY2Q1YjBhY2EtY2U3My00MmVmLTliZWEtYTYyYjgzMDAzODFlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -199378,7 +199472,7 @@
           "mentioned_as": "Alexandra"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt1364465"
+      "external_url": "https://app.trakt.tv/shows/tt1364465"
     },
     "movie:sexy killer: you'll die for her:tt1056416": {
       "id": "movie:sexy killer: you'll die for her:tt1056416",
@@ -200056,17 +200150,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0427309"
     },
-    "movie:lola, érase una vez:tt0970040": {
-      "id": "movie:lola, érase una vez:tt0970040",
+    "show:lola, érase una vez:tt0970040": {
+      "id": "show:lola, érase una vez:tt0970040",
       "imdb_id": "tt0970040",
-      "category": "movie",
+      "category": "show",
       "it_title": "Lola, érase una vez",
       "orig_title": "Lola: Once Upon a Time",
       "year": 2007,
       "director": "John Carney",
       "cast": "Juan Luis Arias, Aarón Díaz",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BNjRhZmRjNDgtZjFkMS00NmM0LWI2OWEtYjRmNDc1NWYwYWMzXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -200080,7 +200174,7 @@
           "mentioned_as": "Once"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt0970040"
+      "external_url": "https://app.trakt.tv/shows/tt0970040"
     },
     "movie:the water horse - la leggenda degli abissi:tt0760329": {
       "id": "movie:the water horse - la leggenda degli abissi:tt0760329",
@@ -200628,17 +200722,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0925248"
     },
-    "movie:project runway canada:tt1158101": {
-      "id": "movie:project runway canada:tt1158101",
+    "show:project runway canada:tt1158101": {
+      "id": "show:project runway canada:tt1158101",
       "imdb_id": "tt1158101",
-      "category": "movie",
+      "category": "show",
       "it_title": "Project Runway Canada",
       "orig_title": "Project Runway Canada",
       "year": 2007,
       "director": "",
       "cast": "Iman, Brian Bailey",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BM2M0NGI1OGUtYTIyYy00YmZjLWE1OTktNzAzZDM1MmE0YWJiXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -200652,7 +200746,7 @@
           "mentioned_as": "Vanaja"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt1158101"
+      "external_url": "https://app.trakt.tv/shows/tt1158101"
     },
     "movie:pete seeger: the power of song:tt1003116": {
       "id": "movie:pete seeger: the power of song:tt1003116",
@@ -201096,17 +201190,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt1157650"
     },
-    "movie:el capo:tt1086431": {
-      "id": "movie:el capo:tt1086431",
+    "show:el capo:tt1086431": {
+      "id": "show:el capo:tt1086431",
       "imdb_id": "tt1086431",
-      "category": "movie",
+      "category": "show",
       "it_title": "El capo",
       "orig_title": "El capo",
       "year": 2007,
       "director": "Alberto Lattuada",
       "cast": "Miguel Ángel Rodríguez, Hugo Arana",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BYmQyYjNmZjgtY2RhZS00MGZkLTgyMjMtMDE4MDYzZGNjMmVjXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -201120,7 +201214,7 @@
           "mentioned_as": "Mafioso"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt1086431"
+      "external_url": "https://app.trakt.tv/shows/tt1086431"
     },
     "movie:days of glory:tt0444182": {
       "id": "movie:days of glory:tt0444182",
@@ -201148,17 +201242,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0444182"
     },
-    "movie:kaiji: ultimate survivor:tt1202625": {
-      "id": "movie:kaiji: ultimate survivor:tt1202625",
+    "show:kaiji: ultimate survivor:tt1202625": {
+      "id": "show:kaiji: ultimate survivor:tt1202625",
       "imdb_id": "tt1202625",
-      "category": "movie",
+      "category": "show",
       "it_title": "Kaiji: Ultimate Survivor",
       "orig_title": "Kaiji: Ultimate Survivor",
       "year": 2007,
       "director": "Nuri Bilge Ceylan",
       "cast": "Yukitoshi Tokumoto, Yôichi Nishjima",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BZDVkNjUzY2ItODIwZi00Yjg1LWExNzQtMWMyNzEwZDhkNzJiXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -201172,7 +201266,7 @@
           "mentioned_as": "Climates"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt1202625"
+      "external_url": "https://app.trakt.tv/shows/tt1202625"
     },
     "movie:for your consideration:tt0470765": {
       "id": "movie:for your consideration:tt0470765",
@@ -204268,17 +204362,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0327679"
     },
-    "movie:frecuencia 04:tt0404607": {
-      "id": "movie:frecuencia 04:tt0404607",
+    "show:frecuencia 04:tt0404607": {
+      "id": "show:frecuencia 04:tt0404607",
       "imdb_id": "tt0404607",
-      "category": "movie",
+      "category": "show",
       "it_title": "Frecuencia 04",
       "orig_title": "FM 2004: The Freedom of Music",
       "year": 2004,
       "director": "Jacques Demy",
       "cast": "Marcelo Arteaga, Noelia Castaño",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BOGI4YmU0NjctYTVkNy00MmNkLTlkZmUtOTQ4ODEyZGUyNTc1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -204292,7 +204386,7 @@
           "mentioned_as": "The Umbrellas of Cherbourg"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt0404607"
+      "external_url": "https://app.trakt.tv/shows/tt0404607"
     },
     "movie:never die alone:tt0354766": {
       "id": "movie:never die alone:tt0354766",
@@ -204476,17 +204570,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0364930"
     },
-    "movie:high school teacher 2003:tt0448877": {
-      "id": "movie:high school teacher 2003:tt0448877",
+    "show:high school teacher 2003:tt0448877": {
+      "id": "show:high school teacher 2003:tt0448877",
       "imdb_id": "tt0448877",
-      "category": "movie",
+      "category": "show",
       "it_title": "High School Teacher 2003",
       "orig_title": "High School Teacher 2003",
       "year": 2003,
       "director": "John Guillermin",
       "cast": "Aya Ueto, Shôta Saitô",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BYTY1OWJjZGItMDFmZS00N2Q4LThmYWUtY2FlMjg5MmEyMDY2XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -204500,7 +204594,7 @@
           "mentioned_as": "The Tracker"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt0448877"
+      "external_url": "https://app.trakt.tv/shows/tt0448877"
     },
     "movie:japanese story:tt0304229": {
       "id": "movie:japanese story:tt0304229",
@@ -204736,17 +204830,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0325710"
     },
-    "movie:angels in america:tt0318997": {
-      "id": "movie:angels in america:tt0318997",
+    "show:angels in america:tt0318997": {
+      "id": "show:angels in america:tt0318997",
       "imdb_id": "tt0318997",
-      "category": "movie",
+      "category": "show",
       "it_title": "Angels in America",
       "orig_title": "Angels in America",
       "year": 2003,
       "director": "Jim Sheridan",
       "cast": "Al Pacino, Meryl Streep",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BZmQyYzY2YjQtNDEyNS00NjM3LWI3Y2QtYTk0NWQwZjg0ZTVlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -204760,7 +204854,7 @@
           "mentioned_as": "In America"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt0318997"
+      "external_url": "https://app.trakt.tv/shows/tt0318997"
     },
     "movie:babbo bastardo:tt0307987": {
       "id": "movie:babbo bastardo:tt0307987",
@@ -206738,17 +206832,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0276751"
     },
-    "movie:bara no jujika:tt0419309": {
-      "id": "movie:bara no jujika:tt0419309",
+    "show:bara no jujika:tt0419309": {
+      "id": "show:bara no jujika:tt0419309",
       "imdb_id": "tt0419309",
-      "category": "movie",
+      "category": "show",
       "it_title": "Bara no jujika",
       "orig_title": "Bara no jujika",
       "year": 2002,
       "director": "Majid Majidi",
       "cast": "Yuriko Ishida, Masanobu Katsumura",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BYmFjMmMyNWEtODk3My00ZDg1LTliYmMtZDRiOWMxNDQ1NTdlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -206762,7 +206856,7 @@
           "mentioned_as": "Baran"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt0419309"
+      "external_url": "https://app.trakt.tv/shows/tt0419309"
     },
     "movie:maryam:tt0184719": {
       "id": "movie:maryam:tt0184719",
@@ -207024,17 +207118,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0444867"
     },
-    "movie:endurance:tt0369100": {
-      "id": "movie:endurance:tt0369100",
+    "show:endurance:tt0369100": {
+      "id": "show:endurance:tt0369100",
       "imdb_id": "tt0369100",
-      "category": "movie",
+      "category": "show",
       "it_title": "Endurance",
       "orig_title": "Endurance",
       "year": 2002,
       "director": "George Butler",
       "cast": "J.D. Roth, Max Deleo",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BOTgyNmJjNWQtMmIyOC00OWM1LThjNmYtYjBhZWE4ZDY4ZWYyXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -207048,7 +207142,7 @@
           "mentioned_as": "The Endurance"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt0369100"
+      "external_url": "https://app.trakt.tv/shows/tt0369100"
     },
     "movie:gosford park: deleted scenes:tt5564586": {
       "id": "movie:gosford park: deleted scenes:tt5564586",
@@ -207674,17 +207768,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0240402"
     },
-    "movie:ha-chaim ze lo ha-kol:tt0306294": {
-      "id": "movie:ha-chaim ze lo ha-kol:tt0306294",
+    "show:ha-chaim ze lo ha-kol:tt0306294": {
+      "id": "show:ha-chaim ze lo ha-kol:tt0306294",
       "imdb_id": "tt0306294",
-      "category": "movie",
+      "category": "show",
       "it_title": "Ha-Chaim Ze Lo Ha-Kol",
       "orig_title": "Ha-Chaim Ze Lo Ha-Kol",
       "year": 2001,
       "director": "Michael Winterbottom",
       "cast": "Avi Kushnir, Anat Waxman",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BZDZiMzQ1YjktMWNmZS00NGRhLWFkZGMtMGEyOGM2NWM3Njk3XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -207698,7 +207792,7 @@
           "mentioned_as": "The Claim"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt0306294"
+      "external_url": "https://app.trakt.tv/shows/tt0306294"
     },
     "movie:il diario di bridget jones:tt0243155": {
       "id": "movie:il diario di bridget jones:tt0243155",
@@ -209806,17 +209900,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0120780"
     },
-    "movie:that '70s show:tt0165598": {
-      "id": "movie:that '70s show:tt0165598",
+    "show:that '70s show:tt0165598": {
+      "id": "show:that '70s show:tt0165598",
       "imdb_id": "tt0165598",
-      "category": "movie",
+      "category": "show",
       "it_title": "That '70s Show",
       "orig_title": "That '70s Show",
       "year": 1998,
       "director": "Brian Gilbert",
       "cast": "Topher Grace, Laura Prepon",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BMTdhMTNmNjEtOTI5Yi00N2MyLTlmOGMtOWMyYzFhZjhmZTU4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -209830,7 +209924,7 @@
           "mentioned_as": "Wilde"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt0165598"
+      "external_url": "https://app.trakt.tv/shows/tt0165598"
     },
     "movie:the last days of disco:tt0120728": {
       "id": "movie:the last days of disco:tt0120728",
@@ -209936,17 +210030,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt7492922"
     },
-    "movie:message à caractère informatif:tt0357382": {
-      "id": "movie:message à caractère informatif:tt0357382",
+    "show:message à caractère informatif:tt0357382": {
+      "id": "show:message à caractère informatif:tt0357382",
       "imdb_id": "tt0357382",
-      "category": "movie",
+      "category": "show",
       "it_title": "Message à caractère informatif",
       "orig_title": "Message à caractère informatif",
       "year": 1998,
       "director": "Mike van Diem",
       "cast": "Nicolas & Bruno",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BY2IzYTQ2YjQtMTgxNC00MWI4LWEzM2QtNmZjMDhkMzQzNmRhXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -209960,7 +210054,7 @@
           "mentioned_as": "Character"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt0357382"
+      "external_url": "https://app.trakt.tv/shows/tt0357382"
     },
     "movie:angeli armati:tt0119657": {
       "id": "movie:angeli armati:tt0119657",
@@ -210612,17 +210706,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0401875"
     },
-    "movie:prima stagione dei pokémon:tt0168366": {
-      "id": "movie:prima stagione dei pokémon:tt0168366",
+    "show:prima stagione dei pokémon:tt0168366": {
+      "id": "show:prima stagione dei pokémon:tt0168366",
       "imdb_id": "tt0168366",
-      "category": "movie",
+      "category": "show",
       "it_title": "prima stagione dei Pokémon",
       "orig_title": "Pokémon",
       "year": 1997,
       "director": "Jacques Doillon",
       "cast": "Veronica Taylor, Rachael Lillis",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BMzE0ZDU1MzQtNTNlYS00YjNlLWE2ODktZmFmNDYzMTBlZTBmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -210636,7 +210730,7 @@
           "mentioned_as": "Ponette"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt0168366"
+      "external_url": "https://app.trakt.tv/shows/tt0168366"
     },
     "movie:l'oro di ulisse:tt0120402": {
       "id": "movie:l'oro di ulisse:tt0120402",
@@ -213236,17 +213330,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0108328"
     },
-    "movie:belle époque:tt0111894": {
-      "id": "movie:belle époque:tt0111894",
+    "show:belle époque:tt0111894": {
+      "id": "show:belle époque:tt0111894",
       "imdb_id": "tt0111894",
-      "category": "movie",
+      "category": "show",
       "it_title": "Belle Époque",
       "orig_title": "Belle Époque",
       "year": 1995,
       "director": "Fernando Trueba",
       "cast": "André Dussollier, Kristin Scott Thomas",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BODIyZDViMWItMzBmOS00NGRlLTk3YmMtNzllMTBjNzI3Y2U2XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -213260,7 +213354,7 @@
           "mentioned_as": "Belle Epoque"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt0111894"
+      "external_url": "https://app.trakt.tv/shows/tt0111894"
     },
     "movie:cronisti d'assalto:tt0110771": {
       "id": "movie:cronisti d'assalto:tt0110771",
@@ -213418,17 +213512,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0106452"
     },
-    "movie:blue heelers - poliziotti con il cuore:tt0108709": {
-      "id": "movie:blue heelers - poliziotti con il cuore:tt0108709",
+    "show:blue heelers - poliziotti con il cuore:tt0108709": {
+      "id": "show:blue heelers - poliziotti con il cuore:tt0108709",
       "imdb_id": "tt0108709",
-      "category": "movie",
+      "category": "show",
       "it_title": "Blue Heelers - Poliziotti con il cuore",
       "orig_title": "Blue Heelers",
       "year": 1994,
       "director": "Merritt Wever",
       "cast": "Julie Nihill, John Wood",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BMzc5MzMwZGEtZjM3YS00NTU3LTk4ZjMtN2FhMmE3MDU2NTQzXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -213442,7 +213536,7 @@
           "mentioned_as": "Blue"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt0108709"
+      "external_url": "https://app.trakt.tv/shows/tt0108709"
     },
     "movie:jason's lyric:tt0110186": {
       "id": "movie:jason's lyric:tt0110186",
@@ -214354,17 +214448,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0105107"
     },
-    "movie:frasier:tt0106004": {
-      "id": "movie:frasier:tt0106004",
+    "show:frasier:tt0106004": {
+      "id": "show:frasier:tt0106004",
       "imdb_id": "tt0106004",
-      "category": "movie",
+      "category": "show",
       "it_title": "Frasier",
       "orig_title": "Frasier",
       "year": 1993,
       "director": "Louis Malle",
       "cast": "Kelsey Grammer, Jane Leeves",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BYTYwMjY1OTctZjk4My00ZjllLWFkNTMtNzg2OGVlMGI0MmQ1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -214378,7 +214472,7 @@
           "mentioned_as": "Damage"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt0106004"
+      "external_url": "https://app.trakt.tv/shows/tt0106004"
     },
     "movie:gli amici di peter:tt0105130": {
       "id": "movie:gli amici di peter:tt0105130",
@@ -214640,17 +214734,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0104225"
     },
-    "movie:l'onere della prova:tt0103897": {
-      "id": "movie:l'onere della prova:tt0103897",
+    "show:l'onere della prova:tt0103897": {
+      "id": "show:l'onere della prova:tt0103897",
       "imdb_id": "tt0103897",
-      "category": "movie",
+      "category": "show",
       "it_title": "L'onere della prova",
       "orig_title": "The Burden of Proof",
       "year": 1992,
       "director": "Kenneth Biller",
       "cast": "Hector Elizondo, Brian Dennehy",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BMmY5NDAwNDItYTc0NS00OWRlLTkyMjctYjM0Y2Q1NTJhNDU0XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -214664,7 +214758,7 @@
           "mentioned_as": "Proof"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt0103897"
+      "external_url": "https://app.trakt.tv/shows/tt0103897"
     },
     "movie:vita di cristallo:tt0105789": {
       "id": "movie:vita di cristallo:tt0105789",
@@ -214744,17 +214838,17 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0104073"
     },
-    "movie:the jacksons: an american dream:tt0104541": {
-      "id": "movie:the jacksons: an american dream:tt0104541",
+    "show:the jacksons: an american dream:tt0104541": {
+      "id": "show:the jacksons: an american dream:tt0104541",
       "imdb_id": "tt0104541",
-      "category": "movie",
+      "category": "show",
       "it_title": "The Jacksons: An American Dream",
       "orig_title": "The Jacksons: An American Dream",
       "year": 1992,
       "director": "Louis C.K.",
       "cast": "Lawrence Hilton-Jacobs, Angela Bassett",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BY2IzNTI4MGQtNjUxMi00MTk0LWFhMDUtMmRmOTU4YWEzMjVjXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
+      "media_type": "show",
       "ch_flatrate": [],
       "it_flatrate": [],
       "recommendations": [
@@ -214768,7 +214862,7 @@
           "mentioned_as": "American Dream"
         }
       ],
-      "external_url": "https://app.trakt.tv/movies/tt0104541"
+      "external_url": "https://app.trakt.tv/shows/tt0104541"
     },
     "movie:cuore di tuono:tt0105585": {
       "id": "movie:cuore di tuono:tt0105585",
@@ -216944,10 +217038,10 @@
       "it_flatrate": [],
       "director": "Robert Rodríguez"
     },
-    "movie:le nuove avventure di aladino:tt4084056": {
-      "id": "movie:le nuove avventure di aladino:tt4084056",
+    "show:le nuove avventure di aladino:tt4084056": {
+      "id": "show:le nuove avventure di aladino:tt4084056",
       "imdb_id": "tt4084056",
-      "category": "movie",
+      "category": "show",
       "it_title": "Le nuove avventure di Aladino",
       "orig_title": "The Sense of Wonder",
       "year": 2015,
@@ -216955,7 +217049,7 @@
       "poster_url": "https://m.media-amazon.com/images/M/MV5BNzE0NmNmMmUtOTliOC00OWUwLTgzNDktZDlhYmM2ZTUzOGRkXkEyXkFqcGc@._V1_UX400_.jpg",
       "media_type": "show",
       "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt4084056",
+      "external_url": "https://app.trakt.tv/shows/tt4084056",
       "recommendations": [
         {
           "creator": "Federico Frusciante",
@@ -217016,10 +217110,10 @@
       "director": "James Gray",
       "it_flatrate": []
     },
-    "movie:berserk:tt0318871": {
-      "id": "movie:berserk:tt0318871",
+    "show:berserk:tt0318871": {
+      "id": "show:berserk:tt0318871",
       "imdb_id": "tt0318871",
-      "category": "movie",
+      "category": "show",
       "it_title": "Berserk",
       "orig_title": "Berserk",
       "year": 1997,
@@ -217971,10 +218065,10 @@
       "external_url": "https://app.trakt.tv/movies/tt32768323",
       "director": "Fleur Fortuné"
     },
-    "movie:good american family:tt21441010": {
-      "id": "movie:good american family:tt21441010",
+    "show:good american family:tt21441010": {
+      "id": "show:good american family:tt21441010",
       "imdb_id": "tt21441010",
-      "category": "movie",
+      "category": "show",
       "it_title": "Good American Family",
       "orig_title": "Good American Family",
       "year": 2025,
@@ -218384,10 +218478,10 @@
       "external_url": "https://app.trakt.tv/movies/tt15823728",
       "director": "Andrew McCarthy"
     },
-    "movie:stax: soulsville, u.s.a.:tt19891206": {
-      "id": "movie:stax: soulsville, u.s.a.:tt19891206",
+    "show:stax: soulsville, u.s.a.:tt19891206": {
+      "id": "show:stax: soulsville, u.s.a.:tt19891206",
       "imdb_id": "tt19891206",
-      "category": "movie",
+      "category": "show",
       "it_title": "STAX: Soulsville, U.S.A.",
       "orig_title": "STAX: Soulsville, U.S.A.",
       "year": 2024,
@@ -218434,10 +218528,10 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt30853210"
     },
-    "movie:steve! (martin): a documentary in 2 pieces:tt21629194": {
-      "id": "movie:steve! (martin): a documentary in 2 pieces:tt21629194",
+    "show:steve! (martin): a documentary in 2 pieces:tt21629194": {
+      "id": "show:steve! (martin): a documentary in 2 pieces:tt21629194",
       "imdb_id": "tt21629194",
-      "category": "movie",
+      "category": "show",
       "it_title": "Steve! (Martin): A Documentary in 2 Pieces",
       "orig_title": "Steve! (Martin): A Documentary in 2 Pieces",
       "year": 2024,
@@ -218769,10 +218863,10 @@
       "external_url": "https://app.trakt.tv/movies/tt16252698",
       "director": "Ira Sachs"
     },
-    "movie:the lost flowers of alice hart:tt9174718": {
-      "id": "movie:the lost flowers of alice hart:tt9174718",
+    "show:the lost flowers of alice hart:tt9174718": {
+      "id": "show:the lost flowers of alice hart:tt9174718",
       "imdb_id": "tt9174718",
-      "category": "movie",
+      "category": "show",
       "it_title": "The Lost Flowers of Alice Hart",
       "orig_title": "The Lost Flowers of Alice Hart",
       "year": 2023,
@@ -218898,10 +218992,10 @@
       "external_url": "https://app.trakt.tv/movies/tt26440619",
       "director": "Christian Petzold"
     },
-    "movie:full circle:tt15303234": {
-      "id": "movie:full circle:tt15303234",
+    "show:full circle:tt15303234": {
+      "id": "show:full circle:tt15303234",
       "imdb_id": "tt15303234",
-      "category": "movie",
+      "category": "show",
       "it_title": "Full Circle",
       "orig_title": "Full Circle",
       "year": 2023,
@@ -219053,10 +219147,10 @@
       "external_url": "https://app.trakt.tv/movies/tt15782570",
       "director": "Mark Slutsky, Sarah Watts"
     },
-    "movie:beef:tt14403178": {
-      "id": "movie:beef:tt14403178",
+    "show:beef:tt14403178": {
+      "id": "show:beef:tt14403178",
       "imdb_id": "tt14403178",
-      "category": "movie",
+      "category": "show",
       "it_title": "Beef",
       "orig_title": "Beef",
       "year": 2023,
@@ -219519,10 +219613,10 @@
       "external_url": "https://app.trakt.tv/movies/tt7600742",
       "director": "Dayna Goldfine, Daniel Geller"
     },
-    "movie:mind over murder:tt20782578": {
-      "id": "movie:mind over murder:tt20782578",
+    "show:mind over murder:tt20782578": {
+      "id": "show:mind over murder:tt20782578",
       "imdb_id": "tt20782578",
-      "category": "movie",
+      "category": "show",
       "it_title": "Mind Over Murder",
       "orig_title": "Mind Over Murder",
       "year": 2022,
@@ -219571,10 +219665,10 @@
       "external_url": "https://app.trakt.tv/movies/tt16377356",
       "director": "Tia Lessin, Emma Pildes"
     },
-    "movie:george carlin's american dream:tt12899886": {
-      "id": "movie:george carlin's american dream:tt12899886",
+    "show:george carlin's american dream:tt12899886": {
+      "id": "show:george carlin's american dream:tt12899886",
       "imdb_id": "tt12899886",
-      "category": "movie",
+      "category": "show",
       "it_title": "George Carlin's American Dream",
       "orig_title": "George Carlin's American Dream",
       "year": 2022,
@@ -219597,10 +219691,10 @@
       "external_url": "https://app.trakt.tv/shows/tt12899886",
       "director": "Judd Apatow"
     },
-    "movie:they call me magic:tt17736322": {
-      "id": "movie:they call me magic:tt17736322",
+    "show:they call me magic:tt17736322": {
+      "id": "show:they call me magic:tt17736322",
       "imdb_id": "tt17736322",
-      "category": "movie",
+      "category": "show",
       "it_title": "They Call Me Magic",
       "orig_title": "They Call Me Magic",
       "year": 2022,
@@ -219751,10 +219845,10 @@
       "external_url": "https://app.trakt.tv/movies/tt14128670",
       "director": "Steven Soderbergh"
     },
-    "movie:station eleven:tt10574236": {
-      "id": "movie:station eleven:tt10574236",
+    "show:station eleven:tt10574236": {
+      "id": "show:station eleven:tt10574236",
       "imdb_id": "tt10574236",
-      "category": "movie",
+      "category": "show",
       "it_title": "Station Eleven",
       "orig_title": "Station Eleven",
       "year": 2021,
@@ -219777,10 +219871,10 @@
       "external_url": "https://app.trakt.tv/shows/tt10574236",
       "director": "Helen Shaver, Jeremy Podeswa"
     },
-    "movie:landscapers:tt11471892": {
-      "id": "movie:landscapers:tt11471892",
+    "show:landscapers:tt11471892": {
+      "id": "show:landscapers:tt11471892",
       "imdb_id": "tt11471892",
-      "category": "movie",
+      "category": "show",
       "it_title": "Landscapers",
       "orig_title": "Landscapers",
       "year": 2021,
@@ -220089,10 +220183,10 @@
       "external_url": "https://app.trakt.tv/movies/tt13648228",
       "director": "Zoe Lister-Jones, Daryl Wein"
     },
-    "movie:the white lotus:tt13406094": {
-      "id": "movie:the white lotus:tt13406094",
+    "show:the white lotus:tt13406094": {
+      "id": "show:the white lotus:tt13406094",
       "imdb_id": "tt13406094",
-      "category": "movie",
+      "category": "show",
       "it_title": "The White Lotus",
       "orig_title": "The White Lotus",
       "year": 2021,
@@ -220115,10 +220209,10 @@
       "external_url": "https://app.trakt.tv/shows/tt13406094",
       "director": "Mike White"
     },
-    "movie:the beast must die:tt9062784": {
-      "id": "movie:the beast must die:tt9062784",
+    "show:the beast must die:tt9062784": {
+      "id": "show:the beast must die:tt9062784",
       "imdb_id": "tt9062784",
-      "category": "movie",
+      "category": "show",
       "it_title": "The Beast Must Die",
       "orig_title": "The Beast Must Die",
       "year": 2020,
@@ -220349,10 +220443,10 @@
       "external_url": "https://app.trakt.tv/movies/tt9350934",
       "director": "Casimir Nozkowski"
     },
-    "movie:sasquatch:tt14035948": {
-      "id": "movie:sasquatch:tt14035948",
+    "show:sasquatch:tt14035948": {
+      "id": "show:sasquatch:tt14035948",
       "imdb_id": "tt14035948",
-      "category": "movie",
+      "category": "show",
       "it_title": "Sasquatch",
       "orig_title": "Sasquatch",
       "year": 2021,
@@ -220581,10 +220675,10 @@
       "external_url": "https://app.trakt.tv/movies/tt8337320",
       "director": "Dan Friedkin"
     },
-    "movie:murder on middle beach:tt13263106": {
-      "id": "movie:murder on middle beach:tt13263106",
+    "show:murder on middle beach:tt13263106": {
+      "id": "show:murder on middle beach:tt13263106",
       "imdb_id": "tt13263106",
-      "category": "movie",
+      "category": "show",
       "it_title": "Murder on Middle Beach",
       "orig_title": "Murder on Middle Beach",
       "year": 2020,
@@ -220633,10 +220727,10 @@
       "external_url": "https://app.trakt.tv/movies/tt12094720",
       "director": "Frederick Wiseman"
     },
-    "movie:the queen's gambit:tt10048342": {
-      "id": "movie:the queen's gambit:tt10048342",
+    "show:the queen's gambit:tt10048342": {
+      "id": "show:the queen's gambit:tt10048342",
       "imdb_id": "tt10048342",
-      "category": "movie",
+      "category": "show",
       "it_title": "The Queen's Gambit",
       "orig_title": "The Queen's Gambit",
       "year": 2020,
@@ -220735,10 +220829,10 @@
       "external_url": "https://app.trakt.tv/movies/tt11416746",
       "director": "Garrett Bradley"
     },
-    "movie:agents of chaos:tt12967950": {
-      "id": "movie:agents of chaos:tt12967950",
+    "show:agents of chaos:tt12967950": {
+      "id": "show:agents of chaos:tt12967950",
       "imdb_id": "tt12967950",
-      "category": "movie",
+      "category": "show",
       "it_title": "Agents of Chaos",
       "orig_title": "Agents of Chaos",
       "year": 2020,
@@ -220786,10 +220880,10 @@
       "external_url": "https://app.trakt.tv/movies/tt10556022",
       "director": "Rachel Lee Goldenberg"
     },
-    "movie:love fraud:tt11457812": {
-      "id": "movie:love fraud:tt11457812",
+    "show:love fraud:tt11457812": {
+      "id": "show:love fraud:tt11457812",
       "imdb_id": "tt11457812",
-      "category": "movie",
+      "category": "show",
       "it_title": "Love Fraud",
       "orig_title": "Love Fraud",
       "year": 2020,
@@ -221172,10 +221266,10 @@
       "external_url": "https://app.trakt.tv/movies/tt8727582",
       "director": "Rachel Mason"
     },
-    "movie:the innocence files:tt11958922": {
-      "id": "movie:the innocence files:tt11958922",
+    "show:the innocence files:tt11958922": {
+      "id": "show:the innocence files:tt11958922",
       "imdb_id": "tt11958922",
-      "category": "movie",
+      "category": "show",
       "it_title": "The Innocence Files",
       "orig_title": "The Innocence Files",
       "year": 2020,
@@ -221224,10 +221318,10 @@
       "external_url": "https://app.trakt.tv/movies/tt6390668",
       "director": "Karim Aïnouz"
     },
-    "movie:the plot against america:tt9308346": {
-      "id": "movie:the plot against america:tt9308346",
+    "show:the plot against america:tt9308346": {
+      "id": "show:the plot against america:tt9308346",
       "imdb_id": "tt9308346",
-      "category": "movie",
+      "category": "show",
       "it_title": "The Plot Against America",
       "orig_title": "The Plot Against America",
       "year": 2020,
@@ -221794,10 +221888,10 @@
       "external_url": "https://app.trakt.tv/movies/tt3104988",
       "director": "Jon M. Chu"
     },
-    "movie:sharp objects:tt2649356": {
-      "id": "movie:sharp objects:tt2649356",
+    "show:sharp objects:tt2649356": {
+      "id": "show:sharp objects:tt2649356",
       "imdb_id": "tt2649356",
-      "category": "movie",
+      "category": "show",
       "it_title": "Sharp Objects",
       "orig_title": "Sharp Objects",
       "year": 2018,
@@ -221950,10 +222044,10 @@
       "external_url": "https://app.trakt.tv/movies/tt5649108",
       "director": "Cory Finley"
     },
-    "movie:mohawk:tt8214886": {
-      "id": "movie:mohawk:tt8214886",
+    "show:mohawk:tt8214886": {
+      "id": "show:mohawk:tt8214886",
       "imdb_id": "tt8214886",
-      "category": "movie",
+      "category": "show",
       "it_title": "Mohawk",
       "orig_title": "Mohawk",
       "year": 2018,

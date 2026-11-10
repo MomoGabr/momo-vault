@@ -2048,7 +2048,8 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
     <div class="brand">
       <span class="brand-badge">MOMO VAULT 🇨🇭</span>
       <div class="tabs">
-        <button class="tab-btn active" data-cat="movie" id="tabMovie">🎬 Film & Serie</button>
+        <button class="tab-btn active" data-cat="movie" id="tabMovie">🎬 Film</button>
+        <button class="tab-btn" data-cat="show" id="tabShow">📺 Serie TV</button>
         <button class="tab-btn" data-cat="music" id="tabMusic">🎵 Musica & Dischi</button>
         <button class="tab-btn" data-cat="book" id="tabBook">📚 Libri</button>
       </div>
@@ -2074,6 +2075,7 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
       <button class="cine-chip" data-cr="Roger Ebert" onclick="selectCreatorChip('Roger Ebert')">🟡 Ebert</button>
       <button class="cine-chip" data-cr="Mr. Marra" onclick="selectCreatorChip('Mr. Marra')">🟠 Marra</button>
       <button class="cine-chip" data-cr="I Criticoni" onclick="selectCreatorChip('I Criticoni')">🟢 Criticoni</button>
+      <button class="action-btn gold" id="btnCreatorMode" style="display:none" onclick="toggleCreatorMatchMode()" title="Scegli se vedere i film consigliati da TUTTI i cinefili selezionati (In Comune) o da ALMENO UNO (Unione)">🔗 In Comune (AND)</button>
       <button class="toggle-btn" id="btnMultiCreator" title="Mostra solo opere consigliate da almeno 2 cinefili diversi!">🤝 2+ Consenso</button>
       <select id="creatorFilter" style="display:none"><option value="ALL">Tutti</option></select>
     </div>
@@ -2135,12 +2137,15 @@ const ITEMS = {data_json};
 let activeCategory = 'movie';
 let onlyChStreaming = false;
 let onlyMultiCreator = false;
+let selectedCreators = new Set();
+let creatorMatchMode = 'AND'; // 'AND' = in comune a tutti i selezionati, 'OR' = almeno uno
 let streamCountry = localStorage.getItem('momo_vault_country') || 'CH';
 
 const searchInput = document.getElementById('searchInput');
 const btnInsights = document.getElementById('btnInsights');
 const btnRoulette = document.getElementById('btnRoulette');
 const btnMultiCreator = document.getElementById('btnMultiCreator');
+const btnCreatorMode = document.getElementById('btnCreatorMode');
 const btnCountry = document.getElementById('btnCountry');
 const btnOnlyCh = document.getElementById('btnOnlyCh');
 const creatorFilter = document.getElementById('creatorFilter');
@@ -2161,7 +2166,7 @@ function getCountryFlag() {{
   return streamCountry === 'IT' ? '🇮🇹' : '🇨🇭';
 }}
 
-const counts = {{ movie: 0, music: 0, book: 0 }};
+const counts = {{ movie: 0, show: 0, music: 0, book: 0 }};
 const creatorsMap = {{}};
 const rubricheMap = {{}};
 const directorsMap = {{}};
@@ -2172,13 +2177,14 @@ ITEMS.forEach(m => {{
   counts[cat] = (counts[cat] || 0) + 1;
   (m.creators || []).forEach(c => {{ creatorsMap[c] = (creatorsMap[c] || 0) + 1; }});
   (m.rubriche || []).forEach(r => {{ rubricheMap[r] = (rubricheMap[r] || 0) + 1; }});
-  if (cat === 'movie') {{
+  if (cat === 'movie' || cat === 'show') {{
     (m.directors || []).forEach(d => {{ directorsMap[d] = (directorsMap[d] || 0) + 1; }});
     if (m.decade) decadesMap[m.decade] = (decadesMap[m.decade] || 0) + 1;
   }}
 }});
 
-document.getElementById('tabMovie').textContent = `🎬 Film & Serie (${{counts.movie || 0}})`;
+document.getElementById('tabMovie').textContent = `🎬 Film (${{counts.movie || 0}})`;
+document.getElementById('tabShow').textContent = `📺 Serie TV (${{counts.show || 0}})`;
 document.getElementById('tabMusic').textContent = `🎵 Musica & Dischi (${{counts.music || 0}})`;
 document.getElementById('tabBook').textContent = `📚 Libri (${{counts.book || 0}})`;
 
@@ -2218,15 +2224,40 @@ window.setStreamCountry = function(c) {{
   rebuildCountryUI();
   render();
 }};
-window.selectCreatorChip = function(cr) {{
-  if (creatorFilter.value === cr && cr !== 'ALL') {{
-    creatorFilter.value = 'ALL';
-  }} else {{
-    creatorFilter.value = cr;
-  }}
+function syncCreatorChipsUI() {{
   document.querySelectorAll('#cinefiliBar .cine-chip').forEach(btn => {{
-    btn.classList.toggle('active', btn.dataset.cr === creatorFilter.value);
+    if (btn.dataset.cr === 'ALL') {{
+      btn.classList.toggle('active', selectedCreators.size === 0);
+    }} else {{
+      btn.classList.toggle('active', selectedCreators.has(btn.dataset.cr));
+    }}
   }});
+  if (btnCreatorMode) {{
+    btnCreatorMode.style.display = selectedCreators.size >= 2 ? '' : 'none';
+    btnCreatorMode.textContent = creatorMatchMode === 'AND' ? '🔗 In Comune (AND)' : '➕ Unione (OR)';
+  }}
+}}
+window.selectCreatorChip = function(cr) {{
+  if (cr === 'ALL') {{
+    selectedCreators.clear();
+  }} else {{
+    if (selectedCreators.has(cr)) {{
+      selectedCreators.delete(cr);
+    }} else {{
+      selectedCreators.add(cr);
+    }}
+  }}
+  syncCreatorChipsUI();
+  render();
+}};
+window.removeCreatorChip = function(cr) {{
+  selectedCreators.delete(cr);
+  syncCreatorChipsUI();
+  render();
+}};
+window.toggleCreatorMatchMode = function() {{
+  creatorMatchMode = (creatorMatchMode === 'AND') ? 'OR' : 'AND';
+  syncCreatorChipsUI();
   render();
 }};
 window.setWatchedMode = function(w) {{
@@ -2292,10 +2323,9 @@ window.resetAllFilters = function() {{
   onlyMultiCreator = false;
   btnOnlyCh.classList.remove('active');
   btnMultiCreator.classList.remove('active');
+  selectedCreators.clear();
   creatorFilter.value = 'ALL';
-  document.querySelectorAll('#cinefiliBar .cine-chip').forEach(btn => {{
-    btn.classList.toggle('active', btn.dataset.cr === 'ALL');
-  }});
+  syncCreatorChipsUI();
   providerFilter.value = 'ALL';
   rubricaFilter.value = 'ALL';
   directorFilter.value = 'ALL';
@@ -2314,9 +2344,9 @@ function renderActiveFiltersBar() {{
   if (onlyMultiCreator) {{
     tags.push(`<span class="active-tag" onclick="onlyMultiCreator=false; btnMultiCreator.classList.remove('active'); render();">🤝 Consenso 2+ Cinefili ✕</span>`);
   }}
-  if (creatorFilter.value !== 'ALL') {{
-    tags.push(`<span class="active-tag" onclick="selectCreatorChip('ALL')">🎙️ ${{creatorFilter.value}} ✕</span>`);
-  }}
+  selectedCreators.forEach(c => {{
+    tags.push(`<span class="active-tag" onclick="removeCreatorChip('${{c.replace(/'/g, "\\'")}}')">🎙️ ${{c}} ✕</span>`);
+  }});
   if (onlyChStreaming) {{
     tags.push(`<span class="active-tag" onclick="onlyChStreaming=false; btnOnlyCh.classList.remove('active'); render();">${{getCountryFlag()}} Solo Streaming ${{streamCountry}} ✕</span>`);
   }}
@@ -2378,12 +2408,10 @@ document.querySelectorAll('.tab-btn').forEach(btn => {{
     document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     activeCategory = btn.dataset.cat;
-    const isMovie = activeCategory === 'movie';
-    btnOnlyCh.style.display = isMovie ? '' : 'none';
-    providerFilter.style.display = isMovie ? '' : 'none';
-    watchedFilter.style.display = isMovie ? '' : 'none';
-    directorFilter.style.display = isMovie ? '' : 'none';
-    decadeFilter.style.display = isMovie ? '' : 'none';
+    const isVideo = activeCategory === 'movie' || activeCategory === 'show';
+    document.getElementById('streamingGroup').style.display = isVideo ? '' : 'none';
+    document.getElementById('watchedSeg').style.display = isVideo ? '' : 'none';
+    decadeFilter.style.display = isVideo ? '' : 'none';
     buildInsightsClouds();
     render();
   }});
@@ -2422,14 +2450,21 @@ function getFilteredItems() {{
   const dec = decadeFilter.value;
   const wMode = watchedFilter.value;
   const sortMode = sortFilter.value;
-  const isMovie = activeCategory === 'movie';
+  const isVideo = activeCategory === 'movie' || activeCategory === 'show';
 
   const catItems = ITEMS.filter(m => (m.category || 'movie') === activeCategory);
-  const crVal = creatorFilter.value;
+  const selArr = Array.from(selectedCreators);
   const filtered = catItems.filter(m => {{
     if (onlyMultiCreator && (m.creator_count || 1) < 2) return false;
-    if (crVal !== 'ALL' && !(m.creators || []).includes(crVal)) return false;
-    if (isMovie) {{
+    if (selArr.length > 0) {{
+      const mCrs = m.creators || [];
+      if (creatorMatchMode === 'AND') {{
+        if (!selArr.every(c => mCrs.includes(c))) return false;
+      }} else {{
+        if (!selArr.some(c => mCrs.includes(c))) return false;
+      }}
+    }}
+    if (isVideo) {{
       const flat = getActiveFlatrate(m);
       if (onlyChStreaming && flat.length === 0) return false;
       if (prov !== 'ALL' && !flat.some(p => p.name === prov)) return false;
@@ -2462,11 +2497,11 @@ function getFilteredItems() {{
 
 function render() {{
   renderActiveFiltersBar();
-  const isMovie = activeCategory === 'movie';
+  const isVideo = activeCategory === 'movie' || activeCategory === 'show';
   const catItems = ITEMS.filter(m => (m.category || 'movie') === activeCategory);
   const filtered = getFilteredItems();
 
-  if (isMovie) {{
+  if (isVideo) {{
     const flag = getCountryFlag();
     const totalFlat = catItems.filter(m => getActiveFlatrate(m).length > 0).length;
     const totalWatched = catItems.filter(m => m.watched).length;
@@ -2549,6 +2584,7 @@ function render() {{
     let extLabel = 'Apri su Trakt ↗';
     if (m.category === 'music') extLabel = '🎵 Ascolta su Spotify ↗';
     if (m.category === 'book') extLabel = '📚 Scheda Libro ↗';
+    const extUrl = m.external_url || (m.imdb_id ? `https://app.trakt.tv/${{(m.category === 'show' || m.media_type === 'show') ? 'shows' : 'movies'}}/${{m.imdb_id}}` : '');
 
     const leftRibbon = m.my_rating
       ? `<span class="rating-ribbon">★ ${{m.my_rating}}/10</span>`
@@ -2569,7 +2605,7 @@ function render() {{
           ${{m.cast ? `<div class="movie-sub">${{m.cast}}</div>` : ''}}
           <div class="rec-list">${{recButtons}}</div>
           <div class="card-links">
-            ${{m.external_url ? `<a href="${{m.external_url}}" target="_blank" rel="noopener">${{extLabel}}</a>` : ''}}
+            ${{extUrl ? `<a href="${{extUrl}}" target="_blank" rel="noopener">${{extLabel}}</a>` : ''}}
             ${{m.imdb_id ? `<a href="https://www.imdb.com/title/${{m.imdb_id}}/" target="_blank" rel="noopener">IMDb ↗</a>` : ''}}
             ${{m.apple_url ? `<a href="${{m.apple_url}}" target="_blank" rel="noopener">Apple Music ↗</a>` : ''}}
           </div>
@@ -2760,7 +2796,7 @@ def normalize_and_deduplicate_items(items_dict):
 
     for item in sorted_items:
         cat = item.get("category", "movie")
-        if cat == "movie":
+        if cat in ("movie", "show"):
             item["it_title"] = clean_movie_display_title(item.get("it_title", ""))
         item["recommendations"] = dedup_recs_list(item.get("recommendations", []))
         if not item["recommendations"]:
@@ -2768,11 +2804,13 @@ def normalize_and_deduplicate_items(items_dict):
         t_low = (item.get("it_title") or "").strip().lower()
         t_alnum = re.sub(r"\W+", "", t_low)
         imdb_id = item.get("imdb_id")
+        if cat in ("movie", "show") and imdb_id and not item.get("external_url"):
+            m_slug = "shows" if (cat == "show" or item.get("media_type") == "show") else "movies"
+            item["external_url"] = f"https://app.trakt.tv/{m_slug}/{imdb_id}"
 
-        if cat == "movie" and imdb_id and imdb_id in by_imdb:
+        if cat in ("movie", "show") and imdb_id and imdb_id in by_imdb:
             canon_key = by_imdb[imdb_id]
-        elif cat == "movie" and not imdb_id and t_alnum in by_alnum_title:
-            # Controlla se esiste già una scheda CON imdb_id compatibile per anno
+        elif cat in ("movie", "show") and not imdb_id and t_alnum in by_alnum_title:
             cand_keys = by_alnum_title[t_alnum]
             it_yr = item.get("year")
             matched_key = None
@@ -2785,13 +2823,13 @@ def normalize_and_deduplicate_items(items_dict):
             canon_key = (
                 matched_key
                 if matched_key
-                else f"movie:{t_low}:{item.get('year') or 'any'}"
+                else f"{cat}:{t_low}:{item.get('year') or 'any'}"
             )
-        elif cat == "movie":
+        elif cat in ("movie", "show"):
             canon_key = (
-                f"movie:{t_low}:{imdb_id}"
+                f"{cat}:{t_low}:{imdb_id}"
                 if imdb_id
-                else f"movie:{t_low}:{item.get('year') or 'any'}"
+                else f"{cat}:{t_low}:{item.get('year') or 'any'}"
             )
             if imdb_id:
                 by_imdb[imdb_id] = canon_key
