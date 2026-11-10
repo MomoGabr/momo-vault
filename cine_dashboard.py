@@ -1392,28 +1392,48 @@ def fetch_user_trakt_state(headers):
     ratings_imdb = {}
     try:
         for endpoint, key_name in (("movies", "movie"), ("shows", "show")):
-            w_resp = requests.get(
-                f"https://api.trakt.tv/users/me/watched/{endpoint}",
-                headers=headers,
-                timeout=15,
-            )
-            if w_resp.status_code == 200:
-                for row in w_resp.json():
+            page = 1
+            while True:
+                w_resp = requests.get(
+                    f"https://api.trakt.tv/users/me/watched/{endpoint}",
+                    params={"page": page, "limit": 250},
+                    headers=headers,
+                    timeout=15,
+                )
+                if w_resp.status_code != 200:
+                    break
+                rows = w_resp.json()
+                if not rows:
+                    break
+                for row in rows:
                     imdb_id = row.get(key_name, {}).get("ids", {}).get("imdb")
                     if imdb_id:
                         watched_imdb.add(imdb_id)
+                if len(rows) < 250:
+                    break
+                page += 1
 
-            r_resp = requests.get(
-                f"https://api.trakt.tv/users/me/ratings/{endpoint}",
-                headers=headers,
-                timeout=15,
-            )
-            if r_resp.status_code == 200:
-                for row in r_resp.json():
+            page = 1
+            while True:
+                r_resp = requests.get(
+                    f"https://api.trakt.tv/users/me/ratings/{endpoint}",
+                    params={"page": page, "limit": 250},
+                    headers=headers,
+                    timeout=15,
+                )
+                if r_resp.status_code != 200:
+                    break
+                rows = r_resp.json()
+                if not rows:
+                    break
+                for row in rows:
                     imdb_id = row.get(key_name, {}).get("ids", {}).get("imdb")
                     if imdb_id:
                         ratings_imdb[imdb_id] = row.get("rating")
                         watched_imdb.add(imdb_id)
+                if len(rows) < 250:
+                    break
+                page += 1
     except Exception as e:
         print(f"Avviso sync Trakt utente: {e}")
     return watched_imdb, ratings_imdb
@@ -2667,16 +2687,29 @@ document.addEventListener('click', () => {{
 buildInsightsClouds();
 render();
 
-// Live Client-Side Trakt Sync (0 secondi di attesa: legge direttamente il profilo pubblico momo-gabr all'apertura della pagina!)
+// Live Client-Side Trakt Sync (0 secondi di attesa: legge tutte le pagine del profilo pubblico momo-gabr all'apertura della pagina!)
+async function fetchAllTraktPages(baseUrl, hdrs) {{
+  const all = [];
+  for (let page = 1; page <= 20; page++) {{
+    const r = await fetch(`${{baseUrl}}?page=${{page}}&limit=250`, {{ headers: hdrs }});
+    if (!r.ok) break;
+    const rows = await r.json();
+    if (!Array.isArray(rows) || rows.length === 0) break;
+    all.push(...rows);
+    if (rows.length < 250) break;
+  }}
+  return all;
+}}
+
 async function syncLiveTraktFromBrowser() {{
   const TRAKT_PUB_KEY = '201dc70c5ec6af530f12f079ea1922733f6e1085ad7b02f36d8e011b75bcea7d';
   const hdrs = {{ 'trakt-api-version': '2', 'trakt-api-key': TRAKT_PUB_KEY }};
   try {{
     const [wMov, wShow, rMov, rShow] = await Promise.all([
-      fetch('https://api.trakt.tv/users/momo-gabr/watched/movies', {{ headers: hdrs }}).then(r => r.ok ? r.json() : []),
-      fetch('https://api.trakt.tv/users/momo-gabr/watched/shows', {{ headers: hdrs }}).then(r => r.ok ? r.json() : []),
-      fetch('https://api.trakt.tv/users/momo-gabr/ratings/movies', {{ headers: hdrs }}).then(r => r.ok ? r.json() : []),
-      fetch('https://api.trakt.tv/users/momo-gabr/ratings/shows', {{ headers: hdrs }}).then(r => r.ok ? r.json() : []),
+      fetchAllTraktPages('https://api.trakt.tv/users/momo-gabr/watched/movies', hdrs),
+      fetchAllTraktPages('https://api.trakt.tv/users/momo-gabr/watched/shows', hdrs),
+      fetchAllTraktPages('https://api.trakt.tv/users/momo-gabr/ratings/movies', hdrs),
+      fetchAllTraktPages('https://api.trakt.tv/users/momo-gabr/ratings/shows', hdrs),
     ]);
     const liveWatched = new Set();
     const liveRatings = {{}};
