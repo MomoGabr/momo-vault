@@ -2945,7 +2945,7 @@ def enrich_directors_via_wikidata_sparql(items_dict):
         return
 
     tt_to_dirs = {}
-    chunk_size = 220
+    chunk_size = 120
     for i in range(0, len(unique_tt), chunk_size):
         chunk = unique_tt[i : i + chunk_size]
         values_str = " ".join(f'"{tt}"' for tt in chunk)
@@ -2972,6 +2972,7 @@ def enrich_directors_via_wikidata_sparql(items_dict):
                         tt_to_dirs.setdefault(imdb_val, [])
                         if d_label not in tt_to_dirs[imdb_val]:
                             tt_to_dirs[imdb_val].append(d_label)
+            time.sleep(0.35)
         except Exception:
             pass
 
