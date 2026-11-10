@@ -138,8 +138,8 @@ def sync_latest_rogerebert_feed(db_data, headers, ch_map):
         rec = {
             "creator": "Roger Ebert",
             "video_id": vid,
-            "video_title": f"RogerEbert.com ({badge})",
-            "timestamp": badge,
+            "video_title": "Roger Ebert",
+            "timestamp": "",
             "seconds": 0,
             "external_rec_url": link,
             "mentioned_as": title,

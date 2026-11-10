@@ -2548,8 +2548,10 @@ function renderCardHtml(m) {{
         const href = r.external_rec_url
           ? r.external_rec_url
           : `https://youtu.be/${{r.video_id}}?t=${{r.seconds || 0}}s`;
-        const tsBadge = (r.timestamp && r.timestamp !== '00:00') ? ` <span style="opacity:0.8">${{r.timestamp}}</span>` : '';
-        return `<a class="${{pillClass}}" href="${{href}}" target="_blank" rel="noopener" title="${{r.video_title}}">
+        const showTs = r.timestamp && r.timestamp !== '00:00' && cr !== 'Piero Scaruffi' && cr !== 'Roger Ebert' && !String(r.timestamp).startsWith('★');
+        const tsBadge = showTs ? ` <span style="opacity:0.8">${{r.timestamp}}</span>` : '';
+        const tipTitle = (cr === 'Piero Scaruffi' || cr === 'Roger Ebert') ? `Consigliato da ${{cr}}` : (r.video_title || '');
+        return `<a class="${{pillClass}}" href="${{href}}" target="_blank" rel="noopener" title="${{tipTitle}}">
           ${{icon}} ${{shortCr}}${{tsBadge}}
         </a>`;
       }}
