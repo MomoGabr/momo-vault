@@ -172,6 +172,86 @@ def sync_latest_rogerebert_feed(db_data, headers, ch_map):
     db_data["processed_videos"] = list(processed_set)
 
 
+def sync_latest_scaruffi_cinema(db_data, headers, ch_map):
+    """
+    Controlla https://www.scaruffi.com/cinema/best26.html e chro020.html
+    per eventuali nuovi film >= 7.0 aggiunti da Piero Scaruffi.
+    """
+    processed_set = set(db_data.get("processed_videos", []))
+    new_scar = []
+    for p_name, def_yr in (("best26.html", 2026), ("best25.html", 2025), ("chro020.html", 2025)):
+        u = f"https://www.scaruffi.com/cinema/{p_name}"
+        try:
+            r = requests.get(u, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
+            if r.status_code != 200:
+                continue
+            for line in r.text.splitlines():
+                m = re.search(
+                    r"(?:<br>|^)\s*([789]\.\d)\s+(?:<a\s+href=([^>]+)>)?([^<:]+?)(?:</a>)?\s*:?\s*<b>(.*?)</b>(?:\s*\(([^\)]+)\))?",
+                    line,
+                    re.I,
+                )
+                if not m:
+                    continue
+                href = (m.group(2) or "").strip("\"'").lstrip("./")
+                director = re.sub(r"<.*?>", "", m.group(3)).strip()
+                raw_titles = re.sub(r"<.*?>", "", m.group(4)).strip()
+                parts = [p.strip(" `") for p in raw_titles.split("/") if p.strip(" `")]
+                if not parts:
+                    continue
+                paren = (m.group(5) or "").strip()
+                m_yr = re.search(r"\b(202\d)\b", paren)
+                yr = int(m_yr.group(1)) if m_yr else def_yr
+                slug = re.sub(r"\W+", "", parts[-1].lower())
+                vid = f"scaruffi_{slug}_{yr}"
+                if vid in processed_set:
+                    continue
+                link = f"https://www.scaruffi.com/{href}" if (href and not href.startswith("http")) else u
+                new_scar.append((vid, parts[-1], director, yr, link))
+        except Exception:
+            pass
+
+    print(f"  • {'Piero Scaruffi':20s}: {len(new_scar)} nuovi film >=7.0 da verificare")
+    for vid, title, director, yr, link in new_scar:
+        processed_set.add(vid)
+        rec = {
+            "creator": "Piero Scaruffi",
+            "video_id": vid,
+            "video_title": "Piero Scaruffi",
+            "timestamp": "",
+            "seconds": 0,
+            "external_rec_url": link,
+            "mentioned_as": title,
+        }
+        k = mcs.find_matching_movie_key(db_data["items"], title, target_year=yr, dir_hint=director)
+        if k and k in db_data["items"]:
+            if not any(r.get("creator") == "Piero Scaruffi" for r in db_data["items"][k].get("recommendations", [])):
+                db_data["items"][k]["recommendations"].append(rec)
+        else:
+            enr = cd.enrich_movie(
+                {
+                    "raw_title": title,
+                    "category": "movie",
+                    "inferred_year": yr,
+                    "max_video_year": 2026,
+                    "is_classic": False,
+                    "director_hint": director,
+                },
+                headers,
+                ch_map,
+                check_ch=True,
+            )
+            if enr.get("imdb_id"):
+                fid = enr["id"]
+                if fid not in db_data["items"]:
+                    enr["recommendations"] = [rec]
+                    db_data["items"][fid] = enr
+                else:
+                    db_data["items"][fid]["recommendations"].append(rec)
+
+    db_data["processed_videos"] = list(processed_set)
+
+
 def main():
     print("🚀 Avvio Daily Autonomous Sync — Momo Vault...")
     headers = cd.get_trakt_headers()
@@ -259,6 +339,7 @@ def main():
         db_data["processed_videos"] = list(processed_set)
 
     sync_latest_rogerebert_feed(db_data, headers, ch_map)
+    sync_latest_scaruffi_cinema(db_data, headers, ch_map)
     cd.save_db(db_data)
     cd.generate_html(db_data, watched_imdb, ratings_imdb)
     print(f"✅ Sync completato! Opere nel Vault: {len(db_data['items'])}")
