@@ -1,0 +1,43 @@
+name: Daily Momo Vault Auto-Sync
+
+on:
+  schedule:
+    # Gira automaticamente ogni mattina alle 06:30 UTC (08:30 ora italiana/svizzera)
+    - cron: '30 6 * * *'
+  workflow_dispatch: # Permette anche l'avvio manuale con 1 clic da GitHub
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  sync-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Daily YouTube + RogerEbert + Trakt Sync
+        env:
+          TRAKT_CLIENT_ID: ${{ secrets.TRAKT_CLIENT_ID }}
+          TRAKT_ACCESS_TOKEN: ${{ secrets.TRAKT_ACCESS_TOKEN }}
+        run: |
+          python3 daily_sync.py
+          cp index.html docs/index.html
+
+      - name: Commit and Push updated Vault & Dashboard
+        run: |
+          git config user.name "MomoGabr"
+          git config user.email "MomoGabr@users.noreply.github.com"
+          git add cine_db.json index.html docs/index.html
+          git diff --staged --quiet || (git commit -m "chore(vault): daily auto-sync YouTube + Ebert + Trakt" && git push)

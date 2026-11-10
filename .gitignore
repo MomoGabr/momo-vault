@@ -1,0 +1,6 @@
+trakt_token.json
+*.log
+*.tmp
+__pycache__/
+.DS_Store
+youtube_meta_cache.json
