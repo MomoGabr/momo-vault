@@ -2424,9 +2424,19 @@ window.resetAllFilters = function() {{
   render();
 }};
 
+let roulettePick = null;
+window.clearRoulettePick = function() {{
+  roulettePick = null;
+  btnRoulette.textContent = '🎲 Cosa Guardo Stasera?';
+  render();
+}};
+
 function renderActiveFiltersBar() {{
   const bar = document.getElementById('activeFiltersBar');
   const tags = [];
+  if (roulettePick) {{
+    tags.push(`<span class="active-tag" onclick="clearRoulettePick()">🎲 Pescato a sorte: "${{roulettePick.it_title}}" ✕</span>`);
+  }}
   if (searchInput.value.trim()) {{
     tags.push(`<span class="active-tag" onclick="searchInput.value=''; render();">🔍 "${{searchInput.value.trim()}}" ✕</span>`);
   }}
@@ -2485,11 +2495,17 @@ if (btnInsights) {{
 }}
 
 btnRoulette.addEventListener('click', () => {{
-  const pool = getFilteredItems().filter(m => !m.watched);
+  const prevPick = roulettePick;
+  roulettePick = null;
+  let pool = getFilteredItems().filter(m => !m.watched);
+  if (pool.length === 0) pool = getFilteredItems();
   if (pool.length === 0) return;
-  const pick = pool[Math.floor(Math.random() * pool.length)];
-  searchInput.value = pick.it_title;
-  render();
+  if (pool.length > 1 && prevPick) {{
+    pool = pool.filter(m => m !== prevPick);
+  }}
+  roulettePick = pool[Math.floor(Math.random() * pool.length)];
+  btnRoulette.textContent = '🎲 Gira ancora!';
+  render(true);
 }});
 
 document.querySelectorAll('.tab-btn').forEach(btn => {{
@@ -2694,11 +2710,16 @@ function appendNextBatch() {{
   renderedCount += slice.length;
 }}
 
-function render() {{
+function render(keepRoulette = false) {{
+  if (keepRoulette !== true && roulettePick) {{
+    roulettePick = null;
+    btnRoulette.textContent = '🎲 Cosa Guardo Stasera?';
+  }}
   renderActiveFiltersBar();
   const isVideo = activeCategory === 'movie' || activeCategory === 'show';
   const catItems = ITEMS.filter(m => (m.category || 'movie') === activeCategory);
-  currentFiltered = getFilteredItems();
+  const fullFiltered = getFilteredItems();
+  currentFiltered = roulettePick ? [roulettePick] : fullFiltered;
   renderedCount = 0;
 
   if (isVideo) {{

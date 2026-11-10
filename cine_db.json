@@ -155047,31 +155047,6 @@
         }
       ]
     },
-    "movie:5)  naza, di yuval abraham e rachel szor:tt39316472": {
-      "id": "movie:5)  naza, di yuval abraham e rachel szor:tt39316472",
-      "imdb_id": "tt39316472",
-      "category": "movie",
-      "it_title": "5)  NAZA, di Yuval Abraham e Rachel Szor",
-      "orig_title": "Jackass: Best and Last",
-      "year": 2026,
-      "cast": "Johnny Knoxville, Steve-O",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTRlYzQwYjItNDljNC00YmI2LWEwYmEtMjhhM2NiMGFhNTYyXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt39316472",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "RsxkLaKm1FU",
-          "video_title": "MovieBlog- 1091: Recensione Jackass: Best and Last",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Jackass: Best and Last"
-        }
-      ],
-      "director": "Jeff Tremaine",
-      "it_flatrate": []
-    },
     "movie:nosferatu:tt0091651": {
       "id": "movie:nosferatu:tt0091651",
       "imdb_id": "tt0091651",
@@ -336529,6 +336504,31 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt32909489",
       "watchnow_checked": true
+    },
+    "movie:jackass: best and last:tt39316472": {
+      "id": "movie:jackass: best and last:tt39316472",
+      "imdb_id": "tt39316472",
+      "category": "movie",
+      "it_title": "Jackass: Best and Last",
+      "orig_title": "Jackass: Best and Last",
+      "year": 2026,
+      "cast": "Johnny Knoxville, Steve-O",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTRlYzQwYjItNDljNC00YmI2LWEwYmEtMjhhM2NiMGFhNTYyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt39316472",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "RsxkLaKm1FU",
+          "video_title": "MovieBlog- 1091: Recensione Jackass: Best and Last",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Jackass: Best and Last"
+        }
+      ],
+      "director": "Jeff Tremaine",
+      "it_flatrate": []
     },
     "music:nail:foetus": {
       "id": "music:nail:foetus",
