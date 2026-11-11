@@ -1285,6 +1285,176 @@
       ],
       "watchnow_checked": true
     },
+    "movie:baby driver – il genio della fuga:tt3890160": {
+      "id": "movie:baby driver – il genio della fuga:tt3890160",
+      "imdb_id": "tt3890160",
+      "category": "movie",
+      "it_title": "Baby Driver – Il genio della fuga",
+      "orig_title": "Baby Driver",
+      "year": 2017,
+      "cast": "Ansel Elgort, Jon Bernthal",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://watchnow.trakt.tv/watchnow/326965445"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt3890160",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "cujGe4kOg8E",
+          "video_title": "Patreon: Baby Driver – Il genio della fuga (2017) di Edgar Wright - Minirece richiesta da Orion",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Baby Driver – Il genio della fuga"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "gE7pmObZpVk",
+          "video_title": "I Migliori Film del 2017 ",
+          "timestamp": "1:18:25",
+          "seconds": 4705,
+          "mentioned_as": "Baby Driver:  (spoiler)"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "NF3tw7K_2Ps",
+          "video_title": "FlashVic- 58: Recensione Baby Driver",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Baby Driver"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "I1Qxa9xIbb8",
+          "video_title": "MovieBlog- 550: Recensione Baby Driver (SENZA SPOILER)",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Baby Driver"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "CNNtFujFlE0",
+          "video_title": "Frusciante: Meglio e Peggio 2017",
+          "timestamp": "29:12",
+          "seconds": 1752,
+          "mentioned_as": "Baby Driver"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "b-QF-9Eze2E",
+          "video_title": "Le Monografie di Frusciante: Edgar Wright (Maggio 2020)",
+          "timestamp": "38:57",
+          "seconds": 2337,
+          "mentioned_as": "Baby Driver"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_babydriver_2017",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/wright.html",
+          "mentioned_as": "Baby Driver"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "-OXJmMXCmzs",
+          "video_title": "Edgar Wright Monografia",
+          "timestamp": "24:22",
+          "seconds": 1462,
+          "mentioned_as": "Baby Driver"
+        }
+      ],
+      "director": "Edgar Wright",
+      "it_flatrate": []
+    },
+    "movie:oppenheimer:tt15398776": {
+      "id": "movie:oppenheimer:tt15398776",
+      "imdb_id": "tt15398776",
+      "category": "movie",
+      "it_title": "Oppenheimer",
+      "orig_title": "Oppenheimer",
+      "year": 2023,
+      "cast": "Cillian Murphy, Emily Blunt",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt15398776",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "FcLcngFeERQ",
+          "video_title": "Federico Frusciante: Il Meglio e Peggio 2023",
+          "timestamp": "08:05:25",
+          "seconds": 29125,
+          "mentioned_as": "Oppenheimer"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "43RWl3CgIvM",
+          "video_title": "Frusciante al Cinema: Oppenheimer (2023) di Christopher Nolan",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Oppenheimer"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "UZGnrnBfwGI",
+          "video_title": "I MIGLIORI FILM DEL 2023",
+          "timestamp": "1:25:00",
+          "seconds": 5100,
+          "mentioned_as": "Oppenheimer"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "vfsFcdhubLs",
+          "video_title": "Ho Visto “OPPENHEIMER” di Nolan…",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "OPPENHEIMER"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "aO0L6SVDtAM",
+          "video_title": "MovieBlog- 921: Recensione Oppenheimer",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Oppenheimer"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_oppenheimer-film-review-2023",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/oppenheimer-film-review-2023",
+          "mentioned_as": "Oppenheimer"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "9Tz-TRSJsr4",
+          "video_title": "QUANDO TI CHIEDONO COM'È \"OPPENHEIMER\"",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "OPPENHEIMER"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "zIDhdV-e4q4",
+          "video_title": "Monografia Christopher Nolan | Criticoni Talk #44",
+          "timestamp": "51:49",
+          "seconds": 3109,
+          "mentioned_as": "Oppenheimer"
+        }
+      ],
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
     "movie:tre manifesti a ebbing, missouri:tt5027774": {
       "id": "movie:tre manifesti a ebbing, missouri:tt5027774",
       "imdb_id": "tt5027774",
@@ -2062,86 +2232,6 @@
       "director": "Robert Eggers",
       "it_flatrate": [],
       "watchnow_checked": true
-    },
-    "movie:baby driver – il genio della fuga:tt3890160": {
-      "id": "movie:baby driver – il genio della fuga:tt3890160",
-      "imdb_id": "tt3890160",
-      "category": "movie",
-      "it_title": "Baby Driver – Il genio della fuga",
-      "orig_title": "Baby Driver",
-      "year": 2017,
-      "cast": "Ansel Elgort, Jon Bernthal",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://watchnow.trakt.tv/watchnow/326965445"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt3890160",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "cujGe4kOg8E",
-          "video_title": "Patreon: Baby Driver – Il genio della fuga (2017) di Edgar Wright - Minirece richiesta da Orion",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Baby Driver – Il genio della fuga"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "gE7pmObZpVk",
-          "video_title": "I Migliori Film del 2017 ",
-          "timestamp": "1:18:25",
-          "seconds": 4705,
-          "mentioned_as": "Baby Driver:  (spoiler)"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "NF3tw7K_2Ps",
-          "video_title": "FlashVic- 58: Recensione Baby Driver",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Baby Driver"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "I1Qxa9xIbb8",
-          "video_title": "MovieBlog- 550: Recensione Baby Driver (SENZA SPOILER)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Baby Driver"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "CNNtFujFlE0",
-          "video_title": "Frusciante: Meglio e Peggio 2017",
-          "timestamp": "29:12",
-          "seconds": 1752,
-          "mentioned_as": "Baby Driver"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "b-QF-9Eze2E",
-          "video_title": "Le Monografie di Frusciante: Edgar Wright (Maggio 2020)",
-          "timestamp": "38:57",
-          "seconds": 2337,
-          "mentioned_as": "Baby Driver"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_babydriver_2017",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/wright.html",
-          "mentioned_as": "Baby Driver"
-        }
-      ],
-      "director": "Edgar Wright",
-      "it_flatrate": []
     },
     "movie:cena con delitto:tt8946378": {
       "id": "movie:cena con delitto:tt8946378",
@@ -3193,80 +3283,6 @@
         }
       ]
     },
-    "movie:oppenheimer:tt15398776": {
-      "id": "movie:oppenheimer:tt15398776",
-      "imdb_id": "tt15398776",
-      "category": "movie",
-      "it_title": "Oppenheimer",
-      "orig_title": "Oppenheimer",
-      "year": 2023,
-      "cast": "Cillian Murphy, Emily Blunt",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt15398776",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "FcLcngFeERQ",
-          "video_title": "Federico Frusciante: Il Meglio e Peggio 2023",
-          "timestamp": "08:05:25",
-          "seconds": 29125,
-          "mentioned_as": "Oppenheimer"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "43RWl3CgIvM",
-          "video_title": "Frusciante al Cinema: Oppenheimer (2023) di Christopher Nolan",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Oppenheimer"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "UZGnrnBfwGI",
-          "video_title": "I MIGLIORI FILM DEL 2023",
-          "timestamp": "1:25:00",
-          "seconds": 5100,
-          "mentioned_as": "Oppenheimer"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "vfsFcdhubLs",
-          "video_title": "Ho Visto “OPPENHEIMER” di Nolan…",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "OPPENHEIMER"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "aO0L6SVDtAM",
-          "video_title": "MovieBlog- 921: Recensione Oppenheimer",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Oppenheimer"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_oppenheimer-film-review-2023",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/oppenheimer-film-review-2023",
-          "mentioned_as": "Oppenheimer"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "9Tz-TRSJsr4",
-          "video_title": "QUANDO TI CHIEDONO COM'È \"OPPENHEIMER\"",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "OPPENHEIMER"
-        }
-      ],
-      "it_flatrate": [],
-      "watchnow_checked": true
-    },
     "movie:nosferatu:tt5040012": {
       "id": "movie:nosferatu:tt5040012",
       "imdb_id": "tt5040012",
@@ -4097,6 +4113,209 @@
       "director": "Mark Steven Johnson",
       "it_flatrate": []
     },
+    "movie:il cavaliere oscuro:tt0468569": {
+      "id": "movie:il cavaliere oscuro:tt0468569",
+      "imdb_id": "tt0468569",
+      "category": "movie",
+      "it_title": "Il cavaliere oscuro",
+      "orig_title": "The Dark Knight",
+      "year": 2008,
+      "cast": "Christian Bale, Heath Ledger",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/324676293"
+        },
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/324676292"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0468569",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "Y2GKBH2O4I4",
+          "video_title": "Patreon: Il cavaliere oscuro (2008) di Christopher Nolan - Minirece richiesta da KJ",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "UwcUIntMzCg",
+          "video_title": "Le Recensioni di Frusciante - Nolan",
+          "timestamp": "36:47",
+          "seconds": 2207
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "hy-fnlaKcIg",
+          "video_title": "MovieBlog Cult: Recensione Il Cavaliere Oscuro",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Il Cavaliere Oscuro"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-dark-knight-2008",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-dark-knight-2008",
+          "mentioned_as": "The Dark Knight"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "ar8HoXV_Px4",
+          "video_title": "(Gl)I (Im)Perdibili di Frusciante: Horror Pt.2 (Maggio 2017)",
+          "timestamp": "10:38",
+          "seconds": 638
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "bpNdt0vcZu0",
+          "video_title": "Movieblog- 32: Recensione Il Cavaliere Oscuro",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Il Cavaliere Oscuro"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "zIDhdV-e4q4",
+          "video_title": "Monografia Christopher Nolan | Criticoni Talk #44",
+          "timestamp": "45:51",
+          "seconds": 2751,
+          "mentioned_as": "Il Cavaliere Oscuro"
+        }
+      ],
+      "it_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/328062008"
+        },
+        {
+          "source": "amazon_prime_video_with_ads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://watchnow.trakt.tv/watchnow/328062009"
+        },
+        {
+          "source": "amazonhbomax",
+          "name": "HBO Max (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/300029723"
+        },
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/300029724"
+        },
+        {
+          "source": "now_tv",
+          "name": "Now TV",
+          "link": "https://watchnow.trakt.tv/watchnow/300029719"
+        },
+        {
+          "source": "sky_go",
+          "name": "Sky Go",
+          "link": "https://watchnow.trakt.tv/watchnow/300029726"
+        },
+        {
+          "source": "timvision",
+          "name": "Timvision",
+          "link": "https://watchnow.trakt.tv/watchnow/300029720"
+        }
+      ]
+    },
+    "movie:decision to leave:tt12477480": {
+      "id": "movie:decision to leave:tt12477480",
+      "imdb_id": "tt12477480",
+      "category": "movie",
+      "it_title": "Decision to leave",
+      "orig_title": "Decision to Leave",
+      "year": 2022,
+      "cast": "Wei Tang, Park Hae-il",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2NhZjcxYjItNDhlOC00Y2U2LWE4NDktMDJhNTQ1NzNjMmNmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt12477480",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "FcLcngFeERQ",
+          "video_title": "Federico Frusciante: Il Meglio e Peggio 2023",
+          "timestamp": "08:46:04",
+          "seconds": 31564,
+          "mentioned_as": "Decision to leave"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "VPtq4535dwE",
+          "video_title": "Patreon: Decision to Leave (2022) di Park Chan-wook - Minirece richiesta da Tina",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Decision to Leave"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "UZGnrnBfwGI",
+          "video_title": "I MIGLIORI FILM DEL 2023",
+          "timestamp": "2:44:20",
+          "seconds": 9860,
+          "mentioned_as": "Decision to leave"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "7dwsUaNd7C8",
+          "video_title": "Victorient Expresss: Recensione Decision to Leave",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Decision to Leave"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_decision-to-leave-movie-review-2022",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/decision-to-leave-movie-review-2022",
+          "mentioned_as": "Decision to Leave"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_decisiontoleave_2022",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/park.html",
+          "mentioned_as": "Decision To Leave"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "Nf9ilFyWlEc",
+          "video_title": "Monografia Park chan-Wook | Criticoni Talk #31",
+          "timestamp": "38:41",
+          "seconds": 2321,
+          "mentioned_as": "decision to leave"
+        }
+      ],
+      "director": "Park Chan-wook",
+      "it_flatrate": [
+        {
+          "source": "now_tv",
+          "name": "Now TV",
+          "link": "https://watchnow.trakt.tv/watchnow/302282067"
+        },
+        {
+          "source": "sky_go",
+          "name": "Sky Go",
+          "link": "https://watchnow.trakt.tv/watchnow/302282068"
+        }
+      ]
+    },
     "movie:blade runner:tt0083658": {
       "id": "movie:blade runner:tt0083658",
       "imdb_id": "tt0083658",
@@ -4183,115 +4402,6 @@
           "source": "now_tv",
           "name": "Now TV",
           "link": "https://watchnow.trakt.tv/watchnow/301773544"
-        }
-      ]
-    },
-    "movie:il cavaliere oscuro:tt0468569": {
-      "id": "movie:il cavaliere oscuro:tt0468569",
-      "imdb_id": "tt0468569",
-      "category": "movie",
-      "it_title": "Il cavaliere oscuro",
-      "orig_title": "The Dark Knight",
-      "year": 2008,
-      "cast": "Christian Bale, Heath Ledger",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/324676293"
-        },
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/324676292"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0468569",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "Y2GKBH2O4I4",
-          "video_title": "Patreon: Il cavaliere oscuro (2008) di Christopher Nolan - Minirece richiesta da KJ",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "UwcUIntMzCg",
-          "video_title": "Le Recensioni di Frusciante - Nolan",
-          "timestamp": "36:47",
-          "seconds": 2207
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "hy-fnlaKcIg",
-          "video_title": "MovieBlog Cult: Recensione Il Cavaliere Oscuro",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Il Cavaliere Oscuro"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_the-dark-knight-2008",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/the-dark-knight-2008",
-          "mentioned_as": "The Dark Knight"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "ar8HoXV_Px4",
-          "video_title": "(Gl)I (Im)Perdibili di Frusciante: Horror Pt.2 (Maggio 2017)",
-          "timestamp": "10:38",
-          "seconds": 638
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "bpNdt0vcZu0",
-          "video_title": "Movieblog- 32: Recensione Il Cavaliere Oscuro",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Il Cavaliere Oscuro"
-        }
-      ],
-      "it_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/328062008"
-        },
-        {
-          "source": "amazon_prime_video_with_ads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://watchnow.trakt.tv/watchnow/328062009"
-        },
-        {
-          "source": "amazonhbomax",
-          "name": "HBO Max (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/300029723"
-        },
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/300029724"
-        },
-        {
-          "source": "now_tv",
-          "name": "Now TV",
-          "link": "https://watchnow.trakt.tv/watchnow/300029719"
-        },
-        {
-          "source": "sky_go",
-          "name": "Sky Go",
-          "link": "https://watchnow.trakt.tv/watchnow/300029726"
-        },
-        {
-          "source": "timvision",
-          "name": "Timvision",
-          "link": "https://watchnow.trakt.tv/watchnow/300029720"
         }
       ]
     },
@@ -8715,84 +8825,6 @@
         }
       ]
     },
-    "movie:decision to leave:tt12477480": {
-      "id": "movie:decision to leave:tt12477480",
-      "imdb_id": "tt12477480",
-      "category": "movie",
-      "it_title": "Decision to leave",
-      "orig_title": "Decision to Leave",
-      "year": 2022,
-      "cast": "Wei Tang, Park Hae-il",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2NhZjcxYjItNDhlOC00Y2U2LWE4NDktMDJhNTQ1NzNjMmNmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt12477480",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "FcLcngFeERQ",
-          "video_title": "Federico Frusciante: Il Meglio e Peggio 2023",
-          "timestamp": "08:46:04",
-          "seconds": 31564,
-          "mentioned_as": "Decision to leave"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "VPtq4535dwE",
-          "video_title": "Patreon: Decision to Leave (2022) di Park Chan-wook - Minirece richiesta da Tina",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Decision to Leave"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "UZGnrnBfwGI",
-          "video_title": "I MIGLIORI FILM DEL 2023",
-          "timestamp": "2:44:20",
-          "seconds": 9860,
-          "mentioned_as": "Decision to leave"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "7dwsUaNd7C8",
-          "video_title": "Victorient Expresss: Recensione Decision to Leave",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Decision to Leave"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_decision-to-leave-movie-review-2022",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/decision-to-leave-movie-review-2022",
-          "mentioned_as": "Decision to Leave"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_decisiontoleave_2022",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/park.html",
-          "mentioned_as": "Decision To Leave"
-        }
-      ],
-      "director": "Park Chan-wook",
-      "it_flatrate": [
-        {
-          "source": "now_tv",
-          "name": "Now TV",
-          "link": "https://watchnow.trakt.tv/watchnow/302282067"
-        },
-        {
-          "source": "sky_go",
-          "name": "Sky Go",
-          "link": "https://watchnow.trakt.tv/watchnow/302282068"
-        }
-      ]
-    },
     "movie:dracula - l'amore perduto:tt31434030": {
       "id": "movie:dracula - l'amore perduto:tt31434030",
       "imdb_id": "tt31434030",
@@ -9714,6 +9746,653 @@
       "director": "Jordan Peele",
       "it_flatrate": []
     },
+    "movie:memento:tt0209144": {
+      "id": "movie:memento:tt0209144",
+      "imdb_id": "tt0209144",
+      "category": "movie",
+      "it_title": "Memento",
+      "orig_title": "Memento",
+      "year": 2000,
+      "cast": "Guy Pearce, Carrie-Anne Moss",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGQ3Y2Q4NjktN2E4Ny00Y2Q2LTliZDUtZTNiNjRhY2I0NGIyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0209144",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "ylyKRXl244w",
+          "video_title": "Patreon: Memento (2000) di Christopher Nolan - Minirece richiesta da Nicola Pedretti",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Memento"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "UwcUIntMzCg",
+          "video_title": "Le Recensioni di Frusciante - Nolan",
+          "timestamp": "8:34",
+          "seconds": 514
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "d-NNfGCKwM0",
+          "video_title": "MovieBlog- 35: Recensione Memento",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Memento"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_memento-2001",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/memento-2001",
+          "mentioned_as": "Memento"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_memento_2000",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/nolan.html",
+          "mentioned_as": "Memento"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "zIDhdV-e4q4",
+          "video_title": "Monografia Christopher Nolan | Criticoni Talk #44",
+          "timestamp": "33:55",
+          "seconds": 2035,
+          "mentioned_as": "Memento"
+        }
+      ],
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:dunkirk:tt5013056": {
+      "id": "movie:dunkirk:tt5013056",
+      "imdb_id": "tt5013056",
+      "category": "movie",
+      "it_title": "Dunkirk",
+      "orig_title": "Dunkirk",
+      "year": 2017,
+      "cast": "Fionn Whitehead, Barry Keoghan",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTE0Mjg4MTMwMDZeQTJeQWpwZ15BbWU4MDAwMDQ1ODAy._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/326679161"
+        },
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://watchnow.trakt.tv/watchnow/326679160"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt5013056",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "CNNtFujFlE0",
+          "video_title": "Frusciante: Meglio e Peggio 2017",
+          "timestamp": "40:29",
+          "seconds": 2429,
+          "mentioned_as": "Dunkirk"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "GMwLo7etC_I",
+          "video_title": "Patreon: Dunkirk (2017) di Christopher Nolan - Minirece richiesta da Andrea Aste",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Dunkirk"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "gE7pmObZpVk",
+          "video_title": "I Migliori Film del 2017 ",
+          "timestamp": "1:03:00",
+          "seconds": 3780,
+          "mentioned_as": "Dunkirk:  (spoiler)"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "fjsOrjXwcA8",
+          "video_title": "FlashVic- 57: Recensione Dunkirk",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Dunkirk"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "XfmOMyxFOtk",
+          "video_title": "MovieBlog 547- Recensione Dunkirk (SENZA SPOILER)",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Dunkirk"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "zIDhdV-e4q4",
+          "video_title": "Monografia Christopher Nolan | Criticoni Talk #44",
+          "timestamp": "1:03:27",
+          "seconds": 3807,
+          "mentioned_as": "Dunkirk"
+        }
+      ],
+      "it_flatrate": [
+        {
+          "source": "now_tv",
+          "name": "Now TV",
+          "link": "https://watchnow.trakt.tv/watchnow/300026919"
+        },
+        {
+          "source": "sky_go",
+          "name": "Sky Go",
+          "link": "https://watchnow.trakt.tv/watchnow/300026922"
+        },
+        {
+          "source": "timvision",
+          "name": "Timvision",
+          "link": "https://watchnow.trakt.tv/watchnow/300026920"
+        }
+      ]
+    },
+    "movie:old boy:tt0364569": {
+      "id": "movie:old boy:tt0364569",
+      "imdb_id": "tt0364569",
+      "category": "movie",
+      "it_title": "Old Boy",
+      "orig_title": "Oldboy",
+      "year": 2003,
+      "cast": "Choi Min-sik, Yoo Ji-tae",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTAwNzNjYWItZmI0Ni00ZTcyLWIwNWMtZjlmNGMxZTEyYTJmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0364569",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "ryUU1loDIXE",
+          "video_title": "Patreon: Old Boy (2003) di Park Chan-wook - Minirece richiesta da Jospeh",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Old Boy"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "3yCp2_19Ytc",
+          "video_title": "MARRA VI CONSIGLIA un SACCO di FILM!! | Cerbero Podcast ",
+          "timestamp": "4:20",
+          "seconds": 260,
+          "mentioned_as": "OLD BOY"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_2003_old boy",
+          "external_rec_url": "https://www.scaruffi.com/director/park.html",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "mentioned_as": "Old Boy"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "UuuRuQmjqqQ",
+          "video_title": "“OLDBOY” di Park Chan-wook (Recensione con Spoiler)",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "OLDBOY"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "FbJ0EBEme4U",
+          "video_title": "MovieBlog- 308: Recensione Oldboy (2003)",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Oldboy"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "Nf9ilFyWlEc",
+          "video_title": "Monografia Park chan-Wook | Criticoni Talk #31",
+          "timestamp": "1:20:33",
+          "seconds": 4833,
+          "mentioned_as": "Oldboy"
+        }
+      ],
+      "director": "Park Chan-wook",
+      "it_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/300270996"
+        },
+        {
+          "source": "amazon_prime_video_with_ads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://watchnow.trakt.tv/watchnow/300270997"
+        },
+        {
+          "source": "now_tv",
+          "name": "Now TV",
+          "link": "https://watchnow.trakt.tv/watchnow/300270994"
+        },
+        {
+          "source": "sky_go",
+          "name": "Sky Go",
+          "link": "https://watchnow.trakt.tv/watchnow/300270998"
+        },
+        {
+          "source": "timvision",
+          "name": "Timvision",
+          "link": "https://watchnow.trakt.tv/watchnow/300270995"
+        }
+      ]
+    },
+    "movie:la fine del mondo:tt1213663": {
+      "id": "movie:la fine del mondo:tt1213663",
+      "imdb_id": "tt1213663",
+      "category": "movie",
+      "it_title": "La fine del mondo",
+      "orig_title": "The World's End",
+      "year": 2013,
+      "cast": "Simon Pegg, Nick Frost",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzA1MTk1MzY0OV5BMl5BanBnXkFtZTgwNjkzNTUwMDE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt1213663",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "JW6R3772Y6k",
+          "video_title": "Le Recensioni di Frusciante - Meglio e Peggio 2013",
+          "timestamp": "1:00:38",
+          "seconds": 3638,
+          "mentioned_as": "La fine del mondo"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "b-QF-9Eze2E",
+          "video_title": "Le Monografie di Frusciante: Edgar Wright (Maggio 2020)",
+          "timestamp": "30:02",
+          "seconds": 1802,
+          "mentioned_as": "La fine del mondo"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "UJ7bGbyPy20",
+          "video_title": "Patreon: La fine del mondo (2013) di Edgar Wright - Minirece richiesta da Fantast-Ivo",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "La fine del mondo"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "Yn2RXKm-1ps",
+          "video_title": "MovieBlog- 292: Recensione La Fine del Mondo",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "La Fine del Mondo"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-worlds-end-2013",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-worlds-end-2013",
+          "mentioned_as": "The World's End"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "-OXJmMXCmzs",
+          "video_title": "Edgar Wright Monografia",
+          "timestamp": "19:22",
+          "seconds": 1162,
+          "mentioned_as": "La Fine del Mondo"
+        }
+      ],
+      "director": "Edgar Wright",
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:inception:tt1375666": {
+      "id": "movie:inception:tt1375666",
+      "imdb_id": "tt1375666",
+      "category": "movie",
+      "it_title": "Inception",
+      "orig_title": "Inception",
+      "year": 2010,
+      "cast": "Leonardo DiCaprio, Joseph Gordon-Levitt",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/329520429"
+        },
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/323197260"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1375666",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "UwcUIntMzCg",
+          "video_title": "Le Recensioni di Frusciante - Nolan",
+          "timestamp": "50:12",
+          "seconds": 3012,
+          "mentioned_as": "Inception"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "tvbRwDnk4r0",
+          "video_title": "Patreon: Inception (2010) di Christopher Nolan - Minirece richiesta da Laura80",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Inception"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "zfJY7vI4Bnc",
+          "video_title": "MovieBlog- 78: Recensione Inception",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Inception"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_inception-2010",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/inception-2010",
+          "mentioned_as": "Inception"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_inception_2010",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/nolan.html#inc",
+          "mentioned_as": "Inception"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "zIDhdV-e4q4",
+          "video_title": "Monografia Christopher Nolan | Criticoni Talk #44",
+          "timestamp": "56:11",
+          "seconds": 3371,
+          "mentioned_as": "Inception"
+        }
+      ],
+      "it_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/327356681"
+        },
+        {
+          "source": "amazon_prime_video_with_ads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://watchnow.trakt.tv/watchnow/327356682"
+        },
+        {
+          "source": "amazonhbomax",
+          "name": "HBO Max (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/300029928"
+        },
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/300029929"
+        },
+        {
+          "source": "now_tv",
+          "name": "Now TV",
+          "link": "https://watchnow.trakt.tv/watchnow/300029926"
+        },
+        {
+          "source": "sky_go",
+          "name": "Sky Go",
+          "link": "https://watchnow.trakt.tv/watchnow/300029930"
+        },
+        {
+          "source": "timvision",
+          "name": "Timvision",
+          "link": "https://watchnow.trakt.tv/watchnow/300029927"
+        }
+      ]
+    },
+    "movie:ex_machina:tt0470752": {
+      "id": "movie:ex_machina:tt0470752",
+      "imdb_id": "tt0470752",
+      "category": "movie",
+      "it_title": "Ex_Machina",
+      "orig_title": "Ex Machina",
+      "year": 2014,
+      "cast": "Alicia Vikander, Domhnall Gleeson",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0470752",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "k92rXHKo0Ck",
+          "video_title": "Le Recensioni di Frusciante: Meglio e Peggio 2015",
+          "timestamp": "35:27",
+          "seconds": 2127,
+          "mentioned_as": "Ex Machina"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "pIdfZddQPT8",
+          "video_title": "Patreon: Ex Machina (2015) di Alex Garland - Minirece richiesta da Marco Winchester Fioretti",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Ex Machina"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "yogd5wiyq9E",
+          "video_title": "MovieBlog- 406: Recensione Ex machina",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Ex machina"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_ex-machina-2015",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/ex-machina-2015",
+          "mentioned_as": "Ex Machina"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_exmachina_2014",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/garland.html",
+          "mentioned_as": "Ex Machina"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "PKoR8CPBrBw",
+          "video_title": "#L'OPINIONE: I MIGLIORI FILM DEL 2015",
+          "timestamp": "53:37",
+          "seconds": 3217,
+          "mentioned_as": " Ex machina "
+        }
+      ],
+      "director": "Alex Garland",
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:the prestige:tt0482571": {
+      "id": "movie:the prestige:tt0482571",
+      "imdb_id": "tt0482571",
+      "category": "movie",
+      "it_title": "The Prestige",
+      "orig_title": "The Prestige",
+      "year": 2006,
+      "cast": "Christian Bale, Hugh Jackman",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZWU0NWZhYzMtZmNlYy00MjA1LTgyZWEtYmNjNzdjYmRkOTkzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/326954870"
+        },
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/326954869"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0482571",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "NycVx7R8aoI",
+          "video_title": "Patreon: The Prestige (2006) di Christopher Nolan - Minirece richiesta da Phreddy",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "The Prestige"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "UwcUIntMzCg",
+          "video_title": "Le Recensioni di Frusciante - Nolan",
+          "timestamp": "28:12",
+          "seconds": 1692
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-prestige-2007",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-prestige-2007",
+          "mentioned_as": "The Prestige"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_prestige_2006",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/nolan.html",
+          "mentioned_as": "The Prestige"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "wV1U0CEmlg4",
+          "video_title": "Discussione su NOLAN e “THE PRESTIGE” con FRUSCIANTE, VICTORLASZLO88 e DARIO MOCCIA - parte 1",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "THE PRESTIGE"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "zIDhdV-e4q4",
+          "video_title": "Monografia Christopher Nolan | Criticoni Talk #44",
+          "timestamp": "36:11",
+          "seconds": 2171,
+          "mentioned_as": "The Prestige"
+        }
+      ],
+      "it_flatrate": []
+    },
+    "movie:spider-man:tt0145487": {
+      "id": "movie:spider-man:tt0145487",
+      "imdb_id": "tt0145487",
+      "category": "movie",
+      "it_title": "Spider-Man",
+      "orig_title": "Spider-Man",
+      "year": 2002,
+      "cast": "Tobey Maguire, Kirsten Dunst",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0145487",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "rzaCcMUxe8c",
+          "video_title": "Patreon: Spider-Man (2002) di Sam Raimi - Minirece richiesta da Bardo",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "AUE59v9uRoY",
+          "video_title": "Le recensioni di Frusciante - Raimi",
+          "timestamp": "1:05:43",
+          "seconds": 3943
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "IjjHL39070U",
+          "video_title": "MovieBlog- 221: Recensione Spider-Man (Trilogia di Sam Raimi)",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Spider-Man"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "7LB-80wejD4",
+          "video_title": "Spider-Man: Across the Spider-verse - Parte Uno: sembra INCREDIBILE!",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Spider-Man"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "TP8mTfQ8SVY",
+          "video_title": "SPIDER-MAN: ANNUNCIATA LA NUOVA TRILOGIA!",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "SPIDER-MAN"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "WC-I5U2r_fc",
+          "video_title": "MONOGRAFIA SU SPIDER-MAN CON  @Federico Frusciante  (DALLA MARATONA DECOMPONENTE DI DARIO MOCCIA)",
+          "timestamp": "11:39",
+          "seconds": 699,
+          "mentioned_as": "Spider-Man"
+        }
+      ],
+      "director": "Sam Raimi",
+      "it_flatrate": [
+        {
+          "source": "amazonhbomax",
+          "name": "HBO Max (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/301579114"
+        },
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/301579115"
+        }
+      ]
+    },
     "movie:deadpool & wolverine:tt6263850": {
       "id": "movie:deadpool & wolverine:tt6263850",
       "imdb_id": "tt6263850",
@@ -10063,64 +10742,6 @@
         }
       ],
       "director": "Martin Scorsese",
-      "it_flatrate": [],
-      "watchnow_checked": true
-    },
-    "movie:memento:tt0209144": {
-      "id": "movie:memento:tt0209144",
-      "imdb_id": "tt0209144",
-      "category": "movie",
-      "it_title": "Memento",
-      "orig_title": "Memento",
-      "year": 2000,
-      "cast": "Guy Pearce, Carrie-Anne Moss",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGQ3Y2Q4NjktN2E4Ny00Y2Q2LTliZDUtZTNiNjRhY2I0NGIyXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0209144",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "ylyKRXl244w",
-          "video_title": "Patreon: Memento (2000) di Christopher Nolan - Minirece richiesta da Nicola Pedretti",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Memento"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "UwcUIntMzCg",
-          "video_title": "Le Recensioni di Frusciante - Nolan",
-          "timestamp": "8:34",
-          "seconds": 514
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "d-NNfGCKwM0",
-          "video_title": "MovieBlog- 35: Recensione Memento",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Memento"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_memento-2001",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/memento-2001",
-          "mentioned_as": "Memento"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_memento_2000",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/nolan.html",
-          "mentioned_as": "Memento"
-        }
-      ],
       "it_flatrate": [],
       "watchnow_checked": true
     },
@@ -10794,89 +11415,6 @@
         }
       ]
     },
-    "movie:dunkirk:tt5013056": {
-      "id": "movie:dunkirk:tt5013056",
-      "imdb_id": "tt5013056",
-      "category": "movie",
-      "it_title": "Dunkirk",
-      "orig_title": "Dunkirk",
-      "year": 2017,
-      "cast": "Fionn Whitehead, Barry Keoghan",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTE0Mjg4MTMwMDZeQTJeQWpwZ15BbWU4MDAwMDQ1ODAy._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/326679161"
-        },
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://watchnow.trakt.tv/watchnow/326679160"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt5013056",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "CNNtFujFlE0",
-          "video_title": "Frusciante: Meglio e Peggio 2017",
-          "timestamp": "40:29",
-          "seconds": 2429,
-          "mentioned_as": "Dunkirk"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "GMwLo7etC_I",
-          "video_title": "Patreon: Dunkirk (2017) di Christopher Nolan - Minirece richiesta da Andrea Aste",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Dunkirk"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "gE7pmObZpVk",
-          "video_title": "I Migliori Film del 2017 ",
-          "timestamp": "1:03:00",
-          "seconds": 3780,
-          "mentioned_as": "Dunkirk:  (spoiler)"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "fjsOrjXwcA8",
-          "video_title": "FlashVic- 57: Recensione Dunkirk",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Dunkirk"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "XfmOMyxFOtk",
-          "video_title": "MovieBlog 547- Recensione Dunkirk (SENZA SPOILER)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Dunkirk"
-        }
-      ],
-      "it_flatrate": [
-        {
-          "source": "now_tv",
-          "name": "Now TV",
-          "link": "https://watchnow.trakt.tv/watchnow/300026919"
-        },
-        {
-          "source": "sky_go",
-          "name": "Sky Go",
-          "link": "https://watchnow.trakt.tv/watchnow/300026922"
-        },
-        {
-          "source": "timvision",
-          "name": "Timvision",
-          "link": "https://watchnow.trakt.tv/watchnow/300026920"
-        }
-      ]
-    },
     "movie:alien covenant:tt2316204": {
       "id": "movie:alien covenant:tt2316204",
       "imdb_id": "tt2316204",
@@ -10943,90 +11481,6 @@
           "source": "disney_plus",
           "name": "Disney+",
           "link": "https://watchnow.trakt.tv/watchnow/300807733"
-        }
-      ]
-    },
-    "movie:old boy:tt0364569": {
-      "id": "movie:old boy:tt0364569",
-      "imdb_id": "tt0364569",
-      "category": "movie",
-      "it_title": "Old Boy",
-      "orig_title": "Oldboy",
-      "year": 2003,
-      "cast": "Choi Min-sik, Yoo Ji-tae",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTAwNzNjYWItZmI0Ni00ZTcyLWIwNWMtZjlmNGMxZTEyYTJmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0364569",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "ryUU1loDIXE",
-          "video_title": "Patreon: Old Boy (2003) di Park Chan-wook - Minirece richiesta da Jospeh",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Old Boy"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "3yCp2_19Ytc",
-          "video_title": "MARRA VI CONSIGLIA un SACCO di FILM!! | Cerbero Podcast ",
-          "timestamp": "4:20",
-          "seconds": 260,
-          "mentioned_as": "OLD BOY"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_2003_old boy",
-          "external_rec_url": "https://www.scaruffi.com/director/park.html",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "mentioned_as": "Old Boy"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "UuuRuQmjqqQ",
-          "video_title": "“OLDBOY” di Park Chan-wook (Recensione con Spoiler)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "OLDBOY"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "FbJ0EBEme4U",
-          "video_title": "MovieBlog- 308: Recensione Oldboy (2003)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Oldboy"
-        }
-      ],
-      "director": "Park Chan-wook",
-      "it_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/300270996"
-        },
-        {
-          "source": "amazon_prime_video_with_ads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://watchnow.trakt.tv/watchnow/300270997"
-        },
-        {
-          "source": "now_tv",
-          "name": "Now TV",
-          "link": "https://watchnow.trakt.tv/watchnow/300270994"
-        },
-        {
-          "source": "sky_go",
-          "name": "Sky Go",
-          "link": "https://watchnow.trakt.tv/watchnow/300270998"
-        },
-        {
-          "source": "timvision",
-          "name": "Timvision",
-          "link": "https://watchnow.trakt.tv/watchnow/300270995"
         }
       ]
     },
@@ -11454,65 +11908,6 @@
           "link": "https://watchnow.trakt.tv/watchnow/302281545"
         }
       ]
-    },
-    "movie:la fine del mondo:tt1213663": {
-      "id": "movie:la fine del mondo:tt1213663",
-      "imdb_id": "tt1213663",
-      "category": "movie",
-      "it_title": "La fine del mondo",
-      "orig_title": "The World's End",
-      "year": 2013,
-      "cast": "Simon Pegg, Nick Frost",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzA1MTk1MzY0OV5BMl5BanBnXkFtZTgwNjkzNTUwMDE@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt1213663",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "JW6R3772Y6k",
-          "video_title": "Le Recensioni di Frusciante - Meglio e Peggio 2013",
-          "timestamp": "1:00:38",
-          "seconds": 3638,
-          "mentioned_as": "La fine del mondo"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "b-QF-9Eze2E",
-          "video_title": "Le Monografie di Frusciante: Edgar Wright (Maggio 2020)",
-          "timestamp": "30:02",
-          "seconds": 1802,
-          "mentioned_as": "La fine del mondo"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "UJ7bGbyPy20",
-          "video_title": "Patreon: La fine del mondo (2013) di Edgar Wright - Minirece richiesta da Fantast-Ivo",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "La fine del mondo"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "Yn2RXKm-1ps",
-          "video_title": "MovieBlog- 292: Recensione La Fine del Mondo",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "La Fine del Mondo"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_the-worlds-end-2013",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/the-worlds-end-2013",
-          "mentioned_as": "The World's End"
-        }
-      ],
-      "director": "Edgar Wright",
-      "it_flatrate": [],
-      "watchnow_checked": true
     },
     "movie:shutter island:tt1130884": {
       "id": "movie:shutter island:tt1130884",
@@ -14537,111 +14932,6 @@
       "it_flatrate": [],
       "watchnow_checked": true
     },
-    "movie:inception:tt1375666": {
-      "id": "movie:inception:tt1375666",
-      "imdb_id": "tt1375666",
-      "category": "movie",
-      "it_title": "Inception",
-      "orig_title": "Inception",
-      "year": 2010,
-      "cast": "Leonardo DiCaprio, Joseph Gordon-Levitt",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/329520429"
-        },
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/323197260"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1375666",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "UwcUIntMzCg",
-          "video_title": "Le Recensioni di Frusciante - Nolan",
-          "timestamp": "50:12",
-          "seconds": 3012,
-          "mentioned_as": "Inception"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "tvbRwDnk4r0",
-          "video_title": "Patreon: Inception (2010) di Christopher Nolan - Minirece richiesta da Laura80",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Inception"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "zfJY7vI4Bnc",
-          "video_title": "MovieBlog- 78: Recensione Inception",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Inception"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_inception-2010",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/inception-2010",
-          "mentioned_as": "Inception"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_inception_2010",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/nolan.html#inc",
-          "mentioned_as": "Inception"
-        }
-      ],
-      "it_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/327356681"
-        },
-        {
-          "source": "amazon_prime_video_with_ads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://watchnow.trakt.tv/watchnow/327356682"
-        },
-        {
-          "source": "amazonhbomax",
-          "name": "HBO Max (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/300029928"
-        },
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/300029929"
-        },
-        {
-          "source": "now_tv",
-          "name": "Now TV",
-          "link": "https://watchnow.trakt.tv/watchnow/300029926"
-        },
-        {
-          "source": "sky_go",
-          "name": "Sky Go",
-          "link": "https://watchnow.trakt.tv/watchnow/300029930"
-        },
-        {
-          "source": "timvision",
-          "name": "Timvision",
-          "link": "https://watchnow.trakt.tv/watchnow/300029927"
-        }
-      ]
-    },
     "movie:l'ultima eclissi:tt0109642": {
       "id": "movie:l'ultima eclissi:tt0109642",
       "imdb_id": "tt0109642",
@@ -15218,66 +15508,6 @@
           "link": "https://watchnow.trakt.tv/watchnow/301606924"
         }
       ]
-    },
-    "movie:ex_machina:tt0470752": {
-      "id": "movie:ex_machina:tt0470752",
-      "imdb_id": "tt0470752",
-      "category": "movie",
-      "it_title": "Ex_Machina",
-      "orig_title": "Ex Machina",
-      "year": 2014,
-      "cast": "Alicia Vikander, Domhnall Gleeson",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0470752",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "k92rXHKo0Ck",
-          "video_title": "Le Recensioni di Frusciante: Meglio e Peggio 2015",
-          "timestamp": "35:27",
-          "seconds": 2127,
-          "mentioned_as": "Ex Machina"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "pIdfZddQPT8",
-          "video_title": "Patreon: Ex Machina (2015) di Alex Garland - Minirece richiesta da Marco Winchester Fioretti",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Ex Machina"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "yogd5wiyq9E",
-          "video_title": "MovieBlog- 406: Recensione Ex machina",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Ex machina"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_ex-machina-2015",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/ex-machina-2015",
-          "mentioned_as": "Ex Machina"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_exmachina_2014",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/garland.html",
-          "mentioned_as": "Ex Machina"
-        }
-      ],
-      "director": "Alex Garland",
-      "it_flatrate": [],
-      "watchnow_checked": true
     },
     "movie:interstellar:tt0816692": {
       "id": "movie:interstellar:tt0816692",
@@ -18926,74 +19156,6 @@
       ],
       "it_flatrate": []
     },
-    "movie:the prestige:tt0482571": {
-      "id": "movie:the prestige:tt0482571",
-      "imdb_id": "tt0482571",
-      "category": "movie",
-      "it_title": "The Prestige",
-      "orig_title": "The Prestige",
-      "year": 2006,
-      "cast": "Christian Bale, Hugh Jackman",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZWU0NWZhYzMtZmNlYy00MjA1LTgyZWEtYmNjNzdjYmRkOTkzXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/326954870"
-        },
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/326954869"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0482571",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "NycVx7R8aoI",
-          "video_title": "Patreon: The Prestige (2006) di Christopher Nolan - Minirece richiesta da Phreddy",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "The Prestige"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "UwcUIntMzCg",
-          "video_title": "Le Recensioni di Frusciante - Nolan",
-          "timestamp": "28:12",
-          "seconds": 1692
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_the-prestige-2007",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/the-prestige-2007",
-          "mentioned_as": "The Prestige"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_prestige_2006",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/nolan.html",
-          "mentioned_as": "The Prestige"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "wV1U0CEmlg4",
-          "video_title": "Discussione su NOLAN e “THE PRESTIGE” con FRUSCIANTE, VICTORLASZLO88 e DARIO MOCCIA - parte 1",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "THE PRESTIGE"
-        }
-      ],
-      "it_flatrate": []
-    },
     "movie:videodrome:tt0086541": {
       "id": "movie:videodrome:tt0086541",
       "imdb_id": "tt0086541",
@@ -19246,69 +19408,139 @@
         }
       ]
     },
-    "movie:spider-man:tt0145487": {
-      "id": "movie:spider-man:tt0145487",
-      "imdb_id": "tt0145487",
+    "movie:l'alba dei morti dementi:tt0365748": {
+      "id": "movie:l'alba dei morti dementi:tt0365748",
+      "imdb_id": "tt0365748",
       "category": "movie",
-      "it_title": "Spider-Man",
-      "orig_title": "Spider-Man",
-      "year": 2002,
-      "cast": "Tobey Maguire, Kirsten Dunst",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "it_title": "L'alba dei morti dementi",
+      "orig_title": "Shaun of the Dead",
+      "year": 2004,
+      "cast": "Simon Pegg, Nick Frost",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzNjZGE4YTUtOWU3OC00Mzg2LThjNWItMzUwYzEwMDgxYmVjXkEyXkFqcGc@._V1_UX400_.jpg",
       "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0145487",
+      "ch_flatrate": [
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/326685896"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0365748",
       "recommendations": [
         {
           "creator": "Federico Frusciante",
-          "video_id": "rzaCcMUxe8c",
-          "video_title": "Patreon: Spider-Man (2002) di Sam Raimi - Minirece richiesta da Bardo",
+          "video_id": "vepHLr2qh1s",
+          "video_title": "Patreon: L'alba dei morti dementi (2004) di Edgar Wright - Minirece richiesta da Lana",
           "timestamp": "00:00",
           "seconds": 0
         },
         {
-          "creator": "Federico Frusciante",
-          "video_id": "AUE59v9uRoY",
-          "video_title": "Le recensioni di Frusciante - Raimi",
-          "timestamp": "1:05:43",
-          "seconds": 3943
-        },
-        {
           "creator": "Victorlaszlo88",
-          "video_id": "IjjHL39070U",
-          "video_title": "MovieBlog- 221: Recensione Spider-Man (Trilogia di Sam Raimi)",
+          "video_id": "tf5BcyeJxsM",
+          "video_title": "MovieBlog- 224: recensione L'Alba dei morti dementi (Shaun of the dead)",
           "timestamp": "00:00",
           "seconds": 0,
-          "mentioned_as": "Spider-Man"
+          "mentioned_as": "L'Alba dei morti dementi"
         },
         {
-          "creator": "Victorlaszlo88",
-          "video_id": "7LB-80wejD4",
-          "video_title": "Spider-Man: Across the Spider-verse - Parte Uno: sembra INCREDIBILE!",
-          "timestamp": "00:00",
+          "creator": "Roger Ebert",
+          "video_id": "ebert_shaun-of-the-dead-2004",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
           "seconds": 0,
-          "mentioned_as": "Spider-Man"
+          "external_rec_url": "https://www.rogerebert.com/reviews/shaun-of-the-dead-2004",
+          "mentioned_as": "Shaun of the Dead"
         },
         {
-          "creator": "Victorlaszlo88",
-          "video_id": "TP8mTfQ8SVY",
-          "video_title": "SPIDER-MAN: ANNUNCIATA LA NUOVA TRILOGIA!",
-          "timestamp": "00:00",
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_shaunofthedead_2004",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
           "seconds": 0,
-          "mentioned_as": "SPIDER-MAN"
+          "external_rec_url": "https://www.scaruffi.com/director/wright.html",
+          "mentioned_as": "Shaun of the Dead"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "-OXJmMXCmzs",
+          "video_title": "Edgar Wright Monografia",
+          "timestamp": "2:26",
+          "seconds": 146,
+          "mentioned_as": "Shaun of the Dead"
         }
       ],
-      "director": "Sam Raimi",
-      "it_flatrate": [
+      "director": "Edgar Wright",
+      "it_flatrate": []
+    },
+    "movie:the well:tt26754354": {
+      "id": "movie:the well:tt26754354",
+      "imdb_id": "tt26754354",
+      "category": "movie",
+      "it_title": "The Well",
+      "orig_title": "The Well",
+      "year": 2023,
+      "cast": "Claudio Nathan Brezzi, Gianluigi Calvani",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDViZTYyMjgtOWMwNC00ZGNhLTlhZTEtMTYyMzljNjhkNjUyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt26754354",
+      "recommendations": [
         {
-          "source": "amazonhbomax",
-          "name": "HBO Max (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/301579114"
+          "creator": "Federico Frusciante",
+          "video_id": "GdVXZbHnonA",
+          "video_title": "Federico Frusciante: Il Meglio e Peggio 2024",
+          "timestamp": "05:34:07",
+          "seconds": 20047
         },
         {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/301579115"
+          "creator": "Victorlaszlo88",
+          "video_id": "_1TI9eL76Ac",
+          "video_title": "I MIGLIORI FILM DEL 2024",
+          "timestamp": "3:44:52",
+          "seconds": 13492,
+          "mentioned_as": "The Well"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "Km99r6R4FEk",
+          "video_title": "\"THE WELL\", UN HORROR VECCHIA SCUOLA DA OGGI AL CINEMA!",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "THE WELL"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "U4Pml8rW1FQ",
+          "video_title": "\"THE WELL\" UN HORROR VECCHIO STILE E SUBLIME IN SALA DA DOMANI 1 AGOSTO!",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "THE WELL"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "b_MJBmW9ApA",
+          "video_title": "ViConsiglio: Film per Halloween!",
+          "timestamp": "13:03",
+          "seconds": 783,
+          "mentioned_as": "The Well"
+        }
+      ],
+      "director": "Federico Zampaglione",
+      "it_flatrate": [
+        {
+          "source": "amazoncgent",
+          "name": "CG Collection Amazon channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23f52d7c-368a-4090-976d-60d9e7afb92b"
+        },
+        {
+          "source": "cgtv",
+          "name": "CG TV STREAMING",
+          "link": "https://streaming.cgtv.it/tracking/jwtrack.php?sku=60419&tk=the-well&type=1"
+        },
+        {
+          "source": "amazonmidnight",
+          "name": "MIDNIGHT FACTORY Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23f52d7c-368a-4090-976d-60d9e7afb92b"
         }
       ]
     },
@@ -30584,62 +30816,6 @@
       "external_url": "https://app.trakt.tv/movies/tt2023587",
       "watchnow_checked": true
     },
-    "movie:l'alba dei morti dementi:tt0365748": {
-      "id": "movie:l'alba dei morti dementi:tt0365748",
-      "imdb_id": "tt0365748",
-      "category": "movie",
-      "it_title": "L'alba dei morti dementi",
-      "orig_title": "Shaun of the Dead",
-      "year": 2004,
-      "cast": "Simon Pegg, Nick Frost",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzNjZGE4YTUtOWU3OC00Mzg2LThjNWItMzUwYzEwMDgxYmVjXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/326685896"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0365748",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "vepHLr2qh1s",
-          "video_title": "Patreon: L'alba dei morti dementi (2004) di Edgar Wright - Minirece richiesta da Lana",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "tf5BcyeJxsM",
-          "video_title": "MovieBlog- 224: recensione L'Alba dei morti dementi (Shaun of the dead)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "L'Alba dei morti dementi"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_shaun-of-the-dead-2004",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/shaun-of-the-dead-2004",
-          "mentioned_as": "Shaun of the Dead"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_shaunofthedead_2004",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/wright.html",
-          "mentioned_as": "Shaun of the Dead"
-        }
-      ],
-      "director": "Edgar Wright",
-      "it_flatrate": []
-    },
     "movie:la pelle che abito:tt1189073": {
       "id": "movie:la pelle che abito:tt1189073",
       "imdb_id": "tt1189073",
@@ -35141,70 +35317,6 @@
       ],
       "watchnow_checked": true
     },
-    "movie:the well:tt26754354": {
-      "id": "movie:the well:tt26754354",
-      "imdb_id": "tt26754354",
-      "category": "movie",
-      "it_title": "The Well",
-      "orig_title": "The Well",
-      "year": 2023,
-      "cast": "Claudio Nathan Brezzi, Gianluigi Calvani",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDViZTYyMjgtOWMwNC00ZGNhLTlhZTEtMTYyMzljNjhkNjUyXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt26754354",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "GdVXZbHnonA",
-          "video_title": "Federico Frusciante: Il Meglio e Peggio 2024",
-          "timestamp": "05:34:07",
-          "seconds": 20047
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "_1TI9eL76Ac",
-          "video_title": "I MIGLIORI FILM DEL 2024",
-          "timestamp": "3:44:52",
-          "seconds": 13492,
-          "mentioned_as": "The Well"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "Km99r6R4FEk",
-          "video_title": "\"THE WELL\", UN HORROR VECCHIA SCUOLA DA OGGI AL CINEMA!",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "THE WELL"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "U4Pml8rW1FQ",
-          "video_title": "\"THE WELL\" UN HORROR VECCHIO STILE E SUBLIME IN SALA DA DOMANI 1 AGOSTO!",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "THE WELL"
-        }
-      ],
-      "director": "Federico Zampaglione",
-      "it_flatrate": [
-        {
-          "source": "amazoncgent",
-          "name": "CG Collection Amazon channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23f52d7c-368a-4090-976d-60d9e7afb92b"
-        },
-        {
-          "source": "cgtv",
-          "name": "CG TV STREAMING",
-          "link": "https://streaming.cgtv.it/tracking/jwtrack.php?sku=60419&tk=the-well&type=1"
-        },
-        {
-          "source": "amazonmidnight",
-          "name": "MIDNIGHT FACTORY Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23f52d7c-368a-4090-976d-60d9e7afb92b"
-        }
-      ]
-    },
     "movie:una sterminata domenica:tt28497330": {
       "id": "movie:una sterminata domenica:tt28497330",
       "imdb_id": "tt28497330",
@@ -36998,6 +37110,872 @@
         }
       ]
     },
+    "movie:following:tt0154506": {
+      "id": "movie:following:tt0154506",
+      "imdb_id": "tt0154506",
+      "category": "movie",
+      "it_title": "Following",
+      "orig_title": "Following",
+      "year": 1998,
+      "cast": "Jeremy Theobald, Alex Haw",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTQxYzIwMTAtYjZlNi00YzkwLWI4ZGYtNzNlZjU3N2MyNzI4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "mubi",
+          "name": "MUBI",
+          "link": "https://watchnow.trakt.tv/watchnow/325838476"
+        },
+        {
+          "source": "mubi_amazon_channel",
+          "name": "MUBI (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/325838477"
+        },
+        {
+          "source": "rakuten_tv",
+          "name": "Rakuten TV",
+          "link": "https://watchnow.trakt.tv/watchnow/325838479"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0154506",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "bJSS-fzCBy8",
+          "video_title": "Patreon: Following (1998) di Christopher Nolan - Minirece richiesta da Mako, Andrea Aste",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "UwcUIntMzCg",
+          "video_title": "Le Recensioni di Frusciante - Nolan",
+          "timestamp": "5:16",
+          "seconds": 316
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_following_1998",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/nolan.html",
+          "mentioned_as": "Following"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "zIDhdV-e4q4",
+          "video_title": "Monografia Christopher Nolan | Criticoni Talk #44",
+          "timestamp": "6:11",
+          "seconds": 371,
+          "mentioned_as": "Following"
+        }
+      ],
+      "it_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/302070141"
+        },
+        {
+          "source": "amazon_prime_video_with_ads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://watchnow.trakt.tv/watchnow/302070143"
+        },
+        {
+          "source": "mubi",
+          "name": "MUBI",
+          "link": "https://watchnow.trakt.tv/watchnow/302070140"
+        },
+        {
+          "source": "mubi_amazon_channel",
+          "name": "MUBI (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/302070142"
+        }
+      ]
+    },
+    "movie:la bella e la bestia:  (spoiler):tt0101414": {
+      "id": "movie:la bella e la bestia:  (spoiler):tt0101414",
+      "imdb_id": "tt0101414",
+      "category": "movie",
+      "it_title": "La Bella e la Bestia:  (spoiler)",
+      "orig_title": "Beauty and the Beast",
+      "year": 1991,
+      "cast": "Paige O'Hara, Robby Benson",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTY3NDg2YzktYWFjZC00MTExLTlmZDctMGY3MWYzZTlkYTNiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "bloodstream",
+          "name": "Bloodstream",
+          "link": "https://watchnow.trakt.tv/watchnow/326689948"
+        },
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/326689949"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0101414",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "-bV5JmrZPjQ",
+          "video_title": "FlashVic- 53: Recensione La Bella e La Bestia",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "La Bella e La Bestia"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "aza58n0R5_c",
+          "video_title": "MovieBlog- 526: Recensione La Bella E La Bestia",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "La Bella E La Bestia"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_beauty-and-the-beast-1991",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/beauty-and-the-beast-1991",
+          "mentioned_as": "Beauty And The Beast"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "gE7pmObZpVk",
+          "video_title": "I Migliori Film del 2017 #L'Opinione",
+          "timestamp": "36:23",
+          "seconds": 2183,
+          "mentioned_as": "La Bella e la Bestia:  (spoiler)"
+        }
+      ],
+      "director": "Kirk Wise, Gary Trousdale",
+      "it_flatrate": [
+        {
+          "source": "bloodstream",
+          "name": "Bloodstream",
+          "link": "https://watchnow.trakt.tv/watchnow/321613753"
+        },
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/301496721"
+        }
+      ]
+    },
+    "movie:when evil lurks:tt16300962": {
+      "id": "movie:when evil lurks:tt16300962",
+      "imdb_id": "tt16300962",
+      "category": "movie",
+      "it_title": "When Evil Lurks",
+      "orig_title": "When Evil Lurks",
+      "year": 2023,
+      "cast": "Ezequiel Rodríguez, Demián Salomón",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2UxZWExMTYtMzIzYy00NGUxLTk4Y2QtNTUxNWEyNWYxMWYzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt16300962",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "FcLcngFeERQ",
+          "video_title": "Federico Frusciante: Il Meglio e Peggio 2023",
+          "timestamp": "06:20:10",
+          "seconds": 22810,
+          "mentioned_as": "When Evil Lurks"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "HP585wCiLpc",
+          "video_title": "Frusciante al Cinema: When Evil Lurks (2023) di Demián Rugna - Luglio 2024",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "When Evil Lurks"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "CuK2qCI2n5c",
+          "video_title": "Patreon: When Evil Lurks (2003) di Demián Rugna - Minirece richiesta da Emanuele Guarnera",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "When Evil Lurks"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "b_MJBmW9ApA",
+          "video_title": "ViConsiglio: Film per Halloween!",
+          "timestamp": "10:24",
+          "seconds": 624,
+          "mentioned_as": "When Evil lurks"
+        }
+      ],
+      "director": "Demián Rugna",
+      "it_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/303413558"
+        },
+        {
+          "source": "amazon_prime_video_with_ads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://watchnow.trakt.tv/watchnow/303413559"
+        }
+      ]
+    },
+    "movie:bakjwi:tt0762073": {
+      "id": "movie:bakjwi:tt0762073",
+      "imdb_id": "tt0762073",
+      "category": "movie",
+      "it_title": "Bakjwi",
+      "orig_title": "Thirst",
+      "year": 2009,
+      "cast": "Song Kang-ho, Kim Ok-bin",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDIxMTk2MjAtYTgzNy00NDE5LTg2MWQtYjM5ODBhODZkN2M4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "filmfriend",
+          "name": "filmfriend (free)",
+          "link": "https://watchnow.trakt.tv/watchnow/325985234"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0762073",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "qWOgb_pwuPA",
+          "video_title": "I Consigli di Frusciante: Aprile 2022",
+          "timestamp": "16:34",
+          "seconds": 994
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "xnYVnhAri5s",
+          "video_title": "Patreon: Thirst (2009) di Park Chan-wook - Minirece richiesta da Unna, Daniele Fedele",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_thirst-2009",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/thirst-2009",
+          "mentioned_as": "Thirst"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "Nf9ilFyWlEc",
+          "video_title": "Monografia Park chan-Wook | Criticoni Talk #31",
+          "timestamp": "1:07:47",
+          "seconds": 4067,
+          "mentioned_as": "Thirst"
+        }
+      ],
+      "director": "Park Chan-wook",
+      "it_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/303710121"
+        },
+        {
+          "source": "amazon_prime_video_with_ads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://watchnow.trakt.tv/watchnow/303710122"
+        }
+      ],
+      "watchnow_checked": true
+    },
+    "movie:spider-man 2:tt0316654": {
+      "id": "movie:spider-man 2:tt0316654",
+      "imdb_id": "tt0316654",
+      "category": "movie",
+      "it_title": "Spider-man 2",
+      "orig_title": "Spider-Man 2",
+      "year": 2004,
+      "cast": "Tobey Maguire, Kirsten Dunst",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0316654",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "eSwb5wGzRGo",
+          "video_title": "Patreon: Spider-man 2 (2004) di Sam Raimi - Minirece richiesta da Jane, Kir e Luca97",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "AUE59v9uRoY",
+          "video_title": "Le recensioni di Frusciante - Raimi",
+          "timestamp": "1:13:36",
+          "seconds": 4416
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_spider-man-2-2004",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/spider-man-2-2004",
+          "mentioned_as": "Spider-Man 2"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "WC-I5U2r_fc",
+          "video_title": "MONOGRAFIA SU SPIDER-MAN CON  @Federico Frusciante  (DALLA MARATONA DECOMPONENTE DI DARIO MOCCIA)",
+          "timestamp": "1:07:17",
+          "seconds": 4037,
+          "mentioned_as": "Spider-Man 2"
+        }
+      ],
+      "director": "Sam Raimi",
+      "it_flatrate": [
+        {
+          "source": "amazonhbomax",
+          "name": "HBO Max (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/300077596"
+        },
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/300077597"
+        }
+      ],
+      "watchnow_checked": true
+    },
+    "movie:tokyo godfathers:tt0388473": {
+      "id": "movie:tokyo godfathers:tt0388473",
+      "imdb_id": "tt0388473",
+      "category": "movie",
+      "it_title": "Tokyo Godfathers",
+      "orig_title": "Tokyo Godfathers",
+      "year": 2003,
+      "cast": "Tôru Emori, Yoshiaki Umegaki",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNmEzNDcwYzQtMzM0Zi00YWYxLTkzOWEtY2Y0ZTJiNDVjM2NkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0388473",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "vLvJ7x-MaB4",
+          "video_title": "Patreon: Tokyo Godfathers (2003) di Satoshi Kon - Minirece richiesta da Giovanni D'Agostino",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "qEyaBxM9bRw",
+          "video_title": "Le Monografie di Frusciante: Satoshi Kon (Febbraio 2022)",
+          "timestamp": "20:41",
+          "seconds": 1241
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_tokyo-godfathers-2004",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/tokyo-godfathers-2004",
+          "mentioned_as": "Tokyo Godfathers"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "_EyWOdjho3U",
+          "video_title": "i Migliori Film Natalizi per i CRITICONI | Criticoni Talk #13",
+          "timestamp": "01:32:53",
+          "seconds": 5573,
+          "mentioned_as": "Tokyo Godfathers"
+        }
+      ],
+      "director": "Satoshi Kon",
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:love actually - l'amore davvero:tt0314331": {
+      "id": "movie:love actually - l'amore davvero:tt0314331",
+      "imdb_id": "tt0314331",
+      "category": "movie",
+      "it_title": "Love Actually - L'amore davvero",
+      "orig_title": "Love Actually",
+      "year": 2003,
+      "cast": "Hugh Grant, Martine McCutcheon",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWRlZjcwYTgtYWJkOS00MGYwLTk3Y2ItNmU4NTg5Nzg2YTQ2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/329458136"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0314331",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "kpXWNXlu--k",
+          "video_title": "Patreon: Love Actually - L'amore davvero (2003) di Richard Curtis - Mini richiesta da Paolo Marziali",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "GAVKN4glchQ",
+          "video_title": "MovieBlog- 514: Recensione Love Actually ",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Love Actually"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_love-actually-2003",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/love-actually-2003",
+          "mentioned_as": "Love Actually"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "_EyWOdjho3U",
+          "video_title": "i Migliori Film Natalizi per i CRITICONI | Criticoni Talk #13",
+          "timestamp": "01:43:45",
+          "seconds": 6225,
+          "mentioned_as": "Love Actually"
+        }
+      ],
+      "director": "Richard Curtis",
+      "it_flatrate": []
+    },
+    "movie:batman begins:tt0372784": {
+      "id": "movie:batman begins:tt0372784",
+      "imdb_id": "tt0372784",
+      "category": "movie",
+      "it_title": "Batman Begins",
+      "orig_title": "Batman Begins",
+      "year": 2005,
+      "cast": "Christian Bale, Michael Caine",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzA2NDQzZDEtNDU5Ni00YTlkLTg2OWEtYmQwM2Y1YTBjMjFjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/326983419"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0372784",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "UwcUIntMzCg",
+          "video_title": "Le Recensioni di Frusciante - Nolan",
+          "timestamp": "19:32",
+          "seconds": 1172
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "K5PuQ_qu1Hs",
+          "video_title": "MovieBlog- 173: Recensione Batman Begins",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Batman Begins"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_batman-begins-2005",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/batman-begins-2005",
+          "mentioned_as": "Batman Begins"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "zIDhdV-e4q4",
+          "video_title": "Monografia Christopher Nolan | Criticoni Talk #44",
+          "timestamp": "44:51",
+          "seconds": 2691,
+          "mentioned_as": "Batman Begins"
+        }
+      ],
+      "director": "Christopher Nolan",
+      "it_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/321466137"
+        },
+        {
+          "source": "amazon_prime_video_with_ads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://watchnow.trakt.tv/watchnow/321466138"
+        },
+        {
+          "source": "amazonhbomax",
+          "name": "HBO Max (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/300334168"
+        },
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/300334169"
+        },
+        {
+          "source": "now_tv",
+          "name": "Now TV",
+          "link": "https://watchnow.trakt.tv/watchnow/300334164"
+        },
+        {
+          "source": "sky_go",
+          "name": "Sky Go",
+          "link": "https://watchnow.trakt.tv/watchnow/300334171"
+        },
+        {
+          "source": "timvision",
+          "name": "Timvision",
+          "link": "https://watchnow.trakt.tv/watchnow/300334165"
+        }
+      ],
+      "watchnow_checked": true
+    },
+    "movie:krampus - natale non è sempre natale:tt3850590": {
+      "id": "movie:krampus - natale non è sempre natale:tt3850590",
+      "imdb_id": "tt3850590",
+      "category": "movie",
+      "it_title": "Krampus - Natale non è sempre Natale",
+      "orig_title": "Krampus",
+      "year": 2015,
+      "cast": "Adam Scott, Toni Collette",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjk0MjMzMTI3NV5BMl5BanBnXkFtZTgwODEyODkxNzE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt3850590",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "f-cIcodDvLg",
+          "video_title": "Patreon: Krampus - Natale non è sempre Natale (2015) di Michael Dougherty - Richiesta da Coven91",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "t4FpGGDBVGc",
+          "video_title": "Vi racconto una parte della mia infanzia evocatami da questo film | RECENSIONE “KRAMPUS” No Spoiler",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "KRAMPUS"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_krampus-2015",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/krampus-2015",
+          "mentioned_as": "Krampus"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "_EyWOdjho3U",
+          "video_title": "i Migliori Film Natalizi per i CRITICONI | Criticoni Talk #13",
+          "timestamp": "02:21:33",
+          "seconds": 8493,
+          "mentioned_as": "Krampus"
+        }
+      ],
+      "director": "Michael Dougherty",
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:quando c'era marnie:tt3398268": {
+      "id": "movie:quando c'era marnie:tt3398268",
+      "imdb_id": "tt3398268",
+      "category": "movie",
+      "it_title": "Quando c'era Marnie",
+      "orig_title": "When Marnie Was There",
+      "year": 2014,
+      "cast": "Sara Takatsuki, Kasumi Arimura",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjc4MDI2ZGUtOGZkNS00ZDFiLTllYTYtNGRmZDgxN2FiMjUzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://watchnow.trakt.tv/watchnow/325872696"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt3398268",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "z1VmCOZ1ucs",
+          "video_title": "Patreon: Quando c'era Marnie (2014) di Hiromasa Yonebayashi - Minirece richiesta da Andrea",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "vvaelgi_AM0",
+          "video_title": "MovieBlog- 409: Recensione Quando C'Era Marnie",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Quando C'Era Marnie"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_when-marnie-was-there-2015",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/when-marnie-was-there-2015",
+          "mentioned_as": "When Marnie Was There"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "PKoR8CPBrBw",
+          "video_title": "#L'OPINIONE: I MIGLIORI FILM DEL 2015",
+          "timestamp": "1:10:43",
+          "seconds": 4243,
+          "mentioned_as": " Quando c'era Marnie "
+        }
+      ],
+      "director": "Hiromasa Yonebayashi",
+      "it_flatrate": []
+    },
+    "movie:hot fuzz:tt0425112": {
+      "id": "movie:hot fuzz:tt0425112",
+      "imdb_id": "tt0425112",
+      "category": "movie",
+      "it_title": "Hot Fuzz",
+      "orig_title": "Hot Fuzz",
+      "year": 2007,
+      "cast": "Simon Pegg, Nick Frost",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjFkZTkzZTQtNjM1ZS00M2EyLWE3MTAtMmY5Yzk0NTc0NDc3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://watchnow.trakt.tv/watchnow/326633995"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0425112",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "N2o7O67Z9q8",
+          "video_title": "Patreon: Hot Fuzz (2007) di Edgar Wright - Minirece richiesta da Rictas",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Hot Fuzz"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "b-QF-9Eze2E",
+          "video_title": "Le Monografie di Frusciante: Edgar Wright (Maggio 2020)",
+          "timestamp": "14:35",
+          "seconds": 875
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_hotfuzz_2007",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/wright.html",
+          "mentioned_as": "Hot Fuzz"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "-OXJmMXCmzs",
+          "video_title": "Edgar Wright Monografia",
+          "timestamp": "6:14",
+          "seconds": 374,
+          "mentioned_as": "Hot Fuzz"
+        }
+      ],
+      "director": "Edgar Wright",
+      "it_flatrate": []
+    },
+    "movie:odissea:tt33764258": {
+      "id": "movie:odissea:tt33764258",
+      "imdb_id": "tt33764258",
+      "category": "movie",
+      "it_title": "Odissea",
+      "orig_title": "The Odyssey",
+      "year": 2026,
+      "cast": "Matt Damon, Tom Holland",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Francesco Alò",
+          "video_id": "sPqvsUMuDMM",
+          "video_title": "\"Odissea\" di Christopher Nolan - recensione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Odissea"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "FsIwXaPZL7A",
+          "video_title": "MovieBlog- 1095: Recensione Odissea",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Odissea"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "N4iuWF74F08",
+          "video_title": "Cine-Deathmatch su “ODISSEA” | Criticoni al Cinema",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ODISSEA"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "zIDhdV-e4q4",
+          "video_title": "Monografia Christopher Nolan | Criticoni Talk #44",
+          "timestamp": "1:13:57",
+          "seconds": 4437,
+          "mentioned_as": "Odissea"
+        }
+      ],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt33764258"
+    },
+    "movie:tenet:tt6723592": {
+      "id": "movie:tenet:tt6723592",
+      "imdb_id": "tt6723592",
+      "category": "movie",
+      "it_title": "Tenet",
+      "orig_title": "Tenet",
+      "year": 2020,
+      "cast": "John David Washington, Robert Pattinson",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTIzNDIxMzktMzlkMi00MmUyLWFmMjQtZDgwMjBmOGJmNTI3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/326962390"
+        },
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/326962389"
+        },
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://watchnow.trakt.tv/watchnow/326962391"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt6723592",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "Kt1SWS31p_Y",
+          "video_title": "Patreon: Tenet (2020) di C. Nolan - Minirece per Luca Pomillo, Gianluca Domeniconi e Maria Gianna",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Tenet"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_tenet-movie-review-2020",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/tenet-movie-review-2020",
+          "mentioned_as": "Tenet"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "4Fi7cB0cR0I",
+          "video_title": "MovieBlog- 740: Recensione Tenet (SENZA SPOILER)",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Tenet"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "zIDhdV-e4q4",
+          "video_title": "Monografia Christopher Nolan | Criticoni Talk #44",
+          "timestamp": "19:08",
+          "seconds": 1148,
+          "mentioned_as": "Tenet"
+        }
+      ],
+      "it_flatrate": []
+    },
+    "movie:una poltrona per due:tt0086465": {
+      "id": "movie:una poltrona per due:tt0086465",
+      "imdb_id": "tt0086465",
+      "category": "movie",
+      "it_title": "Una poltrona per due",
+      "orig_title": "Trading Places",
+      "year": 1983,
+      "cast": "Eddie Murphy, Dan Aykroyd",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzlkYjQ1MzUtNjgwZi00MmRhLTkwYzItMGRmN2Y3YmRjY2JmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "paramount_plus",
+          "name": "Paramount+",
+          "link": "https://watchnow.trakt.tv/watchnow/324310681"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0086465",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "0YZJLtyULpc",
+          "video_title": "Patreon: Una poltrona per due (1983) di John Landis - Minirece richiesta da Fox99",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_trading-places-1983",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/trading-places-1983",
+          "mentioned_as": "Trading Places"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "GQg8fzwTkhU",
+          "video_title": "MovieBlog- 364: Recensione Una Poltrona Per Due",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Una Poltrona Per Due"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "_EyWOdjho3U",
+          "video_title": "i Migliori Film Natalizi per i CRITICONI | Criticoni Talk #13",
+          "timestamp": "01:04:01",
+          "seconds": 3841,
+          "mentioned_as": "Una poltrona per due"
+        }
+      ],
+      "director": "John Landis",
+      "it_flatrate": []
+    },
     "movie:godzilla e kong - il nuovo impero:tt14539740": {
       "id": "movie:godzilla e kong - il nuovo impero:tt14539740",
       "imdb_id": "tt14539740",
@@ -38479,82 +39457,6 @@
         }
       ]
     },
-    "movie:following:tt0154506": {
-      "id": "movie:following:tt0154506",
-      "imdb_id": "tt0154506",
-      "category": "movie",
-      "it_title": "Following",
-      "orig_title": "Following",
-      "year": 1998,
-      "cast": "Jeremy Theobald, Alex Haw",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTQxYzIwMTAtYjZlNi00YzkwLWI4ZGYtNzNlZjU3N2MyNzI4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "mubi",
-          "name": "MUBI",
-          "link": "https://watchnow.trakt.tv/watchnow/325838476"
-        },
-        {
-          "source": "mubi_amazon_channel",
-          "name": "MUBI (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/325838477"
-        },
-        {
-          "source": "rakuten_tv",
-          "name": "Rakuten TV",
-          "link": "https://watchnow.trakt.tv/watchnow/325838479"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0154506",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "bJSS-fzCBy8",
-          "video_title": "Patreon: Following (1998) di Christopher Nolan - Minirece richiesta da Mako, Andrea Aste",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "UwcUIntMzCg",
-          "video_title": "Le Recensioni di Frusciante - Nolan",
-          "timestamp": "5:16",
-          "seconds": 316
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_following_1998",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/nolan.html",
-          "mentioned_as": "Following"
-        }
-      ],
-      "it_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/302070141"
-        },
-        {
-          "source": "amazon_prime_video_with_ads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://watchnow.trakt.tv/watchnow/302070143"
-        },
-        {
-          "source": "mubi",
-          "name": "MUBI",
-          "link": "https://watchnow.trakt.tv/watchnow/302070140"
-        },
-        {
-          "source": "mubi_amazon_channel",
-          "name": "MUBI (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/302070142"
-        }
-      ]
-    },
     "movie:m - il mostro di dusseldorf:tt0022100": {
       "id": "movie:m - il mostro di dusseldorf:tt0022100",
       "imdb_id": "tt0022100",
@@ -39852,70 +40754,6 @@
       ],
       "director": "Alejandro González Iñárritu",
       "it_flatrate": []
-    },
-    "movie:la bella e la bestia:  (spoiler):tt0101414": {
-      "id": "movie:la bella e la bestia:  (spoiler):tt0101414",
-      "imdb_id": "tt0101414",
-      "category": "movie",
-      "it_title": "La Bella e la Bestia:  (spoiler)",
-      "orig_title": "Beauty and the Beast",
-      "year": 1991,
-      "cast": "Paige O'Hara, Robby Benson",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTY3NDg2YzktYWFjZC00MTExLTlmZDctMGY3MWYzZTlkYTNiXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "bloodstream",
-          "name": "Bloodstream",
-          "link": "https://watchnow.trakt.tv/watchnow/326689948"
-        },
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/326689949"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0101414",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "-bV5JmrZPjQ",
-          "video_title": "FlashVic- 53: Recensione La Bella e La Bestia",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "La Bella e La Bestia"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "aza58n0R5_c",
-          "video_title": "MovieBlog- 526: Recensione La Bella E La Bestia",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "La Bella E La Bestia"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_beauty-and-the-beast-1991",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/beauty-and-the-beast-1991",
-          "mentioned_as": "Beauty And The Beast"
-        }
-      ],
-      "director": "Kirk Wise, Gary Trousdale",
-      "it_flatrate": [
-        {
-          "source": "bloodstream",
-          "name": "Bloodstream",
-          "link": "https://watchnow.trakt.tv/watchnow/321613753"
-        },
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/301496721"
-        }
-      ]
     },
     "movie:star wars ep 2: l'attacco dei cloni:tt0121765": {
       "id": "movie:star wars ep 2: l'attacco dei cloni:tt0121765",
@@ -42704,58 +43542,6 @@
           "source": "plex",
           "name": "Plex",
           "link": "https://watchnow.trakt.tv/watchnow/303324385"
-        }
-      ]
-    },
-    "movie:when evil lurks:tt16300962": {
-      "id": "movie:when evil lurks:tt16300962",
-      "imdb_id": "tt16300962",
-      "category": "movie",
-      "it_title": "When Evil Lurks",
-      "orig_title": "When Evil Lurks",
-      "year": 2023,
-      "cast": "Ezequiel Rodríguez, Demián Salomón",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2UxZWExMTYtMzIzYy00NGUxLTk4Y2QtNTUxNWEyNWYxMWYzXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt16300962",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "FcLcngFeERQ",
-          "video_title": "Federico Frusciante: Il Meglio e Peggio 2023",
-          "timestamp": "06:20:10",
-          "seconds": 22810,
-          "mentioned_as": "When Evil Lurks"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "HP585wCiLpc",
-          "video_title": "Frusciante al Cinema: When Evil Lurks (2023) di Demián Rugna - Luglio 2024",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "When Evil Lurks"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "CuK2qCI2n5c",
-          "video_title": "Patreon: When Evil Lurks (2003) di Demián Rugna - Minirece richiesta da Emanuele Guarnera",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "When Evil Lurks"
-        }
-      ],
-      "director": "Demián Rugna",
-      "it_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/303413558"
-        },
-        {
-          "source": "amazon_prime_video_with_ads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://watchnow.trakt.tv/watchnow/303413559"
         }
       ]
     },
@@ -47376,64 +48162,6 @@
       "it_flatrate": [],
       "watchnow_checked": true
     },
-    "movie:bakjwi:tt0762073": {
-      "id": "movie:bakjwi:tt0762073",
-      "imdb_id": "tt0762073",
-      "category": "movie",
-      "it_title": "Bakjwi",
-      "orig_title": "Thirst",
-      "year": 2009,
-      "cast": "Song Kang-ho, Kim Ok-bin",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDIxMTk2MjAtYTgzNy00NDE5LTg2MWQtYjM5ODBhODZkN2M4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "filmfriend",
-          "name": "filmfriend (free)",
-          "link": "https://watchnow.trakt.tv/watchnow/325985234"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0762073",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "qWOgb_pwuPA",
-          "video_title": "I Consigli di Frusciante: Aprile 2022",
-          "timestamp": "16:34",
-          "seconds": 994
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "xnYVnhAri5s",
-          "video_title": "Patreon: Thirst (2009) di Park Chan-wook - Minirece richiesta da Unna, Daniele Fedele",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_thirst-2009",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/thirst-2009",
-          "mentioned_as": "Thirst"
-        }
-      ],
-      "director": "Park Chan-wook",
-      "it_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/303710121"
-        },
-        {
-          "source": "amazon_prime_video_with_ads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://watchnow.trakt.tv/watchnow/303710122"
-        }
-      ],
-      "watchnow_checked": true
-    },
     "movie:the terminal:tt0362227": {
       "id": "movie:the terminal:tt0362227",
       "imdb_id": "tt0362227",
@@ -48387,58 +49115,6 @@
       ],
       "watchnow_checked": true
     },
-    "movie:spider-man 2:tt0316654": {
-      "id": "movie:spider-man 2:tt0316654",
-      "imdb_id": "tt0316654",
-      "category": "movie",
-      "it_title": "Spider-man 2",
-      "orig_title": "Spider-Man 2",
-      "year": 2004,
-      "cast": "Tobey Maguire, Kirsten Dunst",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0316654",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "eSwb5wGzRGo",
-          "video_title": "Patreon: Spider-man 2 (2004) di Sam Raimi - Minirece richiesta da Jane, Kir e Luca97",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "AUE59v9uRoY",
-          "video_title": "Le recensioni di Frusciante - Raimi",
-          "timestamp": "1:13:36",
-          "seconds": 4416
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_spider-man-2-2004",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/spider-man-2-2004",
-          "mentioned_as": "Spider-Man 2"
-        }
-      ],
-      "director": "Sam Raimi",
-      "it_flatrate": [
-        {
-          "source": "amazonhbomax",
-          "name": "HBO Max (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/300077596"
-        },
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/300077597"
-        }
-      ],
-      "watchnow_checked": true
-    },
     "movie:la promessa dell'assassino:tt0765443": {
       "id": "movie:la promessa dell'assassino:tt0765443",
       "imdb_id": "tt0765443",
@@ -48595,47 +49271,6 @@
         }
       ],
       "director": "Rob Zombie",
-      "it_flatrate": [],
-      "watchnow_checked": true
-    },
-    "movie:tokyo godfathers:tt0388473": {
-      "id": "movie:tokyo godfathers:tt0388473",
-      "imdb_id": "tt0388473",
-      "category": "movie",
-      "it_title": "Tokyo Godfathers",
-      "orig_title": "Tokyo Godfathers",
-      "year": 2003,
-      "cast": "Tôru Emori, Yoshiaki Umegaki",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNmEzNDcwYzQtMzM0Zi00YWYxLTkzOWEtY2Y0ZTJiNDVjM2NkXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0388473",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "vLvJ7x-MaB4",
-          "video_title": "Patreon: Tokyo Godfathers (2003) di Satoshi Kon - Minirece richiesta da Giovanni D'Agostino",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "qEyaBxM9bRw",
-          "video_title": "Le Monografie di Frusciante: Satoshi Kon (Febbraio 2022)",
-          "timestamp": "20:41",
-          "seconds": 1241
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_tokyo-godfathers-2004",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/tokyo-godfathers-2004",
-          "mentioned_as": "Tokyo Godfathers"
-        }
-      ],
-      "director": "Satoshi Kon",
       "it_flatrate": [],
       "watchnow_checked": true
     },
@@ -49517,53 +50152,6 @@
         }
       ],
       "director": "Sidney Lumet",
-      "it_flatrate": []
-    },
-    "movie:love actually - l'amore davvero:tt0314331": {
-      "id": "movie:love actually - l'amore davvero:tt0314331",
-      "imdb_id": "tt0314331",
-      "category": "movie",
-      "it_title": "Love Actually - L'amore davvero",
-      "orig_title": "Love Actually",
-      "year": 2003,
-      "cast": "Hugh Grant, Martine McCutcheon",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWRlZjcwYTgtYWJkOS00MGYwLTk3Y2ItNmU4NTg5Nzg2YTQ2XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/329458136"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0314331",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "kpXWNXlu--k",
-          "video_title": "Patreon: Love Actually - L'amore davvero (2003) di Richard Curtis - Mini richiesta da Paolo Marziali",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "GAVKN4glchQ",
-          "video_title": "MovieBlog- 514: Recensione Love Actually ",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Love Actually"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_love-actually-2003",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/love-actually-2003",
-          "mentioned_as": "Love Actually"
-        }
-      ],
-      "director": "Richard Curtis",
       "it_flatrate": []
     },
     "movie:burn after reading - a prova di spia:tt0887883": {
@@ -50511,90 +51099,6 @@
           "source": "infinity_selection_amazon_channel",
           "name": "Infinity Selection (on Amazon)",
           "link": "https://watchnow.trakt.tv/watchnow/303923674"
-        }
-      ],
-      "watchnow_checked": true
-    },
-    "movie:batman begins:tt0372784": {
-      "id": "movie:batman begins:tt0372784",
-      "imdb_id": "tt0372784",
-      "category": "movie",
-      "it_title": "Batman Begins",
-      "orig_title": "Batman Begins",
-      "year": 2005,
-      "cast": "Christian Bale, Michael Caine",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzA2NDQzZDEtNDU5Ni00YTlkLTg2OWEtYmQwM2Y1YTBjMjFjXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/326983419"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0372784",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "UwcUIntMzCg",
-          "video_title": "Le Recensioni di Frusciante - Nolan",
-          "timestamp": "19:32",
-          "seconds": 1172
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "K5PuQ_qu1Hs",
-          "video_title": "MovieBlog- 173: Recensione Batman Begins",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Batman Begins"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_batman-begins-2005",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/batman-begins-2005",
-          "mentioned_as": "Batman Begins"
-        }
-      ],
-      "director": "Christopher Nolan",
-      "it_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/321466137"
-        },
-        {
-          "source": "amazon_prime_video_with_ads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://watchnow.trakt.tv/watchnow/321466138"
-        },
-        {
-          "source": "amazonhbomax",
-          "name": "HBO Max (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/300334168"
-        },
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/300334169"
-        },
-        {
-          "source": "now_tv",
-          "name": "Now TV",
-          "link": "https://watchnow.trakt.tv/watchnow/300334164"
-        },
-        {
-          "source": "sky_go",
-          "name": "Sky Go",
-          "link": "https://watchnow.trakt.tv/watchnow/300334171"
-        },
-        {
-          "source": "timvision",
-          "name": "Timvision",
-          "link": "https://watchnow.trakt.tv/watchnow/300334165"
         }
       ],
       "watchnow_checked": true
@@ -52729,48 +53233,6 @@
       ],
       "watchnow_checked": true
     },
-    "movie:krampus - natale non è sempre natale:tt3850590": {
-      "id": "movie:krampus - natale non è sempre natale:tt3850590",
-      "imdb_id": "tt3850590",
-      "category": "movie",
-      "it_title": "Krampus - Natale non è sempre Natale",
-      "orig_title": "Krampus",
-      "year": 2015,
-      "cast": "Adam Scott, Toni Collette",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjk0MjMzMTI3NV5BMl5BanBnXkFtZTgwODEyODkxNzE@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt3850590",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "f-cIcodDvLg",
-          "video_title": "Patreon: Krampus - Natale non è sempre Natale (2015) di Michael Dougherty - Richiesta da Coven91",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "t4FpGGDBVGc",
-          "video_title": "Vi racconto una parte della mia infanzia evocatami da questo film | RECENSIONE “KRAMPUS” No Spoiler",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "KRAMPUS"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_krampus-2015",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/krampus-2015",
-          "mentioned_as": "Krampus"
-        }
-      ],
-      "director": "Michael Dougherty",
-      "it_flatrate": [],
-      "watchnow_checked": true
-    },
     "movie:il talento di mr. c:tt11291274": {
       "id": "movie:il talento di mr. c:tt11291274",
       "imdb_id": "tt11291274",
@@ -53370,53 +53832,6 @@
         }
       ],
       "watchnow_checked": true
-    },
-    "movie:quando c'era marnie:tt3398268": {
-      "id": "movie:quando c'era marnie:tt3398268",
-      "imdb_id": "tt3398268",
-      "category": "movie",
-      "it_title": "Quando c'era Marnie",
-      "orig_title": "When Marnie Was There",
-      "year": 2014,
-      "cast": "Sara Takatsuki, Kasumi Arimura",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjc4MDI2ZGUtOGZkNS00ZDFiLTllYTYtNGRmZDgxN2FiMjUzXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://watchnow.trakt.tv/watchnow/325872696"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt3398268",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "z1VmCOZ1ucs",
-          "video_title": "Patreon: Quando c'era Marnie (2014) di Hiromasa Yonebayashi - Minirece richiesta da Andrea",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "vvaelgi_AM0",
-          "video_title": "MovieBlog- 409: Recensione Quando C'Era Marnie",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Quando C'Era Marnie"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_when-marnie-was-there-2015",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/when-marnie-was-there-2015",
-          "mentioned_as": "When Marnie Was There"
-        }
-      ],
-      "director": "Hiromasa Yonebayashi",
-      "it_flatrate": []
     },
     "movie:the imitation game:tt2084970": {
       "id": "movie:the imitation game:tt2084970",
@@ -59700,53 +60115,6 @@
         }
       ],
       "watchnow_checked": true
-    },
-    "movie:hot fuzz:tt0425112": {
-      "id": "movie:hot fuzz:tt0425112",
-      "imdb_id": "tt0425112",
-      "category": "movie",
-      "it_title": "Hot Fuzz",
-      "orig_title": "Hot Fuzz",
-      "year": 2007,
-      "cast": "Simon Pegg, Nick Frost",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjFkZTkzZTQtNjM1ZS00M2EyLWE3MTAtMmY5Yzk0NTc0NDc3XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://watchnow.trakt.tv/watchnow/326633995"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0425112",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "N2o7O67Z9q8",
-          "video_title": "Patreon: Hot Fuzz (2007) di Edgar Wright - Minirece richiesta da Rictas",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Hot Fuzz"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "b-QF-9Eze2E",
-          "video_title": "Le Monografie di Frusciante: Edgar Wright (Maggio 2020)",
-          "timestamp": "14:35",
-          "seconds": 875
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_hotfuzz_2007",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/wright.html",
-          "mentioned_as": "Hot Fuzz"
-        }
-      ],
-      "director": "Edgar Wright",
-      "it_flatrate": []
     },
     "movie:lost in translation - l'amore tradotto:tt0335266": {
       "id": "movie:lost in translation - l'amore tradotto:tt0335266",
@@ -75127,46 +75495,6 @@
       "director": "Gus Van Sant",
       "it_flatrate": []
     },
-    "movie:odissea:tt33764258": {
-      "id": "movie:odissea:tt33764258",
-      "imdb_id": "tt33764258",
-      "category": "movie",
-      "it_title": "Odissea",
-      "orig_title": "The Odyssey",
-      "year": 2026,
-      "cast": "Matt Damon, Tom Holland",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "sPqvsUMuDMM",
-          "video_title": "\"Odissea\" di Christopher Nolan - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Odissea"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "FsIwXaPZL7A",
-          "video_title": "MovieBlog- 1095: Recensione Odissea",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Odissea"
-        },
-        {
-          "creator": "I Criticoni",
-          "video_id": "N4iuWF74F08",
-          "video_title": "Cine-Deathmatch su “ODISSEA” | Criticoni al Cinema",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "ODISSEA"
-        }
-      ],
-      "it_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt33764258"
-    },
     "movie:ant-man and the wasp:tt5095030": {
       "id": "movie:ant-man and the wasp:tt5095030",
       "imdb_id": "tt5095030",
@@ -75336,63 +75664,6 @@
         }
       ],
       "director": "Travis Knight",
-      "it_flatrate": []
-    },
-    "movie:tenet:tt6723592": {
-      "id": "movie:tenet:tt6723592",
-      "imdb_id": "tt6723592",
-      "category": "movie",
-      "it_title": "Tenet",
-      "orig_title": "Tenet",
-      "year": 2020,
-      "cast": "John David Washington, Robert Pattinson",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTIzNDIxMzktMzlkMi00MmUyLWFmMjQtZDgwMjBmOGJmNTI3XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/326962390"
-        },
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/326962389"
-        },
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://watchnow.trakt.tv/watchnow/326962391"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt6723592",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "Kt1SWS31p_Y",
-          "video_title": "Patreon: Tenet (2020) di C. Nolan - Minirece per Luca Pomillo, Gianluca Domeniconi e Maria Gianna",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Tenet"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_tenet-movie-review-2020",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/tenet-movie-review-2020",
-          "mentioned_as": "Tenet"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "4Fi7cB0cR0I",
-          "video_title": "MovieBlog- 740: Recensione Tenet (SENZA SPOILER)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Tenet"
-        }
-      ],
       "it_flatrate": []
     },
     "movie:deadpool 2:tt5463162": {
@@ -75982,53 +76253,6 @@
       ],
       "watchnow_checked": true
     },
-    "movie:una poltrona per due:tt0086465": {
-      "id": "movie:una poltrona per due:tt0086465",
-      "imdb_id": "tt0086465",
-      "category": "movie",
-      "it_title": "Una poltrona per due",
-      "orig_title": "Trading Places",
-      "year": 1983,
-      "cast": "Eddie Murphy, Dan Aykroyd",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzlkYjQ1MzUtNjgwZi00MmRhLTkwYzItMGRmN2Y3YmRjY2JmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "paramount_plus",
-          "name": "Paramount+",
-          "link": "https://watchnow.trakt.tv/watchnow/324310681"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0086465",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "0YZJLtyULpc",
-          "video_title": "Patreon: Una poltrona per due (1983) di John Landis - Minirece richiesta da Fox99",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_trading-places-1983",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/trading-places-1983",
-          "mentioned_as": "Trading Places"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "GQg8fzwTkhU",
-          "video_title": "MovieBlog- 364: Recensione Una Poltrona Per Due",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Una Poltrona Per Due"
-        }
-      ],
-      "director": "John Landis",
-      "it_flatrate": []
-    },
     "movie:star wars- il risveglio della forza:tt2488496": {
       "id": "movie:star wars- il risveglio della forza:tt2488496",
       "imdb_id": "tt2488496",
@@ -76477,6 +76701,454 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0245171",
       "watchnow_checked": true
+    },
+    "movie:mr. vendetta:tt0310775": {
+      "id": "movie:mr. vendetta:tt0310775",
+      "imdb_id": "tt0310775",
+      "category": "movie",
+      "it_title": "Mr. Vendetta",
+      "orig_title": "Sympathy for Mr. Vengeance",
+      "year": 2002,
+      "cast": "Song Kang-ho, Shin Ha-kyun",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODJmNGZmMTYtNjA5NC00MjZjLWJkOGMtZWQyNmQ3YzRhMDU4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0310775",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "WxMUm__zPWQ",
+          "video_title": "Patreon: Mr. Vendetta (2002) di Park Chan-wook - Minirece richiesta da Leonardo Paris",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Mr. Vendetta"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi",
+          "external_rec_url": "https://www.scaruffi.com/director/park.html",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "mentioned_as": "Sympathy for Mr Vengeance"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "Nf9ilFyWlEc",
+          "video_title": "Monografia Park chan-Wook | Criticoni Talk #31",
+          "timestamp": "45:38",
+          "seconds": 2738,
+          "mentioned_as": "Mr Vendetta"
+        }
+      ],
+      "director": "Park Chan-wook",
+      "it_flatrate": [
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb55ee72-beaa-428f-9db8-3c4787641cd4"
+        },
+        {
+          "source": "skygo",
+          "name": "Sky Go",
+          "link": "https://skygo.sky.it/"
+        },
+        {
+          "source": "timvision",
+          "name": "Timvision",
+          "link": "https://www.timvision.it/h/9060199352_92900001?autoplay=true&utm_source=googleAssistant&utm_medium=app-to-app"
+        },
+        {
+          "source": "nowtv",
+          "name": "Now TV",
+          "link": "https://www.nowtv.it/watch/asset/mr-vendetta/R_613065_HD"
+        },
+        {
+          "source": "amazonprimevideowithads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb55ee72-beaa-428f-9db8-3c4787641cd4"
+        }
+      ],
+      "watchnow_checked": true
+    },
+    "movie:spider-man 3:tt0413300": {
+      "id": "movie:spider-man 3:tt0413300",
+      "imdb_id": "tt0413300",
+      "category": "movie",
+      "it_title": "Spider-Man 3",
+      "orig_title": "Spider-Man 3",
+      "year": 2007,
+      "cast": "Tobey Maguire, Kirsten Dunst",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODE2NzNhMDctYjUzMC00Y2M5LWI2Y2EtODJkZTFjN2Y5ODlmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://watchnow.trakt.tv/watchnow/326930760"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0413300",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "qAb8EHw5gZY",
+          "video_title": "Patreon: Spider-Man 3 (2007) di Sam Raimi - Minirece richiesta da Jett81",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "AUE59v9uRoY",
+          "video_title": "Le recensioni di Frusciante - Raimi",
+          "timestamp": "1:21:36",
+          "seconds": 4896
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "WC-I5U2r_fc",
+          "video_title": "MONOGRAFIA SU SPIDER-MAN CON  @Federico Frusciante  (DALLA MARATONA DECOMPONENTE DI DARIO MOCCIA)",
+          "timestamp": "1:24:22",
+          "seconds": 5062,
+          "mentioned_as": "Spider-Man 3"
+        }
+      ],
+      "director": "Sam Raimi",
+      "it_flatrate": [
+        {
+          "source": "amazonhbomax",
+          "name": "HBO Max Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1aa9f6b4-bc8f-9ae9-fedf-83fb7aa58c40"
+        },
+        {
+          "source": "max",
+          "name": "HBO Max",
+          "link": "https://www.hbomax.com/it/en/movie/ccddf6f0-0c45-406b-bd56-d23425f538d2"
+        }
+      ]
+    },
+    "movie:una promessa è una promessa:tt0116705": {
+      "id": "movie:una promessa è una promessa:tt0116705",
+      "imdb_id": "tt0116705",
+      "category": "movie",
+      "it_title": "Una promessa è una promessa",
+      "orig_title": "Jingle All the Way",
+      "year": 1996,
+      "cast": "Arnold Schwarzenegger, Sinbad",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDgzMjQ0YTctZGJhNy00ZjJjLTk5YWMtZmI2YTgwOTJmYWJkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/330717462"
+        },
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/326481686"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0116705",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "YJLFZKxikEc",
+          "video_title": "Patreon: Una promessa è una promessa (1996) di Brian Levant - Minirece richiesta da Dario Bagatin",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "IN240oSFjE0",
+          "video_title": "MovieBlog- 433: Recensione Una Promessa E' Una Promessa",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Una Promessa E' Una Promessa"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "_EyWOdjho3U",
+          "video_title": "i Migliori Film Natalizi per i CRITICONI | Criticoni Talk #13",
+          "timestamp": "00:45:20",
+          "seconds": 2720,
+          "mentioned_as": "Una promessa è una promessa"
+        }
+      ],
+      "director": "Brian Levant",
+      "it_flatrate": [
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66a9f6b6-a88c-3d84-588c-f6606616c537"
+        },
+        {
+          "source": "disneyplus",
+          "name": "Disney Plus",
+          "link": "https://www.disneyplus.com/browse/entity-8acc90ea-088e-4366-a7ec-7fbaa55b727d"
+        },
+        {
+          "source": "amazonprimevideowithads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66a9f6b6-a88c-3d84-588c-f6606616c537"
+        }
+      ]
+    },
+    "movie:brian di nazareth:tt0079470": {
+      "id": "movie:brian di nazareth:tt0079470",
+      "imdb_id": "tt0079470",
+      "category": "movie",
+      "it_title": "Brian di Nazareth",
+      "orig_title": "Monty Python's Life of Brian",
+      "year": 1979,
+      "cast": "Graham Chapman, John Cleese",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDMzY2E4NjEtMTJiZC00Y2UzLWFiM2MtZWVhNTg5OGQxNjk1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0079470",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "ds-ZtO94X_E",
+          "video_title": "Patreon: \"Brian di Nazareth\" (1979) di Terry Jones - Minirece richiesta da Loenardo D'Ottavi",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Brian di Nazareth"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_monty-pythons-life-of-brian-2004",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/monty-pythons-life-of-brian-2004",
+          "mentioned_as": "Monty Python's Life of Brian"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "_EyWOdjho3U",
+          "video_title": "i Migliori Film Natalizi per i CRITICONI | Criticoni Talk #13",
+          "timestamp": "00:07:43",
+          "seconds": 463,
+          "mentioned_as": "Brian di Nazareth"
+        }
+      ],
+      "director": "Terry Jones",
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:insomnia:tt0278504": {
+      "id": "movie:insomnia:tt0278504",
+      "imdb_id": "tt0278504",
+      "category": "movie",
+      "it_title": "Insomnia",
+      "orig_title": "Insomnia",
+      "year": 2002,
+      "cast": "Al Pacino, Robin Williams",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTE2NzQ0MzQtMDRmZi00ZWRiLWE4MDEtY2M1Mjc3OGY5N2JkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://www.netflix.com/title/60022968"
+        },
+        {
+          "source": "max",
+          "name": "HBO Max",
+          "link": "https://www.hbomax.com/ch/en/movie/2e0a5346-b90e-4ac0-be80-cbca2335821a"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0278504",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "UwcUIntMzCg",
+          "video_title": "Le Recensioni di Frusciante - Nolan",
+          "timestamp": "14:05",
+          "seconds": 845
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_insomnia-2002",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/insomnia-2002",
+          "mentioned_as": "Insomnia"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "zIDhdV-e4q4",
+          "video_title": "Monografia Christopher Nolan | Criticoni Talk #44",
+          "timestamp": "43:03",
+          "seconds": 2583,
+          "mentioned_as": "Insomnia"
+        }
+      ],
+      "director": "Christopher Nolan",
+      "it_flatrate": [
+        {
+          "source": "infinity",
+          "name": "Infinity+",
+          "link": "https://mediasetinfinity.mediaset.it/movie/insomnia/insomnia_F011273901000102"
+        },
+        {
+          "source": "amazoninfinity",
+          "name": "Infinity Selection Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4a5676d0-88b5-4dc7-970c-d573632056b7"
+        }
+      ],
+      "watchnow_checked": true
+    },
+    "movie:it ends:tt35519455": {
+      "id": "movie:it ends:tt35519455",
+      "imdb_id": "tt35519455",
+      "category": "movie",
+      "it_title": "It Ends",
+      "orig_title": "It Ends",
+      "year": 2025,
+      "cast": "Phinehas Yoon, Akira Jackson",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjI5MDU4YjktNDkwYi00ODk4LThiY2ItMDE5ZjdhZjIzNzkzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt35519455",
+      "recommendations": [
+        {
+          "creator": "Francesco Alò",
+          "video_id": "Iq4w9exKfgM",
+          "video_title": "\"It Ends\" di Alexander Ullom - recensione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "It Ends"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_it-ends-alex-ullom-horror-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/it-ends-alex-ullom-horror-movie-review-2026",
+          "mentioned_as": "It Ends"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "b_MJBmW9ApA",
+          "video_title": "ViConsiglio: Film per Halloween!",
+          "timestamp": "4:30",
+          "seconds": 270,
+          "mentioned_as": "It Ends"
+        }
+      ],
+      "director": "Alexander Ullom",
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:carrie - lo sguardo di satana:tt0074285": {
+      "id": "movie:carrie - lo sguardo di satana:tt0074285",
+      "imdb_id": "tt0074285",
+      "category": "movie",
+      "it_title": "Carrie - Lo sguardo di Satana",
+      "orig_title": "Carrie",
+      "year": 1976,
+      "cast": "Sissy Spacek, Piper Laurie",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjMwMDVlZjYtMWRlZS00OTU1LTlmYTQtOGViNTdmYTE0ZjRlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8f307ce3-ad92-4a89-a873-50c81766c649"
+        },
+        {
+          "source": "canalplus",
+          "name": "Canal+",
+          "link": "https://www.canalplus.com/ch/cinema/carrie-au-bal-du-diable/h/236239_50001"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0074285",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "5UQqnmXVGmk",
+          "video_title": "I consigli di Frusciante - Novembre 2014",
+          "timestamp": "9:33",
+          "seconds": 573,
+          "mentioned_as": "Lo sguardo di Satana, Carrie"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_carrie_1976",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/depalma.html",
+          "mentioned_as": "Carrie"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "b_MJBmW9ApA",
+          "video_title": "ViConsiglio: Film per Halloween!",
+          "timestamp": "8:55",
+          "seconds": 535,
+          "mentioned_as": "Carrie lo sguardo di Satana"
+        }
+      ],
+      "director": "Brian De Palma",
+      "it_flatrate": [
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8f307ce3-ad92-4a89-a873-50c81766c649"
+        },
+        {
+          "source": "amazonprimevideowithads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8f307ce3-ad92-4a89-a873-50c81766c649"
+        }
+      ],
+      "watchnow_checked": true
+    },
+    "movie:clayface:tt34890576": {
+      "id": "movie:clayface:tt34890576",
+      "imdb_id": "tt34890576",
+      "category": "movie",
+      "it_title": "Clayface",
+      "orig_title": "Clayface",
+      "year": 2026,
+      "cast": "Tom Rhys Harries, Tim Faraday",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjNlMjM4NTAtYjE5YS00ZGYyLWEyMTYtNjFlMmIxZDEzYjhhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt34890576",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "5NwZh55mo9Q",
+          "video_title": "MovieBlog- 1113: Recensione Clayface",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Clayface"
+        },
+        {
+          "creator": "Francesco Alò",
+          "video_id": "YlGE791dONg",
+          "video_title": "\"Clayface\" di James Watkins - recensione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Clayface"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "b_MJBmW9ApA",
+          "video_title": "ViConsiglio: Film per Halloween!",
+          "timestamp": "3:26",
+          "seconds": 206,
+          "mentioned_as": "Clayface"
+        }
+      ],
+      "director": "James Watkins",
+      "it_flatrate": []
     },
     "movie:fast & furious 7:tt2820852": {
       "id": "movie:fast & furious 7:tt2820852",
@@ -79890,67 +80562,6 @@
         }
       ],
       "external_url": "https://app.trakt.tv/movies/tt0114069",
-      "watchnow_checked": true
-    },
-    "movie:mr. vendetta:tt0310775": {
-      "id": "movie:mr. vendetta:tt0310775",
-      "imdb_id": "tt0310775",
-      "category": "movie",
-      "it_title": "Mr. Vendetta",
-      "orig_title": "Sympathy for Mr. Vengeance",
-      "year": 2002,
-      "cast": "Song Kang-ho, Shin Ha-kyun",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BODJmNGZmMTYtNjA5NC00MjZjLWJkOGMtZWQyNmQ3YzRhMDU4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0310775",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "WxMUm__zPWQ",
-          "video_title": "Patreon: Mr. Vendetta (2002) di Park Chan-wook - Minirece richiesta da Leonardo Paris",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Mr. Vendetta"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi",
-          "external_rec_url": "https://www.scaruffi.com/director/park.html",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "mentioned_as": "Sympathy for Mr Vengeance"
-        }
-      ],
-      "director": "Park Chan-wook",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb55ee72-beaa-428f-9db8-3c4787641cd4"
-        },
-        {
-          "source": "skygo",
-          "name": "Sky Go",
-          "link": "https://skygo.sky.it/"
-        },
-        {
-          "source": "timvision",
-          "name": "Timvision",
-          "link": "https://www.timvision.it/h/9060199352_92900001?autoplay=true&utm_source=googleAssistant&utm_medium=app-to-app"
-        },
-        {
-          "source": "nowtv",
-          "name": "Now TV",
-          "link": "https://www.nowtv.it/watch/asset/mr-vendetta/R_613065_HD"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb55ee72-beaa-428f-9db8-3c4787641cd4"
-        }
-      ],
       "watchnow_checked": true
     },
     "movie:i figli del fiume giallo:tt7298400": {
@@ -92255,54 +92866,6 @@
       "director": "Lucio Fulci",
       "it_flatrate": []
     },
-    "movie:spider-man 3:tt0413300": {
-      "id": "movie:spider-man 3:tt0413300",
-      "imdb_id": "tt0413300",
-      "category": "movie",
-      "it_title": "Spider-Man 3",
-      "orig_title": "Spider-Man 3",
-      "year": 2007,
-      "cast": "Tobey Maguire, Kirsten Dunst",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BODE2NzNhMDctYjUzMC00Y2M5LWI2Y2EtODJkZTFjN2Y5ODlmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://watchnow.trakt.tv/watchnow/326930760"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0413300",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "qAb8EHw5gZY",
-          "video_title": "Patreon: Spider-Man 3 (2007) di Sam Raimi - Minirece richiesta da Jett81",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "AUE59v9uRoY",
-          "video_title": "Le recensioni di Frusciante - Raimi",
-          "timestamp": "1:21:36",
-          "seconds": 4896
-        }
-      ],
-      "director": "Sam Raimi",
-      "it_flatrate": [
-        {
-          "source": "amazonhbomax",
-          "name": "HBO Max Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1aa9f6b4-bc8f-9ae9-fedf-83fb7aa58c40"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://www.hbomax.com/it/en/movie/ccddf6f0-0c45-406b-bd56-d23425f538d2"
-        }
-      ]
-    },
     "movie:the village:tt0368447": {
       "id": "movie:the village:tt0368447",
       "imdb_id": "tt0368447",
@@ -98512,65 +99075,6 @@
       "director": "Tommy Wirkola",
       "it_flatrate": []
     },
-    "movie:una promessa è una promessa:tt0116705": {
-      "id": "movie:una promessa è una promessa:tt0116705",
-      "imdb_id": "tt0116705",
-      "category": "movie",
-      "it_title": "Una promessa è una promessa",
-      "orig_title": "Jingle All the Way",
-      "year": 1996,
-      "cast": "Arnold Schwarzenegger, Sinbad",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDgzMjQ0YTctZGJhNy00ZjJjLTk5YWMtZmI2YTgwOTJmYWJkXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/330717462"
-        },
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/326481686"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0116705",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "YJLFZKxikEc",
-          "video_title": "Patreon: Una promessa è una promessa (1996) di Brian Levant - Minirece richiesta da Dario Bagatin",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "IN240oSFjE0",
-          "video_title": "MovieBlog- 433: Recensione Una Promessa E' Una Promessa",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Una Promessa E' Una Promessa"
-        }
-      ],
-      "director": "Brian Levant",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66a9f6b6-a88c-3d84-588c-f6606616c537"
-        },
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-8acc90ea-088e-4366-a7ec-7fbaa55b727d"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66a9f6b6-a88c-3d84-588c-f6606616c537"
-        }
-      ]
-    },
     "movie:cannibal holocaust:tt0078935": {
       "id": "movie:cannibal holocaust:tt0078935",
       "imdb_id": "tt0078935",
@@ -99229,41 +99733,6 @@
       ],
       "director": "Paolo Sorrentino",
       "it_flatrate": []
-    },
-    "movie:brian di nazareth:tt0079470": {
-      "id": "movie:brian di nazareth:tt0079470",
-      "imdb_id": "tt0079470",
-      "category": "movie",
-      "it_title": "Brian di Nazareth",
-      "orig_title": "Monty Python's Life of Brian",
-      "year": 1979,
-      "cast": "Graham Chapman, John Cleese",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDMzY2E4NjEtMTJiZC00Y2UzLWFiM2MtZWVhNTg5OGQxNjk1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0079470",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "ds-ZtO94X_E",
-          "video_title": "Patreon: \"Brian di Nazareth\" (1979) di Terry Jones - Minirece richiesta da Loenardo D'Ottavi",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Brian di Nazareth"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_monty-pythons-life-of-brian-2004",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/monty-pythons-life-of-brian-2004",
-          "mentioned_as": "Monty Python's Life of Brian"
-        }
-      ],
-      "director": "Terry Jones",
-      "it_flatrate": [],
-      "watchnow_checked": true
     },
     "movie:hulk:tt0286716": {
       "id": "movie:hulk:tt0286716",
@@ -115738,62 +116207,6 @@
       ],
       "watchnow_checked": true
     },
-    "movie:insomnia:tt0278504": {
-      "id": "movie:insomnia:tt0278504",
-      "imdb_id": "tt0278504",
-      "category": "movie",
-      "it_title": "Insomnia",
-      "orig_title": "Insomnia",
-      "year": 2002,
-      "cast": "Al Pacino, Robin Williams",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTE2NzQ0MzQtMDRmZi00ZWRiLWE4MDEtY2M1Mjc3OGY5N2JkXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/60022968"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://www.hbomax.com/ch/en/movie/2e0a5346-b90e-4ac0-be80-cbca2335821a"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0278504",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "UwcUIntMzCg",
-          "video_title": "Le Recensioni di Frusciante - Nolan",
-          "timestamp": "14:05",
-          "seconds": 845
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_insomnia-2002",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/insomnia-2002",
-          "mentioned_as": "Insomnia"
-        }
-      ],
-      "director": "Christopher Nolan",
-      "it_flatrate": [
-        {
-          "source": "infinity",
-          "name": "Infinity+",
-          "link": "https://mediasetinfinity.mediaset.it/movie/insomnia/insomnia_F011273901000102"
-        },
-        {
-          "source": "amazoninfinity",
-          "name": "Infinity Selection Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4a5676d0-88b5-4dc7-970c-d573632056b7"
-        }
-      ],
-      "watchnow_checked": true
-    },
     "movie:demonia:tt0099669": {
       "id": "movie:demonia:tt0099669",
       "imdb_id": "tt0099669",
@@ -126128,41 +126541,6 @@
       ],
       "watchnow_checked": true
     },
-    "movie:it ends:tt35519455": {
-      "id": "movie:it ends:tt35519455",
-      "imdb_id": "tt35519455",
-      "category": "movie",
-      "it_title": "It Ends",
-      "orig_title": "It Ends",
-      "year": 2025,
-      "cast": "Phinehas Yoon, Akira Jackson",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjI5MDU4YjktNDkwYi00ODk4LThiY2ItMDE5ZjdhZjIzNzkzXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt35519455",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "Iq4w9exKfgM",
-          "video_title": "\"It Ends\" di Alexander Ullom - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "It Ends"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_it-ends-alex-ullom-horror-movie-review-2026",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/it-ends-alex-ullom-horror-movie-review-2026",
-          "mentioned_as": "It Ends"
-        }
-      ],
-      "director": "Alexander Ullom",
-      "it_flatrate": [],
-      "watchnow_checked": true
-    },
     "movie:robin hood - il prezzo del sangue:tt32273171": {
       "id": "movie:robin hood - il prezzo del sangue:tt32273171",
       "imdb_id": "tt32273171",
@@ -128312,63 +128690,6 @@
       ],
       "director": "Delmer Daves",
       "it_flatrate": [],
-      "watchnow_checked": true
-    },
-    "movie:carrie - lo sguardo di satana:tt0074285": {
-      "id": "movie:carrie - lo sguardo di satana:tt0074285",
-      "imdb_id": "tt0074285",
-      "category": "movie",
-      "it_title": "Carrie - Lo sguardo di Satana",
-      "orig_title": "Carrie",
-      "year": 1976,
-      "cast": "Sissy Spacek, Piper Laurie",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjMwMDVlZjYtMWRlZS00OTU1LTlmYTQtOGViNTdmYTE0ZjRlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8f307ce3-ad92-4a89-a873-50c81766c649"
-        },
-        {
-          "source": "canalplus",
-          "name": "Canal+",
-          "link": "https://www.canalplus.com/ch/cinema/carrie-au-bal-du-diable/h/236239_50001"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0074285",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "5UQqnmXVGmk",
-          "video_title": "I consigli di Frusciante - Novembre 2014",
-          "timestamp": "9:33",
-          "seconds": 573,
-          "mentioned_as": "Lo sguardo di Satana, Carrie"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_carrie_1976",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/depalma.html",
-          "mentioned_as": "Carrie"
-        }
-      ],
-      "director": "Brian De Palma",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8f307ce3-ad92-4a89-a873-50c81766c649"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8f307ce3-ad92-4a89-a873-50c81766c649"
-        }
-      ],
       "watchnow_checked": true
     },
     "movie:red rock west:tt0105226": {
@@ -149141,39 +149462,6 @@
       "director": "Sébastien Vaniček",
       "it_flatrate": []
     },
-    "movie:clayface:tt34890576": {
-      "id": "movie:clayface:tt34890576",
-      "imdb_id": "tt34890576",
-      "category": "movie",
-      "it_title": "Clayface",
-      "orig_title": "Clayface",
-      "year": 2026,
-      "cast": "Tom Rhys Harries, Tim Faraday",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjNlMjM4NTAtYjE5YS00ZGYyLWEyMTYtNjFlMmIxZDEzYjhhXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt34890576",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "5NwZh55mo9Q",
-          "video_title": "MovieBlog- 1113: Recensione Clayface",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Clayface"
-        },
-        {
-          "creator": "Francesco Alò",
-          "video_id": "YlGE791dONg",
-          "video_title": "\"Clayface\" di James Watkins - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Clayface"
-        }
-      ],
-      "director": "James Watkins",
-      "it_flatrate": []
-    },
     "movie:black phone 2:tt29644189": {
       "id": "movie:black phone 2:tt29644189",
       "imdb_id": "tt29644189",
@@ -151679,6 +151967,185 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt1735898",
       "watchnow_checked": true
+    },
+    "movie:errementari - il fabbro e il diavolo:tt5592878": {
+      "id": "movie:errementari - il fabbro e il diavolo:tt5592878",
+      "imdb_id": "tt5592878",
+      "category": "movie",
+      "it_title": "Errementari - Il fabbro e il diavolo",
+      "orig_title": "Errementari",
+      "year": 2017,
+      "cast": "Kandido Uranga, Uma Bracaglia",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDBiYTFmOGItYWU0Yy00Y2UyLTk0NzItMTZkNzVmZGFiZTgwXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://watchnow.trakt.tv/watchnow/322607788"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt5592878",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "dPiDxy7C1ts",
+          "video_title": "Patreon: Errementari - Il fabbro e il diavolo (2018) di P. Urkijo - Mini per Cavern, Emiliano Cicero",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "b_MJBmW9ApA",
+          "video_title": "ViConsiglio: Film per Halloween!",
+          "timestamp": "5:19",
+          "seconds": 319,
+          "mentioned_as": "Errementari - il fabbro e il diavolo"
+        }
+      ],
+      "director": "Paul Urkijo",
+      "it_flatrate": [
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://www.netflix.com/title/80239565"
+        }
+      ]
+    },
+    "movie:creep:tt2428170": {
+      "id": "movie:creep:tt2428170",
+      "imdb_id": "tt2428170",
+      "category": "movie",
+      "it_title": "Creep",
+      "orig_title": "Creep",
+      "year": 2014,
+      "cast": "Mark Duplass, Patrick Brice",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY0NTU2ODM5Ml5BMl5BanBnXkFtZTgwMTAwOTA5NTE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://watchnow.trakt.tv/watchnow/323376294"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt2428170",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "kAxddqxZ8KE",
+          "video_title": "Patreon: Creep (2014) di Patrick Brice - Minirece richiesta da Marco Winchester Fioretti",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "b_MJBmW9ApA",
+          "video_title": "ViConsiglio: Film per Halloween!",
+          "timestamp": "6:36",
+          "seconds": 396,
+          "mentioned_as": "Creep"
+        }
+      ],
+      "director": "Patrick Brice",
+      "it_flatrate": [
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://www.netflix.com/title/70306646"
+        }
+      ]
+    },
+    "movie:parenti serpenti:tt0105097": {
+      "id": "movie:parenti serpenti:tt0105097",
+      "imdb_id": "tt0105097",
+      "category": "movie",
+      "it_title": "Parenti Serpenti",
+      "orig_title": "Dearest Relatives, Poisonous Relations",
+      "year": 1992,
+      "cast": "Tommaso Bianco, Renato Cecchetto",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjAzODcyYjMtNTJjNi00YTk5LWE5MWItNGFjYTJkNTVhZTA1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0105097",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "XCI4L8pr_aQ",
+          "video_title": "Patreon: Parenti Serpenti (1992) di Mario Monicelli - Minirece richiesta da Marcone93",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "_EyWOdjho3U",
+          "video_title": "i Migliori Film Natalizi per i CRITICONI | Criticoni Talk #13",
+          "timestamp": "00:26:05",
+          "seconds": 1565,
+          "mentioned_as": "Parenti serpenti"
+        }
+      ],
+      "director": "Mario Monicelli",
+      "it_flatrate": []
+    },
+    "movie:lady vendetta:tt0451094": {
+      "id": "movie:lady vendetta:tt0451094",
+      "imdb_id": "tt0451094",
+      "category": "movie",
+      "it_title": "Lady Vendetta",
+      "orig_title": "Sympathy for Lady Vengeance",
+      "year": 2005,
+      "cast": "Lee Yeong-ae, Choi Min-sik",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTczMTI1MzYwMV5BMl5BanBnXkFtZTgwMDI1OTE3MjE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0451094",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "VfemTfjxQr4",
+          "video_title": "Patreon: Lady Vendetta (2005) di Park Chan-wook - Minirece richiesta da Stella",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Lady Vendetta"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "Nf9ilFyWlEc",
+          "video_title": "Monografia Park chan-Wook | Criticoni Talk #31",
+          "timestamp": "13:29",
+          "seconds": 809,
+          "mentioned_as": "lady vendetta"
+        }
+      ],
+      "director": "Park Chan-wook",
+      "it_flatrate": [
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0b57f75-a3cd-09ef-fd50-70e1af22a8fc"
+        },
+        {
+          "source": "skygo",
+          "name": "Sky Go",
+          "link": "https://skygo.sky.it/"
+        },
+        {
+          "source": "timvision",
+          "name": "Timvision",
+          "link": "https://www.timvision.it/h/9050193027_92900001?autoplay=true&utm_source=googleAssistant&utm_medium=app-to-app"
+        },
+        {
+          "source": "nowtv",
+          "name": "Now TV",
+          "link": "https://www.nowtv.it/watch/asset/lady-vendetta/R_613066_HD"
+        },
+        {
+          "source": "amazonprimevideowithads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0b57f75-a3cd-09ef-fd50-70e1af22a8fc"
+        }
+      ]
     },
     "movie:infinity war:tt4154756": {
       "id": "movie:infinity war:tt4154756",
@@ -176058,42 +176525,6 @@
       "director": "Harve Foster, Wilfred Jackson",
       "it_flatrate": []
     },
-    "movie:errementari - il fabbro e il diavolo:tt5592878": {
-      "id": "movie:errementari - il fabbro e il diavolo:tt5592878",
-      "imdb_id": "tt5592878",
-      "category": "movie",
-      "it_title": "Errementari - Il fabbro e il diavolo",
-      "orig_title": "Errementari",
-      "year": 2017,
-      "cast": "Kandido Uranga, Uma Bracaglia",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDBiYTFmOGItYWU0Yy00Y2UyLTk0NzItMTZkNzVmZGFiZTgwXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://watchnow.trakt.tv/watchnow/322607788"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt5592878",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "dPiDxy7C1ts",
-          "video_title": "Patreon: Errementari - Il fabbro e il diavolo (2018) di P. Urkijo - Mini per Cavern, Emiliano Cicero",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Paul Urkijo",
-      "it_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/80239565"
-        }
-      ]
-    },
     "movie:l'era glaciale 4 - continenti alla deriva:tt1667889": {
       "id": "movie:l'era glaciale 4 - continenti alla deriva:tt1667889",
       "imdb_id": "tt1667889",
@@ -176884,42 +177315,6 @@
       ],
       "director": "Federico Fellini",
       "it_flatrate": []
-    },
-    "movie:creep:tt2428170": {
-      "id": "movie:creep:tt2428170",
-      "imdb_id": "tt2428170",
-      "category": "movie",
-      "it_title": "Creep",
-      "orig_title": "Creep",
-      "year": 2014,
-      "cast": "Mark Duplass, Patrick Brice",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY0NTU2ODM5Ml5BMl5BanBnXkFtZTgwMTAwOTA5NTE@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://watchnow.trakt.tv/watchnow/323376294"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt2428170",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "kAxddqxZ8KE",
-          "video_title": "Patreon: Creep (2014) di Patrick Brice - Minirece richiesta da Marco Winchester Fioretti",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Patrick Brice",
-      "it_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/70306646"
-        }
-      ]
     },
     "movie:madonna che silenzio c'è stasera:tt0183460": {
       "id": "movie:madonna che silenzio c'è stasera:tt0183460",
@@ -177859,30 +178254,6 @@
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cabb2e1a-f103-4928-a1ab-710b2fa60fc9"
         }
       ]
-    },
-    "movie:parenti serpenti:tt0105097": {
-      "id": "movie:parenti serpenti:tt0105097",
-      "imdb_id": "tt0105097",
-      "category": "movie",
-      "it_title": "Parenti Serpenti",
-      "orig_title": "Dearest Relatives, Poisonous Relations",
-      "year": 1992,
-      "cast": "Tommaso Bianco, Renato Cecchetto",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjAzODcyYjMtNTJjNi00YTk5LWE5MWItNGFjYTJkNTVhZTA1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0105097",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "XCI4L8pr_aQ",
-          "video_title": "Patreon: Parenti Serpenti (1992) di Mario Monicelli - Minirece richiesta da Marcone93",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Mario Monicelli",
-      "it_flatrate": []
     },
     "movie:le colline hanno gli occhi:tt0454841": {
       "id": "movie:le colline hanno gli occhi:tt0454841",
@@ -191588,57 +191959,6 @@
           "source": "amazonnovecento",
           "name": "Novecento Amazon Channel",
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.022fb0da-6d4a-4727-8787-b9fdd37f9841"
-        }
-      ]
-    },
-    "movie:lady vendetta:tt0451094": {
-      "id": "movie:lady vendetta:tt0451094",
-      "imdb_id": "tt0451094",
-      "category": "movie",
-      "it_title": "Lady Vendetta",
-      "orig_title": "Sympathy for Lady Vengeance",
-      "year": 2005,
-      "cast": "Lee Yeong-ae, Choi Min-sik",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTczMTI1MzYwMV5BMl5BanBnXkFtZTgwMDI1OTE3MjE@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0451094",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "VfemTfjxQr4",
-          "video_title": "Patreon: Lady Vendetta (2005) di Park Chan-wook - Minirece richiesta da Stella",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Lady Vendetta"
-        }
-      ],
-      "director": "Park Chan-wook",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0b57f75-a3cd-09ef-fd50-70e1af22a8fc"
-        },
-        {
-          "source": "skygo",
-          "name": "Sky Go",
-          "link": "https://skygo.sky.it/"
-        },
-        {
-          "source": "timvision",
-          "name": "Timvision",
-          "link": "https://www.timvision.it/h/9050193027_92900001?autoplay=true&utm_source=googleAssistant&utm_medium=app-to-app"
-        },
-        {
-          "source": "nowtv",
-          "name": "Now TV",
-          "link": "https://www.nowtv.it/watch/asset/lady-vendetta/R_613066_HD"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0b57f75-a3cd-09ef-fd50-70e1af22a8fc"
         }
       ]
     },
