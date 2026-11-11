@@ -613,6 +613,16 @@ def extract_positive_items_from_video(video_id, meta, verify_transcripts=True):
 
     # Caso 1: Rubriche 100% positive e Meglio & Peggio (già tagliati prima del blocco PEGGIO)
     if v_format in ("consigli", "meglio_peggio") and ts_items:
+        t_low_v = meta["title"].lower()
+        if (
+            "i consigli di frusciante" in t_low_v
+            and not any(k in t_low_v for k in ("musicali", "letterari", "invisibili", "speciale", "consigli vari"))
+        ):
+            mov_items = [x for x in ts_items if x.get("category") == "movie"]
+            other_items = [x for x in ts_items if x.get("category") != "movie"]
+            if len(mov_items) >= 8:
+                mov_items = mov_items[:-3]
+            return mov_items + other_items
         return ts_items
 
     # Caso 2: Monografia con scaletta in descrizione
