@@ -318839,6 +318839,251 @@
       ],
       "director": "Gustavo Cova"
     },
+    "movie:nénette e boni:tt0117221": {
+      "id": "movie:nénette e boni:tt0117221",
+      "imdb_id": "tt0117221",
+      "category": "movie",
+      "it_title": "Nénette e Boni",
+      "orig_title": "Nenette and Boni",
+      "year": 1996,
+      "director": "Claire Denis",
+      "cast": "Grégoire Colin, Alice Houri",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjQ4NjQyNGEtMDNiZi00YmQ0LWI2ZWYtNDc4MjlkZjc4MDBlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_nenetteetboni_1996",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/denis.html",
+          "mentioned_as": "Nenette et Boni"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0117221",
+      "watchnow_checked": true
+    },
+    "movie:la mummia:tt0064703": {
+      "id": "movie:la mummia:tt0064703",
+      "imdb_id": "tt0064703",
+      "category": "movie",
+      "it_title": "La mummia",
+      "orig_title": "The Mummy",
+      "year": 1969,
+      "director": "Shadi Abdel Salam",
+      "cast": "Ahmed Marei, Ahmad Hegazi",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODhhNjlhYTQtZDllMS00NTMwLWEyNDgtOTA0OTZhMDRlNGM3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_elmumia_1969",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro960.html",
+          "mentioned_as": "El Mumia"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0064703",
+      "watchnow_checked": true
+    },
+    "movie:i giorni dell'eclisse:tt0095040": {
+      "id": "movie:i giorni dell'eclisse:tt0095040",
+      "imdb_id": "tt0095040",
+      "category": "movie",
+      "it_title": "I giorni dell'eclisse",
+      "orig_title": "Days of Eclipse",
+      "year": 1988,
+      "director": "Alexander Sokurov, Aleksandr Sokurov",
+      "cast": "Aleksei Ananishnov, Eskender Umarov",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDJkZGYzMGEtY2JiNS00M2U2LThjOTctZDc0MTZmMDE5NjNmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_daysoftheeclipse_1988",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/sokurov.html",
+          "mentioned_as": "Days of the Eclipse"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0095040",
+      "watchnow_checked": true
+    },
+    "movie:2 giorni a new york:tt1602472": {
+      "id": "movie:2 giorni a new york:tt1602472",
+      "imdb_id": "tt1602472",
+      "category": "movie",
+      "it_title": "2 giorni a New York",
+      "orig_title": "Two Days in New York",
+      "year": 2012,
+      "director": "Julie Delpy",
+      "cast": "Julie Delpy, Chris Rock",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjI5NTU2MDgyNl5BMl5BanBnXkFtZTcwNzk4NDI5Nw@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [
+        {
+          "source": "amazoncgent",
+          "name": "CG Collection Amazon channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.beb91463-aec8-58a6-d319-0fa797246f40"
+        },
+        {
+          "source": "cgtv",
+          "name": "CG TV STREAMING",
+          "link": "https://streaming.cgtv.it/tracking/jwtrack.php?sku=12039&tk=2-giorni-a-new-york&type=1"
+        }
+      ],
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_2-days-in-new-york-2012",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/2-days-in-new-york-2012",
+          "mentioned_as": "2 Days in New York"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1602472",
+      "watchnow_checked": true
+    },
+    "movie:separati innamorati:tt1405365": {
+      "id": "movie:separati innamorati:tt1405365",
+      "imdb_id": "tt1405365",
+      "category": "movie",
+      "it_title": "Separati innamorati",
+      "orig_title": "Celeste & Jesse Forever",
+      "year": 2012,
+      "director": "Lee Toland Krieger",
+      "cast": "Rashida Jones, Andy Samberg",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTM0Mzk3MTY1N15BMl5BanBnXkFtZTcwNDcwNTg5Nw@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_celeste-and-jesse-forever-2012",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/celeste-and-jesse-forever-2012",
+          "mentioned_as": "Celeste and Jesse Forever"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1405365",
+      "watchnow_checked": true
+    },
+    "movie:the red riding trilogy 1974:tt1259574": {
+      "id": "movie:the red riding trilogy 1974:tt1259574",
+      "imdb_id": "tt1259574",
+      "category": "movie",
+      "it_title": "The Red Riding Trilogy 1974",
+      "orig_title": "Red Riding: The Year of Our Lord 1974",
+      "year": 2009,
+      "director": "Julian Jarrold",
+      "cast": "Andrew Garfield, David Morrissey",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWM3YmM1MTYtODUzZC00YWQ2LWI0NzQtNDNhYWIyMDEwYTkyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_red-riding-trilogy-2010",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/red-riding-trilogy-2010",
+          "mentioned_as": "Red Riding Trilogy"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1259574",
+      "watchnow_checked": true
+    },
+    "movie:a christmas carol:tt1067106": {
+      "id": "movie:a christmas carol:tt1067106",
+      "imdb_id": "tt1067106",
+      "category": "movie",
+      "it_title": "A Christmas Carol",
+      "orig_title": "A Christmas Carol",
+      "year": 2009,
+      "director": "Robert Zemeckis",
+      "cast": "Jim Carrey, Gary Oldman",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTM1MTI5ODU4MV5BMl5BanBnXkFtZTcwNTYyNTU4Mg@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "disneyplus",
+          "name": "Disney Plus",
+          "link": "https://www.disneyplus.com/browse/entity-8f498e51-90de-4f5d-8cb9-5b4dd4de81dc"
+        }
+      ],
+      "it_flatrate": [
+        {
+          "source": "disneyplus",
+          "name": "Disney Plus",
+          "link": "https://www.disneyplus.com/browse/entity-8f498e51-90de-4f5d-8cb9-5b4dd4de81dc"
+        }
+      ],
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_disneys-a-christmas-carol-2009",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/disneys-a-christmas-carol-2009",
+          "mentioned_as": "Disney's A Christmas Carol"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1067106",
+      "watchnow_checked": true
+    },
+    "movie:wallace & gromit - la maledizione del coniglio mannaro:tt0312004": {
+      "id": "movie:wallace & gromit - la maledizione del coniglio mannaro:tt0312004",
+      "imdb_id": "tt0312004",
+      "category": "movie",
+      "it_title": "Wallace & Gromit - La maledizione del coniglio mannaro",
+      "orig_title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+      "year": 2005,
+      "director": "Nick Park, Steve Box",
+      "cast": "Peter Sallis, Helena Bonham Carter",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BM2JkOTRkZTctN2ZiMy00ZGRmLWJkNzQtOGJkNmFiM2ZjNjYzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [
+        {
+          "source": "nowtv",
+          "name": "Now TV",
+          "link": "https://www.nowtv.it/watch/asset/wallace-and-gromit-la-maledizione-del-coniglio-mannaro/R_605152_HD"
+        }
+      ],
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_wallace-and-gromit-the-curse-of-the-were-rabbit-2005",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/wallace-and-gromit-the-curse-of-the-were-rabbit-2005",
+          "mentioned_as": "Wallace and Gromit: The Curse of the Were-Rabbit"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0312004",
+      "watchnow_checked": true
+    },
     "music:nail:foetus": {
       "id": "music:nail:foetus",
       "category": "music",
