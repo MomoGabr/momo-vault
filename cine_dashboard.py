@@ -1587,6 +1587,13 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
         ),
         reverse=True,
     )
+    for it_o in items_out:
+        it_o.pop("creators", None)
+        it_o.pop("creator_count", None)
+        it_o.pop("rec_count", None)
+        it_o.pop("decade", None)
+        if it_o.get("category") == "movie":
+            it_o.pop("category", None)
 
     cp = db_data.get("last_checkpoint", {})
     done_vids = len(db_data.get("processed_videos", []))
@@ -2317,6 +2324,16 @@ const decadesMap = {{}};
 
 ITEMS.forEach(m => {{
   const cat = m.category || 'movie';
+  m.category = cat;
+  const recs = m.recommendations || [];
+  m.rec_count = recs.length;
+  m.creators = Array.from(new Set(recs.map(r => r.creator || 'Federico Frusciante')));
+  m.creator_count = m.creators.length;
+  if (typeof m.year === 'number' && m.year >= 1910 && m.year <= 2030) {{
+    m.decade = `${{Math.floor(m.year / 10) * 10}}s`;
+  }} else {{
+    m.decade = '';
+  }}
   counts[cat] = (counts[cat] || 0) + 1;
   (m.creators || []).forEach(c => {{ creatorsMap[c] = (creatorsMap[c] || 0) + 1; }});
   (m.rubriche || []).forEach(r => {{ rubricheMap[r] = (rubricheMap[r] || 0) + 1; }});

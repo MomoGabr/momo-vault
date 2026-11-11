@@ -11362,6 +11362,77 @@
       "director": "Henry Selick",
       "it_flatrate": []
     },
+    "movie:bastardi senza gloria:tt0361748": {
+      "id": "movie:bastardi senza gloria:tt0361748",
+      "imdb_id": "tt0361748",
+      "category": "movie",
+      "it_title": "Bastardi senza gloria",
+      "orig_title": "Inglourious Basterds",
+      "year": 2009,
+      "cast": "Brad Pitt, Diane Kruger",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/326976048"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0361748",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "JTZMHpIOlN4",
+          "video_title": "Patreon: Bastardi senza gloria (2009) di Quentin Tarantino - Minirece richiesta da Bear",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "_8gaFMrpy74",
+          "video_title": "TOP FILM DEL DECENNIO (2010-2019)",
+          "timestamp": "18:35",
+          "seconds": 1115,
+          "mentioned_as": "Bastardi Senza Gloria"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "tvz2chuqHkE",
+          "video_title": "MovieBlog- 220: Recensione Bastardi Senza Gloria",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Bastardi Senza Gloria"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_inglourious-basterds-2009",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/inglourious-basterds-2009",
+          "mentioned_as": "Inglourious Basterds"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_inglouriousbasterds_2009",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/tarantin.html",
+          "mentioned_as": "Inglourious Basterds"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "yhu0BwmsojA",
+          "video_title": "Le Recensioni di Frusciante - Tarantino",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "Quentin Tarantino",
+      "it_flatrate": []
+    },
     "movie:tempi moderni:tt0027977": {
       "id": "movie:tempi moderni:tt0027977",
       "imdb_id": "tt0027977",
@@ -15429,70 +15500,6 @@
       "director": "Brian De Palma",
       "it_flatrate": [],
       "watchnow_checked": true
-    },
-    "movie:bastardi senza gloria:tt0361748": {
-      "id": "movie:bastardi senza gloria:tt0361748",
-      "imdb_id": "tt0361748",
-      "category": "movie",
-      "it_title": "Bastardi senza gloria",
-      "orig_title": "Inglourious Basterds",
-      "year": 2009,
-      "cast": "Brad Pitt, Diane Kruger",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/326976048"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0361748",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "JTZMHpIOlN4",
-          "video_title": "Patreon: Bastardi senza gloria (2009) di Quentin Tarantino - Minirece richiesta da Bear",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "_8gaFMrpy74",
-          "video_title": "TOP FILM DEL DECENNIO (2010-2019)",
-          "timestamp": "18:35",
-          "seconds": 1115,
-          "mentioned_as": "Bastardi Senza Gloria"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "tvz2chuqHkE",
-          "video_title": "MovieBlog- 220: Recensione Bastardi Senza Gloria",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Bastardi Senza Gloria"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_inglourious-basterds-2009",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/inglourious-basterds-2009",
-          "mentioned_as": "Inglourious Basterds"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_inglouriousbasterds_2009",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/tarantin.html",
-          "mentioned_as": "Inglourious Basterds"
-        }
-      ],
-      "director": "Quentin Tarantino",
-      "it_flatrate": []
     },
     "movie:frankenstein junior:tt0072431": {
       "id": "movie:frankenstein junior:tt0072431",
@@ -20753,6 +20760,316 @@
       "director": "Stanley Kubrick",
       "it_flatrate": []
     },
+    "movie:django unchained:tt1853728": {
+      "id": "movie:django unchained:tt1853728",
+      "imdb_id": "tt1853728",
+      "category": "movie",
+      "it_title": "DJANGO UNCHAINED",
+      "orig_title": "Django Unchained",
+      "year": 2012,
+      "cast": "Jamie Foxx, Christoph Waltz",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "axn_black_amazon_channel",
+          "name": "AXN Black (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/326980235"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1853728",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "JW6R3772Y6k",
+          "video_title": "Le Recensioni di Frusciante - Meglio e Peggio 2013",
+          "timestamp": "32:24",
+          "seconds": 1944
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "4X8k3gg8ZXI",
+          "video_title": "Patreon: \"Django Unchained\" (2012) di Quentin Tarantino - Minirece richiesta da Michele Quaini",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "DJANGO UNCHAINED"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "_8gaFMrpy74",
+          "video_title": "TOP FILM DEL DECENNIO (2010-2019)",
+          "timestamp": "19:45",
+          "seconds": 1185,
+          "mentioned_as": "Django Unchained"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "49ZAY3gqbbA",
+          "video_title": "MovieBlog- 246: Recensione Django Unchained (SENZA SPOILER)",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Django Unchained"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "yhu0BwmsojA",
+          "video_title": "Le Recensioni di Frusciante - Tarantino",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "Quentin Tarantino",
+      "it_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/329507726"
+        },
+        {
+          "source": "amazon_prime_video_with_ads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://watchnow.trakt.tv/watchnow/329507725"
+        },
+        {
+          "source": "amazonhbomax",
+          "name": "HBO Max (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/300150616"
+        },
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/300150617"
+        },
+        {
+          "source": "now_tv",
+          "name": "Now TV",
+          "link": "https://watchnow.trakt.tv/watchnow/300150614"
+        },
+        {
+          "source": "sky_go",
+          "name": "Sky Go",
+          "link": "https://watchnow.trakt.tv/watchnow/300150618"
+        },
+        {
+          "source": "timvision",
+          "name": "Timvision",
+          "link": "https://watchnow.trakt.tv/watchnow/300150615"
+        }
+      ]
+    },
+    "movie:essi vivono:tt0096256": {
+      "id": "movie:essi vivono:tt0096256",
+      "imdb_id": "tt0096256",
+      "category": "movie",
+      "it_title": "Essi Vivono",
+      "orig_title": "They Live",
+      "year": 1988,
+      "cast": "Roddy Piper, Keith David",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ3MjM3ODU1NV5BMl5BanBnXkFtZTgwMjU3NDU2MTE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "canal_plus",
+          "name": "Canal+",
+          "link": "https://watchnow.trakt.tv/watchnow/324200590"
+        },
+        {
+          "source": "justwatch_tv",
+          "name": "Justwatch Tv",
+          "link": "https://watchnow.trakt.tv/watchnow/324200593"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0096256",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "f2cla9K1Q1w",
+          "video_title": "Patreon: Essi Vivono (1988) di John Carpenter - Richiesta da Andre Aste dedicata al fratello Michele",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Essi Vivono"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "gkHR8tCHAAo",
+          "video_title": "“Essi Vivono” di John Carpenter | Criticoni Talk #48",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Essi Vivono"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "9qkBJIXQfko",
+          "video_title": "MovieBlog- 282: Recensione Essi Vivono",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Essi Vivono"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_theylive_1988",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/carpente.html",
+          "mentioned_as": "They Live"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "CffD8sLj1mI",
+          "video_title": "Le Recensioni di Frusciante - Carpenter (2di2)",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Carpenter",
+      "it_flatrate": [
+        {
+          "source": "mubi",
+          "name": "MUBI",
+          "link": "https://watchnow.trakt.tv/watchnow/303624941"
+        },
+        {
+          "source": "mubi_amazon_channel",
+          "name": "MUBI (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/303624942"
+        },
+        {
+          "source": "the_film_club_amazon_channel",
+          "name": "The Film Club (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/303624944"
+        }
+      ]
+    },
+    "movie:halloween - la notte delle streghe:tt0077651": {
+      "id": "movie:halloween - la notte delle streghe:tt0077651",
+      "imdb_id": "tt0077651",
+      "category": "movie",
+      "it_title": "Halloween - La notte delle streghe",
+      "orig_title": "Halloween",
+      "year": 1978,
+      "cast": "Donald Pleasence, Jamie Lee Curtis",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzZiNTdiYTgtYjNkMS00MmJmLWEwZGQtNmY0NGJkMGE0YmYzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/326543100"
+        },
+        {
+          "source": "blue_tv",
+          "name": "blue TV",
+          "link": "https://watchnow.trakt.tv/watchnow/326543101"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0077651",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "jjaH1JPg8qY",
+          "video_title": "Patreon: Halloween - La notte delle streghe (1978) di John Carpenter - Minirece richiesta da Dildops",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "oQZRXczQZTw",
+          "video_title": "Federico Frusciante: Le Saghe - HALLOWEEN (Tutti i film della serie)",
+          "timestamp": "00:52",
+          "seconds": 52
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_halloween-1979",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/halloween-1979",
+          "mentioned_as": "Halloween"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_halloween_1978",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/carpente.html",
+          "mentioned_as": "Halloween"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "3AHtQaKRH8s",
+          "video_title": "Le Recensioni di Frusciante - Carpenter (1di2)",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Carpenter",
+      "it_flatrate": []
+    },
+    "movie:una poltrona per due:tt0086465": {
+      "id": "movie:una poltrona per due:tt0086465",
+      "imdb_id": "tt0086465",
+      "category": "movie",
+      "it_title": "Una poltrona per due",
+      "orig_title": "Trading Places",
+      "year": 1983,
+      "cast": "Eddie Murphy, Dan Aykroyd",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzlkYjQ1MzUtNjgwZi00MmRhLTkwYzItMGRmN2Y3YmRjY2JmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "paramount_plus",
+          "name": "Paramount+",
+          "link": "https://watchnow.trakt.tv/watchnow/324310681"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0086465",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "0YZJLtyULpc",
+          "video_title": "Patreon: Una poltrona per due (1983) di John Landis - Minirece richiesta da Fox99",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_trading-places-1983",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/trading-places-1983",
+          "mentioned_as": "Trading Places"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "GQg8fzwTkhU",
+          "video_title": "MovieBlog- 364: Recensione Una Poltrona Per Due",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Una Poltrona Per Due"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "_EyWOdjho3U",
+          "video_title": "i Migliori Film Natalizi per i CRITICONI | Criticoni Talk #13",
+          "timestamp": "01:04:01",
+          "seconds": 3841,
+          "mentioned_as": "Una poltrona per due"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "a7x_u_G3xLI",
+          "video_title": "Le Recensioni di Frusciante - Landis",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Landis",
+      "it_flatrate": []
+    },
     "movie:freaks:tt0022913": {
       "id": "movie:freaks:tt0022913",
       "imdb_id": "tt0022913",
@@ -23561,96 +23878,6 @@
       ],
       "director": "Rob Reiner",
       "it_flatrate": []
-    },
-    "movie:django unchained:tt1853728": {
-      "id": "movie:django unchained:tt1853728",
-      "imdb_id": "tt1853728",
-      "category": "movie",
-      "it_title": "DJANGO UNCHAINED",
-      "orig_title": "Django Unchained",
-      "year": 2012,
-      "cast": "Jamie Foxx, Christoph Waltz",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "axn_black_amazon_channel",
-          "name": "AXN Black (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/326980235"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1853728",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "JW6R3772Y6k",
-          "video_title": "Le Recensioni di Frusciante - Meglio e Peggio 2013",
-          "timestamp": "32:24",
-          "seconds": 1944
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "4X8k3gg8ZXI",
-          "video_title": "Patreon: \"Django Unchained\" (2012) di Quentin Tarantino - Minirece richiesta da Michele Quaini",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "DJANGO UNCHAINED"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "_8gaFMrpy74",
-          "video_title": "TOP FILM DEL DECENNIO (2010-2019)",
-          "timestamp": "19:45",
-          "seconds": 1185,
-          "mentioned_as": "Django Unchained"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "49ZAY3gqbbA",
-          "video_title": "MovieBlog- 246: Recensione Django Unchained (SENZA SPOILER)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Django Unchained"
-        }
-      ],
-      "director": "Quentin Tarantino",
-      "it_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/329507726"
-        },
-        {
-          "source": "amazon_prime_video_with_ads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://watchnow.trakt.tv/watchnow/329507725"
-        },
-        {
-          "source": "amazonhbomax",
-          "name": "HBO Max (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/300150616"
-        },
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/300150617"
-        },
-        {
-          "source": "now_tv",
-          "name": "Now TV",
-          "link": "https://watchnow.trakt.tv/watchnow/300150614"
-        },
-        {
-          "source": "sky_go",
-          "name": "Sky Go",
-          "link": "https://watchnow.trakt.tv/watchnow/300150618"
-        },
-        {
-          "source": "timvision",
-          "name": "Timvision",
-          "link": "https://watchnow.trakt.tv/watchnow/300150615"
-        }
-      ]
     },
     "movie:i goonies:tt0089218": {
       "id": "movie:i goonies:tt0089218",
@@ -28963,83 +29190,6 @@
         }
       ]
     },
-    "movie:essi vivono:tt0096256": {
-      "id": "movie:essi vivono:tt0096256",
-      "imdb_id": "tt0096256",
-      "category": "movie",
-      "it_title": "Essi Vivono",
-      "orig_title": "They Live",
-      "year": 1988,
-      "cast": "Roddy Piper, Keith David",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ3MjM3ODU1NV5BMl5BanBnXkFtZTgwMjU3NDU2MTE@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "canal_plus",
-          "name": "Canal+",
-          "link": "https://watchnow.trakt.tv/watchnow/324200590"
-        },
-        {
-          "source": "justwatch_tv",
-          "name": "Justwatch Tv",
-          "link": "https://watchnow.trakt.tv/watchnow/324200593"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0096256",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "f2cla9K1Q1w",
-          "video_title": "Patreon: Essi Vivono (1988) di John Carpenter - Richiesta da Andre Aste dedicata al fratello Michele",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Essi Vivono"
-        },
-        {
-          "creator": "I Criticoni",
-          "video_id": "gkHR8tCHAAo",
-          "video_title": "“Essi Vivono” di John Carpenter | Criticoni Talk #48",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Essi Vivono"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "9qkBJIXQfko",
-          "video_title": "MovieBlog- 282: Recensione Essi Vivono",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Essi Vivono"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_theylive_1988",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/carpente.html",
-          "mentioned_as": "They Live"
-        }
-      ],
-      "director": "John Carpenter",
-      "it_flatrate": [
-        {
-          "source": "mubi",
-          "name": "MUBI",
-          "link": "https://watchnow.trakt.tv/watchnow/303624941"
-        },
-        {
-          "source": "mubi_amazon_channel",
-          "name": "MUBI (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/303624942"
-        },
-        {
-          "source": "the_film_club_amazon_channel",
-          "name": "The Film Club (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/303624944"
-        }
-      ]
-    },
     "movie:scott pilgrim vs. the world:tt0446029": {
       "id": "movie:scott pilgrim vs. the world:tt0446029",
       "imdb_id": "tt0446029",
@@ -31173,66 +31323,6 @@
       "director": "Takeshi Kitano",
       "it_flatrate": [],
       "watchnow_checked": true
-    },
-    "movie:halloween - la notte delle streghe:tt0077651": {
-      "id": "movie:halloween - la notte delle streghe:tt0077651",
-      "imdb_id": "tt0077651",
-      "category": "movie",
-      "it_title": "Halloween - La notte delle streghe",
-      "orig_title": "Halloween",
-      "year": 1978,
-      "cast": "Donald Pleasence, Jamie Lee Curtis",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzZiNTdiYTgtYjNkMS00MmJmLWEwZGQtNmY0NGJkMGE0YmYzXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/326543100"
-        },
-        {
-          "source": "blue_tv",
-          "name": "blue TV",
-          "link": "https://watchnow.trakt.tv/watchnow/326543101"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0077651",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "jjaH1JPg8qY",
-          "video_title": "Patreon: Halloween - La notte delle streghe (1978) di John Carpenter - Minirece richiesta da Dildops",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "oQZRXczQZTw",
-          "video_title": "Federico Frusciante: Le Saghe - HALLOWEEN (Tutti i film della serie)",
-          "timestamp": "00:52",
-          "seconds": 52
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_halloween-1979",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/halloween-1979",
-          "mentioned_as": "Halloween"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_halloween_1978",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/carpente.html",
-          "mentioned_as": "Halloween"
-        }
-      ],
-      "director": "John Carpenter",
-      "it_flatrate": []
     },
     "movie:gattaca - la porta dell'universo:tt0119177": {
       "id": "movie:gattaca - la porta dell'universo:tt0119177",
@@ -38577,61 +38667,6 @@
       ],
       "it_flatrate": []
     },
-    "movie:una poltrona per due:tt0086465": {
-      "id": "movie:una poltrona per due:tt0086465",
-      "imdb_id": "tt0086465",
-      "category": "movie",
-      "it_title": "Una poltrona per due",
-      "orig_title": "Trading Places",
-      "year": 1983,
-      "cast": "Eddie Murphy, Dan Aykroyd",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzlkYjQ1MzUtNjgwZi00MmRhLTkwYzItMGRmN2Y3YmRjY2JmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "paramount_plus",
-          "name": "Paramount+",
-          "link": "https://watchnow.trakt.tv/watchnow/324310681"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0086465",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "0YZJLtyULpc",
-          "video_title": "Patreon: Una poltrona per due (1983) di John Landis - Minirece richiesta da Fox99",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_trading-places-1983",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/trading-places-1983",
-          "mentioned_as": "Trading Places"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "GQg8fzwTkhU",
-          "video_title": "MovieBlog- 364: Recensione Una Poltrona Per Due",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Una Poltrona Per Due"
-        },
-        {
-          "creator": "I Criticoni",
-          "video_id": "_EyWOdjho3U",
-          "video_title": "i Migliori Film Natalizi per i CRITICONI | Criticoni Talk #13",
-          "timestamp": "01:04:01",
-          "seconds": 3841,
-          "mentioned_as": "Una poltrona per due"
-        }
-      ],
-      "director": "John Landis",
-      "it_flatrate": []
-    },
     "movie:la mummia:tt0120616": {
       "id": "movie:la mummia:tt0120616",
       "imdb_id": "tt0120616",
@@ -39729,6 +39764,576 @@
       ],
       "director": "Bong Joon-ho",
       "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:le iene:tt0105236": {
+      "id": "movie:le iene:tt0105236",
+      "imdb_id": "tt0105236",
+      "category": "movie",
+      "it_title": "Le iene",
+      "orig_title": "Reservoir Dogs",
+      "year": 1992,
+      "cast": "Harvey Keitel, Tim Roth",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "lionsgate_plus_amazon_channels",
+          "name": "Lionsgate+ (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/326606053"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0105236",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "e0y9gcmDotY",
+          "video_title": "Patreon: Le iene (1992) di Quentin Tarantino - Minirece richiesta da Nicola",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "Qnoa7REWkNY",
+          "video_title": "MovieBlog- 46: recensione Le Iene",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Le Iene"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_reservoirdogs_1992",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/tarantin.html",
+          "mentioned_as": "Reservoir Dogs"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "yhu0BwmsojA",
+          "video_title": "Le Recensioni di Frusciante - Tarantino",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "Quentin Tarantino",
+      "it_flatrate": [
+        {
+          "source": "lionsgate_plus_amazon_channels",
+          "name": "Lionsgate+ (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/301223311"
+        }
+      ]
+    },
+    "movie:christine - la macchina infernale:tt0085333": {
+      "id": "movie:christine - la macchina infernale:tt0085333",
+      "imdb_id": "tt0085333",
+      "category": "movie",
+      "it_title": "Christine - La macchina infernale",
+      "orig_title": "Christine",
+      "year": 1983,
+      "cast": "Keith Gordon, John Stockwell",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTQxZjlhNzUtMGJkMS00ODMwLWI0NzMtZGZiYzRmODE5ODI2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0085333",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "vKWEBNdsCnw",
+          "video_title": "Patreon: Christine - La macchina infernale (1983) di J. Carpenter -  Mini richiesta da Michelle M.",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "QtoGR_4kt-g",
+          "video_title": "Federico Frusciante: Stephen King - Meglio e Peggio al Cinema",
+          "timestamp": "12:43",
+          "seconds": 763,
+          "mentioned_as": "Christine"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_christine-1983",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/christine-1983",
+          "mentioned_as": "Christine"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "3AHtQaKRH8s",
+          "video_title": "Le Recensioni di Frusciante - Carpenter (1di2)",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Carpenter",
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:fuga da los angeles:tt0116225": {
+      "id": "movie:fuga da los angeles:tt0116225",
+      "imdb_id": "tt0116225",
+      "category": "movie",
+      "it_title": "Fuga da Los Angeles",
+      "orig_title": "Escape from L.A.",
+      "year": 1996,
+      "cast": "Kurt Russell, Steve Buscemi",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzM0NjI1MjItYzYwNS00YTQzLThlOGMtMmFkZTIyN2MxNGUyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "paramount_plus",
+          "name": "Paramount+",
+          "link": "https://watchnow.trakt.tv/watchnow/323362489"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0116225",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "60AnAwf895U",
+          "video_title": "Patreon: Fuga da Los Angeles (1996) di John Carpenter - Minirece richiesta da Mattia Girardini",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "EAH0j6XdVHU",
+          "video_title": "I Consigli di Frusciante: Giugno 2025",
+          "timestamp": "47:29",
+          "seconds": 2849
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_escape-from-la-1996",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/escape-from-la-1996",
+          "mentioned_as": "Escape From L.A."
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "CffD8sLj1mI",
+          "video_title": "Le Recensioni di Frusciante - Carpenter (2di2)",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Carpenter",
+      "it_flatrate": []
+    },
+    "movie:kill bill:tt0266697": {
+      "id": "movie:kill bill:tt0266697",
+      "imdb_id": "tt0266697",
+      "category": "movie",
+      "it_title": "KILL BILL",
+      "orig_title": "Kill Bill: Vol. 1",
+      "year": 2003,
+      "cast": "Uma Thurman, David Carradine",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZmMyYzJlZmYtY2I3NC00NjAyLTkyZWItZjdjZDI1YTYyYTEwXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/326958936"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0266697",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "tqfWUJACr0k",
+          "video_title": "Patreon: \"Kill Bill\" (2004) di Quentin Tarantino - Minirece richiesta da Francesco Di Virgilio",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "KILL BILL"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "ZJZdRyG-F_I",
+          "video_title": "MovieBlog- 543: Recensione Kil Bill Vo.1 e 2",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Kil Bill Vo.1 e 2"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_kill-bill-volume-1-2003",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/kill-bill-volume-1-2003",
+          "mentioned_as": "Kill Bill, Volume 1"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "yhu0BwmsojA",
+          "video_title": "Le Recensioni di Frusciante - Tarantino",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "Quentin Tarantino",
+      "it_flatrate": []
+    },
+    "movie:distretto 13 - le brigate della morte:tt0074156": {
+      "id": "movie:distretto 13 - le brigate della morte:tt0074156",
+      "imdb_id": "tt0074156",
+      "category": "movie",
+      "it_title": "Distretto 13 - Le brigate della morte",
+      "orig_title": "Assault on Precinct 13",
+      "year": 1976,
+      "cast": "Austin Stoker, Darwin Joston",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWVjNzNkMGMtMmYwMi00ZGNlLThkMGMtODZkYWJmYmViNjdkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0074156",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "sMP1MViNo5g",
+          "video_title": "Patreon: Distretto 13 - Le brigate della morte (1976) di J. Carpenter - Minirece richiesta da Loris",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "nYRUjiZ4QKY",
+          "video_title": "Patreon: Distretto 13 - Le brigate della morte (1976) di J.Carpenter - Minirece richiesta da Nicole",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Distretto 13"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_assaultonprecinct13_1976",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/carpente.html",
+          "mentioned_as": "Assault on Precinct 13"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "3AHtQaKRH8s",
+          "video_title": "Le Recensioni di Frusciante - Carpenter (1di2)",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Carpenter",
+      "it_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/302480566"
+        },
+        {
+          "source": "amazon_prime_video_with_ads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://watchnow.trakt.tv/watchnow/302480567"
+        }
+      ],
+      "watchnow_checked": true
+    },
+    "movie:dark star:tt0069945": {
+      "id": "movie:dark star:tt0069945",
+      "imdb_id": "tt0069945",
+      "category": "movie",
+      "it_title": "Dark Star",
+      "orig_title": "Dark Star",
+      "year": 1974,
+      "cast": "Dan O'Bannon, Dre Pahich",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTE2N2Y2NDctNGFhYi00ZDA4LThkMzktMWUxOTJiMGJkYWNkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "bloodstream",
+          "name": "Bloodstream",
+          "link": "https://watchnow.trakt.tv/watchnow/327702179"
+        },
+        {
+          "source": "cultpix",
+          "name": "Cultpix",
+          "link": "https://watchnow.trakt.tv/watchnow/327702178"
+        },
+        {
+          "source": "filmfriend",
+          "name": "filmfriend (free)",
+          "link": "https://watchnow.trakt.tv/watchnow/327702183"
+        },
+        {
+          "source": "plex",
+          "name": "Plex",
+          "link": "https://watchnow.trakt.tv/watchnow/327702181"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0069945",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "J2LL_MNVWTs",
+          "video_title": "Patreon: Dark Star (1974) di John Carpenter - Minirece richiesta da Johnny Micheletti",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Dark Star"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_dark-star-1980",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/dark-star-1980",
+          "mentioned_as": "Dark Star"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_darkstar_1974",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/carpente.html",
+          "mentioned_as": "Dark Star"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "3AHtQaKRH8s",
+          "video_title": "Le Recensioni di Frusciante - Carpenter (1di2)",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Carpenter",
+      "it_flatrate": []
+    },
+    "movie:the blues brothers - i fratelli blues:tt0080455": {
+      "id": "movie:the blues brothers - i fratelli blues:tt0080455",
+      "imdb_id": "tt0080455",
+      "category": "movie",
+      "it_title": "The Blues Brothers - I fratelli Blues",
+      "orig_title": "The Blues Brothers",
+      "year": 1980,
+      "cast": "John Belushi, Dan Aykroyd",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzI2ZDAyNjYtNzgwOS00MTRlLWE3MjUtMTI3M2VmYzQ1ZWJmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0080455",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "BbcSBUFLLQU",
+          "video_title": "Patreon: The Blues Brothers (1980) di John Landis - Minirece richiesta da Alberto Pilotto",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "The Blues Brothers"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-blues-brothers-1980",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-blues-brothers-1980",
+          "mentioned_as": "The Blues Brothers"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_bluesbrothers_1980",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro980.html",
+          "mentioned_as": "Blues Brothers"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "a7x_u_G3xLI",
+          "video_title": "Le Recensioni di Frusciante - Landis",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Landis",
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:1997:fuga da new york:tt0082340": {
+      "id": "movie:1997:fuga da new york:tt0082340",
+      "imdb_id": "tt0082340",
+      "category": "movie",
+      "it_title": "1997:fuga da New York",
+      "orig_title": "Escape from New York",
+      "year": 1981,
+      "cast": "Kurt Russell, Lee Van Cleef",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTUzMTY0Nzg0MV5BMl5BanBnXkFtZTgwMDU3MzQxMDE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "canal_plus",
+          "name": "Canal+",
+          "link": "https://watchnow.trakt.tv/watchnow/324163427"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0082340",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "j5xYjs5Dc44",
+          "video_title": "I Consigli di Frusciante: Febbraio 2019",
+          "timestamp": "22:49",
+          "seconds": 1369
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "omaG1OCbRvE",
+          "video_title": "Patreon: 1997 - Fuga da New York (1981) di John Carpenter - Minirece richiesta da Fulvio Brunone",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "1997 - Fuga da New York"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_escapefromnewyork_1981",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/carpente.html",
+          "mentioned_as": "Escape from New York"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "3AHtQaKRH8s",
+          "video_title": "Le Recensioni di Frusciante - Carpenter (1di2)",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Carpenter",
+      "it_flatrate": []
+    },
+    "movie:animal house:tt0077975": {
+      "id": "movie:animal house:tt0077975",
+      "imdb_id": "tt0077975",
+      "category": "movie",
+      "it_title": "Animal House",
+      "orig_title": "National Lampoon's Animal House",
+      "year": 1978,
+      "cast": "John Belushi, Karen Allen",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjk2ODY5N2UtMzczOC00M2M1LWEzZDQtZTc2YTgzMGNhOWZiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0077975",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "aDBSZBPAWQo",
+          "video_title": "Patreon: Animal House (1978) di John Landis - Minirece richiesta da Elena91",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_national-lampoons-animal-house-1978",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/national-lampoons-animal-house-1978",
+          "mentioned_as": "National Lampoon's Animal House"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_nationallampoonanimalhouse_1978",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro970.html",
+          "mentioned_as": "National Lampoon Animal House"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "a7x_u_G3xLI",
+          "video_title": "Le Recensioni di Frusciante - Landis",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Landis",
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:pulp fiction:tt0110912": {
+      "id": "movie:pulp fiction:tt0110912",
+      "imdb_id": "tt0110912",
+      "category": "movie",
+      "it_title": "Pulp Fiction",
+      "orig_title": "Pulp Fiction",
+      "year": 1994,
+      "cast": "John Travolta, Uma Thurman",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "paramountplus",
+          "name": "Paramount Plus",
+          "link": "https://www.paramountplus.com/movies/pulp-fiction/GliQztWneaDE_136OH3GxD5Q7SI0dfn0?searchReferral="
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0110912",
+      "director": "Quentin Tarantino",
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_pulpfiction_1994",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/tarantin.html",
+          "mentioned_as": "Pulp Fiction"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "bKKB3x7yyfg",
+          "video_title": "MovieBlog- 326: Recensione Pulp Fiction",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Pulp Fiction"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "U0XC7fksKIc",
+          "video_title": "MovieBlog- 38: Recensione Pulp Fiction",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Pulp Fiction"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "yhu0BwmsojA",
+          "video_title": "Le Recensioni di Frusciante - Tarantino",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "it_flatrate": [
+        {
+          "source": "paramountplus",
+          "name": "Paramount Plus",
+          "link": "https://www.paramountplus.com/movies/pulp-fiction/GliQztWneaDE_136OH3GxD5Q7SI0dfn0?searchReferral="
+        },
+        {
+          "source": "amazonparamountplus",
+          "name": "Paramount+ Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83b01a0c-8705-4747-9d71-8a8d633366a3"
+        }
+      ],
       "watchnow_checked": true
     },
     "movie:godzilla e kong - il nuovo impero:tt14539740": {
@@ -41480,59 +42085,6 @@
           "source": "iwonder_full_amazon_channel",
           "name": "iWonder Full (on Amazon)",
           "link": "https://watchnow.trakt.tv/watchnow/302247030"
-        }
-      ]
-    },
-    "movie:le iene:tt0105236": {
-      "id": "movie:le iene:tt0105236",
-      "imdb_id": "tt0105236",
-      "category": "movie",
-      "it_title": "Le iene",
-      "orig_title": "Reservoir Dogs",
-      "year": 1992,
-      "cast": "Harvey Keitel, Tim Roth",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "lionsgate_plus_amazon_channels",
-          "name": "Lionsgate+ (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/326606053"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0105236",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "e0y9gcmDotY",
-          "video_title": "Patreon: Le iene (1992) di Quentin Tarantino - Minirece richiesta da Nicola",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "Qnoa7REWkNY",
-          "video_title": "MovieBlog- 46: recensione Le Iene",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Le Iene"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_reservoirdogs_1992",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/tarantin.html",
-          "mentioned_as": "Reservoir Dogs"
-        }
-      ],
-      "director": "Quentin Tarantino",
-      "it_flatrate": [
-        {
-          "source": "lionsgate_plus_amazon_channels",
-          "name": "Lionsgate+ (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/301223311"
         }
       ]
     },
@@ -48990,48 +49542,6 @@
       "it_flatrate": [],
       "watchnow_checked": true
     },
-    "movie:christine - la macchina infernale:tt0085333": {
-      "id": "movie:christine - la macchina infernale:tt0085333",
-      "imdb_id": "tt0085333",
-      "category": "movie",
-      "it_title": "Christine - La macchina infernale",
-      "orig_title": "Christine",
-      "year": 1983,
-      "cast": "Keith Gordon, John Stockwell",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTQxZjlhNzUtMGJkMS00ODMwLWI0NzMtZGZiYzRmODE5ODI2XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0085333",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "vKWEBNdsCnw",
-          "video_title": "Patreon: Christine - La macchina infernale (1983) di J. Carpenter -  Mini richiesta da Michelle M.",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "QtoGR_4kt-g",
-          "video_title": "Federico Frusciante: Stephen King - Meglio e Peggio al Cinema",
-          "timestamp": "12:43",
-          "seconds": 763,
-          "mentioned_as": "Christine"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_christine-1983",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/christine-1983",
-          "mentioned_as": "Christine"
-        }
-      ],
-      "director": "John Carpenter",
-      "it_flatrate": [],
-      "watchnow_checked": true
-    },
     "movie:ghost in the shell:tt0113568": {
       "id": "movie:ghost in the shell:tt0113568",
       "imdb_id": "tt0113568",
@@ -50245,52 +50755,6 @@
       "director": "Tim Burton",
       "it_flatrate": [],
       "watchnow_checked": true
-    },
-    "movie:fuga da los angeles:tt0116225": {
-      "id": "movie:fuga da los angeles:tt0116225",
-      "imdb_id": "tt0116225",
-      "category": "movie",
-      "it_title": "Fuga da Los Angeles",
-      "orig_title": "Escape from L.A.",
-      "year": 1996,
-      "cast": "Kurt Russell, Steve Buscemi",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzM0NjI1MjItYzYwNS00YTQzLThlOGMtMmFkZTIyN2MxNGUyXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "paramount_plus",
-          "name": "Paramount+",
-          "link": "https://watchnow.trakt.tv/watchnow/323362489"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0116225",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "60AnAwf895U",
-          "video_title": "Patreon: Fuga da Los Angeles (1996) di John Carpenter - Minirece richiesta da Mattia Girardini",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "EAH0j6XdVHU",
-          "video_title": "I Consigli di Frusciante: Giugno 2025",
-          "timestamp": "47:29",
-          "seconds": 2849
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_escape-from-la-1996",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/escape-from-la-1996",
-          "mentioned_as": "Escape From L.A."
-        }
-      ],
-      "director": "John Carpenter",
-      "it_flatrate": []
     },
     "movie:die hard - duri a morire:tt0112864": {
       "id": "movie:die hard - duri a morire:tt0112864",
@@ -53188,54 +53652,6 @@
         }
       ],
       "director": "Todd Phillips",
-      "it_flatrate": []
-    },
-    "movie:kill bill:tt0266697": {
-      "id": "movie:kill bill:tt0266697",
-      "imdb_id": "tt0266697",
-      "category": "movie",
-      "it_title": "KILL BILL",
-      "orig_title": "Kill Bill: Vol. 1",
-      "year": 2003,
-      "cast": "Uma Thurman, David Carradine",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZmMyYzJlZmYtY2I3NC00NjAyLTkyZWItZjdjZDI1YTYyYTEwXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/326958936"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0266697",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "tqfWUJACr0k",
-          "video_title": "Patreon: \"Kill Bill\" (2004) di Quentin Tarantino - Minirece richiesta da Francesco Di Virgilio",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "KILL BILL"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "ZJZdRyG-F_I",
-          "video_title": "MovieBlog- 543: Recensione Kil Bill Vo.1 e 2",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Kil Bill Vo.1 e 2"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_kill-bill-volume-1-2003",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/kill-bill-volume-1-2003",
-          "mentioned_as": "Kill Bill, Volume 1"
-        }
-      ],
-      "director": "Quentin Tarantino",
       "it_flatrate": []
     },
     "movie:arma letale 2:tt0097733": {
@@ -58626,59 +59042,6 @@
       ],
       "director": "Tom Holland",
       "it_flatrate": []
-    },
-    "movie:distretto 13 - le brigate della morte:tt0074156": {
-      "id": "movie:distretto 13 - le brigate della morte:tt0074156",
-      "imdb_id": "tt0074156",
-      "category": "movie",
-      "it_title": "Distretto 13 - Le brigate della morte",
-      "orig_title": "Assault on Precinct 13",
-      "year": 1976,
-      "cast": "Austin Stoker, Darwin Joston",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWVjNzNkMGMtMmYwMi00ZGNlLThkMGMtODZkYWJmYmViNjdkXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0074156",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "sMP1MViNo5g",
-          "video_title": "Patreon: Distretto 13 - Le brigate della morte (1976) di J. Carpenter - Minirece richiesta da Loris",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "nYRUjiZ4QKY",
-          "video_title": "Patreon: Distretto 13 - Le brigate della morte (1976) di J.Carpenter - Minirece richiesta da Nicole",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Distretto 13"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_assaultonprecinct13_1976",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/carpente.html",
-          "mentioned_as": "Assault on Precinct 13"
-        }
-      ],
-      "director": "John Carpenter",
-      "it_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/302480566"
-        },
-        {
-          "source": "amazon_prime_video_with_ads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://watchnow.trakt.tv/watchnow/302480567"
-        }
-      ],
-      "watchnow_checked": true
     },
     "movie:sunshine:tt0448134": {
       "id": "movie:sunshine:tt0448134",
@@ -65704,70 +66067,6 @@
       ],
       "watchnow_checked": true
     },
-    "movie:dark star:tt0069945": {
-      "id": "movie:dark star:tt0069945",
-      "imdb_id": "tt0069945",
-      "category": "movie",
-      "it_title": "Dark Star",
-      "orig_title": "Dark Star",
-      "year": 1974,
-      "cast": "Dan O'Bannon, Dre Pahich",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTE2N2Y2NDctNGFhYi00ZDA4LThkMzktMWUxOTJiMGJkYWNkXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "bloodstream",
-          "name": "Bloodstream",
-          "link": "https://watchnow.trakt.tv/watchnow/327702179"
-        },
-        {
-          "source": "cultpix",
-          "name": "Cultpix",
-          "link": "https://watchnow.trakt.tv/watchnow/327702178"
-        },
-        {
-          "source": "filmfriend",
-          "name": "filmfriend (free)",
-          "link": "https://watchnow.trakt.tv/watchnow/327702183"
-        },
-        {
-          "source": "plex",
-          "name": "Plex",
-          "link": "https://watchnow.trakt.tv/watchnow/327702181"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0069945",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "J2LL_MNVWTs",
-          "video_title": "Patreon: Dark Star (1974) di John Carpenter - Minirece richiesta da Johnny Micheletti",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Dark Star"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_dark-star-1980",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/dark-star-1980",
-          "mentioned_as": "Dark Star"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_darkstar_1974",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/carpente.html",
-          "mentioned_as": "Dark Star"
-        }
-      ],
-      "director": "John Carpenter",
-      "it_flatrate": []
-    },
     "movie:i racconti del cuscino:tt0114134": {
       "id": "movie:i racconti del cuscino:tt0114134",
       "imdb_id": "tt0114134",
@@ -66924,50 +67223,6 @@
       ],
       "director": "Mike Cahill",
       "it_flatrate": []
-    },
-    "movie:the blues brothers - i fratelli blues:tt0080455": {
-      "id": "movie:the blues brothers - i fratelli blues:tt0080455",
-      "imdb_id": "tt0080455",
-      "category": "movie",
-      "it_title": "The Blues Brothers - I fratelli Blues",
-      "orig_title": "The Blues Brothers",
-      "year": 1980,
-      "cast": "John Belushi, Dan Aykroyd",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzI2ZDAyNjYtNzgwOS00MTRlLWE3MjUtMTI3M2VmYzQ1ZWJmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0080455",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "BbcSBUFLLQU",
-          "video_title": "Patreon: The Blues Brothers (1980) di John Landis - Minirece richiesta da Alberto Pilotto",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "The Blues Brothers"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_the-blues-brothers-1980",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/the-blues-brothers-1980",
-          "mentioned_as": "The Blues Brothers"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_bluesbrothers_1980",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/chro980.html",
-          "mentioned_as": "Blues Brothers"
-        }
-      ],
-      "director": "John Landis",
-      "it_flatrate": [],
-      "watchnow_checked": true
     },
     "movie:\"la proposta\":tt0421238": {
       "id": "movie:\"la proposta\":tt0421238",
@@ -69234,53 +69489,6 @@
         }
       ],
       "watchnow_checked": true
-    },
-    "movie:1997:fuga da new york:tt0082340": {
-      "id": "movie:1997:fuga da new york:tt0082340",
-      "imdb_id": "tt0082340",
-      "category": "movie",
-      "it_title": "1997:fuga da New York",
-      "orig_title": "Escape from New York",
-      "year": 1981,
-      "cast": "Kurt Russell, Lee Van Cleef",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTUzMTY0Nzg0MV5BMl5BanBnXkFtZTgwMDU3MzQxMDE@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "canal_plus",
-          "name": "Canal+",
-          "link": "https://watchnow.trakt.tv/watchnow/324163427"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0082340",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "j5xYjs5Dc44",
-          "video_title": "I Consigli di Frusciante: Febbraio 2019",
-          "timestamp": "22:49",
-          "seconds": 1369
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "omaG1OCbRvE",
-          "video_title": "Patreon: 1997 - Fuga da New York (1981) di John Carpenter - Minirece richiesta da Fulvio Brunone",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "1997 - Fuga da New York"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_escapefromnewyork_1981",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/carpente.html",
-          "mentioned_as": "Escape from New York"
-        }
-      ],
-      "director": "John Carpenter",
-      "it_flatrate": []
     },
     "movie:pulse:tt0286751": {
       "id": "movie:pulse:tt0286751",
@@ -71695,49 +71903,6 @@
         }
       ],
       "director": "Andrzej Żuławski",
-      "it_flatrate": [],
-      "watchnow_checked": true
-    },
-    "movie:animal house:tt0077975": {
-      "id": "movie:animal house:tt0077975",
-      "imdb_id": "tt0077975",
-      "category": "movie",
-      "it_title": "Animal House",
-      "orig_title": "National Lampoon's Animal House",
-      "year": 1978,
-      "cast": "John Belushi, Karen Allen",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjk2ODY5N2UtMzczOC00M2M1LWEzZDQtZTc2YTgzMGNhOWZiXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0077975",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "aDBSZBPAWQo",
-          "video_title": "Patreon: Animal House (1978) di John Landis - Minirece richiesta da Elena91",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_national-lampoons-animal-house-1978",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/national-lampoons-animal-house-1978",
-          "mentioned_as": "National Lampoon's Animal House"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_nationallampoonanimalhouse_1978",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/chro970.html",
-          "mentioned_as": "National Lampoon Animal House"
-        }
-      ],
-      "director": "John Landis",
       "it_flatrate": [],
       "watchnow_checked": true
     },
@@ -77093,66 +77258,6 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt1517260"
     },
-    "movie:pulp fiction:tt0110912": {
-      "id": "movie:pulp fiction:tt0110912",
-      "imdb_id": "tt0110912",
-      "category": "movie",
-      "it_title": "Pulp Fiction",
-      "orig_title": "Pulp Fiction",
-      "year": 1994,
-      "cast": "John Travolta, Uma Thurman",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "paramountplus",
-          "name": "Paramount Plus",
-          "link": "https://www.paramountplus.com/movies/pulp-fiction/GliQztWneaDE_136OH3GxD5Q7SI0dfn0?searchReferral="
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0110912",
-      "director": "Quentin Tarantino",
-      "recommendations": [
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_pulpfiction_1994",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/tarantin.html",
-          "mentioned_as": "Pulp Fiction"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "bKKB3x7yyfg",
-          "video_title": "MovieBlog- 326: Recensione Pulp Fiction",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Pulp Fiction"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "U0XC7fksKIc",
-          "video_title": "MovieBlog- 38: Recensione Pulp Fiction",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Pulp Fiction"
-        }
-      ],
-      "it_flatrate": [
-        {
-          "source": "paramountplus",
-          "name": "Paramount Plus",
-          "link": "https://www.paramountplus.com/movies/pulp-fiction/GliQztWneaDE_136OH3GxD5Q7SI0dfn0?searchReferral="
-        },
-        {
-          "source": "amazonparamountplus",
-          "name": "Paramount+ Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83b01a0c-8705-4747-9d71-8a8d633366a3"
-        }
-      ],
-      "watchnow_checked": true
-    },
     "movie:invincibile:tt0245171": {
       "id": "movie:invincibile:tt0245171",
       "imdb_id": "tt0245171",
@@ -78383,6 +78488,450 @@
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff8e068a-bc29-4b2a-bed0-23f65f7d85b1"
         }
       ]
+    },
+    "movie:cigarette burns - incubo mortale:tt0643109": {
+      "id": "movie:cigarette burns - incubo mortale:tt0643109",
+      "imdb_id": "tt0643109",
+      "category": "movie",
+      "it_title": "Cigarette Burns - Incubo mortale",
+      "orig_title": "Cigarette Burns",
+      "year": 2005,
+      "cast": "Norman Reedus, Colin Foo",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTA0MDI2MDUxNDdeQTJeQWpwZ15BbWU3MDkwODY4MzE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0643109",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "VaKQgN2wE74",
+          "video_title": "Patreon: Cigarette Burns - Incubo mortale (2007) di John Carpenter -  Mini per  Carlo Macchiavello",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "__DTEWo5XWE",
+          "video_title": "Patreon: Cigarette Burns (2005) di Carpenter (con urla di bimbo ) - Richiesta da Luca Nunzi",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Cigarette burns"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "CffD8sLj1mI",
+          "video_title": "Le Recensioni di Frusciante - Carpenter (2di2)",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Carpenter",
+      "it_flatrate": []
+    },
+    "movie:la cosa:tt0084787": {
+      "id": "movie:la cosa:tt0084787",
+      "imdb_id": "tt0084787",
+      "category": "movie",
+      "it_title": "La Cosa",
+      "orig_title": "The Thing",
+      "year": 1982,
+      "cast": "Kurt Russell, Wilford Brimley",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTA3NDU5MWEtNTk4Yy00ZDNkLThmZTQtMjU3ZGVhYzAyMzU4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "mubi",
+          "name": "MUBI",
+          "link": "https://mubi.com/films/the-thing"
+        },
+        {
+          "source": "amazonmubi",
+          "name": "MUBI Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4aed7a20-6880-4d29-8648-8871fbf90fe1"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0084787",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "EhkmYg2DvPE",
+          "video_title": "Patreon: La Cosa (1982) di John Carpenter - Minirece richiesta da JD",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "SvjxYlOc5eo",
+          "video_title": "MovieBlog- 337: Recensione La Cosa",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "La Cosa"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "3AHtQaKRH8s",
+          "video_title": "Le Recensioni di Frusciante - Carpenter (1di2)",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Carpenter",
+      "it_flatrate": [
+        {
+          "source": "mubi",
+          "name": "MUBI",
+          "link": "https://mubi.com/films/the-thing"
+        },
+        {
+          "source": "amazonmubi",
+          "name": "MUBI Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4aed7a20-6880-4d29-8648-8871fbf90fe1"
+        }
+      ]
+    },
+    "movie:vampires:tt0120877": {
+      "id": "movie:vampires:tt0120877",
+      "imdb_id": "tt0120877",
+      "category": "movie",
+      "it_title": "Vampires",
+      "orig_title": "Vampires",
+      "year": 1998,
+      "cast": "James Woods, Daniel Baldwin",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTI2OTUyZjItMjY0My00NzY1LWI2MGYtZDJjY2RhM2NlY2E2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "justwatch_tv",
+          "name": "Justwatch Tv",
+          "link": "https://watchnow.trakt.tv/watchnow/325903113"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0120877",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "i3Fp7d8pgyo",
+          "video_title": "Patreon: \"Vampires\" (1998) di John Carpenter - Minirece richiesta da Valerio Sagliano",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Vampires"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "_vPQxoWA1ms",
+          "video_title": "MovieBlog- 184: Recensione Vampires",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Vampires"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "CffD8sLj1mI",
+          "video_title": "Le Recensioni di Frusciante - Carpenter (2di2)",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Carpenter",
+      "it_flatrate": []
+    },
+    "movie:fantasmi da marte:tt0228333": {
+      "id": "movie:fantasmi da marte:tt0228333",
+      "imdb_id": "tt0228333",
+      "category": "movie",
+      "it_title": "Fantasmi da Marte",
+      "orig_title": "Ghosts of Mars",
+      "year": 2001,
+      "cast": "Natasha Henstridge, Ice Cube",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTY5MWQ2YzUtNGM4YS00ZTYxLWJkMGUtMTg2ODlkNDUwMzY1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://watchnow.trakt.tv/watchnow/326162414"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0228333",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "WYqV1BgB2Ls",
+          "video_title": "Patreon: Fantasmi da Marte (2001) di John Carpenter - Minirece richiesta da RockIn",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_ghosts-of-mars-2001",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/ghosts-of-mars-2001",
+          "mentioned_as": "Ghosts of Mars"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "CffD8sLj1mI",
+          "video_title": "Le Recensioni di Frusciante - Carpenter (2di2)",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Carpenter",
+      "it_flatrate": []
+    },
+    "movie:starman:tt0088172": {
+      "id": "movie:starman:tt0088172",
+      "imdb_id": "tt0088172",
+      "category": "movie",
+      "it_title": "Starman",
+      "orig_title": "Starman",
+      "year": 1984,
+      "cast": "Jeff Bridges, Karen Allen",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzBjMGFjMGItOTVhMC00NTJiLWIyY2MtYThkYWFkMWI2MGM4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://watchnow.trakt.tv/watchnow/325864164"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0088172",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "QvSxbXU3P7o",
+          "video_title": "Patreon: Starman (1984) di John Carpenter - Minirece richiesta da Massimo Amadei",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_starman-1984",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/starman-1984",
+          "mentioned_as": "Starman"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "CffD8sLj1mI",
+          "video_title": "Le Recensioni di Frusciante - Carpenter (2di2)",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Carpenter",
+      "it_flatrate": []
+    },
+    "movie:007 - skyfall:tt1074638": {
+      "id": "movie:007 - skyfall:tt1074638",
+      "imdb_id": "tt1074638",
+      "category": "movie",
+      "it_title": "007 - Skyfall",
+      "orig_title": "Skyfall",
+      "year": 2012,
+      "cast": "Daniel Craig, Javier Bardem",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjAzMWNkODUtM2FlMi00NzgyLWJhMGUtMWEyNDYyZGFiN2RlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/326694110"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1074638",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "Zv76hGYQXR8",
+          "video_title": "Patreon: 007 - Skyfall (2012) di Sam Mendes - Minirece rinchiesta da Michele Toglia",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "007 - Skyfall"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_skyfall-2012",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/skyfall-2012",
+          "mentioned_as": "Skyfall"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "VteUPYEKxKY",
+          "video_title": "MovieBlog- 236: Recensione 007- Skyfall + FestivalTube",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "007- Skyfall + FestivalTube"
+        }
+      ],
+      "director": "Sam Mendes",
+      "it_flatrate": [
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3b013325-c177-469f-b424-0d40d825ce17"
+        }
+      ]
+    },
+    "movie:sin city:tt0401792": {
+      "id": "movie:sin city:tt0401792",
+      "imdb_id": "tt0401792",
+      "category": "movie",
+      "it_title": "Sin City",
+      "orig_title": "Sin City",
+      "year": 2005,
+      "cast": "Mickey Rourke, Clive Owen",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNWE2YmYyYzQtNGMwMi00Yzk0LTk3ZTYtYTcxNmFjMDE1MGExXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0401792",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "GFQq6mrjxCE",
+          "video_title": "Patreon: Sin City (2005) di Robert Rodriguez, Frank Miller - Mini richiesta da DeDa dedicata a Luce",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_sin-city-2005",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/sin-city-2005",
+          "mentioned_as": "Sin City"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "yhu0BwmsojA",
+          "video_title": "Le Recensioni di Frusciante - Tarantino",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "Quentin Tarantino, Robert Rodríguez",
+      "it_flatrate": [
+        {
+          "source": "skygo",
+          "name": "Sky Go",
+          "link": "https://skygo.sky.it/"
+        },
+        {
+          "source": "nowtv",
+          "name": "Now TV",
+          "link": "https://www.nowtv.it/watch/asset/sin-city/R_592242_HD"
+        }
+      ],
+      "watchnow_checked": true
+    },
+    "movie:ai confini della realtà - il film:tt0086491": {
+      "id": "movie:ai confini della realtà - il film:tt0086491",
+      "imdb_id": "tt0086491",
+      "category": "movie",
+      "it_title": "Ai confini della realtà - Il film",
+      "orig_title": "Twilight Zone: The Movie",
+      "year": 1983,
+      "director": "Steven Spielberg, John Landis",
+      "cast": "Dan Aykroyd, Albert Brooks",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZWRlZTVkYTktOThkOC00Y2Q4LWI5NTUtMmNmYjhlOTcwMjA2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "WxrD2EUm4RE",
+          "video_title": "Le Monografie di Frusciante - Joe Dante",
+          "timestamp": "10:42",
+          "seconds": 642,
+          "mentioned_as": "Ai confini della realtà"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "QP2oqxhBmCc",
+          "video_title": "Le Monografie di Frusciante: Steven Spielberg",
+          "timestamp": "21:16",
+          "seconds": 1276,
+          "mentioned_as": "Ai confini della realtà"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "a7x_u_G3xLI",
+          "video_title": "Le Recensioni di Frusciante - Landis",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0086491"
+    },
+    "movie:jackie brown:tt0119396": {
+      "id": "movie:jackie brown:tt0119396",
+      "imdb_id": "tt0119396",
+      "category": "movie",
+      "it_title": "Jackie Brown",
+      "orig_title": "Jackie Brown",
+      "year": 1997,
+      "director": "Quentin Tarantino",
+      "cast": "Pam Grier, Samuel L. Jackson",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZmUxZjY3MDktNGI5NS00MTQ5LWE0YWItZWQzNmZhNjhkZDYyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33bc0676-d2bc-42c7-b9fe-fb9a14709fba"
+        },
+        {
+          "source": "skysvod",
+          "name": "Sky",
+          "link": "https://show.sky.ch/en/title/522"
+        }
+      ],
+      "it_flatrate": [
+        {
+          "source": "amazonlionsgateplus",
+          "name": "Lionsgate+ Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33bc0676-d2bc-42c7-b9fe-fb9a14709fba"
+        }
+      ],
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_jackie-brown-1997",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/jackie-brown-1997",
+          "mentioned_as": "Jackie Brown"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_jackiebrown_1997",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/tarantin.html",
+          "mentioned_as": "Jackie Brown"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "yhu0BwmsojA",
+          "video_title": "Le Recensioni di Frusciante - Tarantino",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0119396",
+      "watchnow_checked": true
     },
     "movie:il re leone:tt0110357": {
       "id": "movie:il re leone:tt0110357",
@@ -96326,38 +96875,6 @@
       "director": "Michele Soavi",
       "it_flatrate": []
     },
-    "movie:cigarette burns - incubo mortale:tt0643109": {
-      "id": "movie:cigarette burns - incubo mortale:tt0643109",
-      "imdb_id": "tt0643109",
-      "category": "movie",
-      "it_title": "Cigarette Burns - Incubo mortale",
-      "orig_title": "Cigarette Burns",
-      "year": 2005,
-      "cast": "Norman Reedus, Colin Foo",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTA0MDI2MDUxNDdeQTJeQWpwZ15BbWU3MDkwODY4MzE@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0643109",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "VaKQgN2wE74",
-          "video_title": "Patreon: Cigarette Burns - Incubo mortale (2007) di John Carpenter -  Mini per  Carlo Macchiavello",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "__DTEWo5XWE",
-          "video_title": "Patreon: Cigarette Burns (2005) di Carpenter (con urla di bimbo ) - Richiesta da Luca Nunzi",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Cigarette burns"
-        }
-      ],
-      "director": "John Carpenter",
-      "it_flatrate": []
-    },
     "movie:funny games:tt0808279": {
       "id": "movie:funny games:tt0808279",
       "imdb_id": "tt0808279",
@@ -98701,60 +99218,6 @@
       "director": "Werner Herzog",
       "it_flatrate": []
     },
-    "movie:la cosa:tt0084787": {
-      "id": "movie:la cosa:tt0084787",
-      "imdb_id": "tt0084787",
-      "category": "movie",
-      "it_title": "La Cosa",
-      "orig_title": "The Thing",
-      "year": 1982,
-      "cast": "Kurt Russell, Wilford Brimley",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTA3NDU5MWEtNTk4Yy00ZDNkLThmZTQtMjU3ZGVhYzAyMzU4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "mubi",
-          "name": "MUBI",
-          "link": "https://mubi.com/films/the-thing"
-        },
-        {
-          "source": "amazonmubi",
-          "name": "MUBI Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4aed7a20-6880-4d29-8648-8871fbf90fe1"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0084787",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "EhkmYg2DvPE",
-          "video_title": "Patreon: La Cosa (1982) di John Carpenter - Minirece richiesta da JD",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "SvjxYlOc5eo",
-          "video_title": "MovieBlog- 337: Recensione La Cosa",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "La Cosa"
-        }
-      ],
-      "director": "John Carpenter",
-      "it_flatrate": [
-        {
-          "source": "mubi",
-          "name": "MUBI",
-          "link": "https://mubi.com/films/the-thing"
-        },
-        {
-          "source": "amazonmubi",
-          "name": "MUBI Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4aed7a20-6880-4d29-8648-8871fbf90fe1"
-        }
-      ]
-    },
     "movie:anarchia - la notte del giudizio:tt2975578": {
       "id": "movie:anarchia - la notte del giudizio:tt2975578",
       "imdb_id": "tt2975578",
@@ -99432,45 +99895,6 @@
         }
       ],
       "director": "Guy Ritchie",
-      "it_flatrate": []
-    },
-    "movie:vampires:tt0120877": {
-      "id": "movie:vampires:tt0120877",
-      "imdb_id": "tt0120877",
-      "category": "movie",
-      "it_title": "Vampires",
-      "orig_title": "Vampires",
-      "year": 1998,
-      "cast": "James Woods, Daniel Baldwin",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTI2OTUyZjItMjY0My00NzY1LWI2MGYtZDJjY2RhM2NlY2E2XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "justwatch_tv",
-          "name": "Justwatch Tv",
-          "link": "https://watchnow.trakt.tv/watchnow/325903113"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0120877",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "i3Fp7d8pgyo",
-          "video_title": "Patreon: \"Vampires\" (1998) di John Carpenter - Minirece richiesta da Valerio Sagliano",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Vampires"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "_vPQxoWA1ms",
-          "video_title": "MovieBlog- 184: Recensione Vampires",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Vampires"
-        }
-      ],
-      "director": "John Carpenter",
       "it_flatrate": []
     },
     "movie:the ring:tt0298130": {
@@ -107101,45 +107525,6 @@
       "director": "Peter Cattaneo",
       "it_flatrate": []
     },
-    "movie:fantasmi da marte:tt0228333": {
-      "id": "movie:fantasmi da marte:tt0228333",
-      "imdb_id": "tt0228333",
-      "category": "movie",
-      "it_title": "Fantasmi da Marte",
-      "orig_title": "Ghosts of Mars",
-      "year": 2001,
-      "cast": "Natasha Henstridge, Ice Cube",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTY5MWQ2YzUtNGM4YS00ZTYxLWJkMGUtMTg2ODlkNDUwMzY1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://watchnow.trakt.tv/watchnow/326162414"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0228333",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "WYqV1BgB2Ls",
-          "video_title": "Patreon: Fantasmi da Marte (2001) di John Carpenter - Minirece richiesta da RockIn",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_ghosts-of-mars-2001",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/ghosts-of-mars-2001",
-          "mentioned_as": "Ghosts of Mars"
-        }
-      ],
-      "director": "John Carpenter",
-      "it_flatrate": []
-    },
     "movie:killer joe:tt1726669": {
       "id": "movie:killer joe:tt1726669",
       "imdb_id": "tt1726669",
@@ -109360,45 +109745,6 @@
       "director": "Ken Loach",
       "it_flatrate": [],
       "watchnow_checked": true
-    },
-    "movie:starman:tt0088172": {
-      "id": "movie:starman:tt0088172",
-      "imdb_id": "tt0088172",
-      "category": "movie",
-      "it_title": "Starman",
-      "orig_title": "Starman",
-      "year": 1984,
-      "cast": "Jeff Bridges, Karen Allen",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzBjMGFjMGItOTVhMC00NTJiLWIyY2MtYThkYWFkMWI2MGM4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://watchnow.trakt.tv/watchnow/325864164"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0088172",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "QvSxbXU3P7o",
-          "video_title": "Patreon: Starman (1984) di John Carpenter - Minirece richiesta da Massimo Amadei",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_starman-1984",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/starman-1984",
-          "mentioned_as": "Starman"
-        }
-      ],
-      "director": "John Carpenter",
-      "it_flatrate": []
     },
     "movie:one hour photo:tt0265459": {
       "id": "movie:one hour photo:tt0265459",
@@ -113469,60 +113815,6 @@
       "director": "Whit Stillman",
       "it_flatrate": [],
       "watchnow_checked": true
-    },
-    "movie:007 - skyfall:tt1074638": {
-      "id": "movie:007 - skyfall:tt1074638",
-      "imdb_id": "tt1074638",
-      "category": "movie",
-      "it_title": "007 - Skyfall",
-      "orig_title": "Skyfall",
-      "year": 2012,
-      "cast": "Daniel Craig, Javier Bardem",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjAzMWNkODUtM2FlMi00NzgyLWJhMGUtMWEyNDYyZGFiN2RlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/326694110"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1074638",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "Zv76hGYQXR8",
-          "video_title": "Patreon: 007 - Skyfall (2012) di Sam Mendes - Minirece rinchiesta da Michele Toglia",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "007 - Skyfall"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_skyfall-2012",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/skyfall-2012",
-          "mentioned_as": "Skyfall"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "VteUPYEKxKY",
-          "video_title": "MovieBlog- 236: Recensione 007- Skyfall + FestivalTube",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "007- Skyfall + FestivalTube"
-        }
-      ],
-      "director": "Sam Mendes",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3b013325-c177-469f-b424-0d40d825ce17"
-        }
-      ]
     },
     "movie:bronx:tt0106489": {
       "id": "movie:bronx:tt0106489",
@@ -119353,51 +119645,6 @@
           "source": "amazonprimevideowithads",
           "name": "Amazon Prime Video with Ads",
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.76ba4e3a-c71a-a113-79e0-3ba27aec8a9b"
-        }
-      ],
-      "watchnow_checked": true
-    },
-    "movie:sin city:tt0401792": {
-      "id": "movie:sin city:tt0401792",
-      "imdb_id": "tt0401792",
-      "category": "movie",
-      "it_title": "Sin City",
-      "orig_title": "Sin City",
-      "year": 2005,
-      "cast": "Mickey Rourke, Clive Owen",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNWE2YmYyYzQtNGMwMi00Yzk0LTk3ZTYtYTcxNmFjMDE1MGExXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0401792",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "GFQq6mrjxCE",
-          "video_title": "Patreon: Sin City (2005) di Robert Rodriguez, Frank Miller - Mini richiesta da DeDa dedicata a Luce",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_sin-city-2005",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/sin-city-2005",
-          "mentioned_as": "Sin City"
-        }
-      ],
-      "director": "Quentin Tarantino, Robert Rodríguez",
-      "it_flatrate": [
-        {
-          "source": "skygo",
-          "name": "Sky Go",
-          "link": "https://skygo.sky.it/"
-        },
-        {
-          "source": "nowtv",
-          "name": "Now TV",
-          "link": "https://www.nowtv.it/watch/asset/sin-city/R_592242_HD"
         }
       ],
       "watchnow_checked": true
@@ -129457,39 +129704,6 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0119978",
       "watchnow_checked": true
-    },
-    "movie:ai confini della realtà - il film:tt0086491": {
-      "id": "movie:ai confini della realtà - il film:tt0086491",
-      "imdb_id": "tt0086491",
-      "category": "movie",
-      "it_title": "Ai confini della realtà - Il film",
-      "orig_title": "Twilight Zone: The Movie",
-      "year": 1983,
-      "director": "Steven Spielberg, John Landis",
-      "cast": "Dan Aykroyd, Albert Brooks",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZWRlZTVkYTktOThkOC00Y2Q4LWI5NTUtMmNmYjhlOTcwMjA2XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "it_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "WxrD2EUm4RE",
-          "video_title": "Le Monografie di Frusciante - Joe Dante",
-          "timestamp": "10:42",
-          "seconds": 642,
-          "mentioned_as": "Ai confini della realtà"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "QP2oqxhBmCc",
-          "video_title": "Le Monografie di Frusciante: Steven Spielberg",
-          "timestamp": "21:16",
-          "seconds": 1276,
-          "mentioned_as": "Ai confini della realtà"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0086491"
     },
     "movie:hala:tt6348410": {
       "id": "movie:hala:tt6348410",
@@ -143574,59 +143788,6 @@
       "external_url": "https://app.trakt.tv/movies/tt0119792",
       "watchnow_checked": true
     },
-    "movie:jackie brown:tt0119396": {
-      "id": "movie:jackie brown:tt0119396",
-      "imdb_id": "tt0119396",
-      "category": "movie",
-      "it_title": "Jackie Brown",
-      "orig_title": "Jackie Brown",
-      "year": 1997,
-      "director": "Quentin Tarantino",
-      "cast": "Pam Grier, Samuel L. Jackson",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZmUxZjY3MDktNGI5NS00MTQ5LWE0YWItZWQzNmZhNjhkZDYyXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33bc0676-d2bc-42c7-b9fe-fb9a14709fba"
-        },
-        {
-          "source": "skysvod",
-          "name": "Sky",
-          "link": "https://show.sky.ch/en/title/522"
-        }
-      ],
-      "it_flatrate": [
-        {
-          "source": "amazonlionsgateplus",
-          "name": "Lionsgate+ Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33bc0676-d2bc-42c7-b9fe-fb9a14709fba"
-        }
-      ],
-      "recommendations": [
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_jackie-brown-1997",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/jackie-brown-1997",
-          "mentioned_as": "Jackie Brown"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_jackiebrown_1997",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/tarantin.html",
-          "mentioned_as": "Jackie Brown"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0119396",
-      "watchnow_checked": true
-    },
     "movie:tempesta di ghiaccio:tt0119349": {
       "id": "movie:tempesta di ghiaccio:tt0119349",
       "imdb_id": "tt0119349",
@@ -153618,6 +153779,553 @@
       "it_flatrate": [],
       "director": "Emerald Fennell"
     },
+    "movie:un lupo mannaro americano a londra:tt0082010": {
+      "id": "movie:un lupo mannaro americano a londra:tt0082010",
+      "imdb_id": "tt0082010",
+      "category": "movie",
+      "it_title": "Un lupo mannaro americano a Londra",
+      "orig_title": "An American Werewolf in London",
+      "year": 1981,
+      "cast": "David Naughton, Jenny Agutter",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOWYyNmMwMTUtZjE2OC00YWQzLWJmMzctNzhmMDI1OTQwNzdhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0082010",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "JMndI1zNZyM",
+          "video_title": "Patreon: Un lupo mannaro americano a Londra (1981) di John Landis - Minirece richiesta da Rosi98",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "a7x_u_G3xLI",
+          "video_title": "Le Recensioni di Frusciante - Landis",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Landis",
+      "it_flatrate": [
+        {
+          "source": "amazonlionsgateplus",
+          "name": "Lionsgate+ Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d855f8a1-fe4f-4a53-9786-d8b4f938813c"
+        }
+      ]
+    },
+    "movie:spie come noi:tt0090056": {
+      "id": "movie:spie come noi:tt0090056",
+      "imdb_id": "tt0090056",
+      "category": "movie",
+      "it_title": "Spie come noi",
+      "orig_title": "Spies Like Us",
+      "year": 1985,
+      "cast": "Chevy Chase, Dan Aykroyd",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTA1NzQ1ZTUtNDdjZS00OTk1LWE2ZjUtNTRkODIyYzBmODljXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0090056",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "DFqf0WcquAQ",
+          "video_title": "Patreon: Spie come noi (1985) di John Landis - Minirece richiesta da Turbo, Sn@ck Plissken",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "a7x_u_G3xLI",
+          "video_title": "Le Recensioni di Frusciante - Landis",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Landis",
+      "it_flatrate": []
+    },
+    "movie:body bags - corpi estranei:tt0106449": {
+      "id": "movie:body bags - corpi estranei:tt0106449",
+      "imdb_id": "tt0106449",
+      "category": "movie",
+      "it_title": "Body Bags - Corpi estranei",
+      "orig_title": "Body Bags",
+      "year": 1993,
+      "cast": "John Carpenter, Tom Arnold",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTA2N2E1MjMtN2IyZi00OWFmLTkwMmMtY2E0ZTY0YzVjOTU1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0106449",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "TZx7UCP0F6E",
+          "video_title": "Patreon: Body Bags (1993) di John Carpenter, Tobe Hooper - Mini richiesta da Chips dedicata a bro94",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "CffD8sLj1mI",
+          "video_title": "Le Recensioni di Frusciante - Carpenter (2di2)",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Carpenter, Tobe Hooper",
+      "it_flatrate": [
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.34bb57cc-a5ba-56ba-f76b-1c476d339c2e"
+        },
+        {
+          "source": "amazonprimevideowithads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.34bb57cc-a5ba-56ba-f76b-1c476d339c2e"
+        }
+      ]
+    },
+    "movie:fog:tt0080749": {
+      "id": "movie:fog:tt0080749",
+      "imdb_id": "tt0080749",
+      "category": "movie",
+      "it_title": "Fog",
+      "orig_title": "The Fog",
+      "year": 1980,
+      "cast": "Adrienne Barbeau, Jamie Lee Curtis",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWVlMmM5YmMtZGJkYy00ODgxLTgyNTctYzM2MTYwZDRkYTJmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0080749",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "wH3aAWyslyQ",
+          "video_title": "Patreon: Fog (1980) di John Carpenter - Minirece richiesta da BlueWitch",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "3AHtQaKRH8s",
+          "video_title": "Le Recensioni di Frusciante - Carpenter (1di2)",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Carpenter",
+      "it_flatrate": [
+        {
+          "source": "amazonthefilmclub",
+          "name": "The Film Club Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.830177c8-e2ae-4743-af6f-134e8a432f98"
+        }
+      ]
+    },
+    "movie:villaggio dei dannati:tt0114852": {
+      "id": "movie:villaggio dei dannati:tt0114852",
+      "imdb_id": "tt0114852",
+      "category": "movie",
+      "it_title": "Villaggio dei dannati",
+      "orig_title": "Village of the Damned",
+      "year": 1995,
+      "cast": "Christopher Reeve, Kirstie Alley",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjU0ZDMyOTgtNWU0YS00MjFmLWJjOTEtYjViMDI1NWUyMGE5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/325983592"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0114852",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "AyJF8St0GPg",
+          "video_title": "Patreon: Villaggio dei dannati (1995) di John Carpenter - Mini richiesta da Milva dedicata a Renato",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "CffD8sLj1mI",
+          "video_title": "Le Recensioni di Frusciante - Carpenter (2di2)",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Carpenter",
+      "it_flatrate": []
+    },
+    "movie:the ward - il reparto:tt1369706": {
+      "id": "movie:the ward - il reparto:tt1369706",
+      "imdb_id": "tt1369706",
+      "category": "movie",
+      "it_title": "The Ward - Il reparto",
+      "orig_title": "The Ward",
+      "year": 2010,
+      "cast": "Amber Heard, Mamie Gummer",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY3NDE3NzQxNV5BMl5BanBnXkFtZTcwMjYxMzI1NQ@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "home_of_horror_amazon_channel",
+          "name": "Home of Horror (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/327672933"
+        },
+        {
+          "source": "justwatch_tv",
+          "name": "Justwatch Tv",
+          "link": "https://watchnow.trakt.tv/watchnow/327672938"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1369706",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "TrtvErPOAYM",
+          "video_title": "Patreon: The Ward (2010) di John Carpenter - Minirece richiesta da HaHaHa",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "CffD8sLj1mI",
+          "video_title": "Le Recensioni di Frusciante - Carpenter (2di2)",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Carpenter",
+      "it_flatrate": []
+    },
+    "movie:il signore del male:tt0093777": {
+      "id": "movie:il signore del male:tt0093777",
+      "imdb_id": "tt0093777",
+      "category": "movie",
+      "it_title": "Il Signore del Male",
+      "orig_title": "Prince of Darkness",
+      "year": 1987,
+      "cast": "Donald Pleasence, Lisa Blount",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDYwOThiMDgtMjMyNC00ODY2LTkwNDMtZjJlNWJiN2IyNDliXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "canal_plus",
+          "name": "Canal+",
+          "link": "https://watchnow.trakt.tv/watchnow/325879498"
+        },
+        {
+          "source": "home_of_horror_amazon_channel",
+          "name": "Home of Horror (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/325879499"
+        },
+        {
+          "source": "justwatch_tv",
+          "name": "Justwatch Tv",
+          "link": "https://watchnow.trakt.tv/watchnow/325879497"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0093777",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "xwPKl12p6Ag",
+          "video_title": "Patreon: Il Signore del Male (1987) di John Carpenter - Richiesta da Salvatorix dedicata a Bendetta",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "CffD8sLj1mI",
+          "video_title": "Le Recensioni di Frusciante - Carpenter (2di2)",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Carpenter",
+      "it_flatrate": [
+        {
+          "source": "amazonrarovideo",
+          "name": "Raro Video Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ca79884-5671-4370-9a9b-f3c1a7c3cd92"
+        },
+        {
+          "source": "amazonthefilmclub",
+          "name": "The Film Club Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ca79884-5671-4370-9a9b-f3c1a7c3cd92"
+        }
+      ]
+    },
+    "movie:a prova di morte:tt1028528": {
+      "id": "movie:a prova di morte:tt1028528",
+      "imdb_id": "tt1028528",
+      "category": "movie",
+      "it_title": "A prova di morte",
+      "orig_title": "Death Proof",
+      "year": 2007,
+      "cast": "Kurt Russell, Zoë Bell",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjRlOTM0OTktZTBjNi00ZjZiLWJkMzktMmU2ZDBkMTQxN2FmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "blue_tv",
+          "name": "blue TV",
+          "link": "https://watchnow.trakt.tv/watchnow/324048361"
+        },
+        {
+          "source": "lionsgate_plus_amazon_channels",
+          "name": "Lionsgate+ (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/324048363"
+        },
+        {
+          "source": "sky",
+          "name": "Sky",
+          "link": "https://watchnow.trakt.tv/watchnow/324048362"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1028528",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "HZW6MypKuZE",
+          "video_title": "Patreon: A prova di morte (2007) di Quentin Tarantino - Minirece richiesta da Alessandro Vaja",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "A prova di morte"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "yhu0BwmsojA",
+          "video_title": "Le Recensioni di Frusciante - Tarantino",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "Quentin Tarantino",
+      "it_flatrate": [
+        {
+          "source": "amazonlionsgateplus",
+          "name": "Lionsgate+ Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3d3f732c-cd36-44ba-95af-b8d2d59135a4"
+        }
+      ]
+    },
+    "movie:il seme della follia:tt0113409": {
+      "id": "movie:il seme della follia:tt0113409",
+      "imdb_id": "tt0113409",
+      "category": "movie",
+      "it_title": "Il seme della follia",
+      "orig_title": "In the Mouth of Madness",
+      "year": 1994,
+      "cast": "Sam Neill, Jürgen Prochnow",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmE2OTY3MWMtNTY5ZS00MGFhLWFhYzAtZWQ3MGMyY2M5MDRjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0113409",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "3bFqbTO6W3Q",
+          "video_title": "Patreon: Il seme della follia (1994) di J. Carpenter - Richiesta da Monkeyd Luffy dedicata a Michele",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Il seme della follia"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "CffD8sLj1mI",
+          "video_title": "Le Recensioni di Frusciante - Carpenter (2di2)",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Carpenter",
+      "it_flatrate": []
+    },
+    "movie:grosso guaio a chinatown:tt0090728": {
+      "id": "movie:grosso guaio a chinatown:tt0090728",
+      "imdb_id": "tt0090728",
+      "category": "movie",
+      "it_title": "Grosso guaio a Chinatown",
+      "orig_title": "Big Trouble in Little China",
+      "year": 1986,
+      "cast": "Kurt Russell, Kim Cattrall",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWNjZDQyMjUtZDEzZC00OThhLTg1NWItOTQ1MWI3ODBlODcyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/324217342"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0090728",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "oSO5v8iiMmM",
+          "video_title": "Patreon: Grosso guaio a Chinatown (1986) di J.Carpenter - Da Luca Cerlini a Chiara Crescini",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Grosso guaio a Chinatown"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "CffD8sLj1mI",
+          "video_title": "Le Recensioni di Frusciante - Carpenter (2di2)",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "John Carpenter",
+      "it_flatrate": [
+        {
+          "source": "disneyplus",
+          "name": "Disney Plus",
+          "link": "https://www.disneyplus.com/browse/entity-786ef19b-e6c9-4645-9a78-5f9b365170c2"
+        }
+      ]
+    },
+    "movie:grindhouse:tt0462322": {
+      "id": "movie:grindhouse:tt0462322",
+      "imdb_id": "tt0462322",
+      "category": "movie",
+      "it_title": "Grindhouse",
+      "orig_title": "Grindhouse",
+      "year": 2007,
+      "cast": "Kurt Russell, Rose McGowan",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjA0MzExNzc3MV5BMl5BanBnXkFtZTcwODAxMzM0MQ@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0462322",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "1bWvvtn3M1g",
+          "video_title": "MovieBlog- 44: Recensione Grindhouse",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Grindhouse"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "yhu0BwmsojA",
+          "video_title": "Le Recensioni di Frusciante - Tarantino",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "Quentin Tarantino, Robert Rodríguez",
+      "it_flatrate": []
+    },
+    "movie:kill bill - volume 2:tt0378194": {
+      "id": "movie:kill bill - volume 2:tt0378194",
+      "imdb_id": "tt0378194",
+      "category": "movie",
+      "it_title": "Kill Bill - Volume 2",
+      "orig_title": "Kill Bill: Vol. 2",
+      "year": 2004,
+      "director": "Quentin Tarantino",
+      "cast": "Uma Thurman, David Carradine",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2FiNzhiZTctNzU1Mi00NDkwLWExNDMtZTg0MjYyNzhkNWNkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8ba4f8c-f02e-1280-1ace-8dc311053cfc"
+        }
+      ],
+      "it_flatrate": [
+        {
+          "source": "disneyplus",
+          "name": "Disney Plus",
+          "link": "https://www.disneyplus.com/browse/entity-d79041c1-dd27-42d5-ac13-1fad14f8d5e8"
+        },
+        {
+          "source": "amazonlionsgateplus",
+          "name": "Lionsgate+ Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8ba4f8c-f02e-1280-1ace-8dc311053cfc"
+        }
+      ],
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_kill-bill-volume-2-2004",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/kill-bill-volume-2-2004",
+          "mentioned_as": "Kill Bill, Volume 2"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "yhu0BwmsojA",
+          "video_title": "Le Recensioni di Frusciante - Tarantino",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0378194",
+      "watchnow_checked": true
+    },
+    "movie:il principe cerca moglie:tt0094898": {
+      "id": "movie:il principe cerca moglie:tt0094898",
+      "imdb_id": "tt0094898",
+      "category": "movie",
+      "it_title": "Il principe cerca moglie",
+      "orig_title": "Coming to America",
+      "year": 1988,
+      "director": "John Landis",
+      "cast": "Eddie Murphy, Paul Bates",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDY1N2RiYWMtMTNmMy00MWQzLTlkYzAtYzRlZmM5OGZhMjUwXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [
+        {
+          "source": "skygo",
+          "name": "Sky Go",
+          "link": "https://skygo.sky.it/"
+        },
+        {
+          "source": "nowtv",
+          "name": "Now TV",
+          "link": "https://www.nowtv.it/watch/asset/il-principe-cerca-moglie/R_609385_HD"
+        },
+        {
+          "source": "amazoninfinity",
+          "name": "Infinity Selection Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dca9f666-95fa-ebb6-8a4f-03d969ed490c"
+        }
+      ],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_comingtoamerica_1988",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro980.html",
+          "mentioned_as": "Coming to America"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "a7x_u_G3xLI",
+          "video_title": "Le Recensioni di Frusciante - Landis",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0094898",
+      "watchnow_checked": true
+    },
     "movie:la bella e la bestia:tt0101414": {
       "id": "movie:la bella e la bestia:tt0101414",
       "imdb_id": "tt0101414",
@@ -159662,36 +160370,6 @@
       ],
       "director": "Bruce Robinson",
       "it_flatrate": []
-    },
-    "movie:un lupo mannaro americano a londra:tt0082010": {
-      "id": "movie:un lupo mannaro americano a londra:tt0082010",
-      "imdb_id": "tt0082010",
-      "category": "movie",
-      "it_title": "Un lupo mannaro americano a Londra",
-      "orig_title": "An American Werewolf in London",
-      "year": 1981,
-      "cast": "David Naughton, Jenny Agutter",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOWYyNmMwMTUtZjE2OC00YWQzLWJmMzctNzhmMDI1OTQwNzdhXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0082010",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "JMndI1zNZyM",
-          "video_title": "Patreon: Un lupo mannaro americano a Londra (1981) di John Landis - Minirece richiesta da Rosi98",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "John Landis",
-      "it_flatrate": [
-        {
-          "source": "amazonlionsgateplus",
-          "name": "Lionsgate+ Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d855f8a1-fe4f-4a53-9786-d8b4f938813c"
-        }
-      ]
     },
     "movie:troppo cattivi:tt8115900": {
       "id": "movie:troppo cattivi:tt8115900",
@@ -180601,30 +181279,6 @@
       "director": "Tommy Lee Wallace",
       "it_flatrate": []
     },
-    "movie:spie come noi:tt0090056": {
-      "id": "movie:spie come noi:tt0090056",
-      "imdb_id": "tt0090056",
-      "category": "movie",
-      "it_title": "Spie come noi",
-      "orig_title": "Spies Like Us",
-      "year": 1985,
-      "cast": "Chevy Chase, Dan Aykroyd",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTA1NzQ1ZTUtNDdjZS00OTk1LWE2ZjUtNTRkODIyYzBmODljXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0090056",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "DFqf0WcquAQ",
-          "video_title": "Patreon: Spie come noi (1985) di John Landis - Minirece richiesta da Turbo, Sn@ck Plissken",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "John Landis",
-      "it_flatrate": []
-    },
     "movie:le mele di adamo:tt0418455": {
       "id": "movie:le mele di adamo:tt0418455",
       "imdb_id": "tt0418455",
@@ -180848,41 +181502,6 @@
           "source": "plex",
           "name": "Plex",
           "link": "https://watch.plex.tv/movie/a-chinese-ghost-story-1987?autoplay=1&utm_content=5d77685c7e9a3c0020c71995&utm_medium=deeplink&utm_source=justWatch-v2-catalog"
-        }
-      ]
-    },
-    "movie:body bags - corpi estranei:tt0106449": {
-      "id": "movie:body bags - corpi estranei:tt0106449",
-      "imdb_id": "tt0106449",
-      "category": "movie",
-      "it_title": "Body Bags - Corpi estranei",
-      "orig_title": "Body Bags",
-      "year": 1993,
-      "cast": "John Carpenter, Tom Arnold",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTA2N2E1MjMtN2IyZi00OWFmLTkwMmMtY2E0ZTY0YzVjOTU1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0106449",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "TZx7UCP0F6E",
-          "video_title": "Patreon: Body Bags (1993) di John Carpenter, Tobe Hooper - Mini richiesta da Chips dedicata a bro94",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "John Carpenter, Tobe Hooper",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.34bb57cc-a5ba-56ba-f76b-1c476d339c2e"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.34bb57cc-a5ba-56ba-f76b-1c476d339c2e"
         }
       ]
     },
@@ -183071,36 +183690,6 @@
         }
       ]
     },
-    "movie:fog:tt0080749": {
-      "id": "movie:fog:tt0080749",
-      "imdb_id": "tt0080749",
-      "category": "movie",
-      "it_title": "Fog",
-      "orig_title": "The Fog",
-      "year": 1980,
-      "cast": "Adrienne Barbeau, Jamie Lee Curtis",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWVlMmM5YmMtZGJkYy00ODgxLTgyNTctYzM2MTYwZDRkYTJmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0080749",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "wH3aAWyslyQ",
-          "video_title": "Patreon: Fog (1980) di John Carpenter - Minirece richiesta da BlueWitch",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "John Carpenter",
-      "it_flatrate": [
-        {
-          "source": "amazonthefilmclub",
-          "name": "The Film Club Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.830177c8-e2ae-4743-af6f-134e8a432f98"
-        }
-      ]
-    },
     "movie:cane bianco:tt0084899": {
       "id": "movie:cane bianco:tt0084899",
       "imdb_id": "tt0084899",
@@ -183413,36 +184002,6 @@
         }
       ]
     },
-    "movie:villaggio dei dannati:tt0114852": {
-      "id": "movie:villaggio dei dannati:tt0114852",
-      "imdb_id": "tt0114852",
-      "category": "movie",
-      "it_title": "Villaggio dei dannati",
-      "orig_title": "Village of the Damned",
-      "year": 1995,
-      "cast": "Christopher Reeve, Kirstie Alley",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjU0ZDMyOTgtNWU0YS00MjFmLWJjOTEtYjViMDI1NWUyMGE5XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/325983592"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0114852",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "AyJF8St0GPg",
-          "video_title": "Patreon: Villaggio dei dannati (1995) di John Carpenter - Mini richiesta da Milva dedicata a Renato",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "John Carpenter",
-      "it_flatrate": []
-    },
     "movie:tutto quella notte:tt0092513": {
       "id": "movie:tutto quella notte:tt0092513",
       "imdb_id": "tt0092513",
@@ -183736,41 +184295,6 @@
         }
       ],
       "director": "Francesco Nuti",
-      "it_flatrate": []
-    },
-    "movie:the ward - il reparto:tt1369706": {
-      "id": "movie:the ward - il reparto:tt1369706",
-      "imdb_id": "tt1369706",
-      "category": "movie",
-      "it_title": "The Ward - Il reparto",
-      "orig_title": "The Ward",
-      "year": 2010,
-      "cast": "Amber Heard, Mamie Gummer",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY3NDE3NzQxNV5BMl5BanBnXkFtZTcwMjYxMzI1NQ@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "home_of_horror_amazon_channel",
-          "name": "Home of Horror (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/327672933"
-        },
-        {
-          "source": "justwatch_tv",
-          "name": "Justwatch Tv",
-          "link": "https://watchnow.trakt.tv/watchnow/327672938"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1369706",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "TrtvErPOAYM",
-          "video_title": "Patreon: The Ward (2010) di John Carpenter - Minirece richiesta da HaHaHa",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "John Carpenter",
       "it_flatrate": []
     },
     "movie:occhi di laura mars:tt0077530": {
@@ -185085,57 +185609,6 @@
           "source": "netflix",
           "name": "Netflix",
           "link": "https://www.netflix.com/title/70045021"
-        }
-      ]
-    },
-    "movie:il signore del male:tt0093777": {
-      "id": "movie:il signore del male:tt0093777",
-      "imdb_id": "tt0093777",
-      "category": "movie",
-      "it_title": "Il Signore del Male",
-      "orig_title": "Prince of Darkness",
-      "year": 1987,
-      "cast": "Donald Pleasence, Lisa Blount",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDYwOThiMDgtMjMyNC00ODY2LTkwNDMtZjJlNWJiN2IyNDliXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "canal_plus",
-          "name": "Canal+",
-          "link": "https://watchnow.trakt.tv/watchnow/325879498"
-        },
-        {
-          "source": "home_of_horror_amazon_channel",
-          "name": "Home of Horror (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/325879499"
-        },
-        {
-          "source": "justwatch_tv",
-          "name": "Justwatch Tv",
-          "link": "https://watchnow.trakt.tv/watchnow/325879497"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0093777",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "xwPKl12p6Ag",
-          "video_title": "Patreon: Il Signore del Male (1987) di John Carpenter - Richiesta da Salvatorix dedicata a Bendetta",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "John Carpenter",
-      "it_flatrate": [
-        {
-          "source": "amazonrarovideo",
-          "name": "Raro Video Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ca79884-5671-4370-9a9b-f3c1a7c3cd92"
-        },
-        {
-          "source": "amazonthefilmclub",
-          "name": "The Film Club Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ca79884-5671-4370-9a9b-f3c1a7c3cd92"
         }
       ]
     },
@@ -192857,53 +193330,6 @@
         }
       ]
     },
-    "movie:a prova di morte:tt1028528": {
-      "id": "movie:a prova di morte:tt1028528",
-      "imdb_id": "tt1028528",
-      "category": "movie",
-      "it_title": "A prova di morte",
-      "orig_title": "Death Proof",
-      "year": 2007,
-      "cast": "Kurt Russell, Zoë Bell",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjRlOTM0OTktZTBjNi00ZjZiLWJkMzktMmU2ZDBkMTQxN2FmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "blue_tv",
-          "name": "blue TV",
-          "link": "https://watchnow.trakt.tv/watchnow/324048361"
-        },
-        {
-          "source": "lionsgate_plus_amazon_channels",
-          "name": "Lionsgate+ (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/324048363"
-        },
-        {
-          "source": "sky",
-          "name": "Sky",
-          "link": "https://watchnow.trakt.tv/watchnow/324048362"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1028528",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "HZW6MypKuZE",
-          "video_title": "Patreon: A prova di morte (2007) di Quentin Tarantino - Minirece richiesta da Alessandro Vaja",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "A prova di morte"
-        }
-      ],
-      "director": "Quentin Tarantino",
-      "it_flatrate": [
-        {
-          "source": "amazonlionsgateplus",
-          "name": "Lionsgate+ Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3d3f732c-cd36-44ba-95af-b8d2d59135a4"
-        }
-      ]
-    },
     "movie:il seme della violenza:tt0047885": {
       "id": "movie:il seme della violenza:tt0047885",
       "imdb_id": "tt0047885",
@@ -196493,31 +196919,6 @@
       "director": "Robert Lieberman",
       "it_flatrate": []
     },
-    "movie:il seme della follia:tt0113409": {
-      "id": "movie:il seme della follia:tt0113409",
-      "imdb_id": "tt0113409",
-      "category": "movie",
-      "it_title": "Il seme della follia",
-      "orig_title": "In the Mouth of Madness",
-      "year": 1994,
-      "cast": "Sam Neill, Jürgen Prochnow",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmE2OTY3MWMtNTY5ZS00MGFhLWFhYzAtZWQ3MGMyY2M5MDRjXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0113409",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "3bFqbTO6W3Q",
-          "video_title": "Patreon: Il seme della follia (1994) di J. Carpenter - Richiesta da Monkeyd Luffy dedicata a Michele",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Il seme della follia"
-        }
-      ],
-      "director": "John Carpenter",
-      "it_flatrate": []
-    },
     "movie:la notte dell' aquila:tt0074452": {
       "id": "movie:la notte dell' aquila:tt0074452",
       "imdb_id": "tt0074452",
@@ -197851,43 +198252,6 @@
           "source": "plex",
           "name": "Plex",
           "link": "https://watch.plex.tv/movie/multiple-maniacs-1970?autoplay=1&utm_content=5d9f3556d5fd3f001ee16790&utm_medium=deeplink&utm_source=justWatch-v2-catalog"
-        }
-      ]
-    },
-    "movie:grosso guaio a chinatown:tt0090728": {
-      "id": "movie:grosso guaio a chinatown:tt0090728",
-      "imdb_id": "tt0090728",
-      "category": "movie",
-      "it_title": "Grosso guaio a Chinatown",
-      "orig_title": "Big Trouble in Little China",
-      "year": 1986,
-      "cast": "Kurt Russell, Kim Cattrall",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWNjZDQyMjUtZDEzZC00OThhLTg1NWItOTQ1MWI3ODBlODcyXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/324217342"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0090728",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "oSO5v8iiMmM",
-          "video_title": "Patreon: Grosso guaio a Chinatown (1986) di J.Carpenter - Da Luca Cerlini a Chiara Crescini",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Grosso guaio a Chinatown"
-        }
-      ],
-      "director": "John Carpenter",
-      "it_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-786ef19b-e6c9-4645-9a78-5f9b365170c2"
         }
       ]
     },
@@ -217804,31 +218168,6 @@
         }
       ]
     },
-    "movie:grindhouse:tt0462322": {
-      "id": "movie:grindhouse:tt0462322",
-      "imdb_id": "tt0462322",
-      "category": "movie",
-      "it_title": "Grindhouse",
-      "orig_title": "Grindhouse",
-      "year": 2007,
-      "cast": "Kurt Russell, Rose McGowan",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjA0MzExNzc3MV5BMl5BanBnXkFtZTcwODAxMzM0MQ@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0462322",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "1bWvvtn3M1g",
-          "video_title": "MovieBlog- 44: Recensione Grindhouse",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Grindhouse"
-        }
-      ],
-      "director": "Quentin Tarantino, Robert Rodríguez",
-      "it_flatrate": []
-    },
     "movie:happy family:tt1455810": {
       "id": "movie:happy family:tt1455810",
       "imdb_id": "tt1455810",
@@ -232301,50 +232640,6 @@
         }
       ],
       "external_url": "https://app.trakt.tv/movies/tt0377031",
-      "watchnow_checked": true
-    },
-    "movie:kill bill - volume 2:tt0378194": {
-      "id": "movie:kill bill - volume 2:tt0378194",
-      "imdb_id": "tt0378194",
-      "category": "movie",
-      "it_title": "Kill Bill - Volume 2",
-      "orig_title": "Kill Bill: Vol. 2",
-      "year": 2004,
-      "director": "Quentin Tarantino",
-      "cast": "Uma Thurman, David Carradine",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2FiNzhiZTctNzU1Mi00NDkwLWExNDMtZTg0MjYyNzhkNWNkXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8ba4f8c-f02e-1280-1ace-8dc311053cfc"
-        }
-      ],
-      "it_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-d79041c1-dd27-42d5-ac13-1fad14f8d5e8"
-        },
-        {
-          "source": "amazonlionsgateplus",
-          "name": "Lionsgate+ Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8ba4f8c-f02e-1280-1ace-8dc311053cfc"
-        }
-      ],
-      "recommendations": [
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_kill-bill-volume-2-2004",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/kill-bill-volume-2-2004",
-          "mentioned_as": "Kill Bill, Volume 2"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0378194",
       "watchnow_checked": true
     },
     "movie:maiden voyage:tt0397524": {
@@ -269836,49 +270131,6 @@
         }
       ],
       "external_url": "https://app.trakt.tv/movies/tt0091495",
-      "watchnow_checked": true
-    },
-    "movie:il principe cerca moglie:tt0094898": {
-      "id": "movie:il principe cerca moglie:tt0094898",
-      "imdb_id": "tt0094898",
-      "category": "movie",
-      "it_title": "Il principe cerca moglie",
-      "orig_title": "Coming to America",
-      "year": 1988,
-      "director": "John Landis",
-      "cast": "Eddie Murphy, Paul Bates",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDY1N2RiYWMtMTNmMy00MWQzLTlkYzAtYzRlZmM5OGZhMjUwXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "it_flatrate": [
-        {
-          "source": "skygo",
-          "name": "Sky Go",
-          "link": "https://skygo.sky.it/"
-        },
-        {
-          "source": "nowtv",
-          "name": "Now TV",
-          "link": "https://www.nowtv.it/watch/asset/il-principe-cerca-moglie/R_609385_HD"
-        },
-        {
-          "source": "amazoninfinity",
-          "name": "Infinity Selection Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dca9f666-95fa-ebb6-8a4f-03d969ed490c"
-        }
-      ],
-      "recommendations": [
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_comingtoamerica_1988",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/chro980.html",
-          "mentioned_as": "Coming to America"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0094898",
       "watchnow_checked": true
     },
     "movie:una domenica in campagna:tt0088318": {
