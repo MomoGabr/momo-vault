@@ -1801,105 +1801,6 @@
         }
       ]
     },
-    "movie:alien:tt0078748": {
-      "id": "movie:alien:tt0078748",
-      "imdb_id": "tt0078748",
-      "category": "movie",
-      "it_title": "Alien",
-      "orig_title": "Alien",
-      "year": 1979,
-      "cast": "Sigourney Weaver, Tom Skerritt",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/326986303"
-        },
-        {
-          "source": "home_of_horror_amazon_channel",
-          "name": "Home of Horror (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/326986304"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0078748",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "hVy2Tf4R-kc",
-          "video_title": "Le Monografie di Frusciante: Ridley Scott (Dicembre 2018)",
-          "timestamp": "05:12",
-          "seconds": 312,
-          "mentioned_as": "Alien"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "Z1THW15a5I8",
-          "video_title": "Federico Frusciante: Le Saghe - Alien (Tutti i film della serie)",
-          "timestamp": "01:14",
-          "seconds": 74,
-          "mentioned_as": "Alien"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "8Tj2YUjVdyQ",
-          "video_title": "MovieBlog- 335: Recensione Alien (1979)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Alien"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_alien_1979",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/scott.html",
-          "mentioned_as": "Alien"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "D-LGPZgvrkM",
-          "video_title": "CULT: “ALIEN” con Frusciante, Dario Moccia e Victorlaszlo88 - parte 1",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "ALIEN"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "zqluXlwNcJ4",
-          "video_title": "Alien: Covenant Official Tralier #TalkAbout",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Alien"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "eDwNyO7m9tM",
-          "video_title": "NewsVic- 20: L'\"Alien\" di Neill Blomkamp",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Alien"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "pdXq30OcjHs",
-          "video_title": "Cult con Dario Moccia, Marra e Frusciante: Alien- parte 2",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Alien"
-        }
-      ],
-      "director": "Ridley Scott",
-      "it_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/301304168"
-        }
-      ]
-    },
     "movie:spider-man:tt0145487": {
       "id": "movie:spider-man:tt0145487",
       "imdb_id": "tt0145487",
@@ -1987,6 +1888,97 @@
           "source": "hbo_max",
           "name": "HBO Max",
           "link": "https://watchnow.trakt.tv/watchnow/301579115"
+        }
+      ]
+    },
+    "movie:alien:tt0078748": {
+      "id": "movie:alien:tt0078748",
+      "imdb_id": "tt0078748",
+      "category": "movie",
+      "it_title": "Alien",
+      "orig_title": "Alien",
+      "year": 1979,
+      "cast": "Sigourney Weaver, Tom Skerritt",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/326986303"
+        },
+        {
+          "source": "home_of_horror_amazon_channel",
+          "name": "Home of Horror (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/326986304"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0078748",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "hVy2Tf4R-kc",
+          "video_title": "Le Monografie di Frusciante: Ridley Scott (Dicembre 2018)",
+          "timestamp": "05:12",
+          "seconds": 312,
+          "mentioned_as": "Alien"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "Z1THW15a5I8",
+          "video_title": "Federico Frusciante: Le Saghe - Alien (Tutti i film della serie)",
+          "timestamp": "01:14",
+          "seconds": 74,
+          "mentioned_as": "Alien"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "8Tj2YUjVdyQ",
+          "video_title": "MovieBlog- 335: Recensione Alien (1979)",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Alien"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_alien_1979",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/scott.html",
+          "mentioned_as": "Alien"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "D-LGPZgvrkM",
+          "video_title": "CULT: “ALIEN” con Frusciante, Dario Moccia e Victorlaszlo88 - parte 1",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ALIEN"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "zqluXlwNcJ4",
+          "video_title": "Alien: Covenant Official Tralier #TalkAbout",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Alien"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "pdXq30OcjHs",
+          "video_title": "Cult con Dario Moccia, Marra e Frusciante: Alien- parte 2",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Alien"
+        }
+      ],
+      "director": "Ridley Scott",
+      "it_flatrate": [
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/301304168"
         }
       ]
     },
@@ -4736,96 +4728,6 @@
       "it_flatrate": [],
       "watchnow_checked": true
     },
-    "movie:28 anni dopo:tt10548174": {
-      "id": "movie:28 anni dopo:tt10548174",
-      "imdb_id": "tt10548174",
-      "category": "movie",
-      "it_title": "28 anni dopo",
-      "orig_title": "28 Years Later",
-      "year": 2025,
-      "cast": "Jodie Comer, Aaron Taylor-Johnson",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjgwYTI0YjctMWYzNS00MmI1LWI5YTctNmE1YjBkNDFlNWMxXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "canal_plus",
-          "name": "Canal+",
-          "link": "https://watchnow.trakt.tv/watchnow/324571960"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt10548174",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "UsKYLSkEzSw",
-          "video_title": "Federico Frusciante: Il Meglio e Peggio 2025",
-          "timestamp": "08:52:33",
-          "seconds": 31953,
-          "mentioned_as": "28 anni dopo"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "8ZFe-snr7RY",
-          "video_title": "Frusciante al Cinema: 28 anni dopo (2025) di Danny Boyle - Giugno 2025",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "28 anni dopo"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "THei1K4rtpM",
-          "video_title": "I MIGLIORI FILM DEL 2025",
-          "timestamp": "3:40:57",
-          "seconds": 13257,
-          "mentioned_as": "28 Anni Dopo"
-        },
-        {
-          "creator": "Francesco Alò",
-          "video_id": "w2uUV_PBuDs",
-          "video_title": "\"28 anni dopo\" di Danny Boyle - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "28 anni dopo"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "mu86MILT5Gk",
-          "video_title": "MovieBlog- 1060: Recensione 28 Anni Dopo- Il Tempio delle Ossa",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "28 Anni Dopo"
-        },
-        {
-          "creator": "Francesco Alò",
-          "video_id": "ZlrtuPHKE0M",
-          "video_title": "\"28 anni dopo: Il tempio delle ossa\" di Nia DaCosta - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "28 anni dopo"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "geA0uRP03FY",
-          "video_title": "MovieBlog- 1010: Recensione 28 Anni Dopo",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "28 Anni Dopo"
-        }
-      ],
-      "director": "Danny Boyle",
-      "it_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/301346490"
-        },
-        {
-          "source": "amazon_prime_video_with_ads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://watchnow.trakt.tv/watchnow/301346491"
-        }
-      ]
-    },
     "movie:dracula - l'amore perduto:tt31434030": {
       "id": "movie:dracula - l'amore perduto:tt31434030",
       "imdb_id": "tt31434030",
@@ -5520,6 +5422,88 @@
           "source": "timvision",
           "name": "Timvision",
           "link": "https://watchnow.trakt.tv/watchnow/300270995"
+        }
+      ]
+    },
+    "movie:28 anni dopo:tt10548174": {
+      "id": "movie:28 anni dopo:tt10548174",
+      "imdb_id": "tt10548174",
+      "category": "movie",
+      "it_title": "28 anni dopo",
+      "orig_title": "28 Years Later",
+      "year": 2025,
+      "cast": "Jodie Comer, Aaron Taylor-Johnson",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjgwYTI0YjctMWYzNS00MmI1LWI5YTctNmE1YjBkNDFlNWMxXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "canal_plus",
+          "name": "Canal+",
+          "link": "https://watchnow.trakt.tv/watchnow/324571960"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt10548174",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "UsKYLSkEzSw",
+          "video_title": "Federico Frusciante: Il Meglio e Peggio 2025",
+          "timestamp": "08:52:33",
+          "seconds": 31953,
+          "mentioned_as": "28 anni dopo"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "8ZFe-snr7RY",
+          "video_title": "Frusciante al Cinema: 28 anni dopo (2025) di Danny Boyle - Giugno 2025",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "28 anni dopo"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "THei1K4rtpM",
+          "video_title": "I MIGLIORI FILM DEL 2025",
+          "timestamp": "3:40:57",
+          "seconds": 13257,
+          "mentioned_as": "28 Anni Dopo"
+        },
+        {
+          "creator": "Francesco Alò",
+          "video_id": "w2uUV_PBuDs",
+          "video_title": "\"28 anni dopo\" di Danny Boyle - recensione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "28 anni dopo"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "mu86MILT5Gk",
+          "video_title": "MovieBlog- 1060: Recensione 28 Anni Dopo- Il Tempio delle Ossa",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "28 Anni Dopo"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "geA0uRP03FY",
+          "video_title": "MovieBlog- 1010: Recensione 28 Anni Dopo",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "28 Anni Dopo"
+        }
+      ],
+      "director": "Danny Boyle",
+      "it_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/301346490"
+        },
+        {
+          "source": "amazon_prime_video_with_ads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://watchnow.trakt.tv/watchnow/301346491"
         }
       ]
     },
@@ -19066,100 +19050,6 @@
         }
       ]
     },
-    "movie:pinocchio:tt8333746": {
-      "id": "movie:pinocchio:tt8333746",
-      "imdb_id": "tt8333746",
-      "category": "movie",
-      "it_title": "Pinocchio",
-      "orig_title": "Pinocchio",
-      "year": 2019,
-      "cast": "Federico Ielapi, Roberto Benigni",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BODIzZGNlMzYtYjE4ZS00NDRmLTk3NWEtYjNjNDcyNjk5YWQzXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "blue_tv",
-          "name": "blue TV",
-          "link": "https://watchnow.trakt.tv/watchnow/327955826"
-        },
-        {
-          "source": "cinu",
-          "name": "Cinu",
-          "link": "https://watchnow.trakt.tv/watchnow/327955829"
-        },
-        {
-          "source": "filmingo",
-          "name": "filmingo",
-          "link": "https://watchnow.trakt.tv/watchnow/327955828"
-        },
-        {
-          "source": "sky",
-          "name": "Sky",
-          "link": "https://watchnow.trakt.tv/watchnow/327955827"
-        },
-        {
-          "source": "filmfriend",
-          "name": "filmfriend (free)",
-          "link": "https://watchnow.trakt.tv/watchnow/327955835"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt8333746",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "8_VAoNe_s64",
-          "video_title": "Patreon: Pinocchio (2019) di Matteo Garrone - Minirece richiesta da Andrea Aste",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Pinocchio"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "4eDFA4SZGjI",
-          "video_title": "I MIGLIORI FILM DEL 2019",
-          "timestamp": "1:53:40",
-          "seconds": 6820,
-          "mentioned_as": "Pinocchio"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "VXz3ZLngXLQ",
-          "video_title": "PINOCCHIO di Garrone | RECENSIONE NO Spoiler",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "PINOCCHIO"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "4Jcsy4BDrAU",
-          "video_title": "“PINOCCHIO” di Guillermo del Toro È UN CAPOLAVORO. | recensione No Spoiler",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "PINOCCHIO"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "XLsf4j3Y3Bw",
-          "video_title": "MovieBlog- 863: Recensione Pinocchio (2022)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Pinocchio"
-        }
-      ],
-      "director": "Matteo Garrone",
-      "it_flatrate": [
-        {
-          "source": "timvision",
-          "name": "Timvision",
-          "link": "https://watchnow.trakt.tv/watchnow/305134506"
-        },
-        {
-          "source": "rai_play",
-          "name": "Rai Play",
-          "link": "https://watchnow.trakt.tv/watchnow/305134510"
-        }
-      ]
-    },
     "movie:sonachine:tt0108188": {
       "id": "movie:sonachine:tt0108188",
       "imdb_id": "tt0108188",
@@ -21078,6 +20968,92 @@
       ],
       "director": "John Landis",
       "it_flatrate": []
+    },
+    "movie:pinocchio:tt8333746": {
+      "id": "movie:pinocchio:tt8333746",
+      "imdb_id": "tt8333746",
+      "category": "movie",
+      "it_title": "Pinocchio",
+      "orig_title": "Pinocchio",
+      "year": 2019,
+      "cast": "Federico Ielapi, Roberto Benigni",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODIzZGNlMzYtYjE4ZS00NDRmLTk3NWEtYjNjNDcyNjk5YWQzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "blue_tv",
+          "name": "blue TV",
+          "link": "https://watchnow.trakt.tv/watchnow/327955826"
+        },
+        {
+          "source": "cinu",
+          "name": "Cinu",
+          "link": "https://watchnow.trakt.tv/watchnow/327955829"
+        },
+        {
+          "source": "filmingo",
+          "name": "filmingo",
+          "link": "https://watchnow.trakt.tv/watchnow/327955828"
+        },
+        {
+          "source": "sky",
+          "name": "Sky",
+          "link": "https://watchnow.trakt.tv/watchnow/327955827"
+        },
+        {
+          "source": "filmfriend",
+          "name": "filmfriend (free)",
+          "link": "https://watchnow.trakt.tv/watchnow/327955835"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt8333746",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "8_VAoNe_s64",
+          "video_title": "Patreon: Pinocchio (2019) di Matteo Garrone - Minirece richiesta da Andrea Aste",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Pinocchio"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "4eDFA4SZGjI",
+          "video_title": "I MIGLIORI FILM DEL 2019",
+          "timestamp": "1:53:40",
+          "seconds": 6820,
+          "mentioned_as": "Pinocchio"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "VXz3ZLngXLQ",
+          "video_title": "PINOCCHIO di Garrone | RECENSIONE NO Spoiler",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "PINOCCHIO"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "XLsf4j3Y3Bw",
+          "video_title": "MovieBlog- 863: Recensione Pinocchio (2022)",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Pinocchio"
+        }
+      ],
+      "director": "Matteo Garrone",
+      "it_flatrate": [
+        {
+          "source": "timvision",
+          "name": "Timvision",
+          "link": "https://watchnow.trakt.tv/watchnow/305134506"
+        },
+        {
+          "source": "rai_play",
+          "name": "Rai Play",
+          "link": "https://watchnow.trakt.tv/watchnow/305134510"
+        }
+      ]
     },
     "movie:freaks:tt0022913": {
       "id": "movie:freaks:tt0022913",
@@ -36585,62 +36561,6 @@
       "director": "Maggie Kang, Chris Appelhans",
       "it_flatrate": []
     },
-    "movie:il vendicatore tossico:tt0090190": {
-      "id": "movie:il vendicatore tossico:tt0090190",
-      "imdb_id": "tt0090190",
-      "category": "movie",
-      "it_title": "Il Vendicatore Tossico",
-      "orig_title": "The Toxic Avenger",
-      "year": 1984,
-      "cast": "Andree Maranda, Mitch Cohen",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDZjMGZjMDktOTZlNC00MTQ5LTkzY2UtZjM1MjE0NDcwNzk1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/325983641"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0090190",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "AbTBs4UAHk8",
-          "video_title": "I Consigli di Frusciante: Agosto 2018",
-          "timestamp": "14:09",
-          "seconds": 849,
-          "mentioned_as": "Il Vendicatore Tossico"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "91EtuTHqUBk",
-          "video_title": "Patreon: The Toxic Avenger - Il vendicatore tossico (1986) di Lloyd Kaufman, M. Herz - Per LisaMask",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "The Toxic Avenger - Il vendicatore tossico"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_toxicavenger_1984",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/chro980.html",
-          "mentioned_as": "The Toxic Avenger"
-        },
-        {
-          "creator": "Francesco Alò",
-          "video_id": "BhkuEgyMono",
-          "video_title": "\"The Toxic Avenger\" di Macon Blair - recensione Festa del Cinema di Roma 2025 - Grand Public",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "The Toxic Avenger"
-        }
-      ],
-      "director": "Lloyd Kaufman, Michael Herz",
-      "it_flatrate": []
-    },
     "movie:rain man - l'uomo della pioggia:tt0095953": {
       "id": "movie:rain man - l'uomo della pioggia:tt0095953",
       "imdb_id": "tt0095953",
@@ -39713,68 +39633,6 @@
       ],
       "watchnow_checked": true
     },
-    "movie:madre:tt1216496": {
-      "id": "movie:madre:tt1216496",
-      "imdb_id": "tt1216496",
-      "category": "movie",
-      "it_title": "Madre",
-      "orig_title": "Mother",
-      "year": 2009,
-      "cast": "Kim Hye-ja, Won Bin",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQzMTg0NDA1M15BMl5BanBnXkFtZTgwODUzMTE0MjE@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "filmingo",
-          "name": "filmingo",
-          "link": "https://watchnow.trakt.tv/watchnow/325846195"
-        },
-        {
-          "source": "filmfriend",
-          "name": "filmfriend (free)",
-          "link": "https://watchnow.trakt.tv/watchnow/325846199"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1216496",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "vsv_SfpMIeY",
-          "video_title": "Patreon: Madre (2009) di Bong Joon-ho - Per Inkspot, Simone95, Alrirra, Lorenzo Luzi, Leonardo Poli",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_2009_mother",
-          "external_rec_url": "https://www.scaruffi.com/director/bong.html",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "mentioned_as": "Mother"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_mother-2010",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/mother-2010",
-          "mentioned_as": "Mother"
-        },
-        {
-          "creator": "I Criticoni",
-          "video_id": "F7v_hJGF6mo",
-          "video_title": "Day 0.5: “Mother” di Strugar MITEVSKA | Criticoni a Venezia 82",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Mother"
-        }
-      ],
-      "director": "Bong Joon-ho",
-      "it_flatrate": [],
-      "watchnow_checked": true
-    },
     "movie:le iene:tt0105236": {
       "id": "movie:le iene:tt0105236",
       "imdb_id": "tt0105236",
@@ -40406,6 +40264,108 @@
           "link": "https://watchnow.trakt.tv/watchnow/302259694"
         }
       ],
+      "watchnow_checked": true
+    },
+    "movie:il vendicatore tossico:tt0090190": {
+      "id": "movie:il vendicatore tossico:tt0090190",
+      "imdb_id": "tt0090190",
+      "category": "movie",
+      "it_title": "Il Vendicatore Tossico",
+      "orig_title": "The Toxic Avenger",
+      "year": 1984,
+      "cast": "Andree Maranda, Mitch Cohen",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDZjMGZjMDktOTZlNC00MTQ5LTkzY2UtZjM1MjE0NDcwNzk1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/325983641"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0090190",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "AbTBs4UAHk8",
+          "video_title": "I Consigli di Frusciante: Agosto 2018",
+          "timestamp": "14:09",
+          "seconds": 849,
+          "mentioned_as": "Il Vendicatore Tossico"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "91EtuTHqUBk",
+          "video_title": "Patreon: The Toxic Avenger - Il vendicatore tossico (1986) di Lloyd Kaufman, M. Herz - Per LisaMask",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "The Toxic Avenger - Il vendicatore tossico"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_toxicavenger_1984",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro980.html",
+          "mentioned_as": "The Toxic Avenger"
+        }
+      ],
+      "director": "Lloyd Kaufman, Michael Herz",
+      "it_flatrate": []
+    },
+    "movie:madre:tt1216496": {
+      "id": "movie:madre:tt1216496",
+      "imdb_id": "tt1216496",
+      "category": "movie",
+      "it_title": "Madre",
+      "orig_title": "Mother",
+      "year": 2009,
+      "cast": "Kim Hye-ja, Won Bin",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQzMTg0NDA1M15BMl5BanBnXkFtZTgwODUzMTE0MjE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "filmingo",
+          "name": "filmingo",
+          "link": "https://watchnow.trakt.tv/watchnow/325846195"
+        },
+        {
+          "source": "filmfriend",
+          "name": "filmfriend (free)",
+          "link": "https://watchnow.trakt.tv/watchnow/325846199"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1216496",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "vsv_SfpMIeY",
+          "video_title": "Patreon: Madre (2009) di Bong Joon-ho - Per Inkspot, Simone95, Alrirra, Lorenzo Luzi, Leonardo Poli",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_2009_mother",
+          "external_rec_url": "https://www.scaruffi.com/director/bong.html",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "mentioned_as": "Mother"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_mother-2010",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/mother-2010",
+          "mentioned_as": "Mother"
+        }
+      ],
+      "director": "Bong Joon-ho",
+      "it_flatrate": [],
       "watchnow_checked": true
     },
     "movie:godzilla e kong - il nuovo impero:tt14539740": {
@@ -72339,57 +72299,6 @@
       "it_flatrate": [],
       "watchnow_checked": true
     },
-    "movie:il buio nella mente:tt0112769": {
-      "id": "movie:il buio nella mente:tt0112769",
-      "imdb_id": "tt0112769",
-      "category": "movie",
-      "it_title": "Il buio nella mente",
-      "orig_title": "La cérémonie",
-      "year": 1995,
-      "cast": "Isabelle Huppert, Sandrine Bonnaire",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjA1YWVhNTMtMDhiMS00ZmFkLWI5MWUtZGUxODIxNDA5OTMxXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "canal_plus",
-          "name": "Canal+",
-          "link": "https://watchnow.trakt.tv/watchnow/325957369"
-        },
-        {
-          "source": "wedotv",
-          "name": "wedotv (free)",
-          "link": "https://watchnow.trakt.tv/watchnow/325957372"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0112769",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "6cdPpJdi5DM",
-          "video_title": "I Consigli di Frusciante: Agosto 2022",
-          "timestamp": "27:07",
-          "seconds": 1627
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "ayN4qMYJrtM",
-          "video_title": "Patreon: \"Il ladro e il ciabattino\" di R. Williams - Per Federico Re Ferrè (montata fuori sincrono)",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_cerimonie_1995",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/chro990.html",
-          "mentioned_as": "La Cerimonie"
-        }
-      ],
-      "director": "Claude Chabrol",
-      "it_flatrate": []
-    },
     "movie:la storia delle principessa splendente:tt2576852": {
       "id": "movie:la storia delle principessa splendente:tt2576852",
       "imdb_id": "tt2576852",
@@ -74980,71 +74889,6 @@
       ],
       "watchnow_checked": true
     },
-    "movie:love:tt30810792": {
-      "id": "movie:love:tt30810792",
-      "imdb_id": "tt30810792",
-      "category": "movie",
-      "it_title": "Love",
-      "orig_title": "Love",
-      "year": 2024,
-      "cast": "Andrea Bræin Hovig, Tayo Cittadella Jacobsen",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzhlZDA1MGMtYjA1Ny00Mzc0LWE5Y2UtOWY5MTdlMDhmOTU3XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "filmingo",
-          "name": "filmingo",
-          "link": "https://www.filmingo.ch/de/films/2066-love-oslo-stories"
-        },
-        {
-          "source": "cinu",
-          "name": "Cinu",
-          "link": "https://www.cinu.ch/de-ch/film/love-oslo-stories.html"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt30810792",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "WS1BSCWLuic",
-          "video_title": "\"Love\" di Dag Johan Haugerud - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Love"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_love-norwegian-film-review-2025",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/love-norwegian-film-review-2025",
-          "mentioned_as": "Love"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "WSD2udNhkOY",
-          "video_title": "MA QUESTO È un FILM PORNOGRAFICO!1!!! -  \"LOVE” di GASPAR NOE’ | film su Netflix DA VEDERE",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "LOVE"
-        }
-      ],
-      "director": "Dag Johan Haugerud",
-      "it_flatrate": [
-        {
-          "source": "mubi",
-          "name": "MUBI",
-          "link": "https://mubi.com/films/kjaerlighet-sex-drommer-kjaerlighet"
-        },
-        {
-          "source": "amazonmubi",
-          "name": "MUBI Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4f6ad755-83a2-4524-9f3f-ccf09e51af38"
-        }
-      ],
-      "watchnow_checked": true
-    },
     "movie:toy story 5:tt29355505": {
       "id": "movie:toy story 5:tt29355505",
       "imdb_id": "tt29355505",
@@ -75616,114 +75460,6 @@
       "director": "Antoine Fuqua",
       "it_flatrate": []
     },
-    "movie:madre:tt9234450": {
-      "id": "movie:madre:tt9234450",
-      "imdb_id": "tt9234450",
-      "category": "movie",
-      "it_title": "Madre",
-      "orig_title": "Mother",
-      "year": 2019,
-      "director": "Rodrigo Sorogoyen",
-      "cast": "Marta Nieto, Jules Porier",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZWE2MTZlODQtNWM4ZS00N2FiLWIwZTktMzlkNWQxNmNlYWMyXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "it_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_mother_2019",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/best19.html",
-          "mentioned_as": "Mother"
-        },
-        {
-          "creator": "Francesco Alò",
-          "video_id": "HNKSEe4B-kI",
-          "video_title": "\"Mother\" di Teona S. Mitevska - recensione Mostra del Cinema di Venezia 2025 edizione 82 - Orizzonti",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Mother"
-        },
-        {
-          "creator": "I Criticoni",
-          "video_id": "F7v_hJGF6mo",
-          "video_title": "Day 0.5: “Mother” di Strugar MITEVSKA | Criticoni a Venezia 82",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Mother"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt9234450",
-      "watchnow_checked": true
-    },
-    "movie:dreams - sex love:tt30810787": {
-      "id": "movie:dreams - sex love:tt30810787",
-      "imdb_id": "tt30810787",
-      "category": "movie",
-      "it_title": "Dreams - Sex Love",
-      "orig_title": "Dreams",
-      "year": 2024,
-      "director": "Dag Johan Haugerud",
-      "cast": "Ella Øverbye, Selome Emnetu",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGYxMDVjNGUtNGI0Zi00MjRiLThiOGEtZDVkMjQ4NzdlMTM3XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "filmingo",
-          "name": "filmingo",
-          "link": "https://www.filmingo.ch/de/films/2067-dreams-oslo-stories"
-        },
-        {
-          "source": "cinu",
-          "name": "Cinu",
-          "link": "https://www.cinu.ch/de-ch/film/dreams-oslo-stories.html"
-        }
-      ],
-      "it_flatrate": [
-        {
-          "source": "mubi",
-          "name": "MUBI",
-          "link": "https://mubi.com/films/dreams-2024"
-        },
-        {
-          "source": "amazonmubi",
-          "name": "MUBI Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.52c4f88a-638c-4e65-b8ad-5fd4f79a2175"
-        }
-      ],
-      "recommendations": [
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_dreamssexlove_2024",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/best24.html",
-          "mentioned_as": "Dreams - Sex Love"
-        },
-        {
-          "creator": "Francesco Alò",
-          "video_id": "taztUkyLHEo",
-          "video_title": "\"Dreams\" di Michel Franco - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Dreams"
-        },
-        {
-          "creator": "Francesco Alò",
-          "video_id": "C8O96cr9bJ4",
-          "video_title": "\"Dreams\" di Dag Johan Haugerud - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Dreams"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt30810787",
-      "watchnow_checked": true
-    },
     "movie:bucking fastard:tt35670577": {
       "id": "movie:bucking fastard:tt35670577",
       "imdb_id": "tt35670577",
@@ -76136,54 +75872,6 @@
       "external_url": "https://app.trakt.tv/movies/tt0117407",
       "watchnow_checked": true
     },
-    "movie:biancaneve e i sette nani:tt0029583": {
-      "id": "movie:biancaneve e i sette nani:tt0029583",
-      "imdb_id": "tt0029583",
-      "category": "movie",
-      "it_title": "Biancaneve e i sette nani",
-      "orig_title": "Snow White and the Seven Dwarfs",
-      "year": 1937,
-      "cast": "Rachel Zegler, Emilia Faucher",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2UwOGUxMzEtMzEyZi00NjEwLTkxOTMtYTljOWEzYjYyMWNjXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/324576092"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0029583",
-      "recommendations": [
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_snow-white-movie-review-2025",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/snow-white-movie-review-2025",
-          "mentioned_as": "Snow White"
-        },
-        {
-          "creator": "Francesco Alò",
-          "video_id": "2QCvx0WYoQA",
-          "video_title": "\"Biancaneve\" di Marc Webb - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Biancaneve"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "6_DD4VhJoGk",
-          "video_title": "CULT: “BIANCANEVE” (1937) con Frusciante, Victorlaszlo88 e Dario Moccia - parte 2",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "BIANCANEVE"
-        }
-      ],
-      "director": "David Hand, David Dodd Hand",
-      "it_flatrate": []
-    },
     "movie:le streghe:tt0805647": {
       "id": "movie:le streghe:tt0805647",
       "imdb_id": "tt0805647",
@@ -76283,58 +75971,6 @@
           "link": "https://www.disneyplus.com/browse/entity-3533ca7b-e187-4bf5-a65c-7c903cd2d4ad"
         }
       ]
-    },
-    "movie:orphan:tt1148204": {
-      "id": "movie:orphan:tt1148204",
-      "imdb_id": "tt1148204",
-      "category": "movie",
-      "it_title": "Orphan",
-      "orig_title": "Orphan",
-      "year": 2009,
-      "cast": "Vera Farmiga, Peter Sarsgaard",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjc1Y2M4ZmQtMTA2NC00OTUwLTgxZDMtZDJmNTk1OTU4Njk4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://watchnow.trakt.tv/watchnow/324165908"
-        },
-        {
-          "source": "paramount_plus",
-          "name": "Paramount+",
-          "link": "https://watchnow.trakt.tv/watchnow/329789227"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1148204",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "u9BuKu7IQ60",
-          "video_title": "Patreon: Orphan (2009) di Jaume Collet-Serra - Minirece richiesta da Hiroki dedicata Alu87",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_orphan-2009",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/orphan-2009",
-          "mentioned_as": "Orphan"
-        },
-        {
-          "creator": "Francesco Alò",
-          "video_id": "2h-KZ89SbuQ",
-          "video_title": "\"Orphan\" di László Nemes - recensione Mostra del Cinema di Venezia 2025 edizione 82 - Concorso",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Orphan"
-        }
-      ],
-      "director": "Jaume Collet-Serra",
-      "it_flatrate": []
     },
     "movie:bumblebee:tt4701182": {
       "id": "movie:bumblebee:tt4701182",
@@ -78449,64 +78085,6 @@
         }
       ]
     },
-    "movie:look back:tt31711040": {
-      "id": "movie:look back:tt31711040",
-      "imdb_id": "tt31711040",
-      "category": "movie",
-      "it_title": "Look Back",
-      "orig_title": "Look Back",
-      "year": 2024,
-      "cast": "Yumi Kawai, Mizuki Yoshida",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTVhN2ZlNmUtZTY1Mi00OTUwLWIxNzEtYzgwZjg2ZTlhNWU1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/324220422"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt31711040",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "GdVXZbHnonA",
-          "video_title": "Federico Frusciante: Il Meglio e Peggio 2024",
-          "timestamp": "06:50:09",
-          "seconds": 24609,
-          "mentioned_as": "Look Back"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "fODi5qZ0-3g",
-          "video_title": "Patreon: Look Back (2024) di Kiyotaka Oshiyama - Minirece richiesta da Bucive, Alessandro Zamboni",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Look Back"
-        },
-        {
-          "creator": "Francesco Alò",
-          "video_id": "zKGbUC7PIbU",
-          "video_title": "\"Look Back\" di Hirokazu Kore-eda - recensione dalla Mostra del Cinema di Venezia 2026 - Concorso",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Look Back"
-        }
-      ],
-      "director": "Kiyotaka Oshiyama",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff8e068a-bc29-4b2a-bed0-23f65f7d85b1"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff8e068a-bc29-4b2a-bed0-23f65f7d85b1"
-        }
-      ]
-    },
     "movie:cigarette burns - incubo mortale:tt0643109": {
       "id": "movie:cigarette burns - incubo mortale:tt0643109",
       "imdb_id": "tt0643109",
@@ -78950,6 +78528,298 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0119396",
       "watchnow_checked": true
+    },
+    "movie:il buio nella mente:tt0112769": {
+      "id": "movie:il buio nella mente:tt0112769",
+      "imdb_id": "tt0112769",
+      "category": "movie",
+      "it_title": "Il buio nella mente",
+      "orig_title": "La cérémonie",
+      "year": 1995,
+      "cast": "Isabelle Huppert, Sandrine Bonnaire",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjA1YWVhNTMtMDhiMS00ZmFkLWI5MWUtZGUxODIxNDA5OTMxXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "canal_plus",
+          "name": "Canal+",
+          "link": "https://watchnow.trakt.tv/watchnow/325957369"
+        },
+        {
+          "source": "wedotv",
+          "name": "wedotv (free)",
+          "link": "https://watchnow.trakt.tv/watchnow/325957372"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0112769",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "6cdPpJdi5DM",
+          "video_title": "I Consigli di Frusciante: Agosto 2022",
+          "timestamp": "27:07",
+          "seconds": 1627
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_cerimonie_1995",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro990.html",
+          "mentioned_as": "La Cerimonie"
+        }
+      ],
+      "director": "Claude Chabrol",
+      "it_flatrate": []
+    },
+    "movie:love:tt30810792": {
+      "id": "movie:love:tt30810792",
+      "imdb_id": "tt30810792",
+      "category": "movie",
+      "it_title": "Love",
+      "orig_title": "Love",
+      "year": 2024,
+      "cast": "Andrea Bræin Hovig, Tayo Cittadella Jacobsen",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzhlZDA1MGMtYjA1Ny00Mzc0LWE5Y2UtOWY5MTdlMDhmOTU3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "filmingo",
+          "name": "filmingo",
+          "link": "https://www.filmingo.ch/de/films/2066-love-oslo-stories"
+        },
+        {
+          "source": "cinu",
+          "name": "Cinu",
+          "link": "https://www.cinu.ch/de-ch/film/love-oslo-stories.html"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt30810792",
+      "recommendations": [
+        {
+          "creator": "Francesco Alò",
+          "video_id": "WS1BSCWLuic",
+          "video_title": "\"Love\" di Dag Johan Haugerud - recensione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Love"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_love-norwegian-film-review-2025",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/love-norwegian-film-review-2025",
+          "mentioned_as": "Love"
+        }
+      ],
+      "director": "Dag Johan Haugerud",
+      "it_flatrate": [
+        {
+          "source": "mubi",
+          "name": "MUBI",
+          "link": "https://mubi.com/films/kjaerlighet-sex-drommer-kjaerlighet"
+        },
+        {
+          "source": "amazonmubi",
+          "name": "MUBI Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4f6ad755-83a2-4524-9f3f-ccf09e51af38"
+        }
+      ],
+      "watchnow_checked": true
+    },
+    "movie:dreams - sex love:tt30810787": {
+      "id": "movie:dreams - sex love:tt30810787",
+      "imdb_id": "tt30810787",
+      "category": "movie",
+      "it_title": "Dreams - Sex Love",
+      "orig_title": "Dreams",
+      "year": 2024,
+      "director": "Dag Johan Haugerud",
+      "cast": "Ella Øverbye, Selome Emnetu",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGYxMDVjNGUtNGI0Zi00MjRiLThiOGEtZDVkMjQ4NzdlMTM3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "filmingo",
+          "name": "filmingo",
+          "link": "https://www.filmingo.ch/de/films/2067-dreams-oslo-stories"
+        },
+        {
+          "source": "cinu",
+          "name": "Cinu",
+          "link": "https://www.cinu.ch/de-ch/film/dreams-oslo-stories.html"
+        }
+      ],
+      "it_flatrate": [
+        {
+          "source": "mubi",
+          "name": "MUBI",
+          "link": "https://mubi.com/films/dreams-2024"
+        },
+        {
+          "source": "amazonmubi",
+          "name": "MUBI Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.52c4f88a-638c-4e65-b8ad-5fd4f79a2175"
+        }
+      ],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_dreamssexlove_2024",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best24.html",
+          "mentioned_as": "Dreams - Sex Love"
+        },
+        {
+          "creator": "Francesco Alò",
+          "video_id": "C8O96cr9bJ4",
+          "video_title": "\"Dreams\" di Dag Johan Haugerud - recensione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Dreams"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt30810787",
+      "watchnow_checked": true
+    },
+    "movie:biancaneve e i sette nani:tt0029583": {
+      "id": "movie:biancaneve e i sette nani:tt0029583",
+      "imdb_id": "tt0029583",
+      "category": "movie",
+      "it_title": "Biancaneve e i sette nani",
+      "orig_title": "Snow White and the Seven Dwarfs",
+      "year": 1937,
+      "cast": "Rachel Zegler, Emilia Faucher",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2UwOGUxMzEtMzEyZi00NjEwLTkxOTMtYTljOWEzYjYyMWNjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/324576092"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0029583",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_snow-white-movie-review-2025",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/snow-white-movie-review-2025",
+          "mentioned_as": "Snow White"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "6_DD4VhJoGk",
+          "video_title": "CULT: “BIANCANEVE” (1937) con Frusciante, Victorlaszlo88 e Dario Moccia - parte 2",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "BIANCANEVE"
+        }
+      ],
+      "director": "David Hand, David Dodd Hand",
+      "it_flatrate": []
+    },
+    "movie:orphan:tt1148204": {
+      "id": "movie:orphan:tt1148204",
+      "imdb_id": "tt1148204",
+      "category": "movie",
+      "it_title": "Orphan",
+      "orig_title": "Orphan",
+      "year": 2009,
+      "cast": "Vera Farmiga, Peter Sarsgaard",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjc1Y2M4ZmQtMTA2NC00OTUwLTgxZDMtZDJmNTk1OTU4Njk4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://watchnow.trakt.tv/watchnow/324165908"
+        },
+        {
+          "source": "paramount_plus",
+          "name": "Paramount+",
+          "link": "https://watchnow.trakt.tv/watchnow/329789227"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1148204",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "u9BuKu7IQ60",
+          "video_title": "Patreon: Orphan (2009) di Jaume Collet-Serra - Minirece richiesta da Hiroki dedicata Alu87",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_orphan-2009",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/orphan-2009",
+          "mentioned_as": "Orphan"
+        }
+      ],
+      "director": "Jaume Collet-Serra",
+      "it_flatrate": []
+    },
+    "movie:look back:tt31711040": {
+      "id": "movie:look back:tt31711040",
+      "imdb_id": "tt31711040",
+      "category": "movie",
+      "it_title": "Look Back",
+      "orig_title": "Look Back",
+      "year": 2024,
+      "cast": "Yumi Kawai, Mizuki Yoshida",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTVhN2ZlNmUtZTY1Mi00OTUwLWIxNzEtYzgwZjg2ZTlhNWU1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/324220422"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt31711040",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "GdVXZbHnonA",
+          "video_title": "Federico Frusciante: Il Meglio e Peggio 2024",
+          "timestamp": "06:50:09",
+          "seconds": 24609,
+          "mentioned_as": "Look Back"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "fODi5qZ0-3g",
+          "video_title": "Patreon: Look Back (2024) di Kiyotaka Oshiyama - Minirece richiesta da Bucive, Alessandro Zamboni",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Look Back"
+        }
+      ],
+      "director": "Kiyotaka Oshiyama",
+      "it_flatrate": [
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff8e068a-bc29-4b2a-bed0-23f65f7d85b1"
+        },
+        {
+          "source": "amazonprimevideowithads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff8e068a-bc29-4b2a-bed0-23f65f7d85b1"
+        }
+      ]
     },
     "movie:il re leone:tt0110357": {
       "id": "movie:il re leone:tt0110357",
@@ -109842,45 +109712,6 @@
       "director": "Sylvain Chomet",
       "it_flatrate": []
     },
-    "movie:dinosauri (dingo):tt0130623": {
-      "id": "movie:dinosauri (dingo):tt0130623",
-      "imdb_id": "tt0130623",
-      "category": "movie",
-      "it_title": "Dinosauri (Dingo)",
-      "orig_title": "Dinosaur",
-      "year": 2000,
-      "cast": "D.B. Sweeney, Julianna Margulies",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjFlNjFkNmUtNDRmNi00ZWIwLTg3ZjQtNTIxNmJkMjc1OTlhXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/324067017"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0130623",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "H7M7toA4G5o",
-          "video_title": "Patreon: Dinosauri (Dingo) (2000) di Roswitha Haas - Minirece richiesta da Alessandro Arena",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_dinosaur-2000",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/dinosaur-2000",
-          "mentioned_as": "Dinosaur"
-        }
-      ],
-      "director": "Ralph Zondag, Eric Leighton",
-      "it_flatrate": []
-    },
     "movie:la passione di cristo:tt0335345": {
       "id": "movie:la passione di cristo:tt0335345",
       "imdb_id": "tt0335345",
@@ -132270,7 +132101,7 @@
           "mentioned_as": "La Terra Trema"
         }
       ],
-      "director": "Franco Zeffirelli, Francesco Rosi",
+      "director": "Luchino Visconti",
       "it_flatrate": []
     },
     "movie:il deserto rosso:tt0058003": {
@@ -139646,40 +139477,6 @@
           "link": "https://watch.plex.tv/movie/day-of-wrath-1943?autoplay=1&utm_content=5d776875374a5b001fec646d&utm_medium=deeplink&utm_source=justWatch-v2-catalog"
         }
       ],
-      "watchnow_checked": true
-    },
-    "movie:the endless:tt4451458": {
-      "id": "movie:the endless:tt4451458",
-      "imdb_id": "tt4451458",
-      "category": "movie",
-      "it_title": "The Endless",
-      "orig_title": "Endless Poetry",
-      "year": 2016,
-      "cast": "Adán Jodorowsky, Brontis Jodorowsky",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmE2ODVkMGEtNmQzNS00ZDMwLTlhMzUtMTllZjgyZTM0YjExXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt4451458",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "M47ol3pK6aY",
-          "video_title": "Patreon: The Endless (2017) di Justin Benson and Aaron Moorhead - Mini  richiesta da Andrea, Bardo",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_endlesspoetry_2016",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/jodorows.html",
-          "mentioned_as": "Endless Poetry"
-        }
-      ],
-      "director": "Alejandro Jodorowsky",
-      "it_flatrate": [],
       "watchnow_checked": true
     },
     "movie:canicola:tt0290661": {
@@ -150909,41 +150706,6 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt9362930"
     },
-    "movie:luce:tt7616148": {
-      "id": "movie:luce:tt7616148",
-      "imdb_id": "tt7616148",
-      "category": "movie",
-      "it_title": "Luce",
-      "orig_title": "Luce",
-      "year": 2019,
-      "director": "Julius Onah",
-      "cast": "Naomi Watts, Octavia Spencer",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTk0MWJjNzMtOTg5Ny00YjA3LWJmZjctYmY2YjlhMzEzYTg1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "it_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_luce_2019",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/chro010.html",
-          "mentioned_as": "Luce"
-        },
-        {
-          "creator": "Francesco Alò",
-          "video_id": "rYs84BbXmWc",
-          "video_title": "\"Luce\" di Silvia Luzi e Luca Bellino - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Luce"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt7616148",
-      "watchnow_checked": true
-    },
     "movie:scomode verità:tt11891850": {
       "id": "movie:scomode verità:tt11891850",
       "imdb_id": "tt11891850",
@@ -155586,6 +155348,94 @@
         }
       ],
       "external_url": "https://app.trakt.tv/movies/tt0880502",
+      "watchnow_checked": true
+    },
+    "movie:the endless:tt3986820": {
+      "id": "movie:the endless:tt3986820",
+      "imdb_id": "tt3986820",
+      "category": "movie",
+      "it_title": "The Endless",
+      "orig_title": "The Endless",
+      "year": 2017,
+      "cast": "Adán Jodorowsky, Brontis Jodorowsky",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjA5OTI1MjgwMl5BMl5BanBnXkFtZTgwMDU2NzY2NDM@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt3986820",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "M47ol3pK6aY",
+          "video_title": "Patreon: The Endless (2017) di Justin Benson and Aaron Moorhead - Mini  richiesta da Andrea, Bardo",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_endlesspoetry_2016",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/jodorows.html",
+          "mentioned_as": "Endless Poetry"
+        }
+      ],
+      "director": "Justin Benson, Aaron Moorhead",
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:madre:tt9234450": {
+      "id": "movie:madre:tt9234450",
+      "imdb_id": "tt9234450",
+      "category": "movie",
+      "it_title": "Madre",
+      "orig_title": "Mother",
+      "year": 2019,
+      "director": "Rodrigo Sorogoyen",
+      "cast": "Marta Nieto, Jules Porier",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZWE2MTZlODQtNWM4ZS00N2FiLWIwZTktMzlkNWQxNmNlYWMyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_mother_2019",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best19.html",
+          "mentioned_as": "Mother"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt9234450",
+      "watchnow_checked": true
+    },
+    "movie:luce:tt7616148": {
+      "id": "movie:luce:tt7616148",
+      "imdb_id": "tt7616148",
+      "category": "movie",
+      "it_title": "Luce",
+      "orig_title": "Luce",
+      "year": 2019,
+      "director": "Julius Onah",
+      "cast": "Naomi Watts, Octavia Spencer",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTk0MWJjNzMtOTg5Ny00YjA3LWJmZjctYmY2YjlhMzEzYTg1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_luce_2019",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro010.html",
+          "mentioned_as": "Luce"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt7616148",
       "watchnow_checked": true
     },
     "movie:la bella e la bestia:tt0101414": {
@@ -184943,30 +184793,6 @@
       "director": "Hal Ashby",
       "it_flatrate": []
     },
-    "movie:\"cogan - killing them softly\" di a. dominik:tt1792085": {
-      "id": "movie:\"cogan - killing them softly\" di a. dominik:tt1792085",
-      "imdb_id": "tt1792085",
-      "category": "movie",
-      "it_title": "\"Cogan - Killing Them Softly\" di A. Dominik",
-      "orig_title": "In Love with Alma Cogan",
-      "year": 2012,
-      "cast": "Roger Lloyd Pack, Niamh Cusack",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzgwNTg2NDE2Ml5BMl5BanBnXkFtZTcwMjE4MDQ3OA@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt1792085",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "nA_k1to2te4",
-          "video_title": "Patreon: \"Cogan - Killing Them Softly\" di A. Dominik - Per Sergio Fratangeli, Alessandro Tripodina",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Tony Britten",
-      "it_flatrate": []
-    },
     "movie:cenerentola:tt0042332": {
       "id": "movie:cenerentola:tt0042332",
       "imdb_id": "tt0042332",
@@ -188976,30 +188802,6 @@
         }
       ],
       "director": "Terry Gilliam, Terry Jones",
-      "it_flatrate": []
-    },
-    "movie:rapunzel - l'intreccio della torre:tt1451759": {
-      "id": "movie:rapunzel - l'intreccio della torre:tt1451759",
-      "imdb_id": "tt1451759",
-      "category": "movie",
-      "it_title": "Rapunzel - L'intreccio della torre",
-      "orig_title": "Rapunzel",
-      "year": 2009,
-      "cast": "Suzanne von Borsody, Luisa Wietzorek",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjdkOGUyMGYtMTNiNi00Y2QxLWI1ZDItMmU4MzA4MDZjMzg4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt1451759",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "WwFWLWgCwEQ",
-          "video_title": "Patreon: Rapunzel - L'intreccio della torre (2010) di N.Greno/B.Howard-Mini richiesta da Andrea Aste",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Bodo Fürneisen",
       "it_flatrate": []
     },
     "movie:nell'anno del signore:tt0064718": {
@@ -212288,30 +212090,6 @@
       "director": "Laurence Olivier",
       "it_flatrate": []
     },
-    "movie:circle:tt2122313": {
-      "id": "movie:circle:tt2122313",
-      "imdb_id": "tt2122313",
-      "category": "movie",
-      "it_title": "Circle",
-      "orig_title": "The Circle",
-      "year": 2015,
-      "cast": "Josefin Asplund, Helena Engström",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQyNjM5ODE4OV5BMl5BanBnXkFtZTgwMTA3ODExNDE@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt2122313",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "xMQ7kCYlpFA",
-          "video_title": "Patreon: Circle (2015) di Aaron Hann, Mario Miscione - Minirece richiesta da Lorenzo",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Levan Akin",
-      "it_flatrate": []
-    },
     "movie:kapò:tt0052961": {
       "id": "movie:kapò:tt0052961",
       "imdb_id": "tt0052961",
@@ -219514,30 +219292,6 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0847745",
       "director": "Giovanni Veronesi"
-    },
-    "movie:corbari:tt0065579": {
-      "id": "movie:corbari:tt0065579",
-      "imdb_id": "tt0065579",
-      "category": "movie",
-      "it_title": "Corbari",
-      "orig_title": "Cotton Comes to Harlem",
-      "year": 1970,
-      "cast": "Godfrey Cambridge, Raymond St. Jacques",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjQ1YzcxNTYtMTU3NC00MTFkLTk3NzktN2FhY2E3NjViMGY4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "it_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "b7cThrt6IHI",
-          "video_title": "Patreon: Corbari (1979) di Valentino Orsini - Minirece richiesta da Antonio Canella",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0065579",
-      "director": "Ossie Davis"
     },
     "movie:brutti e cattivi:tt6106826": {
       "id": "movie:brutti e cattivi:tt6106826",
@@ -316446,31 +316200,6 @@
         }
       ]
     },
-    "movie:ragione e sentimento:tt0114388": {
-      "id": "movie:ragione e sentimento:tt0114388",
-      "imdb_id": "tt0114388",
-      "category": "movie",
-      "it_title": "Ragione e sentimento",
-      "orig_title": "Sense and Sensibility",
-      "year": 1995,
-      "cast": "",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2MyZWJhNjktMWQ2My00OTgwLWI1NjEtYjUzM2M2N2M4Mzc4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "CwxhSqgoMLc",
-          "video_title": "\"Ragione e sentimento\" di Georgia Oakley - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Ragione e sentimento"
-        }
-      ],
-      "it_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0114388",
-      "director": "Ang Lee"
-    },
     "movie:fuochi nella pianura:tt0053121": {
       "id": "movie:fuochi nella pianura:tt0053121",
       "imdb_id": "tt0053121",
@@ -319083,6 +318812,127 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0312004",
       "watchnow_checked": true
+    },
+    "movie:cogan - killing them softly:tt1764234": {
+      "id": "movie:cogan - killing them softly:tt1764234",
+      "imdb_id": "tt1764234",
+      "category": "movie",
+      "it_title": "Cogan - Killing Them Softly",
+      "orig_title": "Killing Them Softly",
+      "year": 2012,
+      "cast": "Roger Lloyd Pack, Niamh Cusack",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTFhNzM0M2MtM2VmMS00YjA4LWE2ZjQtN2I5M2Y2ODc0N2I0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt1764234",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "nA_k1to2te4",
+          "video_title": "Patreon: \"Cogan - Killing Them Softly\" di A. Dominik - Per Sergio Fratangeli, Alessandro Tripodina",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "Andrew Dominik",
+      "it_flatrate": []
+    },
+    "movie:rapunzel - l'intreccio della torre:tt0398286": {
+      "id": "movie:rapunzel - l'intreccio della torre:tt0398286",
+      "imdb_id": "tt0398286",
+      "category": "movie",
+      "it_title": "Rapunzel - L'intreccio della torre",
+      "orig_title": "Tangled",
+      "year": 2010,
+      "cast": "Suzanne von Borsody, Luisa Wietzorek",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTAxNDYxMjg0MjNeQTJeQWpwZ15BbWU3MDcyNTk2OTM@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0398286",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "WwFWLWgCwEQ",
+          "video_title": "Patreon: Rapunzel - L'intreccio della torre (2010) di N.Greno/B.Howard-Mini richiesta da Andrea Aste",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "Nathan Greno, Byron Howard",
+      "it_flatrate": []
+    },
+    "movie:circle:tt3118452": {
+      "id": "movie:circle:tt3118452",
+      "imdb_id": "tt3118452",
+      "category": "movie",
+      "it_title": "Circle",
+      "orig_title": "Circle",
+      "year": 2015,
+      "cast": "Josefin Asplund, Helena Engström",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY1OTA2MjI5OV5BMl5BanBnXkFtZTgwNzkxMjU4NjE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt3118452",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "xMQ7kCYlpFA",
+          "video_title": "Patreon: Circle (2015) di Aaron Hann, Mario Miscione - Minirece richiesta da Lorenzo",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "Aaron Hann, Mario Miscione",
+      "it_flatrate": []
+    },
+    "movie:corbari:tt0065580": {
+      "id": "movie:corbari:tt0065580",
+      "imdb_id": "tt0065580",
+      "category": "movie",
+      "it_title": "Corbari",
+      "orig_title": "Corbari",
+      "year": 1970,
+      "cast": "Godfrey Cambridge, Raymond St. Jacques",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjQ1YzcxNTYtMTU3NC00MTFkLTk3NzktN2FhY2E3NjViMGY4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "b7cThrt6IHI",
+          "video_title": "Patreon: Corbari (1979) di Valentino Orsini - Minirece richiesta da Antonio Canella",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0065580",
+      "director": "Valentino Orsini"
+    },
+    "movie:love:tt3774694": {
+      "id": "movie:love:tt3774694",
+      "imdb_id": "tt3774694",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Love",
+      "orig_title": "Love",
+      "year": 2015,
+      "director": "Gaspar Noé",
+      "cast": "Aomi Muyock, Karl Glusman",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQzNDUwODk5NF5BMl5BanBnXkFtZTgwNzA0MDQ2NTE@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt3774694",
+      "recommendations": [
+        {
+          "creator": "Mr. Marra",
+          "video_id": "WSD2udNhkOY",
+          "video_title": "MA QUESTO È un FILM PORNOGRAFICO!1!!! -  \"LOVE” di GASPAR NOE’ | film su Netflix DA VEDERE",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "LOVE"
+        }
+      ]
     },
     "music:nail:foetus": {
       "id": "music:nail:foetus",
