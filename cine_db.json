@@ -1434,111 +1434,6 @@
       "it_flatrate": [],
       "watchnow_checked": true
     },
-    "movie:ghostbusters - acchiappafantasmi:tt0087332": {
-      "id": "movie:ghostbusters - acchiappafantasmi:tt0087332",
-      "imdb_id": "tt0087332",
-      "category": "movie",
-      "it_title": "Ghostbusters - Acchiappafantasmi",
-      "orig_title": "Ghostbusters",
-      "year": 1984,
-      "cast": "Bill Murray, Dan Aykroyd",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWE0YzYxNDUtMjk2ZC00NTEyLWE1MjktNzFkMjdjOWEwNTcyXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0087332",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "NlTM6cYIMzA",
-          "video_title": "MovieBlog- 356: Recensione Ghostbusters",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Ghostbusters"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_ghostbusters-1984",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/ghostbusters-1984",
-          "mentioned_as": "Ghostbusters"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_ghostbusters_1985",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/chro980.html",
-          "mentioned_as": "Ghostbusters"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "ho6-SYzS2u8",
-          "video_title": "MovieBlog- 478: Recensione Ghostbusters (Reboot)  [SENZA SPOILER]]",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Ghostbusters"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "j8esOIYR0l8",
-          "video_title": "Ghostbusters: Riding Shookgun- Ep. Finale: La Fine del Viaggio",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Ghostbusters"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "NGkfFk_H2NM",
-          "video_title": "Ghostbusters: Riding Shookgun- 02: Per Ricordare",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Ghostbusters"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "3-lLhEXPI1c",
-          "video_title": "Ghostbusters: Riding Shookgun- 01: Tornando a Casa",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Ghostbusters"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "CPGkQKQxosk",
-          "video_title": "NewsVic- 18: \"Ghostbusters\" si fa donna",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Ghostbusters"
-        }
-      ],
-      "director": "Ivan Reitman",
-      "it_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/321621793"
-        },
-        {
-          "source": "amazon_prime_video_with_ads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://watchnow.trakt.tv/watchnow/321621794"
-        },
-        {
-          "source": "now_tv",
-          "name": "Now TV",
-          "link": "https://watchnow.trakt.tv/watchnow/300598966"
-        },
-        {
-          "source": "sky_go",
-          "name": "Sky Go",
-          "link": "https://watchnow.trakt.tv/watchnow/300598969"
-        }
-      ],
-      "watchnow_checked": true
-    },
     "movie:baby driver – il genio della fuga:tt3890160": {
       "id": "movie:baby driver – il genio della fuga:tt3890160",
       "imdb_id": "tt3890160",
@@ -2094,6 +1989,103 @@
           "link": "https://watchnow.trakt.tv/watchnow/301579115"
         }
       ]
+    },
+    "movie:ghostbusters - acchiappafantasmi:tt0087332": {
+      "id": "movie:ghostbusters - acchiappafantasmi:tt0087332",
+      "imdb_id": "tt0087332",
+      "category": "movie",
+      "it_title": "Ghostbusters - Acchiappafantasmi",
+      "orig_title": "Ghostbusters",
+      "year": 1984,
+      "cast": "Bill Murray, Dan Aykroyd",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWE0YzYxNDUtMjk2ZC00NTEyLWE1MjktNzFkMjdjOWEwNTcyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0087332",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "NlTM6cYIMzA",
+          "video_title": "MovieBlog- 356: Recensione Ghostbusters",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Ghostbusters"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_ghostbusters-1984",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/ghostbusters-1984",
+          "mentioned_as": "Ghostbusters"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_ghostbusters_1985",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro980.html",
+          "mentioned_as": "Ghostbusters"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "j8esOIYR0l8",
+          "video_title": "Ghostbusters: Riding Shookgun- Ep. Finale: La Fine del Viaggio",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Ghostbusters"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "NGkfFk_H2NM",
+          "video_title": "Ghostbusters: Riding Shookgun- 02: Per Ricordare",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Ghostbusters"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "3-lLhEXPI1c",
+          "video_title": "Ghostbusters: Riding Shookgun- 01: Tornando a Casa",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Ghostbusters"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "CPGkQKQxosk",
+          "video_title": "NewsVic- 18: \"Ghostbusters\" si fa donna",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Ghostbusters"
+        }
+      ],
+      "director": "Ivan Reitman",
+      "it_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/321621793"
+        },
+        {
+          "source": "amazon_prime_video_with_ads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://watchnow.trakt.tv/watchnow/321621794"
+        },
+        {
+          "source": "now_tv",
+          "name": "Now TV",
+          "link": "https://watchnow.trakt.tv/watchnow/300598966"
+        },
+        {
+          "source": "sky_go",
+          "name": "Sky Go",
+          "link": "https://watchnow.trakt.tv/watchnow/300598969"
+        }
+      ],
+      "watchnow_checked": true
     },
     "movie:tre manifesti a ebbing, missouri:tt5027774": {
       "id": "movie:tre manifesti a ebbing, missouri:tt5027774",
@@ -14840,89 +14832,6 @@
         }
       ]
     },
-    "movie:freaks:tt0022913": {
-      "id": "movie:freaks:tt0022913",
-      "imdb_id": "tt0022913",
-      "category": "movie",
-      "it_title": "Freaks",
-      "orig_title": "Freaks",
-      "year": 1932,
-      "cast": "Wallace Ford, Leila Hyams",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDM1ODExZmItYjc2MS00MTM4LWIxMGItOWI0OWM0MzI3N2Q1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "bloodstream",
-          "name": "Bloodstream",
-          "link": "https://watchnow.trakt.tv/watchnow/325871261"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0022913",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "HiQTWtX8CmQ",
-          "video_title": "I Classici di Frusciante: Aprile 2018",
-          "timestamp": "06:33",
-          "seconds": 393
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "n_tdcfh1v9Y",
-          "video_title": "Patreon: Freaks (1932) di Tod Browning - Minirece richiesta da Dimitri Malgutti",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "JSnjNRJfDUs",
-          "video_title": "MovieBlog- 346: Recensione Freaks",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Freaks"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "jvVbUGapRFc",
-          "video_title": "MovieBlog- 158: Recensione Freaks\"- the series",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Freaks\"- the series"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_freaks_1932",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/chro930.html",
-          "mentioned_as": "Freaks"
-        }
-      ],
-      "director": "Tod Browning",
-      "it_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/302635830"
-        },
-        {
-          "source": "amazon_prime_video_with_ads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://watchnow.trakt.tv/watchnow/302635831"
-        },
-        {
-          "source": "bloodstream",
-          "name": "Bloodstream",
-          "link": "https://watchnow.trakt.tv/watchnow/302635833"
-        },
-        {
-          "source": "mymovies_one",
-          "name": "MYmovies One",
-          "link": "https://watchnow.trakt.tv/watchnow/302635832"
-        }
-      ]
-    },
     "movie:il grande lebowski:tt0118715": {
       "id": "movie:il grande lebowski:tt0118715",
       "imdb_id": "tt0118715",
@@ -17197,69 +17106,6 @@
       ],
       "director": "Peter Jackson",
       "it_flatrate": []
-    },
-    "movie:la casa:tt0083907": {
-      "id": "movie:la casa:tt0083907",
-      "imdb_id": "tt0083907",
-      "category": "movie",
-      "it_title": "La casa",
-      "orig_title": "The Evil Dead",
-      "year": 1981,
-      "cast": "Bruce Campbell, Ellen Sandweiss",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNWRmZGQyYzgtNjA5OC00NGYzLTlhYWMtNzBhZTFlZGNjYWI2XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/324203574"
-        }
-      ],
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "4-GKoSqAHxU",
-          "video_title": "Patreon: La casa (1981) di Sam Raimi - Minirece richiesta da annie",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "5lVGygLL1uI",
-          "video_title": "MovieBlog- 903: recensione La Casa- Il Risveglio del Male",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "La Casa"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "2bllz-aYH_A",
-          "video_title": "MovieBlog Cult: Recensione La Casa (TRILOGIA)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "La Casa"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "AUE59v9uRoY",
-          "video_title": "Le recensioni di Frusciante - Raimi",
-          "timestamp": "4:36",
-          "seconds": 276
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_evildead_1983",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/chro980.html",
-          "mentioned_as": "Evil Dead"
-        }
-      ],
-      "director": "Sam Raimi",
-      "it_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0083907",
-      "watchnow_checked": true
     },
     "movie:the fabelmans:tt14208870": {
       "id": "movie:the fabelmans:tt14208870",
@@ -20906,6 +20752,136 @@
       ],
       "director": "Stanley Kubrick",
       "it_flatrate": []
+    },
+    "movie:freaks:tt0022913": {
+      "id": "movie:freaks:tt0022913",
+      "imdb_id": "tt0022913",
+      "category": "movie",
+      "it_title": "Freaks",
+      "orig_title": "Freaks",
+      "year": 1932,
+      "cast": "Wallace Ford, Leila Hyams",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDM1ODExZmItYjc2MS00MTM4LWIxMGItOWI0OWM0MzI3N2Q1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "bloodstream",
+          "name": "Bloodstream",
+          "link": "https://watchnow.trakt.tv/watchnow/325871261"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0022913",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "HiQTWtX8CmQ",
+          "video_title": "I Classici di Frusciante: Aprile 2018",
+          "timestamp": "06:33",
+          "seconds": 393
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "n_tdcfh1v9Y",
+          "video_title": "Patreon: Freaks (1932) di Tod Browning - Minirece richiesta da Dimitri Malgutti",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "JSnjNRJfDUs",
+          "video_title": "MovieBlog- 346: Recensione Freaks",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Freaks"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_freaks_1932",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro930.html",
+          "mentioned_as": "Freaks"
+        }
+      ],
+      "director": "Tod Browning",
+      "it_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/302635830"
+        },
+        {
+          "source": "amazon_prime_video_with_ads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://watchnow.trakt.tv/watchnow/302635831"
+        },
+        {
+          "source": "bloodstream",
+          "name": "Bloodstream",
+          "link": "https://watchnow.trakt.tv/watchnow/302635833"
+        },
+        {
+          "source": "mymovies_one",
+          "name": "MYmovies One",
+          "link": "https://watchnow.trakt.tv/watchnow/302635832"
+        }
+      ]
+    },
+    "movie:la casa:tt0083907": {
+      "id": "movie:la casa:tt0083907",
+      "imdb_id": "tt0083907",
+      "category": "movie",
+      "it_title": "La casa",
+      "orig_title": "The Evil Dead",
+      "year": 1981,
+      "cast": "Bruce Campbell, Ellen Sandweiss",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNWRmZGQyYzgtNjA5OC00NGYzLTlhYWMtNzBhZTFlZGNjYWI2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/324203574"
+        }
+      ],
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "4-GKoSqAHxU",
+          "video_title": "Patreon: La casa (1981) di Sam Raimi - Minirece richiesta da annie",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "2bllz-aYH_A",
+          "video_title": "MovieBlog Cult: Recensione La Casa (TRILOGIA)",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "La Casa"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "AUE59v9uRoY",
+          "video_title": "Le recensioni di Frusciante - Raimi",
+          "timestamp": "4:36",
+          "seconds": 276
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_evildead_1983",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro980.html",
+          "mentioned_as": "Evil Dead"
+        }
+      ],
+      "director": "Sam Raimi",
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0083907",
+      "watchnow_checked": true
     },
     "movie:spider:tt0278731": {
       "id": "movie:spider:tt0278731",
@@ -24826,11 +24802,11 @@
         }
       ]
     },
-    "movie:titanic (film 1997):tt0120338": {
-      "id": "movie:titanic (film 1997):tt0120338",
+    "movie:titanic:tt0120338": {
+      "id": "movie:titanic:tt0120338",
       "imdb_id": "tt0120338",
       "category": "movie",
-      "it_title": "Titanic (film 1997)",
+      "it_title": "Titanic",
       "orig_title": "Titanic",
       "year": 1997,
       "cast": "Leonardo DiCaprio, Kate Winslet",
@@ -32593,11 +32569,11 @@
       "director": "Doug Liman",
       "it_flatrate": []
     },
-    "movie:\"django\":tt0060315": {
-      "id": "movie:\"django\":tt0060315",
+    "movie:django:tt0060315": {
+      "id": "movie:django:tt0060315",
       "imdb_id": "tt0060315",
       "category": "movie",
-      "it_title": "\"Django\"",
+      "it_title": "Django",
       "orig_title": "Django",
       "year": 1966,
       "cast": "Franco Nero, José Canalejas",
@@ -37946,78 +37922,6 @@
         }
       ]
     },
-    "movie:la bella e la bestia:  (spoiler):tt0101414": {
-      "id": "movie:la bella e la bestia:  (spoiler):tt0101414",
-      "imdb_id": "tt0101414",
-      "category": "movie",
-      "it_title": "La Bella e la Bestia:  (spoiler)",
-      "orig_title": "Beauty and the Beast",
-      "year": 1991,
-      "cast": "Paige O'Hara, Robby Benson",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTY3NDg2YzktYWFjZC00MTExLTlmZDctMGY3MWYzZTlkYTNiXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "bloodstream",
-          "name": "Bloodstream",
-          "link": "https://watchnow.trakt.tv/watchnow/326689948"
-        },
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/326689949"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0101414",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "-bV5JmrZPjQ",
-          "video_title": "FlashVic- 53: Recensione La Bella e La Bestia",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "La Bella e La Bestia"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "aza58n0R5_c",
-          "video_title": "MovieBlog- 526: Recensione La Bella E La Bestia",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "La Bella E La Bestia"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_beauty-and-the-beast-1991",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/beauty-and-the-beast-1991",
-          "mentioned_as": "Beauty And The Beast"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "gE7pmObZpVk",
-          "video_title": "I Migliori Film del 2017 #L'Opinione",
-          "timestamp": "36:23",
-          "seconds": 2183,
-          "mentioned_as": "La Bella e la Bestia:  (spoiler)"
-        }
-      ],
-      "director": "Kirk Wise, Gary Trousdale",
-      "it_flatrate": [
-        {
-          "source": "bloodstream",
-          "name": "Bloodstream",
-          "link": "https://watchnow.trakt.tv/watchnow/321613753"
-        },
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/301496721"
-        }
-      ]
-    },
     "movie:when evil lurks:tt16300962": {
       "id": "movie:when evil lurks:tt16300962",
       "imdb_id": "tt16300962",
@@ -39763,6 +39667,68 @@
           "link": "https://www.raiplay.it/programmi/isolitiignoti"
         }
       ],
+      "watchnow_checked": true
+    },
+    "movie:madre:tt1216496": {
+      "id": "movie:madre:tt1216496",
+      "imdb_id": "tt1216496",
+      "category": "movie",
+      "it_title": "Madre",
+      "orig_title": "Mother",
+      "year": 2009,
+      "cast": "Kim Hye-ja, Won Bin",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQzMTg0NDA1M15BMl5BanBnXkFtZTgwODUzMTE0MjE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "filmingo",
+          "name": "filmingo",
+          "link": "https://watchnow.trakt.tv/watchnow/325846195"
+        },
+        {
+          "source": "filmfriend",
+          "name": "filmfriend (free)",
+          "link": "https://watchnow.trakt.tv/watchnow/325846199"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1216496",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "vsv_SfpMIeY",
+          "video_title": "Patreon: Madre (2009) di Bong Joon-ho - Per Inkspot, Simone95, Alrirra, Lorenzo Luzi, Leonardo Poli",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_2009_mother",
+          "external_rec_url": "https://www.scaruffi.com/director/bong.html",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "mentioned_as": "Mother"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_mother-2010",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/mother-2010",
+          "mentioned_as": "Mother"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "F7v_hJGF6mo",
+          "video_title": "Day 0.5: “Mother” di Strugar MITEVSKA | Criticoni a Venezia 82",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Mother"
+        }
+      ],
+      "director": "Bong Joon-ho",
+      "it_flatrate": [],
       "watchnow_checked": true
     },
     "movie:godzilla e kong - il nuovo impero:tt14539740": {
@@ -42271,60 +42237,6 @@
           "link": "https://watchnow.trakt.tv/watchnow/304047205"
         }
       ]
-    },
-    "movie:madre:tt1216496": {
-      "id": "movie:madre:tt1216496",
-      "imdb_id": "tt1216496",
-      "category": "movie",
-      "it_title": "Madre",
-      "orig_title": "Mother",
-      "year": 2009,
-      "cast": "Kim Hye-ja, Won Bin",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQzMTg0NDA1M15BMl5BanBnXkFtZTgwODUzMTE0MjE@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "filmingo",
-          "name": "filmingo",
-          "link": "https://watchnow.trakt.tv/watchnow/325846195"
-        },
-        {
-          "source": "filmfriend",
-          "name": "filmfriend (free)",
-          "link": "https://watchnow.trakt.tv/watchnow/325846199"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1216496",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "vsv_SfpMIeY",
-          "video_title": "Patreon: Madre (2009) di Bong Joon-ho - Per Inkspot, Simone95, Alrirra, Lorenzo Luzi, Leonardo Poli",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_2009_mother",
-          "external_rec_url": "https://www.scaruffi.com/director/bong.html",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "mentioned_as": "Mother"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_mother-2010",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/mother-2010",
-          "mentioned_as": "Mother"
-        }
-      ],
-      "director": "Bong Joon-ho",
-      "it_flatrate": [],
-      "watchnow_checked": true
     },
     "movie:amores perros:tt0245712": {
       "id": "movie:amores perros:tt0245712",
@@ -51415,106 +51327,6 @@
       "director": "Tsai Ming-liang",
       "it_flatrate": [],
       "watchnow_checked": true
-    },
-    "movie:il re leone:tt0110357": {
-      "id": "movie:il re leone:tt0110357",
-      "imdb_id": "tt0110357",
-      "category": "movie",
-      "it_title": "Il re leone",
-      "orig_title": "The Lion King",
-      "year": 1994,
-      "cast": "Matthew Broderick, Jeremy Irons",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/326987147"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0110357",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "TwUWFz_aM0Y",
-          "video_title": "Patreon: Il re leone (1994) di Roger Allers e Rob Minkoff - Richiesta da Marco dedicata a Valentina",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "T5qgwO3mwa0",
-          "video_title": "MovieBlog- 692: Recensione Il Re Leone",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Il Re Leone"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_the-lion-king-1994",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/the-lion-king-1994",
-          "mentioned_as": "The Lion King"
-        }
-      ],
-      "director": "Rob Minkoff, Roger Allers",
-      "it_flatrate": []
-    },
-    "movie:assassinio sull'orient express:tt0071877": {
-      "id": "movie:assassinio sull'orient express:tt0071877",
-      "imdb_id": "tt0071877",
-      "category": "movie",
-      "it_title": "Assassinio sull'Orient Express",
-      "orig_title": "Murder on the Orient Express",
-      "year": 1974,
-      "cast": "Albert Finney, Lauren Bacall",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzZmZWMwOWUtM2NkZS00MWM0LTk1YzMtYzI4OGYyMTNlNTMwXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "mubi",
-          "name": "MUBI",
-          "link": "https://watchnow.trakt.tv/watchnow/325939463"
-        },
-        {
-          "source": "mubi_amazon_channel",
-          "name": "MUBI (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/325939464"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0071877",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "f179QnIgHRU",
-          "video_title": "Patreon: Assassinio sull'Orient Express (1974) di Sidney Lumet - Mini richiesta da Enrico Raspadori",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Assassinio sull'Orient Express"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "Ng09zzGYn1w",
-          "video_title": "MovieBlog- 565: Recensione Assassinio Sull'Orient-Express",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Assassinio Sull'Orient-Express"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_murder-on-the-orient-express-1974",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/murder-on-the-orient-express-1974",
-          "mentioned_as": "Murder on the Orient Express"
-        }
-      ],
-      "director": "Sidney Lumet",
-      "it_flatrate": []
     },
     "movie:burn after reading - a prova di spia:tt0887883": {
       "id": "movie:burn after reading - a prova di spia:tt0887883",
@@ -62103,59 +61915,6 @@
         }
       ],
       "watchnow_checked": true
-    },
-    "movie:godzilla:tt0047034": {
-      "id": "movie:godzilla:tt0047034",
-      "imdb_id": "tt0047034",
-      "category": "movie",
-      "it_title": "Godzilla",
-      "orig_title": "Godzilla",
-      "year": 1954,
-      "cast": "Takashi Shimura, Akihiko Hirata",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDQyNDIyZGMtZTE5ZC00YWNmLWEwYzAtN2U4MjkzNGY4ZDU2XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "mubi",
-          "name": "MUBI",
-          "link": "https://watchnow.trakt.tv/watchnow/326162715"
-        },
-        {
-          "source": "mubi_amazon_channel",
-          "name": "MUBI (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/326162716"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0047034",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "D70P7AbLTcA",
-          "video_title": "Patreon: Godzilla (1954) di Ishirô Honda - Minirece richiesta da Alessandro Palazio",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Godzilla"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "lb-P-RHYv3M",
-          "video_title": "MovieBlog- 671: Recensione Godzilla: King of the Monsters",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Godzilla: King of the Monsters"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_godzilla_1954",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/chro950.html",
-          "mentioned_as": "Godzilla"
-        }
-      ],
-      "director": "Ishirō Honda",
-      "it_flatrate": []
     },
     "movie:lady bird:tt4925292": {
       "id": "movie:lady bird:tt4925292",
@@ -78047,61 +77806,6 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt7349950"
     },
-    "movie:la sirenetta:tt0097757": {
-      "id": "movie:la sirenetta:tt0097757",
-      "imdb_id": "tt0097757",
-      "category": "movie",
-      "it_title": "La Sirenetta",
-      "orig_title": "The Little Mermaid",
-      "year": 1989,
-      "cast": "Jodi Benson, Samuel E. Wright",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOWMwYjFjMjUtODlhZS00NWNhLThhOTItNGRiYzgxNGQzMmE1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-f7643452-fe64-4b05-8f09-c8bea9b2dd60"
-        }
-      ],
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "AYsNclz2aIA",
-          "video_title": "MovieBlog- 910: Recensione La Sirenetta",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "La Sirenetta"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_the-little-mermaid-1989",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/the-little-mermaid-1989",
-          "mentioned_as": "The Little Mermaid"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "jzib5fHERI4",
-          "video_title": "HO VISTO IN ANTEPRIMA \"LA SIRENETTA\" E MI È PIACIUTO!",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "LA SIRENETTA"
-        }
-      ],
-      "director": "Ron Clements, John Musker",
-      "it_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-f7643452-fe64-4b05-8f09-c8bea9b2dd60"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0097757",
-      "watchnow_checked": true
-    },
     "movie:lee cronin - la mummia:tt32612507": {
       "id": "movie:lee cronin - la mummia:tt32612507",
       "imdb_id": "tt32612507",
@@ -78622,6 +78326,240 @@
         }
       ]
     },
+    "movie:look back:tt31711040": {
+      "id": "movie:look back:tt31711040",
+      "imdb_id": "tt31711040",
+      "category": "movie",
+      "it_title": "Look Back",
+      "orig_title": "Look Back",
+      "year": 2024,
+      "cast": "Yumi Kawai, Mizuki Yoshida",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTVhN2ZlNmUtZTY1Mi00OTUwLWIxNzEtYzgwZjg2ZTlhNWU1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/324220422"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt31711040",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "GdVXZbHnonA",
+          "video_title": "Federico Frusciante: Il Meglio e Peggio 2024",
+          "timestamp": "06:50:09",
+          "seconds": 24609,
+          "mentioned_as": "Look Back"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "fODi5qZ0-3g",
+          "video_title": "Patreon: Look Back (2024) di Kiyotaka Oshiyama - Minirece richiesta da Bucive, Alessandro Zamboni",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Look Back"
+        },
+        {
+          "creator": "Francesco Alò",
+          "video_id": "zKGbUC7PIbU",
+          "video_title": "\"Look Back\" di Hirokazu Kore-eda - recensione dalla Mostra del Cinema di Venezia 2026 - Concorso",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Look Back"
+        }
+      ],
+      "director": "Kiyotaka Oshiyama",
+      "it_flatrate": [
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff8e068a-bc29-4b2a-bed0-23f65f7d85b1"
+        },
+        {
+          "source": "amazonprimevideowithads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff8e068a-bc29-4b2a-bed0-23f65f7d85b1"
+        }
+      ]
+    },
+    "movie:il re leone:tt0110357": {
+      "id": "movie:il re leone:tt0110357",
+      "imdb_id": "tt0110357",
+      "category": "movie",
+      "it_title": "Il re leone",
+      "orig_title": "The Lion King",
+      "year": 1994,
+      "cast": "Matthew Broderick, Jeremy Irons",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/326987147"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0110357",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "TwUWFz_aM0Y",
+          "video_title": "Patreon: Il re leone (1994) di Roger Allers e Rob Minkoff - Richiesta da Marco dedicata a Valentina",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-lion-king-1994",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-lion-king-1994",
+          "mentioned_as": "The Lion King"
+        }
+      ],
+      "director": "Rob Minkoff, Roger Allers",
+      "it_flatrate": []
+    },
+    "movie:assassinio sull'orient express:tt0071877": {
+      "id": "movie:assassinio sull'orient express:tt0071877",
+      "imdb_id": "tt0071877",
+      "category": "movie",
+      "it_title": "Assassinio sull'Orient Express",
+      "orig_title": "Murder on the Orient Express",
+      "year": 1974,
+      "cast": "Albert Finney, Lauren Bacall",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzZmZWMwOWUtM2NkZS00MWM0LTk1YzMtYzI4OGYyMTNlNTMwXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "mubi",
+          "name": "MUBI",
+          "link": "https://watchnow.trakt.tv/watchnow/325939463"
+        },
+        {
+          "source": "mubi_amazon_channel",
+          "name": "MUBI (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/325939464"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0071877",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "f179QnIgHRU",
+          "video_title": "Patreon: Assassinio sull'Orient Express (1974) di Sidney Lumet - Mini richiesta da Enrico Raspadori",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Assassinio sull'Orient Express"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_murder-on-the-orient-express-1974",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/murder-on-the-orient-express-1974",
+          "mentioned_as": "Murder on the Orient Express"
+        }
+      ],
+      "director": "Sidney Lumet",
+      "it_flatrate": []
+    },
+    "movie:godzilla:tt0047034": {
+      "id": "movie:godzilla:tt0047034",
+      "imdb_id": "tt0047034",
+      "category": "movie",
+      "it_title": "Godzilla",
+      "orig_title": "Godzilla",
+      "year": 1954,
+      "cast": "Takashi Shimura, Akihiko Hirata",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDQyNDIyZGMtZTE5ZC00YWNmLWEwYzAtN2U4MjkzNGY4ZDU2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "mubi",
+          "name": "MUBI",
+          "link": "https://watchnow.trakt.tv/watchnow/326162715"
+        },
+        {
+          "source": "mubi_amazon_channel",
+          "name": "MUBI (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/326162716"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0047034",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "D70P7AbLTcA",
+          "video_title": "Patreon: Godzilla (1954) di Ishirô Honda - Minirece richiesta da Alessandro Palazio",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Godzilla"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_godzilla_1954",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro950.html",
+          "mentioned_as": "Godzilla"
+        }
+      ],
+      "director": "Ishirō Honda",
+      "it_flatrate": []
+    },
+    "movie:la sirenetta:tt0097757": {
+      "id": "movie:la sirenetta:tt0097757",
+      "imdb_id": "tt0097757",
+      "category": "movie",
+      "it_title": "La Sirenetta",
+      "orig_title": "The Little Mermaid",
+      "year": 1989,
+      "cast": "Jodi Benson, Samuel E. Wright",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOWMwYjFjMjUtODlhZS00NWNhLThhOTItNGRiYzgxNGQzMmE1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "disneyplus",
+          "name": "Disney Plus",
+          "link": "https://www.disneyplus.com/browse/entity-f7643452-fe64-4b05-8f09-c8bea9b2dd60"
+        }
+      ],
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-little-mermaid-1989",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-little-mermaid-1989",
+          "mentioned_as": "The Little Mermaid"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "jzib5fHERI4",
+          "video_title": "HO VISTO IN ANTEPRIMA \"LA SIRENETTA\" E MI È PIACIUTO!",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "LA SIRENETTA"
+        }
+      ],
+      "director": "Ron Clements, John Musker",
+      "it_flatrate": [
+        {
+          "source": "disneyplus",
+          "name": "Disney Plus",
+          "link": "https://www.disneyplus.com/browse/entity-f7643452-fe64-4b05-8f09-c8bea9b2dd60"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0097757",
+      "watchnow_checked": true
+    },
     "movie:fast & furious 7:tt2820852": {
       "id": "movie:fast & furious 7:tt2820852",
       "imdb_id": "tt2820852",
@@ -78833,50 +78771,6 @@
           "source": "sky_go",
           "name": "Sky Go",
           "link": "https://watchnow.trakt.tv/watchnow/301806900"
-        }
-      ]
-    },
-    "movie:assassinio sul nilo:tt0077413": {
-      "id": "movie:assassinio sul nilo:tt0077413",
-      "imdb_id": "tt0077413",
-      "category": "movie",
-      "it_title": "Assassinio sul Nilo",
-      "orig_title": "Death on the Nile",
-      "year": 1978,
-      "cast": "Peter Ustinov, Mia Farrow",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTkzMWViYWMtMWMwNS00MzgwLTgyZTUtNjVkOTE2YjE0MmM5XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0077413",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "kA7P2p6z6Fo",
-          "video_title": "I Consigli di Frusciante: Luglio 2019",
-          "timestamp": "20:47",
-          "seconds": 1247,
-          "mentioned_as": "Assassinio sul Nilo"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "uk5qCRGuI8Y",
-          "video_title": "MovieBlog- 826: Recensione Assassinio sul Nilo",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Assassinio sul Nilo"
-        }
-      ],
-      "director": "John Guillermin",
-      "it_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/303538409"
-        },
-        {
-          "source": "amazon_prime_video_with_ads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://watchnow.trakt.tv/watchnow/303538410"
         }
       ]
     },
@@ -81714,15 +81608,15 @@
       ],
       "watchnow_checked": true
     },
-    "movie:novecento 1976 bertolucci:tt0074084": {
-      "id": "movie:novecento 1976 bertolucci:tt0074084",
+    "movie:novecento:tt0074084": {
+      "id": "movie:novecento:tt0074084",
       "imdb_id": "tt0074084",
       "category": "movie",
-      "it_title": "Novecento 1976 bertolucci",
+      "it_title": "Novecento",
       "orig_title": "1900",
       "year": 1976,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDQ5MjE4OTUtMDViMC00MzlhLTlmNzktYWNmODBjMDk3M2Q4XkEyXkFqcGc@._V1_UX400_.jpg",
       "media_type": "movie",
       "ch_flatrate": [],
       "external_url": "https://app.trakt.tv/movies/tt0074084",
@@ -84563,56 +84457,6 @@
       ],
       "director": "Andrei Tarkovsky, Andrej Arsen'evič Tarkovskij",
       "it_flatrate": []
-    },
-    "movie:look back:tt31711040": {
-      "id": "movie:look back:tt31711040",
-      "imdb_id": "tt31711040",
-      "category": "movie",
-      "it_title": "Look Back",
-      "orig_title": "Look Back",
-      "year": 2024,
-      "cast": "Yumi Kawai, Mizuki Yoshida",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTVhN2ZlNmUtZTY1Mi00OTUwLWIxNzEtYzgwZjg2ZTlhNWU1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/324220422"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt31711040",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "GdVXZbHnonA",
-          "video_title": "Federico Frusciante: Il Meglio e Peggio 2024",
-          "timestamp": "06:50:09",
-          "seconds": 24609,
-          "mentioned_as": "Look Back"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "fODi5qZ0-3g",
-          "video_title": "Patreon: Look Back (2024) di Kiyotaka Oshiyama - Minirece richiesta da Bucive, Alessandro Zamboni",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Look Back"
-        }
-      ],
-      "director": "Kiyotaka Oshiyama",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff8e068a-bc29-4b2a-bed0-23f65f7d85b1"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff8e068a-bc29-4b2a-bed0-23f65f7d85b1"
-        }
-      ]
     },
     "movie:il colore del melograno:tt0063555": {
       "id": "movie:il colore del melograno:tt0063555",
@@ -113661,10 +113505,24 @@
           "seconds": 0,
           "external_rec_url": "https://www.rogerebert.com/reviews/skyfall-2012",
           "mentioned_as": "Skyfall"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "VteUPYEKxKY",
+          "video_title": "MovieBlog- 236: Recensione 007- Skyfall + FestivalTube",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "007- Skyfall + FestivalTube"
         }
       ],
       "director": "Sam Mendes",
-      "it_flatrate": []
+      "it_flatrate": [
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3b013325-c177-469f-b424-0d40d825ce17"
+        }
+      ]
     },
     "movie:bronx:tt0106489": {
       "id": "movie:bronx:tt0106489",
@@ -120252,7 +120110,7 @@
       "orig_title": "Enemy at the Gates",
       "year": 2001,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODM5MmQyYjktMzg5Ny00Y2Y1LThlNWQtNjQ5OGMwNmY2YjcyXkEyXkFqcGc@._V1_UX400_.jpg",
       "media_type": "movie",
       "ch_flatrate": [],
       "external_url": "https://app.trakt.tv/movies/tt0215750",
@@ -127655,7 +127513,7 @@
       "orig_title": "Tatami",
       "year": 2024,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjNiNmEzOTItMGMxYS00NGY1LTliNDEtZGVhMGI5NzU2NjQ3XkEyXkFqcGc@._V1_UX400_.jpg",
       "media_type": "movie",
       "ch_flatrate": [
         {
@@ -129531,39 +129389,6 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt5736696",
       "director": "Dany Boon"
-    },
-    "movie:spartacus:tt0054331": {
-      "id": "movie:spartacus:tt0054331",
-      "imdb_id": "tt0054331",
-      "category": "movie",
-      "it_title": "Spartacus",
-      "orig_title": "Spartacus",
-      "year": 1960,
-      "director": "Stanley Kubrick",
-      "cast": "Kirk Douglas, Laurence Olivier",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTcyOThhYzktMTYyMi00NDU5LWExZWMtOWUzNGJiZGFlMWQwXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "it_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "zTJ1JKVmxTk",
-          "video_title": "Patreon: Spartacus (1960) di Stanley Kubrick - Minirece richiesta da Mattia D'Amico",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Spartacus"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "_Jo0YMkllTU",
-          "video_title": "MovieBlog- 53 (Serie TV Special): Recensione Spartacus: Blood and Sand",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Spartacus: Blood and Sand"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0054331"
     },
     "movie:insider - dietro la verità:tt0140352": {
       "id": "movie:insider - dietro la verità:tt0140352",
@@ -139886,15 +139711,15 @@
       "it_flatrate": [],
       "watchnow_checked": true
     },
-    "movie:fracchia la belva umana - di neri parenti:tt0082407": {
-      "id": "movie:fracchia la belva umana - di neri parenti:tt0082407",
+    "movie:fracchia la belva umana:tt0082407": {
+      "id": "movie:fracchia la belva umana:tt0082407",
       "imdb_id": "tt0082407",
       "category": "movie",
-      "it_title": "Fracchia la belva umana - di Neri Parenti",
+      "it_title": "Fracchia la belva umana",
       "orig_title": "Fracchia The Human Beast",
       "year": 1981,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDA4MDZmYjMtYjNmMC00OTViLWExZTktZGY4ZjFhZWJjMjk0XkEyXkFqcGc@._V1_UX400_.jpg",
       "media_type": "movie",
       "ch_flatrate": [],
       "external_url": "https://app.trakt.tv/movies/tt0082407",
@@ -139976,7 +139801,7 @@
       "orig_title": "Be Kind Rewind",
       "year": 2008,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU4MjY2MTU2MV5BMl5BanBnXkFtZTYwNjUzODc4._V1_UX400_.jpg",
       "media_type": "movie",
       "ch_flatrate": [],
       "external_url": "https://app.trakt.tv/movies/tt0799934",
@@ -140011,7 +139836,7 @@
       "orig_title": "Sydney (Hard Eight)",
       "year": 1996,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOWQyNjBiZWMtYzFjMS00ZDEzLWEyNTYtZGFiZDE4Mjk4M2E2XkEyXkFqcGc@._V1_UX400_.jpg",
       "media_type": "movie",
       "ch_flatrate": [],
       "external_url": "https://app.trakt.tv/movies/tt0119256",
@@ -148540,7 +148365,7 @@
       "orig_title": "Ginger Snaps",
       "year": 2000,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjJiZmNhNmQtYjgzNS00MTcwLWEwYjAtOWIwY2FmNzgyMGUyXkEyXkFqcGc@._V1_UX400_.jpg",
       "media_type": "movie",
       "ch_flatrate": [
         {
@@ -149757,63 +149582,6 @@
       "external_url": "https://app.trakt.tv/movies/tt10366460",
       "watchnow_checked": true
     },
-    "movie:pinocchio:tt0032910": {
-      "id": "movie:pinocchio:tt0032910",
-      "imdb_id": "tt0032910",
-      "category": "movie",
-      "it_title": "Pinocchio",
-      "orig_title": "Pinocchio",
-      "year": 1940,
-      "cast": "Dickie Jones, Christian Rub",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU4Mzk3ODIyOF5BMl5BanBnXkFtZTgwODgyNzk2NjE@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-bfe9c61c-f7f3-4e39-94bb-376bf2162c28"
-        },
-        {
-          "source": "artflix",
-          "name": "Artiflix",
-          "link": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0032910",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "Yu6MA9ezqEw",
-          "video_title": "MovieBlog- 711: Recensione Pinocchio",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Pinocchio"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_pinocchio_1940",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/chro940.html",
-          "mentioned_as": "Pinocchio"
-        }
-      ],
-      "director": "Norman Ferguson, Norm Ferguson",
-      "it_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-bfe9c61c-f7f3-4e39-94bb-376bf2162c28"
-        },
-        {
-          "source": "artflix",
-          "name": "Artiflix",
-          "link": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
-        }
-      ],
-      "watchnow_checked": true
-    },
     "movie:il ragazzo con la bicicletta:tt1827512": {
       "id": "movie:il ragazzo con la bicicletta:tt1827512",
       "imdb_id": "tt1827512",
@@ -150516,38 +150284,6 @@
           "link": "https://www.nowtv.it/watch/asset/black-phone-2/R_618976_HD"
         }
       ]
-    },
-    "movie:saltburn:tt38961379": {
-      "id": "movie:saltburn:tt38961379",
-      "imdb_id": "tt38961379",
-      "category": "movie",
-      "it_title": "Saltburn",
-      "orig_title": "The Lonely Man of Saltburn",
-      "year": 2026,
-      "cast": "Scott Colbert, Wade Radford",
-      "poster_url": "",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt38961379",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "U2jL7rWSKzU",
-          "video_title": "MovieBlog- 946: Recensione Saltburn",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Saltburn"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "GtetxqRPWhE",
-          "video_title": "Abbiamo Visto “SALTBURN”…",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "SALTBURN"
-        }
-      ],
-      "it_flatrate": []
     },
     "movie:finché morte non ci separi 2:tt31711618": {
       "id": "movie:finché morte non ci separi 2:tt31711618",
@@ -151881,41 +151617,6 @@
           "link": "https://www.hbomax.com/it/en/movie/a618358a-a71d-44a2-8294-24da8fae8591"
         }
       ]
-    },
-    "movie:anaconda:tt0118615": {
-      "id": "movie:anaconda:tt0118615",
-      "imdb_id": "tt0118615",
-      "category": "movie",
-      "it_title": "Anaconda",
-      "orig_title": "Anaconda",
-      "year": 1997,
-      "director": "Luis Llosa",
-      "cast": "Jon Voight, Jennifer Lopez",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmU2ZGYyZDAtZGM3My00NjQ4LTlmZmQtNzY4OGRlNDFjNTE4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "it_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_anaconda-1997",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/anaconda-1997",
-          "mentioned_as": "Anaconda"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "AUxbNeefV0A",
-          "video_title": "MovieBlog- 1064: Recensione Anaconda",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Anaconda"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0118615",
-      "watchnow_checked": true
     },
     "movie:das geträumte abenteuer:tt21188986": {
       "id": "movie:das geträumte abenteuer:tt21188986",
@@ -153882,6 +153583,224 @@
         }
       ],
       "external_url": "https://app.trakt.tv/movies/tt35298123",
+      "watchnow_checked": true
+    },
+    "movie:saltburn:tt17351924": {
+      "id": "movie:saltburn:tt17351924",
+      "imdb_id": "tt17351924",
+      "category": "movie",
+      "it_title": "Saltburn",
+      "orig_title": "Saltburn",
+      "year": 2023,
+      "cast": "Scott Colbert, Wade Radford",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjk4NGE3MWItMDRhMy00YzhiLTk0MGUtZDlkNmQxYWIxYzc2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt17351924",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "U2jL7rWSKzU",
+          "video_title": "MovieBlog- 946: Recensione Saltburn",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Saltburn"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "GtetxqRPWhE",
+          "video_title": "Abbiamo Visto “SALTBURN”…",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "SALTBURN"
+        }
+      ],
+      "it_flatrate": [],
+      "director": "Emerald Fennell"
+    },
+    "movie:la bella e la bestia:tt0101414": {
+      "id": "movie:la bella e la bestia:tt0101414",
+      "imdb_id": "tt0101414",
+      "category": "movie",
+      "it_title": "La bella e la bestia",
+      "orig_title": "Beauty and the Beast",
+      "year": 1991,
+      "cast": "Paige O'Hara, Robby Benson",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTY3NDg2YzktYWFjZC00MTExLTlmZDctMGY3MWYzZTlkYTNiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "bloodstream",
+          "name": "Bloodstream",
+          "link": "https://watchnow.trakt.tv/watchnow/326689948"
+        },
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/326689949"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0101414",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_beauty-and-the-beast-1991",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/beauty-and-the-beast-1991",
+          "mentioned_as": "Beauty And The Beast"
+        }
+      ],
+      "director": "Kirk Wise, Gary Trousdale",
+      "it_flatrate": [
+        {
+          "source": "bloodstream",
+          "name": "Bloodstream",
+          "link": "https://watchnow.trakt.tv/watchnow/321613753"
+        },
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/301496721"
+        }
+      ]
+    },
+    "movie:assassinio sul nilo:tt0077413": {
+      "id": "movie:assassinio sul nilo:tt0077413",
+      "imdb_id": "tt0077413",
+      "category": "movie",
+      "it_title": "Assassinio sul Nilo",
+      "orig_title": "Death on the Nile",
+      "year": 1978,
+      "cast": "Peter Ustinov, Mia Farrow",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTkzMWViYWMtMWMwNS00MzgwLTgyZTUtNjVkOTE2YjE0MmM5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0077413",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "kA7P2p6z6Fo",
+          "video_title": "I Consigli di Frusciante: Luglio 2019",
+          "timestamp": "20:47",
+          "seconds": 1247,
+          "mentioned_as": "Assassinio sul Nilo"
+        }
+      ],
+      "director": "John Guillermin",
+      "it_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/303538409"
+        },
+        {
+          "source": "amazon_prime_video_with_ads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://watchnow.trakt.tv/watchnow/303538410"
+        }
+      ]
+    },
+    "movie:spartacus:tt0054331": {
+      "id": "movie:spartacus:tt0054331",
+      "imdb_id": "tt0054331",
+      "category": "movie",
+      "it_title": "Spartacus",
+      "orig_title": "Spartacus",
+      "year": 1960,
+      "director": "Stanley Kubrick",
+      "cast": "Kirk Douglas, Laurence Olivier",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTcyOThhYzktMTYyMi00NDU5LWExZWMtOWUzNGJiZGFlMWQwXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "zTJ1JKVmxTk",
+          "video_title": "Patreon: Spartacus (1960) di Stanley Kubrick - Minirece richiesta da Mattia D'Amico",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Spartacus"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0054331"
+    },
+    "movie:pinocchio:tt0032910": {
+      "id": "movie:pinocchio:tt0032910",
+      "imdb_id": "tt0032910",
+      "category": "movie",
+      "it_title": "Pinocchio",
+      "orig_title": "Pinocchio",
+      "year": 1940,
+      "cast": "Dickie Jones, Christian Rub",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU4Mzk3ODIyOF5BMl5BanBnXkFtZTgwODgyNzk2NjE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "disneyplus",
+          "name": "Disney Plus",
+          "link": "https://www.disneyplus.com/browse/entity-bfe9c61c-f7f3-4e39-94bb-376bf2162c28"
+        },
+        {
+          "source": "artflix",
+          "name": "Artiflix",
+          "link": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0032910",
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_pinocchio_1940",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro940.html",
+          "mentioned_as": "Pinocchio"
+        }
+      ],
+      "director": "Norman Ferguson, Norm Ferguson",
+      "it_flatrate": [
+        {
+          "source": "disneyplus",
+          "name": "Disney Plus",
+          "link": "https://www.disneyplus.com/browse/entity-bfe9c61c-f7f3-4e39-94bb-376bf2162c28"
+        },
+        {
+          "source": "artflix",
+          "name": "Artiflix",
+          "link": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
+        }
+      ],
+      "watchnow_checked": true
+    },
+    "movie:anaconda:tt0118615": {
+      "id": "movie:anaconda:tt0118615",
+      "imdb_id": "tt0118615",
+      "category": "movie",
+      "it_title": "Anaconda",
+      "orig_title": "Anaconda",
+      "year": 1997,
+      "director": "Luis Llosa",
+      "cast": "Jon Voight, Jennifer Lopez",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmU2ZGYyZDAtZGM3My00NjQ4LTlmZmQtNzY4OGRlNDFjNTE4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_anaconda-1997",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/anaconda-1997",
+          "mentioned_as": "Anaconda"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0118615",
       "watchnow_checked": true
     },
     "movie:spider-man: far from home:tt6320628": {
@@ -158729,31 +158648,6 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt2202377",
       "watchnow_checked": true
-    },
-    "movie:berserk:tt0061398": {
-      "id": "movie:berserk:tt0061398",
-      "imdb_id": "tt0061398",
-      "category": "movie",
-      "it_title": "BERSERK",
-      "orig_title": "Berserk!",
-      "year": 1967,
-      "cast": "Joan Crawford, Ty Hardin",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjIzZWZiN2ItYmUwMi00MDdmLWI1MDQtZWQzZWU3ODEzYzQwXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0061398",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "2YnOF2s5AV0",
-          "video_title": "MovieBlog- 392: Recensione Berserk- L'Epoca D'Oro Capitolo III: L'Avvento",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Berserk- L'Epoca D'Oro Capitolo III: L'Avvento"
-        }
-      ],
-      "director": "Jim O'Connolly",
-      "it_flatrate": []
     },
     "movie:smetto quando voglio:tt3438354": {
       "id": "movie:smetto quando voglio:tt3438354",
@@ -208950,29 +208844,6 @@
       "director": "Frank Capra",
       "it_flatrate": []
     },
-    "movie:deuteronomium:tt12288632": {
-      "id": "movie:deuteronomium:tt12288632",
-      "imdb_id": "tt12288632",
-      "category": "movie",
-      "it_title": "Deuteronomium",
-      "orig_title": "Deuteronomy 18:15",
-      "year": null,
-      "cast": "",
-      "poster_url": "https://images-na.ssl-images-amazon.com/images/P/B07D2XCJ49.01._SCLZZZZZZZ_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt12288632",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "E028XVUzmd0",
-          "video_title": "Frusciante Underground #1",
-          "timestamp": "14:55",
-          "seconds": 895
-        }
-      ],
-      "it_flatrate": []
-    },
     "movie:black past:tt0163554": {
       "id": "movie:black past:tt0163554",
       "imdb_id": "tt0163554",
@@ -209434,29 +209305,6 @@
           "link": "https://watch.plex.tv/movie/wrath-of-the-crows-2013?autoplay=1&utm_content=5d776a389ab54400214fc5d3&utm_medium=deeplink&utm_source=justWatch-v2-catalog"
         }
       ]
-    },
-    "movie:just business:tt43635442": {
-      "id": "movie:just business:tt43635442",
-      "imdb_id": "tt43635442",
-      "category": "movie",
-      "it_title": "Just Business",
-      "orig_title": "It's Just Business",
-      "year": null,
-      "cast": "Otis Winston, Taylor Abigail",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDRhMDJiYTMtMDBhOS00N2FhLWJiMjEtMjRmNzNhZDMyZTZlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt43635442",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "SxAdvtwRqhs",
-          "video_title": "Frusciante Underground # 3: Settembre 2019",
-          "timestamp": "02:51",
-          "seconds": 171
-        }
-      ],
-      "it_flatrate": []
     },
     "movie:passione infinita:tt9558358": {
       "id": "movie:passione infinita:tt9558358",
@@ -210016,29 +209864,6 @@
       ],
       "it_flatrate": []
     },
-    "movie:vinile italiano:tt0223552": {
-      "id": "movie:vinile italiano:tt0223552",
-      "imdb_id": "tt0223552",
-      "category": "movie",
-      "it_title": "Vinile Italiano",
-      "orig_title": "Le italiane peccano in silenzio",
-      "year": 1967,
-      "cast": "Franca Polesello",
-      "poster_url": "",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0223552",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "53DkMVhJ2aI",
-          "video_title": "I consigli di Frusciante - Luglio 2015",
-          "timestamp": "20:45",
-          "seconds": 1245
-        }
-      ],
-      "it_flatrate": []
-    },
     "movie:titanium:tt3105350": {
       "id": "movie:titanium:tt3105350",
       "imdb_id": "tt3105350",
@@ -210245,7 +210070,7 @@
       "orig_title": "Space Wolf Friend",
       "year": 2023,
       "cast": "Jonathan Carlander",
-      "poster_url": "",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/DS9_Titel.svg/500px-DS9_Titel.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "media_type": "movie",
       "ch_flatrate": [],
       "external_url": "https://app.trakt.tv/movies/tt29762725",
@@ -211335,43 +211160,6 @@
       "director": "Masaki Kobayashi",
       "it_flatrate": []
     },
-    "movie:malizia (italia, 1973) di salvatore samperi:tt0064624": {
-      "id": "movie:malizia (italia, 1973) di salvatore samperi:tt0064624",
-      "imdb_id": "tt0064624",
-      "category": "movie",
-      "it_title": "Malizia (Italia, 1973) di Salvatore Samperi",
-      "orig_title": "Maid in Sweden",
-      "year": 1971,
-      "cast": "",
-      "poster_url": "",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "cultpix",
-          "name": "Cultpix",
-          "link": "https://www.cultpix.com/movie/maid-in-sweden/85"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0064624",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "btzMpMeLpeo",
-          "video_title": "Patreon: Malizia (Italia, 1973) di Salvatore Samperi - Minirece richiesta da Alessandro Conrao",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Malizia (Italia, 1973) di Salvatore Samperi"
-        }
-      ],
-      "director": "Dan Wolman",
-      "it_flatrate": [
-        {
-          "source": "cultpix",
-          "name": "Cultpix",
-          "link": "https://www.cultpix.com/movie/maid-in-sweden/85"
-        }
-      ]
-    },
     "movie:devilman - l'arpia silen:tt4463084": {
       "id": "movie:devilman - l'arpia silen:tt4463084",
       "imdb_id": "tt4463084",
@@ -211618,7 +211406,7 @@
       "orig_title": "Le notti del marchese De Sade",
       "year": 1993,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNWEyYTY2ZWUtODM1OC00MjRkLTlmOGUtZDJiYjllYjRjOGVjXkEyXkFqcGc@._V1_UX400_.jpg",
       "media_type": "movie",
       "ch_flatrate": [],
       "external_url": "https://app.trakt.tv/movies/tt0107683",
@@ -213835,54 +213623,6 @@
         }
       ]
     },
-    "movie:look back:tt39094605": {
-      "id": "movie:look back:tt39094605",
-      "imdb_id": "tt39094605",
-      "category": "movie",
-      "it_title": "Look Back",
-      "orig_title": "Look Back",
-      "year": null,
-      "cast": "",
-      "poster_url": "",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "zKGbUC7PIbU",
-          "video_title": "\"Look Back\" di Hirokazu Kore-eda - recensione dalla Mostra del Cinema di Venezia 2026 - Concorso",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Look Back"
-        }
-      ],
-      "it_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt39094605"
-    },
-    "movie:mother:tt32399285": {
-      "id": "movie:mother:tt32399285",
-      "imdb_id": "tt32399285",
-      "category": "movie",
-      "it_title": "Mother",
-      "orig_title": "Mother",
-      "year": null,
-      "cast": "",
-      "poster_url": "",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "I Criticoni",
-          "video_id": "F7v_hJGF6mo",
-          "video_title": "Day 0.5: “Mother” di Strugar MITEVSKA | Criticoni a Venezia 82",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Mother"
-        }
-      ],
-      "it_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt32399285"
-    },
     "movie:il ritorno:tt0376968": {
       "id": "movie:il ritorno:tt0376968",
       "imdb_id": "tt0376968",
@@ -213906,29 +213646,6 @@
       "director": "Andrey Zvyagintsev, Andrej Petrovič Zvjagincev",
       "it_flatrate": [],
       "external_url": "https://app.trakt.tv/movies/tt0376968"
-    },
-    "movie:la bibbia:tt2254092": {
-      "id": "movie:la bibbia:tt2254092",
-      "imdb_id": "tt2254092",
-      "category": "movie",
-      "it_title": "La Bibbia",
-      "orig_title": "La Bibbia",
-      "year": null,
-      "cast": "",
-      "poster_url": "",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "O8T6NffE_gg",
-          "video_title": "Patreon: La Bibbia (1966) di John Houston - Minirece richiesta da Helène",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "it_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt2254092"
     },
     "movie:l'amante:tt0101316": {
       "id": "movie:l'amante:tt0101316",
@@ -214371,30 +214088,6 @@
       "it_flatrate": [],
       "external_url": "https://app.trakt.tv/movies/tt10768324"
     },
-    "movie:ragione e sentimento:tt37365934": {
-      "id": "movie:ragione e sentimento:tt37365934",
-      "imdb_id": "tt37365934",
-      "category": "movie",
-      "it_title": "Ragione e sentimento",
-      "orig_title": "59: Ticket 2 | Everything You Need To Know To Travel To Bali",
-      "year": 2023,
-      "cast": "",
-      "poster_url": "",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "CwxhSqgoMLc",
-          "video_title": "\"Ragione e sentimento\" di Georgia Oakley - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Ragione e sentimento"
-        }
-      ],
-      "it_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt37365934"
-    },
     "movie:ricchi da morire:tt27052633": {
       "id": "movie:ricchi da morire:tt27052633",
       "imdb_id": "tt27052633",
@@ -214519,13 +214212,13 @@
       "it_flatrate": [],
       "external_url": "https://app.trakt.tv/movies/tt32386631"
     },
-    "movie:à pied d'œuvre:tt35668622": {
-      "id": "movie:à pied d'œuvre:tt35668622",
-      "imdb_id": "tt35668622",
+    "movie:à pied d'œuvre:tt33029443": {
+      "id": "movie:à pied d'œuvre:tt33029443",
+      "imdb_id": "tt33029443",
       "category": "movie",
       "it_title": "À pied d'œuvre",
-      "orig_title": "Curious George Goes to a Bowling Alley",
-      "year": null,
+      "orig_title": "À pied d'œuvre",
+      "year": 2025,
       "cast": "",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BZDA1OGUwNmUtMGIwNy00YjAwLTkzNWEtMmUyYjBjNTQ3ZWJkXkEyXkFqcGc@._V1_UX400_.jpg",
       "media_type": "movie",
@@ -214541,7 +214234,7 @@
         }
       ],
       "it_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt35668622"
+      "external_url": "https://app.trakt.tv/movies/tt33029443"
     },
     "movie:sonic 3 - il film:tt18259086": {
       "id": "movie:sonic 3 - il film:tt18259086",
@@ -215110,31 +214803,6 @@
           "link": "https://www.disneyplus.com/browse/entity-180356b5-0596-4333-891f-e48c526a0803"
         }
       ]
-    },
-    "movie:roma:tt0069191": {
-      "id": "movie:roma:tt0069191",
-      "imdb_id": "tt0069191",
-      "category": "movie",
-      "it_title": "Roma",
-      "orig_title": "Roma",
-      "year": 1972,
-      "cast": "Britta Barnes, Peter Gonzales Falcon",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTAzYzViODYtN2IzMC00NjU0LThkODYtZDUyMTYwODQ3YWUwXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0069191",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "cxOCB4KhBzk",
-          "video_title": "MovieBlog- 653: Recensione Roma ",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Roma"
-        }
-      ],
-      "director": "Federico Fellini",
-      "it_flatrate": []
     },
     "movie:ralph spacca internet:tt5848272": {
       "id": "movie:ralph spacca internet:tt5848272",
@@ -216005,43 +215673,6 @@
       "director": "William Brent Bell",
       "it_flatrate": []
     },
-    "movie:il libro della giungla:tt0061852": {
-      "id": "movie:il libro della giungla:tt0061852",
-      "imdb_id": "tt0061852",
-      "category": "movie",
-      "it_title": "Il Libro della Giungla",
-      "orig_title": "The Jungle Book",
-      "year": 1967,
-      "cast": "Phil Harris, Sebastian Cabot",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGE4M2NiZDktY2E2MC00ZTY5LWIyMDktZWIxNzQ2OWU2NmQzXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-9a969820-2c25-4cf9-a461-ed84696cdf19"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0061852",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "Gu8LvLqI8RU",
-          "video_title": "FlashVic- 39: Recensione Il Libro della Giungla",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Il Libro della Giungla"
-        }
-      ],
-      "director": "Wolfgang Reitherman",
-      "it_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-9a969820-2c25-4cf9-a461-ed84696cdf19"
-        }
-      ]
-    },
     "movie:un bacio:tt5436082": {
       "id": "movie:un bacio:tt5436082",
       "imdb_id": "tt5436082",
@@ -216143,31 +215774,6 @@
         }
       ],
       "director": "Luca Vecchi",
-      "it_flatrate": []
-    },
-    "movie:il piccolo principe:tt0071762": {
-      "id": "movie:il piccolo principe:tt0071762",
-      "imdb_id": "tt0071762",
-      "category": "movie",
-      "it_title": "Il Piccolo Principe",
-      "orig_title": "The Little Prince",
-      "year": 1974,
-      "cast": "Richard Kiley, Steven Warner",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNmViZDIyMmEtNWQwZS00OTg1LTlkYWYtODNhYmFmYjcxZDU3XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0071762",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "-DOEPyTTvKQ",
-          "video_title": "MovieBlog- 434: recensione Il Piccolo Principe",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Il Piccolo Principe"
-        }
-      ],
-      "director": "Stanley Donen",
       "it_flatrate": []
     },
     "movie:il viaggio di arlo:tt1979388": {
@@ -217087,37 +216693,6 @@
       "director": "Neri Parenti",
       "it_flatrate": []
     },
-    "movie:007- skyfall + festivaltube:tt0090264": {
-      "id": "movie:007- skyfall + festivaltube:tt0090264",
-      "imdb_id": "tt0090264",
-      "category": "movie",
-      "it_title": "007- Skyfall + FestivalTube",
-      "orig_title": "A View to a Kill",
-      "year": 1985,
-      "cast": "Roger Moore, Christopher Walken",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjc3ZTJkZjUtM2E4Mi00YzA1LWJkZTAtM2U0OWUyYTE4YTFiXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0090264",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "VteUPYEKxKY",
-          "video_title": "MovieBlog- 236: Recensione 007- Skyfall + FestivalTube",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "007- Skyfall + FestivalTube"
-        }
-      ],
-      "director": "John Glen",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3b013325-c177-469f-b424-0d40d825ce17"
-        }
-      ]
-    },
     "movie:resident evil: retribution:tt1855325": {
       "id": "movie:resident evil: retribution:tt1855325",
       "imdb_id": "tt1855325",
@@ -217282,31 +216857,6 @@
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3eb817f8-60b3-c77c-b492-e738d9daa6d6"
         }
       ]
-    },
-    "movie:il gatto con gli stivali:tt0064714": {
-      "id": "movie:il gatto con gli stivali:tt0064714",
-      "imdb_id": "tt0064714",
-      "category": "movie",
-      "it_title": "Il Gatto con gli Stivali",
-      "orig_title": "Puss in Boots",
-      "year": 1969,
-      "cast": "Susumu Ishikawa, Toshiko Fujita",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjA1OTU4MDQ4NV5BMl5BanBnXkFtZTcwODcwOTIzMQ@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0064714",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "_2pfjM7W6xQ",
-          "video_title": "MovieBlog- 198: Recensione Il Gatto con gli Stivali",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Il Gatto con gli Stivali"
-        }
-      ],
-      "director": "Kimio Yabuki",
-      "it_flatrate": []
     },
     "movie:i soliti idioti- il film:tt2094019": {
       "id": "movie:i soliti idioti- il film:tt2094019",
@@ -218254,31 +217804,6 @@
         }
       ]
     },
-    "movie:nel nome del padre:tt0067481": {
-      "id": "movie:nel nome del padre:tt0067481",
-      "imdb_id": "tt0067481",
-      "category": "movie",
-      "it_title": "Nel Nome del Padre",
-      "orig_title": "In the Name of the Father",
-      "year": 1971,
-      "cast": "Yves Beneyton, Renato Scarpa",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjU4YTFlMTktMzIxZS00ZDE2LWExMGItZmQ4MGUxNDk4MTBmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0067481",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "PFUyyB5HTX0",
-          "video_title": "MovieBlog- 57: recensione Nel Nome del Padre",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Nel Nome del Padre"
-        }
-      ],
-      "director": "Marco Bellocchio",
-      "it_flatrate": []
-    },
     "movie:grindhouse:tt0462322": {
       "id": "movie:grindhouse:tt0462322",
       "imdb_id": "tt0462322",
@@ -218536,9 +218061,9 @@
       "category": "movie",
       "it_title": "Brutti e cattivi",
       "orig_title": "Brutti e cattivi",
-      "year": null,
+      "year": 2017,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/it/thumb/b/b0/Brutti_e_cattivi_-_Claudio_Santamaria.png/500px-Brutti_e_cattivi_-_Claudio_Santamaria.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "media_type": "movie",
       "ch_flatrate": [],
       "it_flatrate": [],
@@ -252354,31 +251879,6 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0113253"
     },
-    "movie:supergirl: woman of tomorrow:tt15669576": {
-      "id": "movie:supergirl: woman of tomorrow:tt15669576",
-      "imdb_id": "tt15669576",
-      "category": "movie",
-      "it_title": "Supergirl: Woman of Tomorrow",
-      "orig_title": "Supergirl: Woman of Tomorrow",
-      "year": 2015,
-      "director": "",
-      "cast": "",
-      "poster_url": "",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "it_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "2Jp1B3PziRI",
-          "video_title": "MovieBlog- 1090: Recensione Supergirl",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Supergirl"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt15669576"
-    },
     "movie:a classic horror story:tt12877640": {
       "id": "movie:a classic horror story:tt12877640",
       "imdb_id": "tt12877640",
@@ -277988,30 +277488,6 @@
         }
       ],
       "external_url": "https://app.trakt.tv/movies/tt0067372"
-    },
-    "movie:fires on the plain:tt3790516": {
-      "id": "movie:fires on the plain:tt3790516",
-      "imdb_id": "tt3790516",
-      "category": "movie",
-      "it_title": "Fires on the Plain",
-      "orig_title": "Shadywood",
-      "year": null,
-      "director": "",
-      "cast": "Courtney Black, Jennifer Cole",
-      "poster_url": "",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "it_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "nWz0raZhzf4",
-          "video_title": "Le Monografie di Frusciante: Shinya Tsukamoto (Dicembre 2021)",
-          "timestamp": "01:54:22",
-          "seconds": 6862
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt3790516"
     },
     "movie:the nest - il nido:tt8231186": {
       "id": "movie:the nest - il nido:tt8231186",
@@ -313410,33 +312886,6 @@
       "external_url": "https://app.trakt.tv/movies/tt7527682",
       "watchnow_checked": true
     },
-    "movie:stopmotion:tt19849020": {
-      "id": "movie:stopmotion:tt19849020",
-      "imdb_id": "tt19849020",
-      "category": "movie",
-      "it_title": "Stopmotion",
-      "orig_title": "Stop-Motion",
-      "year": 2024,
-      "director": "Robert Morgan",
-      "cast": "Emily Batsford, Paula Ewin",
-      "poster_url": "",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "it_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_stopmotion_2024",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/best24.html",
-          "mentioned_as": "Stopmotion"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt19849020",
-      "watchnow_checked": true
-    },
     "movie:musica:tt19853698": {
       "id": "movie:musica:tt19853698",
       "imdb_id": "tt19853698",
@@ -316134,7 +315583,7 @@
       "year": 2026,
       "director": "Alain Cavalier",
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Margaret_Qualley_at_the_2025_Cannes_Film_Festival_01_%28cropped%29%282%29.jpg/500px-Margaret_Qualley_at_the_2025_Cannes_Film_Festival_01_%28cropped%29%282%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "media_type": "movie",
       "ch_flatrate": [],
       "it_flatrate": [],
@@ -324359,6 +323808,168 @@
           "source": "netflix",
           "name": "Netflix",
           "link": "https://www.netflix.com/title/81522189"
+        }
+      ]
+    },
+    "movie:ragione e sentimento:tt0114388": {
+      "id": "movie:ragione e sentimento:tt0114388",
+      "imdb_id": "tt0114388",
+      "category": "movie",
+      "it_title": "Ragione e sentimento",
+      "orig_title": "Sense and Sensibility",
+      "year": 1995,
+      "cast": "",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2MyZWJhNjktMWQ2My00OTgwLWI1NjEtYjUzM2M2N2M4Mzc4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Francesco Alò",
+          "video_id": "CwxhSqgoMLc",
+          "video_title": "\"Ragione e sentimento\" di Georgia Oakley - recensione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Ragione e sentimento"
+        }
+      ],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0114388",
+      "director": "Ang Lee"
+    },
+    "movie:fuochi nella pianura:tt0053121": {
+      "id": "movie:fuochi nella pianura:tt0053121",
+      "imdb_id": "tt0053121",
+      "category": "movie",
+      "it_title": "Fuochi nella pianura",
+      "orig_title": "Fires on the Plain",
+      "year": 1959,
+      "director": "Kon Ichikawa",
+      "cast": "Courtney Black, Jennifer Cole",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNmQzYzFkZGMtNjM5Ni00NjY0LTkzNWQtN2M2MzVlMTA4Yjk2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "nWz0raZhzf4",
+          "video_title": "Le Monografie di Frusciante: Shinya Tsukamoto (Dicembre 2021)",
+          "timestamp": "01:54:22",
+          "seconds": 6862
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0053121"
+    },
+    "movie:la bibbia:tt0060164": {
+      "id": "movie:la bibbia:tt0060164",
+      "imdb_id": "tt0060164",
+      "category": "movie",
+      "it_title": "La Bibbia",
+      "orig_title": "The Bible: In the Beginning...",
+      "year": 1966,
+      "cast": "",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDE2YWU1YzctMjUxZS00Y2JiLTk1YjUtZWE4ODQ2YTg2MDEzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "O8T6NffE_gg",
+          "video_title": "Patreon: La Bibbia (1966) di John Houston - Minirece richiesta da Helène",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0060164",
+      "director": "John Huston"
+    },
+    "movie:stopmotion:tt14852624": {
+      "id": "movie:stopmotion:tt14852624",
+      "imdb_id": "tt14852624",
+      "category": "movie",
+      "it_title": "Stopmotion",
+      "orig_title": "Stopmotion",
+      "year": 2023,
+      "director": "Robert Morgan",
+      "cast": "Emily Batsford, Paula Ewin",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDE3NTYwNDYtZDY4MS00MmY1LWIzYzItYTcxMGVlYTI1YjQyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_stopmotion_2024",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best24.html",
+          "mentioned_as": "Stopmotion"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt14852624",
+      "watchnow_checked": true
+    },
+    "movie:berserk - l'epoca d'oro - capitolo iii: l'avvento:tt2358913": {
+      "id": "movie:berserk - l'epoca d'oro - capitolo iii: l'avvento:tt2358913",
+      "imdb_id": "tt2358913",
+      "category": "movie",
+      "it_title": "Berserk - L'epoca d'oro - Capitolo III: L'avvento",
+      "orig_title": "Berserk: The Golden Age Arc III - The Advent",
+      "year": 2013,
+      "cast": "Joan Crawford, Ty Hardin",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzNkOGUxOTUtMWVkNy00YjcxLWEzZTYtYTRhNTIwMWFmOGYyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt2358913",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "2YnOF2s5AV0",
+          "video_title": "MovieBlog- 392: Recensione Berserk- L'Epoca D'Oro Capitolo III: L'Avvento",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Berserk- L'Epoca D'Oro Capitolo III: L'Avvento"
+        }
+      ],
+      "director": "Toshiyuki Kubooka",
+      "it_flatrate": []
+    },
+    "movie:malizia:tt0070358": {
+      "id": "movie:malizia:tt0070358",
+      "imdb_id": "tt0070358",
+      "category": "movie",
+      "it_title": "Malizia",
+      "orig_title": "Malizia",
+      "year": 1973,
+      "cast": "",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTBmOTgxZTYtZGIwNi00OTllLTlhZTYtOTBjNTVhNDlhZTczXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "cultpix",
+          "name": "Cultpix",
+          "link": "https://www.cultpix.com/movie/maid-in-sweden/85"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0070358",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "btzMpMeLpeo",
+          "video_title": "Patreon: Malizia (Italia, 1973) di Salvatore Samperi - Minirece richiesta da Alessandro Conrao",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Malizia (Italia, 1973) di Salvatore Samperi"
+        }
+      ],
+      "director": "Salvatore Samperi",
+      "it_flatrate": [
+        {
+          "source": "cultpix",
+          "name": "Cultpix",
+          "link": "https://www.cultpix.com/movie/maid-in-sweden/85"
         }
       ]
     },
