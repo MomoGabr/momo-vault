@@ -154,6 +154,14 @@ def extract_single_movie_from_creator_title(creator, title):
         ):
             return cand, dir_h
 
+    # 4. Formato recente Victorlaszlo88 / generico: "<Titolo Film>: <Commento positivo>"
+    if ":" in title and not t_low.startswith(("movieblog", "criticoni", "live", "speciale", "oscar", "venezia", "cannes")):
+        left = title.split(":", 1)[0].strip(" -–—\"“”")
+        m_dir = re.search(r"\bdi\s+([A-ZÀ-Ú][a-zà-ú\.\-]+\s+[A-ZÀ-Ú][A-ZÀ-Úa-zà-ú\.\-\s]{2,25})", title)
+        dir_h = cd.normalize_director_name(m_dir.group(1)) if m_dir else ""
+        if 2 <= len(left) <= 48 and left.lower() not in ("no spoiler", "spoiler", "recensione", "trailer"):
+            return left, dir_h
+
     return None, ""
 
 

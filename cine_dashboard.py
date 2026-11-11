@@ -2767,12 +2767,13 @@ render();
 async function fetchAllTraktPages(baseUrl, hdrs) {{
   const all = [];
   for (let page = 1; page <= 20; page++) {{
-    const r = await fetch(`${{baseUrl}}?page=${{page}}&limit=250`, {{ headers: hdrs }});
+    const r = await fetch(`${{baseUrl}}?page=${{page}}&limit=250`, {{ headers: hdrs, cache: 'no-store' }});
     if (!r.ok) break;
     const rows = await r.json();
     if (!Array.isArray(rows) || rows.length === 0) break;
     all.push(...rows);
-    if (rows.length < 250) break;
+    const totalPages = parseInt(r.headers.get('X-Pagination-Page-Count') || '1', 10);
+    if (page >= totalPages || rows.length < 250) break;
   }}
   return all;
 }}
