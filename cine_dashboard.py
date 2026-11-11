@@ -1536,16 +1536,48 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
         # Compatta il payload JSON rimuovendo chiavi vuote o ridondanti per dimezzare il peso di index.html
         copy_it.pop("id", None)
         copy_it.pop("rubriche", None)
+        copy_it.pop("director", None)
+        copy_it.pop("watchnow_checked", None)
+        if copy_it.get("orig_title") == copy_it.get("it_title"):
+            copy_it.pop("orig_title", None)
+        if copy_it.get("category") == "movie" and copy_it.get("media_type") == "movie":
+            copy_it.pop("media_type", None)
+        if not copy_it.get("cast"):
+            copy_it.pop("cast", None)
+        if not copy_it.get("directors"):
+            copy_it.pop("directors", None)
+        if not copy_it.get("decade"):
+            copy_it.pop("decade", None)
         if not copy_it.get("ch_flatrate"):
             copy_it.pop("ch_flatrate", None)
+        else:
+            copy_it["ch_flatrate"] = [{"name": p.get("name", ""), "link": p.get("link", "")} for p in copy_it["ch_flatrate"]]
         if not copy_it.get("it_flatrate"):
             copy_it.pop("it_flatrate", None)
+        else:
+            copy_it["it_flatrate"] = [{"name": p.get("name", ""), "link": p.get("link", "")} for p in copy_it["it_flatrate"]]
         if not copy_it.get("my_rating"):
             copy_it.pop("my_rating", None)
         if not copy_it.get("watched"):
             copy_it.pop("watched", None)
         if copy_it.get("imdb_id") and copy_it.get("category") in ("movie", "show"):
             copy_it.pop("external_url", None)
+        slim_recs = []
+        for r in copy_it.get("recommendations", []):
+            rc = {"creator": r.get("creator", "Federico Frusciante")}
+            if r.get("external_rec_url"):
+                rc["external_rec_url"] = r["external_rec_url"]
+            else:
+                if r.get("video_id"):
+                    rc["video_id"] = r["video_id"]
+                if r.get("video_title"):
+                    rc["video_title"] = r["video_title"]
+                if r.get("timestamp") and r["timestamp"] != "00:00":
+                    rc["timestamp"] = r["timestamp"]
+                if r.get("seconds"):
+                    rc["seconds"] = r["seconds"]
+            slim_recs.append(rc)
+        copy_it["recommendations"] = slim_recs
         items_out.append(copy_it)
 
     items_out.sort(

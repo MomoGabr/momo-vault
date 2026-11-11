@@ -149048,63 +149048,6 @@
         }
       ]
     },
-    "movie:uncharted:tt1464335": {
-      "id": "movie:uncharted:tt1464335",
-      "imdb_id": "tt1464335",
-      "category": "movie",
-      "it_title": "Uncharted",
-      "orig_title": "Uncharted",
-      "year": 2022,
-      "cast": "Tom Holland, Mark Wahlberg",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjQxYWNiNzgtOTc2Yi00OGEwLTk5MjAtODdiZTk0ZDJlZGY4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "blue_tv",
-          "name": "blue TV",
-          "link": "https://watchnow.trakt.tv/watchnow/326681522"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1464335",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "95ixwwgOWxw",
-          "video_title": "MovieBlog- 829: Recensione Uncharted",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Uncharted"
-        }
-      ],
-      "director": "Ruben Fleischer",
-      "it_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/300898822"
-        },
-        {
-          "source": "amazon_prime_video_with_ads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://watchnow.trakt.tv/watchnow/300898825"
-        },
-        {
-          "source": "amazonhbomax",
-          "name": "HBO Max (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/300898823"
-        },
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/300898824"
-        },
-        {
-          "source": "now_tv",
-          "name": "Now TV",
-          "link": "https://watchnow.trakt.tv/watchnow/300898821"
-        }
-      ]
-    },
     "movie:captain marvel:tt4154664": {
       "id": "movie:captain marvel:tt4154664",
       "imdb_id": "tt4154664",
@@ -149176,63 +149119,6 @@
           "source": "disney_plus",
           "name": "Disney+",
           "link": "https://watchnow.trakt.tv/watchnow/300798868"
-        }
-      ]
-    },
-    "movie:resident evil: welcome to racoon city:tt6920084": {
-      "id": "movie:resident evil: welcome to racoon city:tt6920084",
-      "imdb_id": "tt6920084",
-      "category": "movie",
-      "it_title": "Resident evil: Welcome to Racoon city",
-      "orig_title": "Resident Evil: Welcome to Raccoon City",
-      "year": 2021,
-      "cast": "Kaya Scodelario, Robbie Amell",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDA5MTZlZDEtYzhiYi00MWIyLWI1NWMtNTA0OGY4NWI5ZGVlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "blue_tv",
-          "name": "blue TV",
-          "link": "https://watchnow.trakt.tv/watchnow/324101077"
-        },
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/324101079"
-        },
-        {
-          "source": "home_of_horror_amazon_channel",
-          "name": "Home of Horror (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/324101078"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt6920084",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "SRnMRrGwhFc",
-          "video_title": "MovieBlog- 813: Recensione Resident Evil: Welcome to Raccoon City",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Resident Evil: Welcome to Raccoon City"
-        }
-      ],
-      "director": "Johannes Roberts",
-      "it_flatrate": [
-        {
-          "source": "amazoninfinity",
-          "name": "Infinity Selection Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f838f20d-e276-4d98-ae2a-79beaf95114c"
-        },
-        {
-          "source": "amazonhbomax",
-          "name": "HBO Max Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f838f20d-e276-4d98-ae2a-79beaf95114c"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://www.hbomax.com/it/en/movie/fd001f77-d71e-4395-bc6f-7f744ea59576"
         }
       ]
     },
@@ -149767,43 +149653,6 @@
         }
       ]
     },
-    "movie:beverly hills cop - axel f:tt3083016": {
-      "id": "movie:beverly hills cop - axel f:tt3083016",
-      "imdb_id": "tt3083016",
-      "category": "movie",
-      "it_title": "Beverly Hills Cop - Axel F",
-      "orig_title": "Beverly Hills Cop: Axel F",
-      "year": 2024,
-      "cast": "Eddie Murphy, Joseph Gordon-Levitt",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDVhYWNkNTUtZWVjMC00Y2M1LWEzNmItZjFiMzA4ZjNiODI4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://watchnow.trakt.tv/watchnow/325538394"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt3083016",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "Gg_K8hq8wxs",
-          "video_title": "MovieBlog- 983: Recensione Un Piedipiatti a Beverly Hills- Axel F",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Un Piedipiatti a Beverly Hills"
-        }
-      ],
-      "director": "Mark Molloy",
-      "it_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/81076856"
-        }
-      ]
-    },
     "movie:ghostbusters: minaccia glaciale:tt21235248": {
       "id": "movie:ghostbusters: minaccia glaciale:tt21235248",
       "imdb_id": "tt21235248",
@@ -149833,37 +149682,6 @@
         }
       ],
       "director": "Gil Kenan",
-      "it_flatrate": []
-    },
-    "movie:madame web:tt11057302": {
-      "id": "movie:madame web:tt11057302",
-      "imdb_id": "tt11057302",
-      "category": "movie",
-      "it_title": "Madame Web",
-      "orig_title": "Madame Web",
-      "year": 2024,
-      "cast": "Dakota Johnson, Sydney Sweeney",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BODViOTZiOTQtOTc4ZC00ZjUxLWEzMjItY2ExMmNlNDliNjE4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9fcf828f-abd4-4278-ad6c-49695d070fa1"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt11057302",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "WL_luuJQGGo",
-          "video_title": "MovieBlog- 954: Recensione Madame Web",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Madame Web"
-        }
-      ],
-      "director": "S.J. Clarkson",
       "it_flatrate": []
     },
     "movie:i soliti idioti 3:tt30832351": {
@@ -150046,85 +149864,6 @@
           "source": "disneyplus",
           "name": "Disney Plus",
           "link": "https://www.disneyplus.com/browse/entity-92243dd0-bcfe-4365-ae76-1fa3cf1a2ab9"
-        }
-      ]
-    },
-    "movie:il principe cerca figlio:tt6802400": {
-      "id": "movie:il principe cerca figlio:tt6802400",
-      "imdb_id": "tt6802400",
-      "category": "movie",
-      "it_title": "Il principe cerca figlio",
-      "orig_title": "Coming 2 America",
-      "year": 2021,
-      "cast": "Eddie Murphy, Arsenio Hall",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2NhODZjMTktOGNmOC00OTllLTk3NWItYzNiNmRlNTYwMTcxXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bb3947-bfad-df23-56c9-b549b4657138"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt6802400",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "qhuYeq1dzd4",
-          "video_title": "MovieBlog- 761: recensione Il Principe Cerca Figlio",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Il Principe Cerca Figlio"
-        }
-      ],
-      "director": "Craig Brewer",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bb3947-bfad-df23-56c9-b549b4657138"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bb3947-bfad-df23-56c9-b549b4657138"
-        }
-      ]
-    },
-    "movie:il ritorno di mary poppins:tt5028340": {
-      "id": "movie:il ritorno di mary poppins:tt5028340",
-      "imdb_id": "tt5028340",
-      "category": "movie",
-      "it_title": "Il ritorno di Mary Poppins",
-      "orig_title": "Mary Poppins Returns",
-      "year": 2018,
-      "cast": "Emily Blunt, Lin-Manuel Miranda",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTk0NDIzMTA1MF5BMl5BanBnXkFtZTgwMzM0MTUzNjM@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/323797809"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt5028340",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "dPFvOmKDhWI",
-          "video_title": "MovieBlog- 636: Recensione Il Ritorno di Mary Poppins ",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Il Ritorno"
-        }
-      ],
-      "director": "Rob Marshall",
-      "it_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-82aa2724-db74-482a-9ba7-d60a3f0c026c"
         }
       ]
     },
@@ -150313,57 +150052,6 @@
         }
       ]
     },
-    "movie:power rangers:tt3717490": {
-      "id": "movie:power rangers:tt3717490",
-      "imdb_id": "tt3717490",
-      "category": "movie",
-      "it_title": "Power Rangers",
-      "orig_title": "Power Rangers",
-      "year": 2017,
-      "cast": "Dacre Montgomery, Naomi Scott",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTA5MzU1NDI4NzBeQTJeQWpwZ15BbWU4MDUxMDQ0NDEy._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt3717490",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "Ca_uQks5rSM",
-          "video_title": "FlashVic- 55: Recensione Power Rangers",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Power Rangers"
-        }
-      ],
-      "director": "Dean Israelite",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d8bac4fd-b0bf-b4ae-9880-e6fc789ae59b"
-        },
-        {
-          "source": "raiplay",
-          "name": "Rai Play",
-          "link": "https://www.raiplay.it/programmi/powerrangers"
-        },
-        {
-          "source": "amazonhbomax",
-          "name": "HBO Max Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d8bac4fd-b0bf-b4ae-9880-e6fc789ae59b"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://www.hbomax.com/it/en/movie/ea45d394-51f4-4976-88f1-0b00b7da5482"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d8bac4fd-b0bf-b4ae-9880-e6fc789ae59b"
-        }
-      ]
-    },
     "movie:game therapy:tt4421344": {
       "id": "movie:game therapy:tt4421344",
       "imdb_id": "tt4421344",
@@ -150535,48 +150223,6 @@
           "source": "amazonparamountplus",
           "name": "Paramount+ Amazon Channel",
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b78f1835-b849-4c8a-b039-b77e07fb20cc"
-        }
-      ]
-    },
-    "movie:non aprite quella porta 3d:tt1572315": {
-      "id": "movie:non aprite quella porta 3d:tt1572315",
-      "imdb_id": "tt1572315",
-      "category": "movie",
-      "it_title": "Non aprite quella porta 3D",
-      "orig_title": "Texas Chainsaw 3D",
-      "year": 2013,
-      "cast": "Alexandra Daddario, Tania Raymonde",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQzMzAyNTE2N15BMl5BanBnXkFtZTcwNzM1NDg2OA@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazonhomeofhorror",
-          "name": "Home of Horror Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b26cc5f0-13f3-4e87-8cc5-458577373ea2"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1572315",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "7VhfZCXy_Ts",
-          "video_title": "MovieBlog- 253: Recensione Non Aprite Quella Porta 3D",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Non Aprite Quella Porta 3D"
-        }
-      ],
-      "director": "John Luessenhop",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fa4658cc-bb48-4177-a3c0-f000270ebbc7"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fa4658cc-bb48-4177-a3c0-f000270ebbc7"
         }
       ]
     },
@@ -152110,43 +151756,6 @@
       "director": "Justin Tipping",
       "it_flatrate": []
     },
-    "movie:oceania 2:tt13622970": {
-      "id": "movie:oceania 2:tt13622970",
-      "imdb_id": "tt13622970",
-      "category": "movie",
-      "it_title": "Oceania 2",
-      "orig_title": "Moana 2",
-      "year": 2024,
-      "cast": "Auli'i Cravalho, Dwayne Johnson",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDUxNThhYTUtYjgxNy00MGQ4LTgzOTEtZjg1YTU5NTcwNThlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-a21ee2fc-421e-4839-bfcc-0bf2ba815875"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt13622970",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "7uBfyO8_ZrQ",
-          "video_title": "Oceania 2: La quintessenza della mediocrità",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Oceania 2"
-        }
-      ],
-      "director": "Dana Ledoux Miller, David Derrick Jr.",
-      "it_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-07a25815-b2d9-4552-88da-3d6e3ccc1275"
-        }
-      ]
-    },
     "movie:10 giorni con i suoi:tt34750678": {
       "id": "movie:10 giorni con i suoi:tt34750678",
       "imdb_id": "tt34750678",
@@ -152171,37 +151780,6 @@
       ],
       "director": "Alessandro Genovesi",
       "it_flatrate": []
-    },
-    "movie:io e te dobbiamo parlare:tt33460024": {
-      "id": "movie:io e te dobbiamo parlare:tt33460024",
-      "imdb_id": "tt33460024",
-      "category": "movie",
-      "it_title": "Io e Te dobbiamo Parlare",
-      "orig_title": "Io e te dobbiamo parlare",
-      "year": 2024,
-      "cast": "Alessandro Siani, Leonardo Pieraccioni",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGRkZjU0NDctMzZlMi00OWI4LTk1YjItNGI3N2RkZjVhY2M3XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt33460024",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "PbyH_5VInS4",
-          "video_title": "\"Io e te dobbiamo parlare\" di Alessandro Siani - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Io e te dobbiamo parlare"
-        }
-      ],
-      "director": "Alessandro Siani",
-      "it_flatrate": [
-        {
-          "source": "raiplay",
-          "name": "Rai Play",
-          "link": "https://www.raiplay.it/programmi/ioetedobbiamoparlare"
-        }
-      ]
     },
     "movie:nenette and boni:tt0117221": {
       "id": "movie:nenette and boni:tt0117221",
@@ -156272,31 +155850,6 @@
       "director": "Elia Kazan",
       "it_flatrate": []
     },
-    "movie:sheep in the box:tt38551209": {
-      "id": "movie:sheep in the box:tt38551209",
-      "imdb_id": "tt38551209",
-      "category": "movie",
-      "it_title": "Sheep in the box",
-      "orig_title": "Sheep in the Box",
-      "year": 2026,
-      "cast": "Haruka Ayase, Daigo Yamamoto",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjliMTBlYWUtMDMwNy00MzQyLWI5NDAtNzZhZTAwN2FiZGFkXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt38551209",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "yc2N8mNwCqM",
-          "video_title": "\"Sheep in the Box\" di Hirokazu Kore-eda - recensione Festival di Cannes 2026 Concorso",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Sheep in the Box"
-        }
-      ],
-      "director": "Hirokazu Kore-eda",
-      "it_flatrate": []
-    },
     "movie:divine comedy:tt37660493": {
       "id": "movie:divine comedy:tt37660493",
       "imdb_id": "tt37660493",
@@ -156327,37 +155880,6 @@
       ],
       "director": "ʿAlī ʿAsgarī",
       "it_flatrate": []
-    },
-    "movie:breve storia d'amore:tt32528560": {
-      "id": "movie:breve storia d'amore:tt32528560",
-      "imdb_id": "tt32528560",
-      "category": "movie",
-      "it_title": "Breve storia d'amore",
-      "orig_title": "A Brief Affair",
-      "year": 2025,
-      "cast": "Pilar Fogliati, Adriano Giannini",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDViMmJlZTQtOGNhMy00NGU2LThkZjQtZjQ3OWFjMzBhMmJlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt32528560",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "vjLq_y2x-jQ",
-          "video_title": "\"Breve storia d'amore\" di Ludovica Rampoldi - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Breve storia d'amore"
-        }
-      ],
-      "director": "Ludovica Rampoldi",
-      "it_flatrate": [
-        {
-          "source": "nowtv",
-          "name": "Now TV",
-          "link": "https://www.nowtv.it/watch/asset/breve-storia-damore/R_612921_HD"
-        }
-      ]
     },
     "movie:nosferatu:tt0091651": {
       "id": "movie:nosferatu:tt0091651",
@@ -209240,81 +208762,6 @@
       "director": "Federico Zampaglione",
       "it_flatrate": []
     },
-    "movie:un tranquillo funerale di famiglia:tt41973396": {
-      "id": "movie:un tranquillo funerale di famiglia:tt41973396",
-      "imdb_id": "tt41973396",
-      "category": "movie",
-      "it_title": "Un tranquillo funerale di famiglia",
-      "orig_title": "Un tranquillo funerale di famiglia",
-      "year": 2026,
-      "cast": "Diego Abatantuono, Dino Abbrescia",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGI0NmM3ZTQtZmRjNy00NzIxLThiYjYtMzlkNTFkOTc1NGYzXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt41973396",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "UAUQWLWqcxg",
-          "video_title": "\"Un tranquillo funerale di famiglia\" di Massimiliano Bruno - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Un tranquillo funerale di famiglia"
-        }
-      ],
-      "director": "Massimiliano Bruno",
-      "it_flatrate": []
-    },
-    "movie:ice cream man:tt36893729": {
-      "id": "movie:ice cream man:tt36893729",
-      "imdb_id": "tt36893729",
-      "category": "movie",
-      "it_title": "Ice Cream Man",
-      "orig_title": "Ice Cream Man",
-      "year": 2026,
-      "cast": "Kiori Mirza Waldman, Carina Battrick",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZWMxMzRhY2YtYzNlNC00OTdjLWFmODgtMTU0ODc0NmQ1OWI3XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt36893729",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "x2JJwv_DtoY",
-          "video_title": "\"Ice Cream Man\" di Eli Roth - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Ice Cream Man"
-        }
-      ],
-      "director": "Eli Roth",
-      "it_flatrate": []
-    },
-    "movie:dio ride:tt37601990": {
-      "id": "movie:dio ride:tt37601990",
-      "imdb_id": "tt37601990",
-      "category": "movie",
-      "it_title": "Dio ride",
-      "orig_title": "Dio ride",
-      "year": 2026,
-      "cast": "Pierfrancesco Favino, Silvio Orlando",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BM2M3Mzk1MjUtMzFjNS00NzZmLThiNTAtMzc0ZTBkNmUxMDgzXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt37601990",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "Q7roE3RA9s0",
-          "video_title": "\"Dio ride\" di Giovanni Veronesi - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Dio ride"
-        }
-      ],
-      "director": "Giovanni Veronesi",
-      "it_flatrate": []
-    },
     "movie:i play rocky:tt11995650": {
       "id": "movie:i play rocky:tt11995650",
       "imdb_id": "tt11995650",
@@ -209475,43 +208922,6 @@
       "director": "Fabrice du Welz",
       "it_flatrate": []
     },
-    "show:due spicci:tt38821531": {
-      "id": "show:due spicci:tt38821531",
-      "imdb_id": "tt38821531",
-      "category": "show",
-      "it_title": "Due spicci",
-      "orig_title": "My Two Cents",
-      "year": 2026,
-      "cast": "Zerocalcare, Valerio Mastandrea",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGQ0NzAwOTktNDNjYi00NzA2LWI4NGQtZjEwZGZhMTQzNDVlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "show",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/81738479"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/shows/tt38821531",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "t84GFVYc1gE",
-          "video_title": "\"Due spicci\" di Zerocalcare - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Due spicci"
-        }
-      ],
-      "director": "Zerocalcare",
-      "it_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/81738479"
-        }
-      ]
-    },
     "movie:coward:tt39328391": {
       "id": "movie:coward:tt39328391",
       "imdb_id": "tt39328391",
@@ -209535,31 +208945,6 @@
         }
       ],
       "director": "Lukas Dhont",
-      "it_flatrate": []
-    },
-    "movie:the man i love:tt37522972": {
-      "id": "movie:the man i love:tt37522972",
-      "imdb_id": "tt37522972",
-      "category": "movie",
-      "it_title": "The Man I Love",
-      "orig_title": "The Man I Love",
-      "year": 2026,
-      "cast": "Rebecca Hall, Rami Malek",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTMyODZhMzctYzQyZC00ZWJkLWI0OTAtZmRlOWU5Yzc3MjMwXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt37522972",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "-1DCkzvAbas",
-          "video_title": "\"The Man I Love\" di Ira Sachs - recensione Festival di Cannes 2026 Concorso",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "The Man I Love"
-        }
-      ],
-      "director": "Ira Sachs",
       "it_flatrate": []
     },
     "movie:amarga navidad:tt28088049": {
@@ -209754,31 +209139,6 @@
         }
       ]
     },
-    "movie:nel tepore del ballo:tt36895992": {
-      "id": "movie:nel tepore del ballo:tt36895992",
-      "imdb_id": "tt36895992",
-      "category": "movie",
-      "it_title": "Nel tepore del ballo",
-      "orig_title": "Nel tepore del ballo",
-      "year": 2026,
-      "cast": "Massimo Ghini, Isabella Ferrari",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNWZlN2NmNzAtZjM1Mi00M2NlLWJjZGUtZGMwY2UwMTRlMzk2XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt36895992",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "7ccTxe0u2Vs",
-          "video_title": "\"Nel tepore del ballo\" di Pupi Avati - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Nel tepore del ballo"
-        }
-      ],
-      "director": "Pupi Avati",
-      "it_flatrate": []
-    },
     "movie:yellow letters:tt32888226": {
       "id": "movie:yellow letters:tt32888226",
       "imdb_id": "tt32888226",
@@ -209814,53 +209174,6 @@
       ],
       "director": "İlker Çatak",
       "it_flatrate": []
-    },
-    "movie:the long walk:tt10374610": {
-      "id": "movie:the long walk:tt10374610",
-      "imdb_id": "tt10374610",
-      "category": "movie",
-      "it_title": "The Long Walk",
-      "orig_title": "The Long Walk",
-      "year": 2025,
-      "cast": "Cooper Hoffman, David Jonsson",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNmE4YmIxNWQtMzJhMy00NDI5LWFmYjEtMGYyMmFhNzdjODVmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "skysvod",
-          "name": "Sky",
-          "link": "https://show.sky.ch/en/title/125590"
-        },
-        {
-          "source": "canalplus",
-          "name": "Canal+",
-          "link": "https://www.canalplus.com/ch/cinema/marche-ou-creve/h/30437465_50001"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt10374610",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "BexU-J_bzy0",
-          "video_title": "\"The Long Walk\" di Francis Lawrence - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "The Long Walk"
-        }
-      ],
-      "director": "Francis Lawrence",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.18a25211-9c29-47dd-bfa0-4433a2093974"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.18a25211-9c29-47dd-bfa0-4433a2093974"
-        }
-      ]
     },
     "movie:la salita:tt38778417": {
       "id": "movie:la salita:tt38778417",
@@ -210232,53 +209545,6 @@
       "director": "Gabriele Muccino",
       "it_flatrate": []
     },
-    "movie:return to silent hill:tt22868010": {
-      "id": "movie:return to silent hill:tt22868010",
-      "imdb_id": "tt22868010",
-      "category": "movie",
-      "it_title": "Return To Silent Hill",
-      "orig_title": "Return to Silent Hill",
-      "year": 2026,
-      "cast": "Jeremy Irvine, Hannah Emily Anderson",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOWVjYjU0ZTAtNGVlNi00NGM1LTgzZjctNTZjMjAyYTc4N2VlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "canalplus",
-          "name": "Canal+",
-          "link": "https://www.canalplus.com/ch/cinema/retour-a-silent-hill/h/31399288_50001"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://www.hbomax.com/ch/en/movie/9d2d993d-5600-423e-81e3-1aa1f3ab8017"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt22868010",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "PLCFNiM3ee0",
-          "video_title": "\"Return To Silent Hill\" di Christophe Gans - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Return To Silent Hill"
-        }
-      ],
-      "director": "Christophe Gans",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.26b146c0-de76-4b81-8d5d-5ec83e97b917"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.26b146c0-de76-4b81-8d5d-5ec83e97b917"
-        }
-      ]
-    },
     "movie:2 cuori e 2 capanne:tt36284371": {
       "id": "movie:2 cuori e 2 capanne:tt36284371",
       "imdb_id": "tt36284371",
@@ -210385,31 +209651,6 @@
       "director": "Vincenzo Alfieri",
       "it_flatrate": []
     },
-    "movie:fuori la verità:tt35301687": {
-      "id": "movie:fuori la verità:tt35301687",
-      "imdb_id": "tt35301687",
-      "category": "movie",
-      "it_title": "Fuori la verità",
-      "orig_title": "Fuori la verità",
-      "year": 2025,
-      "cast": "Claudio Amendola, Claudia Gerini",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNWZjMjU4NGEtYTEwMi00ZmVjLTkwZjktMDMzN2EwY2VhNjgxXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt35301687",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "j5EGrwK_Mqk",
-          "video_title": "\"Fuori la verità\" di Davide Minnella - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Fuori la verità"
-        }
-      ],
-      "director": "Davide Minnella",
-      "it_flatrate": []
-    },
     "movie:cinque secondi:tt34960684": {
       "id": "movie:cinque secondi:tt34960684",
       "imdb_id": "tt34960684",
@@ -210497,31 +209738,6 @@
       "director": "Riccardo Milani",
       "it_flatrate": []
     },
-    "movie:tre ciotole:tt35705184": {
-      "id": "movie:tre ciotole:tt35705184",
-      "imdb_id": "tt35705184",
-      "category": "movie",
-      "it_title": "Tre ciotole",
-      "orig_title": "Three Goodbyes",
-      "year": 2025,
-      "cast": "Alba Rohrwacher, Elio Germano",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzJmNzE3MTAtNmFlNC00MGJlLTljMGUtY2IwZDI5MGZiNWJlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt35705184",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "zthxHioQ-sA",
-          "video_title": "\"Tre ciotole\" di Isabel Coixet - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Tre ciotole"
-        }
-      ],
-      "director": "Isabel Coixet",
-      "it_flatrate": []
-    },
     "movie:l'isola di andrea:tt37660550": {
       "id": "movie:l'isola di andrea:tt37660550",
       "imdb_id": "tt37660550",
@@ -210571,53 +209787,6 @@
       ],
       "it_flatrate": []
     },
-    "movie:honey don't!:tt30645201": {
-      "id": "movie:honey don't!:tt30645201",
-      "imdb_id": "tt30645201",
-      "category": "movie",
-      "it_title": "Honey Don't!",
-      "orig_title": "Honey Don't!",
-      "year": 2025,
-      "cast": "Margaret Qualley, Aubrey Plaza",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmRkNGJmNWUtNjVkMC00NTJhLTk5N2UtYmZlODdmM2UzNTRlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "skysvod",
-          "name": "Sky",
-          "link": "https://show.sky.ch/en/title/125094"
-        },
-        {
-          "source": "canalplus",
-          "name": "Canal+",
-          "link": "https://www.canalplus.com/ch/cinema/honey-dont-/h/30928548_50001"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt30645201",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "Y2VzfB0LXGE",
-          "video_title": "\"Honey Don't!\" di Ethan Coen - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Honey Don't!"
-        }
-      ],
-      "director": "Ethan Coen",
-      "it_flatrate": [
-        {
-          "source": "skygo",
-          "name": "Sky Go",
-          "link": "https://skygo.sky.it/"
-        },
-        {
-          "source": "nowtv",
-          "name": "Now TV",
-          "link": "https://www.nowtv.it/watch/asset/honey-dont/R_619397_HD"
-        }
-      ]
-    },
     "movie:un film fatto per bene:tt30874362": {
       "id": "movie:un film fatto per bene:tt30874362",
       "imdb_id": "tt30874362",
@@ -210641,31 +209810,6 @@
         }
       ],
       "director": "Franco Maresco",
-      "it_flatrate": []
-    },
-    "movie:elisa:tt37660578": {
-      "id": "movie:elisa:tt37660578",
-      "imdb_id": "tt37660578",
-      "category": "movie",
-      "it_title": "Elisa",
-      "orig_title": "Elisa",
-      "year": 2025,
-      "cast": "Barbara Ronchi, Roschdy Zem",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTJiMTdmMmEtYTQ5Zi00YmEyLWE4ODktMGYyNTM5YTM4MGYwXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt37660578",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "lXE-8AwZU64",
-          "video_title": "\"Elisa\" di Leonardo Di Costanzo -  recensione Mostra Cinema di Venezia 2025 edizione 82 - Concorso",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Elisa"
-        }
-      ],
-      "director": "Leonardo Di Costanzo",
       "it_flatrate": []
     },
     "movie:l'étranger:tt0176354": {
@@ -210774,31 +209918,6 @@
       "director": "ʾIskandar Qubṭī",
       "it_flatrate": []
     },
-    "movie:albatross:tt30564758": {
-      "id": "movie:albatross:tt30564758",
-      "imdb_id": "tt30564758",
-      "category": "movie",
-      "it_title": "Albatross",
-      "orig_title": "Albatross",
-      "year": 2025,
-      "cast": "Francesco Centorame, Giancarlo Giannini",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzRjNzE1NTItYjljMC00ZDNkLTgxNmEtOTYwOWM1ZTVmZTQ2XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt30564758",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "0Dq2BvpRO-M",
-          "video_title": "\"Albatross\" di Giulio Base - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Albatross"
-        }
-      ],
-      "director": "Giulio Base",
-      "it_flatrate": []
-    },
     "movie:mani nude:tt32047555": {
       "id": "movie:mani nude:tt32047555",
       "imdb_id": "tt32047555",
@@ -210853,37 +209972,6 @@
         }
       ],
       "director": "Sa'id Rustayi",
-      "it_flatrate": []
-    },
-    "movie:fuori:tt34768402": {
-      "id": "movie:fuori:tt34768402",
-      "imdb_id": "tt34768402",
-      "category": "movie",
-      "it_title": "Fuori",
-      "orig_title": "Fuori",
-      "year": 2025,
-      "cast": "Valeria Golino, Ondina Quadri",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2Q1ZGQ0MmMtNWFkYi00OWRiLWFjMTktYzY0NDE0MmIxYjFkXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "filmingo",
-          "name": "filmingo",
-          "link": "https://www.filmingo.ch/de/films/2338-fuori"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt34768402",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "a8uTgODNCIc",
-          "video_title": "\"Fuori\" di Mario Martone - recensione Festival di Cannes 2025 edizione 78 - Concorso",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Fuori"
-        }
-      ],
-      "director": "Mario Martone",
       "it_flatrate": []
     },
     "movie:dossier 137:tt34794183": {
@@ -211032,31 +210120,6 @@
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6ab017fb-7662-4c65-989b-4d5638380d1f"
         }
       ]
-    },
-    "movie:il caso belle steiner:tt27834531": {
-      "id": "movie:il caso belle steiner:tt27834531",
-      "imdb_id": "tt27834531",
-      "category": "movie",
-      "it_title": "Il caso Belle Steiner",
-      "orig_title": "Life of Belle",
-      "year": 2024,
-      "cast": "Guillaume Canet, Charlotte Gainsbourg",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjVhNTM5MDYtMWU4OC00YzViLTgxMDQtMDY1MjBjMDM2OTQxXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt27834531",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "NYpA867nrfI",
-          "video_title": "\"Il caso Belle Steiner\" di  Benoît Jacquot - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Il caso Belle Steiner"
-        }
-      ],
-      "director": "Benoît Jacquot",
-      "it_flatrate": []
     },
     "movie:il nibbio:tt31702278": {
       "id": "movie:il nibbio:tt31702278",
@@ -211338,31 +210401,6 @@
         }
       ]
     },
-    "movie:buongiorno papà:tt2751576": {
-      "id": "movie:buongiorno papà:tt2751576",
-      "imdb_id": "tt2751576",
-      "category": "movie",
-      "it_title": "BUONGIORNO PAPÀ",
-      "orig_title": "Out of the Blue",
-      "year": 2013,
-      "cast": "Raoul Bova, Marco Giallini",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjFiNjRjNTctNTRhMS00NzQ3LWI1NTQtNmU3ODc3YzY0ZjA5XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt2751576",
-      "recommendations": [
-        {
-          "creator": "I Criticoni",
-          "video_id": "JBA4YinNjyw",
-          "video_title": "Reaction ad Alò in “BUONGIORNO PAPÀ” + recensione “MEGALOPOLIS” | Criticoni Talk #10",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "BUONGIORNO PAPÀ"
-        }
-      ],
-      "director": "Edoardo Leo",
-      "it_flatrate": []
-    },
     "movie:iddu - l'ultimo padrino:tt28297850": {
       "id": "movie:iddu - l'ultimo padrino:tt28297850",
       "imdb_id": "tt28297850",
@@ -211473,68 +210511,6 @@
         }
       ]
     },
-    "movie:hustle:tt8009428": {
-      "id": "movie:hustle:tt8009428",
-      "imdb_id": "tt8009428",
-      "category": "movie",
-      "it_title": "HUSTLE",
-      "orig_title": "Hustle",
-      "year": 2022,
-      "cast": "Adam Sandler, Queen Latifah",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzA4ODRlMjktMDEyNS00NTg5LWEwYTAtNTExODI1ZDE2ZmYwXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/80242342"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt8009428",
-      "recommendations": [
-        {
-          "creator": "Mr. Marra",
-          "video_id": "VEG2eBbt-Sc",
-          "video_title": "Ho visto “HUSTLE” con Adam Sandler (NETFLIX)… | Recensione No Spoiler",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "HUSTLE"
-        }
-      ],
-      "director": "Jeremiah Zagar",
-      "it_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/80242342"
-        }
-      ]
-    },
-    "movie:metti la nonna in freezer:tt6982104": {
-      "id": "movie:metti la nonna in freezer:tt6982104",
-      "imdb_id": "tt6982104",
-      "category": "movie",
-      "it_title": "METTI LA NONNA IN FREEZER",
-      "orig_title": "Put Grandma in the Freezer",
-      "year": 2018,
-      "cast": "Fabio De Luigi, Miriam Leone",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDE0ZTFjZGYtYmEyZi00ODZjLWFiNzQtZDFmNTNlNzc1YjUwXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt6982104",
-      "recommendations": [
-        {
-          "creator": "Mr. Marra",
-          "video_id": "8hseu_pQWRM",
-          "video_title": "Recensione METTI LA NONNA IN FREEZER (No Spoiler)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "METTI LA NONNA IN FREEZER"
-        }
-      ],
-      "director": "Giancarlo Fontana, Giuseppe G. Stasi",
-      "it_flatrate": []
-    },
     "movie:verity:tt32261958": {
       "id": "movie:verity:tt32261958",
       "imdb_id": "tt32261958",
@@ -211558,31 +210534,6 @@
         }
       ],
       "director": "Michael Showalter",
-      "it_flatrate": []
-    },
-    "movie:la città dei vivi:tt40071725": {
-      "id": "movie:la città dei vivi:tt40071725",
-      "imdb_id": "tt40071725",
-      "category": "movie",
-      "it_title": "La città dei vivi",
-      "orig_title": "The City of the Living",
-      "year": 2026,
-      "cast": "Emanuele Maria Di Stefano, Michele Valerio Legrottaglie",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTUyZDc5ZDMtZTQ1Zi00OTg3LWIzNWYtYTFmY2Y4NmYwNjMwXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt40071725",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "w_TpTY_qb20",
-          "video_title": "\"La città dei vivi\" di Edoardo Gabriellini - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "La città dei vivi"
-        }
-      ],
-      "director": "Edoardo Gabbriellini",
       "it_flatrate": []
     },
     "movie:maigret - l'amore e la morte:tt33509147": {
@@ -211780,85 +210731,6 @@
       ],
       "director": "Steven C Miller",
       "it_flatrate": []
-    },
-    "movie:ilbuco:tt27729779": {
-      "id": "movie:ilbuco:tt27729779",
-      "imdb_id": "tt27729779",
-      "category": "movie",
-      "it_title": "IlBuco",
-      "orig_title": "The Platform 2",
-      "year": 2024,
-      "cast": "Milena Smit, Hovik Keuchkerian",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzI4YjkyODctMGJmNC00YjBjLTllNjAtNDkxNTJmZjg4MGZkXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/81284730"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt27729779",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "fxDkH0OQ0UY",
-          "video_title": "MovieBlog- 993: Recensione IlBuco- Capitolo 2",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "IlBuco"
-        }
-      ],
-      "director": "Galder Gaztelu-Urrutia",
-      "it_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/81284730"
-        }
-      ]
-    },
-    "movie:the watchers:tt26736843": {
-      "id": "movie:the watchers:tt26736843",
-      "imdb_id": "tt26736843",
-      "category": "movie",
-      "it_title": "The Watchers",
-      "orig_title": "The Watchers",
-      "year": 2024,
-      "cast": "Dakota Fanning, Georgina Campbell",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2I3MjIzYzMtNDkxNS00ZDIzLWEzZjktNDJlZDZlOGZlMTMxXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/81776691"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://www.hbomax.com/ch/en/movie/2f65d5d2-d874-4030-91bd-ed40c408168c"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt26736843",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "SojtxtK6bi4",
-          "video_title": "MovieBlog- 979: Recensione The Watchers- Loro Ti Guardano",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "The Watchers"
-        }
-      ],
-      "director": "Ishana Night Shyamalan",
-      "it_flatrate": [
-        {
-          "source": "timvision",
-          "name": "Timvision",
-          "link": "https://www.timvision.it/h/9060230608_92900005?autoplay=true&utm_source=googleAssistant&utm_medium=app-to-app"
-        }
-      ]
     },
     "movie:monkey man:tt9214772": {
       "id": "movie:monkey man:tt9214772",
@@ -212853,43 +211725,6 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt8332922"
     },
-    "movie:the mandalorian & grogu:tt30825738": {
-      "id": "movie:the mandalorian & grogu:tt30825738",
-      "imdb_id": "tt30825738",
-      "category": "movie",
-      "it_title": "The Mandalorian & Grogu",
-      "orig_title": "Star Wars: The Mandalorian and Grogu",
-      "year": 2026,
-      "cast": "Pedro Pascal, Brendan Wayne",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjRkYzAzNjktZmRhMy00NjRiLWE0OTMtYmRmMTE5NDkzY2NlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-d830ec57-499e-498c-b6b3-2b85a18a5f51"
-        }
-      ],
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "Iy9UQZ0SnTo",
-          "video_title": "MovieBlog- 1084: Recensione The Mandalorian e Grogu",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "The Mandalorian e Grogu"
-        }
-      ],
-      "director": "Jon Favreau",
-      "it_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-d830ec57-499e-498c-b6b3-2b85a18a5f51"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt30825738"
-    },
     "movie:the equalizer 3:tt17024450": {
       "id": "movie:the equalizer 3:tt17024450",
       "imdb_id": "tt17024450",
@@ -212978,36 +211813,6 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt3915174"
     },
-    "movie:dampyr:tt10315050": {
-      "id": "movie:dampyr:tt10315050",
-      "imdb_id": "tt10315050",
-      "category": "movie",
-      "it_title": "Dampyr",
-      "orig_title": "Dampyr",
-      "year": 2022,
-      "cast": "Wade Briggs, Stuart Martin",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzAwMzMxYzktZmEyOC00ODc2LWFiMGQtYTBjZGY0OGZlYzU0XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "3quMnuPRRzo",
-          "video_title": "MovieBlog- 871: Recensione Dampyr",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Dampyr"
-        }
-      ],
-      "it_flatrate": [
-        {
-          "source": "amazoninfinity",
-          "name": "Infinity Selection Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.79db6c2d-251e-4549-9807-697f4129134b"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt10315050"
-    },
     "movie:paura e delirio a las vegas:tt0120669": {
       "id": "movie:paura e delirio a las vegas:tt0120669",
       "imdb_id": "tt0120669",
@@ -213062,30 +211867,6 @@
       ],
       "it_flatrate": [],
       "external_url": "https://app.trakt.tv/movies/tt32376465"
-    },
-    "movie:street fighter:tt6646876": {
-      "id": "movie:street fighter:tt6646876",
-      "imdb_id": "tt6646876",
-      "category": "movie",
-      "it_title": "Street Fighter",
-      "orig_title": "Antrenorul #2",
-      "year": 2016,
-      "cast": "Mihai Bobonete, Marius Chivu",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzdkZDkwYzUtNTcxYi00YTQyLTkyZTAtN2RlOTNlOTlkYTNhXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "J81dgwMaEQI",
-          "video_title": "MovieBlog- 1112: Recensione Street Fighter ",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Street Fighter"
-        }
-      ],
-      "it_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt6646876"
     },
     "movie:scary movie 6:tt32094375": {
       "id": "movie:scary movie 6:tt32094375",
@@ -213235,62 +212016,6 @@
           "source": "amazonprimevideowithads",
           "name": "Amazon Prime Video with Ads",
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ab860dd-cbb2-7bf0-4044-faaaa83f532e"
-        }
-      ]
-    },
-    "movie:odio l'estate:tt10492998": {
-      "id": "movie:odio l'estate:tt10492998",
-      "imdb_id": "tt10492998",
-      "category": "movie",
-      "it_title": "Odio L'Estate",
-      "orig_title": "I Hate Summer",
-      "year": 2020,
-      "cast": "Aldo Baglio, Giovanni Storti",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BODliODU0YzgtN2I3ZS00YzdiLThjMzAtN2FhYzJjODU0NTU0XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt10492998",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "P_1CWSLPd4c",
-          "video_title": "MovieBlog- 719: Recensione Odio L'Estate",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Odio L'Estate"
-        }
-      ],
-      "director": "Massimo Venier",
-      "it_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/81232462"
-        },
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-b8afd659-d253-4bb3-a78f-82de451b7b99"
-        },
-        {
-          "source": "skygo",
-          "name": "Sky Go",
-          "link": "https://skygo.sky.it/"
-        },
-        {
-          "source": "nowtv",
-          "name": "Now TV",
-          "link": "https://www.nowtv.it/watch/asset/odio-lestate/R_598470_HD"
-        },
-        {
-          "source": "mediasetplay",
-          "name": "Mediaset Infinity",
-          "link": "https://mediasetinfinity.mediaset.it/movie/odiolestate/odio-lestate_F307566901000101"
-        },
-        {
-          "source": "amazoninfinity",
-          "name": "Infinity Selection Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b8e27b-151e-8b44-c756-21dd32f0256b"
         }
       ]
     },
@@ -213764,99 +212489,6 @@
       "director": "Paolo Sorrentino",
       "it_flatrate": []
     },
-    "movie:the cloverfield paradox:tt2548396": {
-      "id": "movie:the cloverfield paradox:tt2548396",
-      "imdb_id": "tt2548396",
-      "category": "movie",
-      "it_title": "The Cloverfield Paradox",
-      "orig_title": "The Cloverfield Paradox",
-      "year": 2018,
-      "cast": "Gugu Mbatha-Raw, David Oyelowo",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTAwOTIxMDA0MjZeQTJeQWpwZ15BbWU4MDg1MjgzNzQz._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/80134431"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt2548396",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "306MHuFD4zw",
-          "video_title": "MovieBlog- 585: Recensione The Cloverfield Paradox",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "The Cloverfield Paradox"
-        }
-      ],
-      "director": "Julius Onah",
-      "it_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/80134431"
-        }
-      ]
-    },
-    "movie:il ragazzo invisibile- seconda generazione:tt5981944": {
-      "id": "movie:il ragazzo invisibile- seconda generazione:tt5981944",
-      "imdb_id": "tt5981944",
-      "category": "movie",
-      "it_title": "Il Ragazzo Invisibile- Seconda Generazione",
-      "orig_title": "The Invisible Boy: Second Generation",
-      "year": 2018,
-      "cast": "Ludovico Girardello, Ksenia Rappoport",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzM3YjM5MjUtZjNlZC00ZWMxLTlmNDctNTc0YzA3NDc5MjJmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt5981944",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "OYl35V6TGgA",
-          "video_title": "MovieBlog- 575: Recensione Il Ragazzo Invisibile- Seconda Generazione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Il Ragazzo Invisibile- Seconda Generazione"
-        }
-      ],
-      "director": "Gabriele Salvatores",
-      "it_flatrate": [
-        {
-          "source": "raiplay",
-          "name": "Rai Play",
-          "link": "https://www.raiplay.it/programmi/ilragazzoinvisibile-secondagenerazione"
-        }
-      ]
-    },
-    "movie:voldemort- origins of the heir:tt6977356": {
-      "id": "movie:voldemort- origins of the heir:tt6977356",
-      "imdb_id": "tt6977356",
-      "category": "movie",
-      "it_title": "Voldemort- Origins of the Heir",
-      "orig_title": "Voldemort: Origins of the Heir",
-      "year": 2018,
-      "cast": "Stefan Chanyaem, Aurora Moroni",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjZkYTA0ZjgtN2FjMS00ZGQ4LTk5NjMtMjk1NzU4ZTI5YzNiXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt6977356",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "5t1XbXjbhqA",
-          "video_title": "MovieBlog- 574: recensione Voldemort- Origins of the Heir",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Voldemort- Origins of the Heir"
-        }
-      ],
-      "director": "Gianmaria Pezzato",
-      "it_flatrate": []
-    },
     "movie:seoul station:  (spoiler):tt3845670": {
       "id": "movie:seoul station:  (spoiler):tt3845670",
       "imdb_id": "tt3845670",
@@ -213948,48 +212580,6 @@
           "source": "netflix",
           "name": "Netflix",
           "link": "https://www.netflix.com/title/80091936"
-        }
-      ]
-    },
-    "movie:la torre nera:tt1648190": {
-      "id": "movie:la torre nera:tt1648190",
-      "imdb_id": "tt1648190",
-      "category": "movie",
-      "it_title": "La Torre Nera",
-      "orig_title": "The Dark Tower",
-      "year": 2017,
-      "cast": "Idris Elba, Matthew McConaughey",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU3MjUwMzQ3MF5BMl5BanBnXkFtZTgwMjcwNjkxMjI@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8aecd3a-8804-3125-1027-61ab635ad4a6"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1648190",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "w_FH49d3jm4",
-          "video_title": "MovieBlog- 545: Recensione La Torre Nera",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "La Torre Nera"
-        }
-      ],
-      "director": "Nicolaj Arcel",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8aecd3a-8804-3125-1027-61ab635ad4a6"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8aecd3a-8804-3125-1027-61ab635ad4a6"
         }
       ]
     },
@@ -214235,78 +212825,6 @@
       "director": "Mamoru Oshii",
       "it_flatrate": []
     },
-    "movie:kong skull island:tt3731562": {
-      "id": "movie:kong skull island:tt3731562",
-      "imdb_id": "tt3731562",
-      "category": "movie",
-      "it_title": "Kong Skull Island",
-      "orig_title": "Kong: Skull Island",
-      "year": 2017,
-      "cast": "Tom Hiddleston, Samuel L. Jackson",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTcwMjcxYTQtYjJlOS00YTE1LWIyZGYtOGRlOTBlMWZmYTliXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/80139562"
-        },
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.94ad53a7-e148-2c1e-53cd-411ed1631deb"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://www.hbomax.com/ch/en/movie/123af3e3-10e3-41a6-bb0a-5cfb652fe774"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt3731562",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "Tfk6lpyjuUw",
-          "video_title": "FlashVic- 52: Recensione Kong Skull Island",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Kong Skull Island"
-        }
-      ],
-      "director": "Jordan Vogt-Roberts",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.94ad53a7-e148-2c1e-53cd-411ed1631deb"
-        },
-        {
-          "source": "skygo",
-          "name": "Sky Go",
-          "link": "https://skygo.sky.it/"
-        },
-        {
-          "source": "nowtv",
-          "name": "Now TV",
-          "link": "https://www.nowtv.it/watch/asset/kong-skull-island/R_204970_HD"
-        },
-        {
-          "source": "amazonhbomax",
-          "name": "HBO Max Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.94ad53a7-e148-2c1e-53cd-411ed1631deb"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://www.hbomax.com/it/en/movie/123af3e3-10e3-41a6-bb0a-5cfb652fe774"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.94ad53a7-e148-2c1e-53cd-411ed1631deb"
-        }
-      ]
-    },
     "movie:il padre d'italia:tt5612576": {
       "id": "movie:il padre d'italia:tt5612576",
       "imdb_id": "tt5612576",
@@ -214341,53 +212859,6 @@
           "source": "raiplay",
           "name": "Rai Play",
           "link": "https://www.raiplay.it/programmi/ilpadreditalia"
-        }
-      ]
-    },
-    "movie:jackie:tt1619029": {
-      "id": "movie:jackie:tt1619029",
-      "imdb_id": "tt1619029",
-      "category": "movie",
-      "it_title": "Jackie",
-      "orig_title": "Jackie",
-      "year": 2016,
-      "cast": "Natalie Portman, Peter Sarsgaard",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzg4MjYzNjk5N15BMl5BanBnXkFtZTgwODgwODI3MDI@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netzkino",
-          "name": "Netzkino",
-          "link": "https://www.netzkino.de/details/jackie"
-        },
-        {
-          "source": "filmingo",
-          "name": "filmingo",
-          "link": "https://www.filmingo.ch/de/films/1851-jackie"
-        },
-        {
-          "source": "cinu",
-          "name": "Cinu",
-          "link": "https://www.cinu.ch/de-ch/film/jackie.html"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1619029",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "t5TWICclVZ8",
-          "video_title": "MovieBlog- 521: Recensione Jackie ",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Jackie"
-        }
-      ],
-      "director": "Pablo Larraín",
-      "it_flatrate": [
-        {
-          "source": "timvision",
-          "name": "Timvision",
-          "link": "https://www.timvision.it/h/9050682211_92900001?autoplay=true&utm_source=googleAssistant&utm_medium=app-to-app"
         }
       ]
     },
@@ -214475,48 +212946,6 @@
           "source": "amazonprimevideowithads",
           "name": "Amazon Prime Video with Ads",
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64094ba9-73ba-4be3-9b1c-c9ece59e9cb8"
-        }
-      ]
-    },
-    "movie:collateral beauty:tt4682786": {
-      "id": "movie:collateral beauty:tt4682786",
-      "imdb_id": "tt4682786",
-      "category": "movie",
-      "it_title": "Collateral Beauty",
-      "orig_title": "Collateral Beauty",
-      "year": 2016,
-      "cast": "Will Smith, Edward Norton",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ5ODE4MTY2NV5BMl5BanBnXkFtZTgwMzM2NzEzMDI@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/80116204"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt4682786",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "qalT-orlAS8",
-          "video_title": "MovieBlog- 507: Recensione Collateral Beauty",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Collateral Beauty"
-        }
-      ],
-      "director": "David Frankel",
-      "it_flatrate": [
-        {
-          "source": "skygo",
-          "name": "Sky Go",
-          "link": "https://skygo.sky.it/"
-        },
-        {
-          "source": "nowtv",
-          "name": "Now TV",
-          "link": "https://www.nowtv.it/watch/asset/collateral-beauty/R_200543_HD"
         }
       ]
     },
@@ -214654,43 +213083,6 @@
         }
       ]
     },
-    "movie:independence day- rigenerazione:tt1628841": {
-      "id": "movie:independence day- rigenerazione:tt1628841",
-      "imdb_id": "tt1628841",
-      "category": "movie",
-      "it_title": "Independence Day- Rigenerazione",
-      "orig_title": "Independence Day: Resurgence",
-      "year": 2016,
-      "cast": "Liam Hemsworth, Jeff Goldblum",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjIyMTg5MTg4OV5BMl5BanBnXkFtZTgwMzkzMjY5NzE@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-53ddc102-bbcc-4afa-a5cd-b07b021e9501"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1628841",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "6Vg6sJqLMx8",
-          "video_title": "MovieBlog- 485: Recensione Independence Day- Rigenerazione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Independence Day- Rigenerazione"
-        }
-      ],
-      "director": "Roland Emmerich",
-      "it_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-53ddc102-bbcc-4afa-a5cd-b07b021e9501"
-        }
-      ]
-    },
     "movie:escobar- paradise lost:tt2515030": {
       "id": "movie:escobar- paradise lost:tt2515030",
       "imdb_id": "tt2515030",
@@ -214730,37 +213122,6 @@
           "source": "wuaki",
           "name": "Rakuten TV",
           "link": "https://www.rakuten.tv/it/movies/escobar-paradise-lost"
-        }
-      ]
-    },
-    "movie:lo chiamavano trinità:tt0067355": {
-      "id": "movie:lo chiamavano trinità:tt0067355",
-      "imdb_id": "tt0067355",
-      "category": "movie",
-      "it_title": "Lo Chiamavano Trinità",
-      "orig_title": "They Call Me Trinity",
-      "year": 1970,
-      "cast": "Terence Hill, Bud Spencer",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTIwMGQ2NmMtMjdiNy00ZjA5LTllNzQtNGMyNTk2YjhkMDBhXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0067355",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "RflAC-e-C4c",
-          "video_title": "MovieBlog- 483: Recensione Lo Chiamavano Trinità",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Lo Chiamavano Trinità"
-        }
-      ],
-      "director": "E.B. Clucher",
-      "it_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/81522189"
         }
       ]
     },
@@ -214955,31 +213316,6 @@
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e2c5060e-ae27-4d3c-95f7-4b0352d7e16f"
         }
       ]
-    },
-    "movie:the danish girl:tt0810819": {
-      "id": "movie:the danish girl:tt0810819",
-      "imdb_id": "tt0810819",
-      "category": "movie",
-      "it_title": "The Danish Girl",
-      "orig_title": "The Danish Girl",
-      "year": 2015,
-      "cast": "Eddie Redmayne, Alicia Vikander",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjA0NjA4NjE2Nl5BMl5BanBnXkFtZTgwNzIxNTY2NjE@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0810819",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "a9ZCdDHIUao",
-          "video_title": "MovieBlog- 445: Recensione The Danish Girl",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "The Danish Girl"
-        }
-      ],
-      "director": "Tom Hooper",
-      "it_flatrate": []
     },
     "movie:the pills- sempre meglio che lavorare:tt4676140": {
       "id": "movie:the pills- sempre meglio che lavorare:tt4676140",
@@ -216242,31 +214578,6 @@
         }
       ]
     },
-    "movie:l'esplosivo piano di bazil:tt1149361": {
-      "id": "movie:l'esplosivo piano di bazil:tt1149361",
-      "imdb_id": "tt1149361",
-      "category": "movie",
-      "it_title": "L'Esplosivo Piano di Bazil",
-      "orig_title": "Micmacs",
-      "year": 2009,
-      "cast": "Dany Boon, André Dussollier",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTgwOTc4OTk3NV5BMl5BanBnXkFtZTcwMzc0MjMzMw@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt1149361",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "ngRhJNaiE-w",
-          "video_title": "MovieBlog- 192: Recensione L'Esplosivo Piano di Bazil",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "L'Esplosivo Piano di Bazil"
-        }
-      ],
-      "director": "Jean-Pierre Jeunet",
-      "it_flatrate": []
-    },
     "movie:zone of the dead:tt1191971": {
       "id": "movie:zone of the dead:tt1191971",
       "imdb_id": "tt1191971",
@@ -216408,58 +214719,6 @@
       ],
       "director": "Aldo Baglio, Giacomo Poretti",
       "it_flatrate": []
-    },
-    "movie:lanterna verde:tt1133985": {
-      "id": "movie:lanterna verde:tt1133985",
-      "imdb_id": "tt1133985",
-      "category": "movie",
-      "it_title": "lanterna verde",
-      "orig_title": "Green Lantern",
-      "year": 2011,
-      "cast": "Ryan Reynolds, Blake Lively",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOWVjZWJmZjEtMjgzZC00N2ZkLTk3Y2ItM2FkOGY3MjhlNzBmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/70143807"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://www.hbomax.com/ch/en/movie/b17ecc94-62e7-4f34-a808-5bc8ca991b07"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1133985",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "6UVjPnXuJdQ",
-          "video_title": "MovieBlog- 163: Recensione lanterna verde (No Spoiler)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "lanterna verde"
-        }
-      ],
-      "director": "Martin Campbell",
-      "it_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/70143807"
-        },
-        {
-          "source": "amazonhbomax",
-          "name": "HBO Max Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70a9f674-701f-1776-4708-a706658c9c9b"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://www.hbomax.com/it/en/movie/b17ecc94-62e7-4f34-a808-5bc8ca991b07"
-        }
-      ]
     },
     "movie:in the market:tt1520945": {
       "id": "movie:in the market:tt1520945",
@@ -216781,31 +215040,6 @@
         }
       ]
     },
-    "movie:se sei così ti dico sì:tt1863370": {
-      "id": "movie:se sei così ti dico sì:tt1863370",
-      "imdb_id": "tt1863370",
-      "category": "movie",
-      "it_title": "Se Sei Così Ti Dico Sì",
-      "orig_title": "Se sei così ti dico sì",
-      "year": 2011,
-      "cast": "Emilio Solfrizzi, Belén Rodríguez",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWRlNWFlYmUtZmU0NC00NzU5LThmNjgtM2YxYWY4MzY3MmJjXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt1863370",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "2T5_WyKryMA",
-          "video_title": "MovieBlog- 132: recensione Se Sei Così Ti Dico Sì",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Se Sei Così Ti Dico Sì"
-        }
-      ],
-      "director": "Eugenio Cappuccio",
-      "it_flatrate": []
-    },
     "movie:amici miei come tutto ebbe inizio:tt1656168": {
       "id": "movie:amici miei come tutto ebbe inizio:tt1656168",
       "imdb_id": "tt1656168",
@@ -217103,47 +215337,6 @@
       "director": "Paolo Genovese",
       "it_flatrate": []
     },
-    "movie:saw 3d il capitolo finale:tt1477076": {
-      "id": "movie:saw 3d il capitolo finale:tt1477076",
-      "imdb_id": "tt1477076",
-      "category": "movie",
-      "it_title": "saw 3D Il Capitolo Finale",
-      "orig_title": "Saw 3D",
-      "year": 2010,
-      "cast": "Tobin Bell, Costas Mandylor",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjI0NTEwNTgwNF5BMl5BanBnXkFtZTcwMDM5MTU5Mw@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt1477076",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "pT84zbgXuvg",
-          "video_title": "MovieBlog- 98: Recensione saw 3D Il Capitolo Finale",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "saw 3D Il Capitolo Finale"
-        }
-      ],
-      "director": "Kevin Greutert",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7aa0f785-d12a-4b84-a099-94f3ad9cb9e0"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7aa0f785-d12a-4b84-a099-94f3ad9cb9e0"
-        },
-        {
-          "source": "amazonlionsgateplus",
-          "name": "Lionsgate+ Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.067aef9a-2d05-4977-a4fe-dbb8dd862f81"
-        }
-      ]
-    },
     "movie:benvenuti al sud:tt1529235": {
       "id": "movie:benvenuti al sud:tt1529235",
       "imdb_id": "tt1529235",
@@ -217200,37 +215393,6 @@
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e2ba742f-cd74-eeb0-6873-0454d667d914"
         }
       ]
-    },
-    "movie:mordimi:tt1666186": {
-      "id": "movie:mordimi:tt1666186",
-      "imdb_id": "tt1666186",
-      "category": "movie",
-      "it_title": "Mordimi",
-      "orig_title": "Vampires Suck",
-      "year": 2010,
-      "cast": "Jenn Proske, Matt Lanter",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTk2MDk0NDU4MF5BMl5BanBnXkFtZTcwNzAyODk2Mw@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "wuaki",
-          "name": "Rakuten TV",
-          "link": "https://www.rakuten.tv/ch/movies/beilight-biss-zum-abendbrot"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1666186",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "MlQEIgbPVws",
-          "video_title": "MovieBlog- 75: recensione Mordimi",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Mordimi"
-        }
-      ],
-      "director": "Aaron Seltzer, Jason Friedberg",
-      "it_flatrate": []
     },
     "movie:a wong foo, grazie di tutto! julie newmar:tt0114682": {
       "id": "movie:a wong foo, grazie di tutto! julie newmar:tt0114682",
@@ -276786,43 +274948,6 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt8589698"
     },
-    "movie:indiana jones e il quadrante del destino:tt1462764": {
-      "id": "movie:indiana jones e il quadrante del destino:tt1462764",
-      "imdb_id": "tt1462764",
-      "category": "movie",
-      "it_title": "Indiana Jones e il quadrante del destino",
-      "orig_title": "Indiana Jones and the Dial of Destiny",
-      "year": 2023,
-      "director": "James Mangold",
-      "cast": "Harrison Ford, Phoebe Waller-Bridge",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWJlOWE2ZjEtZGRhOC00M2YzLWFkZGEtYzIzZWI2Zjg3NWYxXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-f4bbe891-e949-4a15-9df1-6c2e87cca2bc"
-        }
-      ],
-      "it_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-f4bbe891-e949-4a15-9df1-6c2e87cca2bc"
-        }
-      ],
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "JApFxMN5pUU",
-          "video_title": "MovieBlog- 916: Recensione Indiana Jones e il Quadrante del Destino",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Indiana Jones e il Quadrante del Destino"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1462764"
-    },
     "movie:the plane:tt5884796": {
       "id": "movie:the plane:tt5884796",
       "imdb_id": "tt5884796",
@@ -277129,58 +275254,6 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt3228774"
     },
-    "movie:cherry - innocenza perduta:tt9130508": {
-      "id": "movie:cherry - innocenza perduta:tt9130508",
-      "imdb_id": "tt9130508",
-      "category": "movie",
-      "it_title": "Cherry - Innocenza perduta",
-      "orig_title": "Cherry",
-      "year": 2021,
-      "director": "Anthony Russo, Joe Russo",
-      "cast": "Tom Holland, Ciara Bravo",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTk5MmIzNmQtMjU3NC00NDA5LThlMGQtNDc4MzVmNzkwMzZmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "appletvplus",
-          "name": "Apple TV",
-          "link": "https://tv.apple.com/ch/movie/cherry--das-ende-aller-unschuld/umc.cmc.40gvwq6hnbilmnxuutvmejx4r?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv"
-        },
-        {
-          "source": "skysvod",
-          "name": "Sky",
-          "link": "https://show.sky.ch/en/title/135736"
-        },
-        {
-          "source": "amazonappletvplus",
-          "name": "Apple TV Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e29bae44-c4ea-454f-8fee-f25362574551"
-        }
-      ],
-      "it_flatrate": [
-        {
-          "source": "appletvplus",
-          "name": "Apple TV",
-          "link": "https://tv.apple.com/it/movie/cherry---innocenza-perduta/umc.cmc.40gvwq6hnbilmnxuutvmejx4r?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv"
-        },
-        {
-          "source": "amazonappletvplus",
-          "name": "Apple TV Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e29bae44-c4ea-454f-8fee-f25362574551"
-        }
-      ],
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "8slVHUTKZX0",
-          "video_title": "MovieBlog- 763: recensione Cherry",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Cherry"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt9130508"
-    },
     "movie:greenland:tt7737786": {
       "id": "movie:greenland:tt7737786",
       "imdb_id": "tt7737786",
@@ -277232,43 +275305,6 @@
         }
       ],
       "external_url": "https://app.trakt.tv/movies/tt7737786"
-    },
-    "movie:enola holmes:tt7846844": {
-      "id": "movie:enola holmes:tt7846844",
-      "imdb_id": "tt7846844",
-      "category": "movie",
-      "it_title": "Enola Holmes",
-      "orig_title": "Enola Holmes",
-      "year": 2020,
-      "director": "Harry Bradbeer",
-      "cast": "Millie Bobby Brown, Henry Cavill",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTRlYmI1NTMtYTVkYi00MjJkLWE3ZGItOThkYTdhNzBhMThhXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/81277950"
-        }
-      ],
-      "it_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/81277950"
-        }
-      ],
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "WiCJssSGPzI",
-          "video_title": "MovieBlog- 747: Recensione Enola Holmes",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Enola Holmes"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt7846844"
     },
     "movie:mulan:tt4566758": {
       "id": "movie:mulan:tt4566758",
@@ -324154,6 +322190,84 @@
       ],
       "director": "Miguel Gomes"
     },
+    "movie:jackie:tt1619029": {
+      "id": "movie:jackie:tt1619029",
+      "imdb_id": "tt1619029",
+      "category": "movie",
+      "it_title": "Jackie",
+      "orig_title": "Jackie",
+      "year": 2016,
+      "cast": "Natalie Portman, Peter Sarsgaard",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzg4MjYzNjk5N15BMl5BanBnXkFtZTgwODgwODI3MDI@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "netzkino",
+          "name": "Netzkino",
+          "link": "https://www.netzkino.de/details/jackie"
+        },
+        {
+          "source": "filmingo",
+          "name": "filmingo",
+          "link": "https://www.filmingo.ch/de/films/1851-jackie"
+        },
+        {
+          "source": "cinu",
+          "name": "Cinu",
+          "link": "https://www.cinu.ch/de-ch/film/jackie.html"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1619029",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "t5TWICclVZ8",
+          "video_title": "MovieBlog- 521: Recensione Jackie ",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Jackie"
+        }
+      ],
+      "director": "Pablo Larraín",
+      "it_flatrate": [
+        {
+          "source": "timvision",
+          "name": "Timvision",
+          "link": "https://www.timvision.it/h/9050682211_92900001?autoplay=true&utm_source=googleAssistant&utm_medium=app-to-app"
+        }
+      ]
+    },
+    "movie:lo chiamavano trinità:tt0067355": {
+      "id": "movie:lo chiamavano trinità:tt0067355",
+      "imdb_id": "tt0067355",
+      "category": "movie",
+      "it_title": "Lo Chiamavano Trinità",
+      "orig_title": "They Call Me Trinity",
+      "year": 1970,
+      "cast": "Terence Hill, Bud Spencer",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTIwMGQ2NmMtMjdiNy00ZjA5LTllNzQtNGMyNTk2YjhkMDBhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0067355",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "RflAC-e-C4c",
+          "video_title": "MovieBlog- 483: Recensione Lo Chiamavano Trinità",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Lo Chiamavano Trinità"
+        }
+      ],
+      "director": "E.B. Clucher",
+      "it_flatrate": [
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://www.netflix.com/title/81522189"
+        }
+      ]
+    },
     "music:nail:foetus": {
       "id": "music:nail:foetus",
       "category": "music",
@@ -324161,7 +322275,7 @@
       "orig_title": "Foetus",
       "year": null,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Jim_Thirlwell_of_Foetus_at_the_Rathskeller.jpg/500px-Jim_Thirlwell_of_Foetus_at_the_Rathskeller.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Nail%20Foetus",
       "apple_url": "",
@@ -324733,7 +322847,7 @@
       "orig_title": "",
       "year": 1980,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/08/TuxedomoonHalfMute.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Half%20Mute",
       "apple_url": "",
@@ -324943,7 +323057,7 @@
       "orig_title": "Big Black",
       "year": null,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/e/e2/Big_Black_-_Atomizer_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Atomizer%20Big%20Black",
       "apple_url": "",
@@ -325483,7 +323597,7 @@
       "orig_title": "",
       "year": null,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/b3/RHP-Rollercoaster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Red%20House%20Painters/Rollercoaster",
       "apple_url": "",
@@ -325635,7 +323749,7 @@
       "orig_title": "Unsane",
       "year": 1994,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/1/18/Unsane_TotalD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Total%20Destruction%20Unsane",
       "apple_url": "",
@@ -326782,7 +324896,7 @@
       "orig_title": "Husker Du",
       "year": 1984,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/bc/HuskerDuZenArcade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Zen%20Arcade%20Husker%20Du",
       "apple_url": "",
@@ -326826,7 +324940,7 @@
       "orig_title": "Minutemen",
       "year": null,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/bc/Doublenickels.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Double%20Nickels%20On%20The%20Dime%20Minutemen",
       "apple_url": "",
@@ -326936,7 +325050,7 @@
       "orig_title": "Jon Hassell",
       "year": 1981,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/67/JH-DreamTiM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Dream%20Theory%20In%20Malaya%20Jon%20Hassell",
       "apple_url": "",
@@ -327316,7 +325430,7 @@
       "orig_title": "White Rose Movement",
       "year": 2006,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/d/d2/White_Rose_Movement_%28band%29_-_Kick.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Kick%20White%20Rose%20Movement",
       "apple_url": "",
@@ -329374,7 +327488,7 @@
       "orig_title": "Camouflage Heart",
       "year": 1984,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Cindytalk.jpg/500px-Cindytalk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Cindytalk%20Camouflage%20Heart",
       "apple_url": "",
@@ -329479,7 +327593,7 @@
       "orig_title": "Cyborgs Revisited",
       "year": null,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/06/Cyborgs_Revisited.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Simply%20Saucer%20Cyborgs%20Revisited",
       "apple_url": "",
@@ -329521,7 +327635,7 @@
       "orig_title": "Death on the Installment Plan",
       "year": null,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/58/Numb_-_Death_on_the_Installment_Plan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Numb%20Death%20on%20the%20Installment%20Plan",
       "apple_url": "",
@@ -329563,7 +327677,7 @@
       "orig_title": "Wasteisolation",
       "year": null,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/e/ec/Wasteisolation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Black%20Dressed%20Wasteisolation",
       "apple_url": "",
@@ -329773,7 +327887,7 @@
       "orig_title": "Zeni Geva",
       "year": 1991,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Zeni_Geva_live_2009_at_Taku-taku%2C_Kyoto.png/500px-Zeni_Geva_live_2009_at_Taku-taku%2C_Kyoto.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Total%20Castration%20Zeni%20Geva",
       "apple_url": "",
@@ -330000,7 +328114,7 @@
       "orig_title": "",
       "year": 2011,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/My_Chemical_Romance_rain.jpg/500px-My_Chemical_Romance_rain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Guilty%20of%20romance",
       "apple_url": "",
@@ -330063,7 +328177,7 @@
       "orig_title": "",
       "year": 1978,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/b3/PereUbuTheModernDance250px.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/The%20modern%20dance",
       "apple_url": "",
@@ -330126,7 +328240,7 @@
       "orig_title": "",
       "year": null,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/c/cf/Sepultura_-_Chaos_A.D._1993.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/2017%20A.D.",
       "apple_url": "",
@@ -330147,7 +328261,7 @@
       "orig_title": "",
       "year": 2011,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/43/Weezerred2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Red%20State",
       "apple_url": "",
@@ -330168,7 +328282,7 @@
       "orig_title": "",
       "year": 2011,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/8/85/Panty_raid_zh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/The%20Raid",
       "apple_url": "",
@@ -330231,7 +328345,7 @@
       "orig_title": "",
       "year": 1979,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/e/e2/Wire-154_%28album_cover%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/154",
       "apple_url": "",
@@ -330336,7 +328450,7 @@
       "orig_title": "Ladybird",
       "year": null,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/47/Shit_and_Shine_-_Ladybird.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Shit%20and%20Shine%20Ladybird",
       "apple_url": "",
@@ -330378,7 +328492,7 @@
       "orig_title": "",
       "year": null,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/e/ef/The_Cult_-_Dreamtime.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/The%20CULT%20~%20Spiritwalker",
       "apple_url": "",
@@ -330399,7 +328513,7 @@
       "orig_title": "Dream On (Audio)",
       "year": null,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/58/Aerosmith_-_Aerosmith.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Aerosmith%20Dream%20On%20%28Audio%29",
       "apple_url": "",
@@ -331050,7 +329164,7 @@
       "orig_title": "Number Girl",
       "year": 2000,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/7/77/SAPPUKEI-cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Sappukei%20Number%20Girl",
       "apple_url": "",
@@ -331323,7 +329437,7 @@
       "orig_title": "Mudvayne",
       "year": 2000,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/6f/ElDeeFifty.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/L.D.%2050%20Mudvayne",
       "apple_url": "",
@@ -331659,7 +329773,7 @@
       "orig_title": "Ernia",
       "year": 2016,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Ernia_Celebrity_Hunted_4_2024.png/500px-Ernia_Celebrity_Hunted_4_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/No%20Hooks%20Ernia",
       "apple_url": "",
@@ -333990,7 +332104,7 @@
       "orig_title": "Living Colour",
       "year": 1988,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/0e/Living_Colour-Vivid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Vivid%20Living%20Colour",
       "apple_url": "",
@@ -334683,7 +332797,7 @@
       "orig_title": "Idles",
       "year": null,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/e/e8/Crawler_Idles.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Crawler%20Idles",
       "apple_url": "",
@@ -336519,7 +334633,7 @@
       "orig_title": "Descendents",
       "year": null,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/a/a1/Descendents_-_Milo_Goes_to_College_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Milo%20Goes%20To%20College%20Descendents",
       "apple_url": "",
@@ -336959,7 +335073,7 @@
       "orig_title": "The Iron Claw",
       "year": 2023,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Eddie_the_Head_%E2%80%93_Iron_Maiden_%E2%80%93_Tons_of_Rock_2026.jpg/500px-Eddie_the_Head_%E2%80%93_Iron_Maiden_%E2%80%93_Tons_of_Rock_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/The%20Warrior%20The%20Iron%20Claw",
       "apple_url": "",
@@ -337085,7 +335199,7 @@
       "orig_title": "Willie Peyote",
       "year": 2011,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Willie_Peyote_RadioBruno_2025_cropped.png/500px-Willie_Peyote_RadioBruno_2025_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Manuale%20del%20giovane%20nichilista%20Willie%20Peyote",
       "apple_url": "",
@@ -337127,7 +335241,7 @@
       "orig_title": "AA.VV.",
       "year": 1968,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Greatest_actors_and_filmmakers.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Capriccio%20all%27italiana%20AA.VV.",
       "apple_url": "",
@@ -337232,7 +335346,7 @@
       "orig_title": "Viagra Boys",
       "year": 2018,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/57/Street_Worms_Viagra_Boys.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Street%20Worms%20Viagra%20Boys",
       "apple_url": "",
@@ -337316,7 +335430,7 @@
       "orig_title": "Daniels",
       "year": 2022,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/1/1e/Everything_Everywhere_All_at_Once.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Everything%20Everywhere%20All%20at%20Once%20Daniels",
       "apple_url": "",
@@ -337442,7 +335556,7 @@
       "orig_title": "",
       "year": 2021,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/41/The_Matrix_Resurrections_%28Original_Motion_Picture_Soundtrack%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/%22Matrix%20Resurrections%22",
       "apple_url": "",
@@ -337506,7 +335620,7 @@
       "orig_title": "Static X",
       "year": 2005,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/a/a4/Start_a_war.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Start%20a%20War%20Static%20X",
       "apple_url": "",
@@ -337528,7 +335642,7 @@
       "orig_title": "James Brown",
       "year": 1970,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/8/89/Sex_Machine_album_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Sex%20Machine%20James%20Brown",
       "apple_url": "",
@@ -337550,7 +335664,7 @@
       "orig_title": "Pink Turns Blue",
       "year": 1987,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/P1._PINK_TURNS_BLUE_2022_Jogwer%2BRichter%2BSammuri_%28by_D._Vorndran%29.jpg/500px-P1._PINK_TURNS_BLUE_2022_Jogwer%2BRichter%2BSammuri_%28by_D._Vorndran%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/If%20Two%20Worlds%20Kiss%20Pink%20Turns%20Blue",
       "apple_url": "",
@@ -337572,7 +335686,7 @@
       "orig_title": "Mùm",
       "year": 2002,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/bc/Finally_We_Are_No_One.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Finally%20We%20Are%20No%20One%20M%C3%B9m",
       "apple_url": "",
@@ -337814,7 +335928,7 @@
       "orig_title": "Rancore",
       "year": null,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Rancore_Radio_Bruno_Festival_di_Sanremo_2020.png/500px-Rancore_Radio_Bruno_Festival_di_Sanremo_2020.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Musica%20per%20Bambini%20Rancore",
       "apple_url": "",
@@ -337924,7 +336038,7 @@
       "orig_title": "Peter Gabriel",
       "year": null,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/PeterGabrielO2190623_%2870_of_86%29_%2852987432346%29_%28cropped%29.jpg/500px-PeterGabrielO2190623_%2870_of_86%29_%2852987432346%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/%22So%22%20Peter%20Gabriel",
       "apple_url": "",
@@ -338276,7 +336390,7 @@
       "orig_title": "Pulp",
       "year": null,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Pulp_-_Different_Class.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Different%20Class%20Pulp",
       "apple_url": "",
@@ -338865,7 +336979,7 @@
       "orig_title": "Klaus Schulze",
       "year": 1972,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/7/77/X_album.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/Irrlicht%20Klaus%20Schulze",
       "apple_url": "",
@@ -338909,7 +337023,7 @@
       "orig_title": "Neu!",
       "year": 1972,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Neu_band.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/self-titled%20Neu%21",
       "apple_url": "",
@@ -338931,7 +337045,7 @@
       "orig_title": "Suicide",
       "year": 1977,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Suicide_Silence_-_Rock_am_Ring_2017-AL3048.jpg/500px-Suicide_Silence_-_Rock_am_Ring_2017-AL3048.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/self-titled%20Suicide",
       "apple_url": "",
@@ -339019,7 +337133,7 @@
       "orig_title": "Third Ear Band",
       "year": 1970,
       "cast": "",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/d/da/Third_eye_blind_self_titled.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "external_url": "https://open.spotify.com/search/self-titled%20Third%20Ear%20Band",
       "apple_url": "",
@@ -339223,7 +337337,7 @@
       "orig_title": "Henry Rollins",
       "year": 1987,
       "cast": "Henry Rollins",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/7/77/Hotanimalmachine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Henry%20Rollins%20Hot%20Animal%20Machine",
@@ -339583,7 +337697,7 @@
       "orig_title": "Bongwater",
       "year": 1988,
       "cast": "Bongwater",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/4a/Bongwater_-_Double_Bummer.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Bongwater%20Double%20Bummer",
@@ -339751,7 +337865,7 @@
       "orig_title": "David Thomas",
       "year": 1986,
       "cast": "David Thomas",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/b7/David_Thomas_-_Monster_Walks_the_Winter_Lake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/David%20Thomas%20Monster%20Walks%20The%20Winter%20Lake",
@@ -339823,7 +337937,7 @@
       "orig_title": "Death Of Samantha",
       "year": 1986,
       "cast": "Death Of Samantha",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/e/e6/Death_of_Samantha_-_Strungout_on_Jargon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Death%20Of%20Samantha%20Strungout%20On%20Jargon",
@@ -339919,7 +338033,7 @@
       "orig_title": "Djam Karet",
       "year": 1989,
       "cast": "Djam Karet",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/66/Djam_Karet_-_Reflections_From_the_Firepool.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Djam%20Karet%20Reflections%20From%20The%20Firepool",
@@ -340351,7 +338465,7 @@
       "orig_title": "Joan LaBarbara",
       "year": 1980,
       "cast": "Joan LaBarbara",
-      "poster_url": "",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Cher_in_2019_cropped.jpg/500px-Cher_in_2019_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Joan%20LaBarbara%20Reluctant%20Gypsy",
@@ -340375,7 +338489,7 @@
       "orig_title": "Jon Hassell",
       "year": 1983,
       "cast": "Jon Hassell",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/f/fd/Aka_darbari_java_artwork.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Jon%20Hassell%20Aka-Darbari-Java%20Magic%20Realism",
@@ -340399,7 +338513,7 @@
       "orig_title": "King Snake Roost",
       "year": 1989,
       "cast": "King Snake Roost",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/4c/King_Snake_Roost_-_Things_That_Play_Themselves.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/King%20Snake%20Roost%20Things%20That%20Play%20Themselves",
@@ -340423,7 +338537,7 @@
       "orig_title": "Laughing Hyenas",
       "year": 1989,
       "cast": "Laughing Hyenas",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Laughing_Hyenas_You_Cant_Pray_a_Lie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Laughing%20Hyenas%20You%20Can%27t%20Pray%20A%20Lie",
@@ -340447,7 +338561,7 @@
       "orig_title": "Legal Weapon",
       "year": 1982,
       "cast": "Legal Weapon",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/3/38/Legal_Weapon_-_Death_of_Innocence.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Legal%20Weapon%20Death%20Of%20Innocence",
@@ -340471,7 +338585,7 @@
       "orig_title": "Lou Reed",
       "year": 1989,
       "cast": "Lou Reed",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/f/f4/Lou_Reed-New_York_%28album_cover%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Lou%20Reed%20New%20York",
@@ -340495,7 +338609,7 @@
       "orig_title": "Mark Stewart",
       "year": 1983,
       "cast": "Mark Stewart",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/5f/Mark_Stewart_-_Learning_to_Cope_With_Cowardice.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Mark%20Stewart%20Learning%20To%20Cope%20With%20Cowardice",
@@ -340519,7 +338633,7 @@
       "orig_title": "Mary Margaret O'Hara",
       "year": 1988,
       "cast": "Mary Margaret O'Hara",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/6d/MissAmericaalbumcover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Mary%20Margaret%20O%27Hara%20Miss%20America",
@@ -340543,7 +338657,7 @@
       "orig_title": "Metallica",
       "year": 1983,
       "cast": "Metallica",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/5c/Metallica_-_Kill_%27Em_All_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Metallica%20Kill%20%27Em%20All",
@@ -340567,7 +338681,7 @@
       "orig_title": "Michael Jones",
       "year": 1988,
       "cast": "Michael Jones",
-      "poster_url": "",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Michael_Jones_portrait_by_V_Tony_Hauser.png/500px-Michael_Jones_portrait_by_V_Tony_Hauser.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Michael%20Jones%20After%20The%20Rain",
@@ -340591,7 +338705,7 @@
       "orig_title": "Ministry",
       "year": 1988,
       "cast": "Ministry",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/92/Ministry-TheLandOfRapeAndHoney.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Ministry%20The%20Land%20Of%20Rape%20And%20Honey",
@@ -340615,7 +338729,7 @@
       "orig_title": "Missing Foundation",
       "year": 1988,
       "cast": "Missing Foundation",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/53/Missing_Foundation_-_Missing_Foundation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Missing%20Foundation%201933",
@@ -340639,7 +338753,7 @@
       "orig_title": "My Bloody Valentine",
       "year": 1988,
       "cast": "My Bloody Valentine",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/07/MyBloodyValentineIsntAnything.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/My%20Bloody%20Valentine%20Isn%27t%20Anything",
@@ -340663,7 +338777,7 @@
       "orig_title": "Necks",
       "year": 1989,
       "cast": "Necks",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/8/85/Sex_%28album%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Necks%20Sex",
@@ -340687,7 +338801,7 @@
       "orig_title": "Nick Cave",
       "year": 1985,
       "cast": "Nick Cave",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/6b/The_Firstborn_Is_Dead.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Nick%20Cave%20The%20Firstborn%20Is%20Dead",
@@ -340711,7 +338825,7 @@
       "orig_title": "Pauline Oliveros",
       "year": 1988,
       "cast": "Pauline Oliveros",
-      "poster_url": "",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/The_Apostle_%28148475115%29.jpeg/500px-The_Apostle_%28148475115%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Pauline%20Oliveros%20Roots%20Of%20The%20Moment",
@@ -340735,7 +338849,7 @@
       "orig_title": "Pere Ubu",
       "year": 1980,
       "cast": "Pere Ubu",
-      "poster_url": "",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Pere_Ubu_Live_Vienna_2009.jpg/500px-Pere_Ubu_Live_Vienna_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Pere%20Ubu%20Art%20Of%20Walking",
@@ -340807,7 +338921,7 @@
       "orig_title": "Peter Michael Hamel",
       "year": 1983,
       "cast": "Peter Michael Hamel",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/c/c0/Peter_Michael_Hamel_-_Transition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Peter%20Michael%20Hamel%20Transition",
@@ -340831,7 +338945,7 @@
       "orig_title": "Pop Group",
       "year": 1980,
       "cast": "Pop Group",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/01/For_How_Much_Longer_Do_We_Tolerate_Mass_Murder.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Pop%20Group%20For%20How%20Much%20Longer%20Do%20We%20Tolerate%20Mass%20Murder",
@@ -340855,7 +338969,7 @@
       "orig_title": "Public Image Ltd",
       "year": 1981,
       "cast": "Public Image Ltd",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/f/fc/PiLFlowersOfRomance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Public%20Image%20Ltd%20Flowers%20of%20Romance",
@@ -340879,7 +338993,7 @@
       "orig_title": "Rapeman",
       "year": 1989,
       "cast": "Rapeman",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/3/3c/TwoNunsandAPackMule.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Rapeman%20Two%20Nuns%20And%20A%20Pack%20Mule",
@@ -340903,7 +339017,7 @@
       "orig_title": "Red Temple Spirits",
       "year": 1988,
       "cast": "Red Temple Spirits",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/90/Red_Temple_Spirits_-_Dancing_to_Restore_an_Eclipsed_Moon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Red%20Temple%20Spirits%20Dancing%20To%20Restore%20An%20Eclipsed%20Moon",
@@ -340927,7 +339041,7 @@
       "orig_title": "Replacements",
       "year": 1984,
       "cast": "Replacements",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/b7/The_Replacements_-_Let_It_Be_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Replacements%20Let%20It%20Be",
@@ -340951,7 +339065,7 @@
       "orig_title": "Replacements",
       "year": 1985,
       "cast": "Replacements",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/7/73/The_Replacements_-_Tim_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Replacements%20Tim",
@@ -340975,7 +339089,7 @@
       "orig_title": "Richard Thompson",
       "year": 1982,
       "cast": "Richard Thompson",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/b5/Shoot_Out_the_Lights_%28Richard_Thompson_album_-_cover_art%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Richard%20Thompson%20Shoot%20Out%20The%20Lights",
@@ -341023,7 +339137,7 @@
       "orig_title": "Savage Republic",
       "year": 1989,
       "cast": "Savage Republic",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Savage_Republic_Customs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Savage%20Republic%20Customs",
@@ -341047,7 +339161,7 @@
       "orig_title": "Sinead O'Connor",
       "year": 1987,
       "cast": "Sinead O'Connor",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/d/d5/Sinead_Lion_Cobra_Original.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Sinead%20O%27Connor%20The%20Lion%20And%20The%20Cobra",
@@ -341071,7 +339185,7 @@
       "orig_title": "Sonic Youth",
       "year": 1985,
       "cast": "Sonic Youth",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/2/22/Sonicyouthbadmoonrising.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Sonic%20Youth%20Bad%20Moon%20Rising",
@@ -341095,7 +339209,7 @@
       "orig_title": "Stan Ridgway",
       "year": 1986,
       "cast": "Stan Ridgway",
-      "poster_url": "",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Stan_Ridgway_portrait.jpg/500px-Stan_Ridgway_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Stan%20Ridgway%20The%20Big%20Heat",
@@ -341119,7 +339233,7 @@
       "orig_title": "Stephan Micus",
       "year": 1986,
       "cast": "Stephan Micus",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/a/ae/Ocean_%28Stephan_Micus_album%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Stephan%20Micus%20Ocean",
@@ -341143,7 +339257,7 @@
       "orig_title": "Steve Roach",
       "year": 1984,
       "cast": "Steve Roach",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/a/a5/Structures_from_Silence_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Steve%20Roach%20Structures%20From%20Silence",
@@ -341167,7 +339281,7 @@
       "orig_title": "Swans",
       "year": 1987,
       "cast": "Swans",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/f/fb/Childrenofgod.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Swans%20Children%20Of%20God",
@@ -341191,7 +339305,7 @@
       "orig_title": "Swans",
       "year": 1984,
       "cast": "Swans",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/c/cd/Swans_-_Cop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Swans%20Cop",
@@ -341215,7 +339329,7 @@
       "orig_title": "Swans",
       "year": 1983,
       "cast": "Swans",
-      "poster_url": "",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/b3/SwansFilth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "ch_flatrate": [],
       "it_flatrate": [],
       "external_url": "https://open.spotify.com/search/Swans%20Filth",
