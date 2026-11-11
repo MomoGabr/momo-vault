@@ -128,8 +128,14 @@ NEG_PATTERNS = [
     r"brutto film",
     r"stroncat",
     r"demolit",
+    r"massacrat",
     r"asfaltat",
     r"sfondat",
+    r"scritto col culo",
+    r"noia mortale",
+    r"esperienza negativa",
+    r"da buttare",
+    r"film brutt",
     r"merda",
 ]
 
@@ -169,6 +175,12 @@ def timestamp_to_seconds(ts_str):
 
 def score_frusciante_verdict(text):
     low = text.lower()
+    # Ignora complimenti dei fan rivolti alla copertina, al video o a Frusciante stesso ("la copertina di questo video è un capolavoro")
+    low = re.sub(
+        r"\b(?:copertina|miniatura|thumbnail|video|puntata|fede|frusciant\w*)\b(?:\s+\w+){0,4}\s+\b(?:capolavor\w*|bellissim\w*|grandissim\w*|straordinari\w*|stupend\w*|meraviglios\w*)",
+        " ",
+        low,
+    )
     pos_hits = [p for p in POS_PATTERNS if re.search(p, low)]
     neg_hits = [n for n in NEG_PATTERNS if re.search(n, low)]
     score = len(pos_hits) - (len(neg_hits) * 1.5)

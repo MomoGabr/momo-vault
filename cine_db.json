@@ -176986,30 +176986,6 @@
       "director": "James Gunn",
       "it_flatrate": []
     },
-    "movie:non aprite quella porta (remake 2003):tt0324216": {
-      "id": "movie:non aprite quella porta (remake 2003):tt0324216",
-      "imdb_id": "tt0324216",
-      "category": "movie",
-      "it_title": "Non aprite quella porta (Remake 2003)",
-      "orig_title": "The Texas Chainsaw Massacre",
-      "year": 2003,
-      "cast": "Jessica Biel, Jonathan Tucker",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzY0MDQwMTctYzQ1Mi00ODIwLThlMWQtODQ0NzA2ZTg3ZDFhXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0324216",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "vncaenL9zXw",
-          "video_title": "Federico Frusciante: Le Saghe - Non aprite quella porta (Tutti i film della serie) - Aprile 2024",
-          "timestamp": "44:21",
-          "seconds": 2661
-        }
-      ],
-      "director": "Marcus Nispel",
-      "it_flatrate": []
-    },
     "movie:i duellanti:tt0075968": {
       "id": "movie:i duellanti:tt0075968",
       "imdb_id": "tt0075968",
@@ -178579,30 +178555,6 @@
         }
       ]
     },
-    "movie:punisher - zona di guerra:tt0450314": {
-      "id": "movie:punisher - zona di guerra:tt0450314",
-      "imdb_id": "tt0450314",
-      "category": "movie",
-      "it_title": "Punisher - Zona di guerra",
-      "orig_title": "Punisher: War Zone",
-      "year": 2008,
-      "cast": "Ray Stevenson, Dominic West",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTdlOTkyZjUtODE4NC00ODZmLTg5OGYtMjkwZDY0MTZhMTQ0XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0450314",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "BJ3Tn9gkoE0",
-          "video_title": "Patreon: Punisher - Zona di guerra (2008) di Lexi Alexander - Minirece richiesta da Frank Bonucci",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Lexi Alexander",
-      "it_flatrate": []
-    },
     "movie:mafia!:tt0120741": {
       "id": "movie:mafia!:tt0120741",
       "imdb_id": "tt0120741",
@@ -178674,57 +178626,6 @@
       ],
       "director": "Yoo Ha",
       "it_flatrate": []
-    },
-    "movie:escape the field:tt11265320": {
-      "id": "movie:escape the field:tt11265320",
-      "imdb_id": "tt11265320",
-      "category": "movie",
-      "it_title": "Escape the Field",
-      "orig_title": "Escape the Field",
-      "year": 2022,
-      "cast": "Jordan Claire Robbins, Theo Rossi",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZGM1NzQ1YjktNDM2OS00NWU3LTljM2MtM2U4MmFhZTc0ZDg1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/328133281"
-        },
-        {
-          "source": "home_of_horror_amazon_channel",
-          "name": "Home of Horror (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/328133280"
-        },
-        {
-          "source": "universal_plus_amazon_channel",
-          "name": "Universal+ (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/328133279"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt11265320",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "NSWABenwPrw",
-          "video_title": "Patreon: Escape the Field (2022) di Emerson Moore - Minirece richiesta da Dr.Feel",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Emerson Moore",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fe958be3-af10-417f-9d20-bc8cee742d89"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fe958be3-af10-417f-9d20-bc8cee742d89"
-        }
-      ]
     },
     "movie:the iceman:tt1491044": {
       "id": "movie:the iceman:tt1491044",
@@ -179059,87 +178960,6 @@
       ],
       "director": "Dan Aykroyd",
       "it_flatrate": []
-    },
-    "movie:indiavolato:tt0230030": {
-      "id": "movie:indiavolato:tt0230030",
-      "imdb_id": "tt0230030",
-      "category": "movie",
-      "it_title": "Indiavolato",
-      "orig_title": "Bedazzled",
-      "year": 2000,
-      "cast": "Brendan Fraser, Elizabeth Hurley",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZGU5ZmZjNDUtYzBiZS00NWVlLTgwMjAtM2M2OGFmM2M4MmRkXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/323893275"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0230030",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "s--gI_AwVbE",
-          "video_title": "Patreon: Indiavolato (2000) di Harold Ramis - Minirece richiesta da Il Guarni",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Harold Ramis",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ea9f7b9-1c58-4d84-40a3-5d6a17c39041"
-        },
-        {
-          "source": "justwatchtv",
-          "name": "JustWatch TV Free",
-          "link": "https://www.justwatch.com/it/film/bedazzled?package=jwt"
-        },
-        {
-          "source": "wuaki",
-          "name": "Rakuten TV",
-          "link": "https://www.rakuten.tv/it/movies/indiavolato"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ea9f7b9-1c58-4d84-40a3-5d6a17c39041"
-        }
-      ]
-    },
-    "movie:topaz:tt0065112": {
-      "id": "movie:topaz:tt0065112",
-      "imdb_id": "tt0065112",
-      "category": "movie",
-      "it_title": "Topaz",
-      "orig_title": "Topaz",
-      "year": 1969,
-      "cast": "Frederick Stafford, Dany Robin",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDFlYTM5OGMtYzlmNy00NDgzLTk2NzAtZmNhNDUxYWQ1ZmIyXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0065112",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "b5zvduBou0o",
-          "video_title": "Patreon: Topaz (1969) di Alfred Hitchcock - Minirece richiesta da Rem84, Zardo Filippo",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Alfred Hitchcock",
-      "it_flatrate": [
-        {
-          "source": "nowtv",
-          "name": "Now TV",
-          "link": "https://www.nowtv.it/watch/asset/topaz/R_616586_HD"
-        }
-      ]
     },
     "movie:spencer:tt12536294": {
       "id": "movie:spencer:tt12536294",
@@ -180195,54 +180015,6 @@
       "director": "Ryūhei Kitamura",
       "it_flatrate": []
     },
-    "movie:atm - trappola mortale:tt1603257": {
-      "id": "movie:atm - trappola mortale:tt1603257",
-      "imdb_id": "tt1603257",
-      "category": "movie",
-      "it_title": "ATM - Trappola mortale",
-      "orig_title": "ATM",
-      "year": 2012,
-      "cast": "Alice Eve, Josh Peck",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ4OTQxMzU5OV5BMl5BanBnXkFtZTcwNDMyNzM0Nw@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt1603257",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "re8XzrBY0QM",
-          "video_title": "Patreon: ATM - Trappola mortale (2012) di David Brooks - Minirece richiesta da Umberto Cianci",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "David Brooks",
-      "it_flatrate": []
-    },
-    "movie:zombie strippers:tt0960890": {
-      "id": "movie:zombie strippers:tt0960890",
-      "imdb_id": "tt0960890",
-      "category": "movie",
-      "it_title": "Zombie Strippers",
-      "orig_title": "Zombie Strippers!",
-      "year": 2008,
-      "cast": "Jenna Jameson, Robert Englund",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTI5MTM4NTA5MV5BMl5BanBnXkFtZTcwNzc0MTU2MQ@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0960890",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "xpZ8YDluMQo",
-          "video_title": "Patreon: Zombie Strippers (2008) di Jay Lee - Minirece richiesta da Zombilover",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Jay Lee",
-      "it_flatrate": []
-    },
     "movie:al progredire della notte:tt30235816": {
       "id": "movie:al progredire della notte:tt30235816",
       "imdb_id": "tt30235816",
@@ -180365,42 +180137,6 @@
           "source": "plex",
           "name": "Plex",
           "link": "https://watch.plex.tv/movie/the-gorgon-1964?autoplay=1&utm_content=5d9f3567e4fc29001eb668da&utm_medium=deeplink&utm_source=justWatch-v2-catalog"
-        }
-      ]
-    },
-    "movie:duri si diventa:tt2561572": {
-      "id": "movie:duri si diventa:tt2561572",
-      "imdb_id": "tt2561572",
-      "category": "movie",
-      "it_title": "Duri si diventa",
-      "orig_title": "Get Hard",
-      "year": 2015,
-      "cast": "Will Ferrell, Kevin Hart",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTc3OTc1NjM0M15BMl5BanBnXkFtZTgwNjAyMzE1MzE@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://watchnow.trakt.tv/watchnow/324096347"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt2561572",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "fjBoP9HY_Kw",
-          "video_title": "Patreon: Duri si diventa (2015) di Etan Cohen - Minirece richiesta da Tristan98",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Etan Cohen",
-      "it_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/80018689"
         }
       ]
     },
@@ -180528,41 +180264,6 @@
           "link": "https://www.disneyplus.com/browse/entity-858f34fa-331d-4708-9950-2eb4b41b4e35"
         }
       ]
-    },
-    "movie:scary movie v:tt0795461": {
-      "id": "movie:scary movie v:tt0795461",
-      "imdb_id": "tt0795461",
-      "category": "movie",
-      "it_title": "Scary Movie V",
-      "orig_title": "Scary Movie 5",
-      "year": 2013,
-      "cast": "Simon Rex, Ashley French",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTc5OTIxMjQ4NF5BMl5BanBnXkFtZTcwOTAyNDcyOQ@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "home_of_horror_amazon_channel",
-          "name": "Home of Horror (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/323949295"
-        },
-        {
-          "source": "paramount_plus",
-          "name": "Paramount+",
-          "link": "https://watchnow.trakt.tv/watchnow/323949294"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0795461",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "MeR9jckOIP8",
-          "video_title": "Patreon: Scary Movie V (2013) di Malcolm D. Lee - Minirece richiesta da Liska",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Malcolm D. Lee",
-      "it_flatrate": []
     },
     "movie:final destination 2:tt0309593": {
       "id": "movie:final destination 2:tt0309593",
@@ -181108,97 +180809,6 @@
         }
       ],
       "director": "David Webb Peoples",
-      "it_flatrate": []
-    },
-    "movie:i predatori dell'anno omega:tt0088380": {
-      "id": "movie:i predatori dell'anno omega:tt0088380",
-      "imdb_id": "tt0088380",
-      "category": "movie",
-      "it_title": "I predatori dell'anno Omega",
-      "orig_title": "Warrior of the Lost World",
-      "year": 1983,
-      "cast": "Robert Ginty, Persis Khambatta",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjA0OWZkODYtY2VmOC00ZTE0LWE4ZGMtOWY5MzZlOTNlNGFlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "plex",
-          "name": "Plex",
-          "link": "https://watchnow.trakt.tv/watchnow/328583400"
-        },
-        {
-          "source": "plex_channel",
-          "name": "Plex Channel (free)",
-          "link": "https://watchnow.trakt.tv/watchnow/328583399"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0088380",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "Gdwx4In1VlQ",
-          "video_title": "Patreon: I predatori dell'anno Omega (1984) di David Worth - Minirece richiesta da Luca T.",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "David Worth, Fred Williamson",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.12b464cf-08c4-fd5b-ba49-35d27d715e13"
-        },
-        {
-          "source": "plex",
-          "name": "Plex",
-          "link": "https://watch.plex.tv/movie/warrior-of-the-lost-world-1983?autoplay=1&utm_content=5d776892374a5b001fec96c3&utm_medium=deeplink&utm_source=justWatch-v2-catalog"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.12b464cf-08c4-fd5b-ba49-35d27d715e13"
-        }
-      ]
-    },
-    "movie:3ciento - chi l'ha duro... la vince:tt1073498": {
-      "id": "movie:3ciento - chi l'ha duro... la vince:tt1073498",
-      "imdb_id": "tt1073498",
-      "category": "movie",
-      "it_title": "3ciento - Chi l'ha duro... la vince",
-      "orig_title": "Meet the Spartans",
-      "year": 2008,
-      "cast": "Sean Maguire, Kevin Sorbo",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmQ3NTAyODYtZjAxMy00ZTE4LWJhNmEtZGUyZjhlOTlhMTE1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/325833162"
-        },
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/325833163"
-        },
-        {
-          "source": "netzkino",
-          "name": "Netzkino (free)",
-          "link": "https://watchnow.trakt.tv/watchnow/325833165"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1073498",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "FbshBSEk4e0",
-          "video_title": "Patreon: 3ciento - Chi l'ha duro... la vince (2008) di J. Friedberg, A. Seltzer - Mini per Goliath94",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Aaron Seltzer, Jason Friedberg",
       "it_flatrate": []
     },
     "movie:scipione detto anche l'africano:tt0067719": {
@@ -182167,42 +181777,6 @@
       "director": "Antonio Frazzi, Andrea Frazzi",
       "it_flatrate": []
     },
-    "movie:havoc:tt14123284": {
-      "id": "movie:havoc:tt14123284",
-      "imdb_id": "tt14123284",
-      "category": "movie",
-      "it_title": "Havoc",
-      "orig_title": "Havoc",
-      "year": 2025,
-      "cast": "Tom Hardy, Jessie Mei Li",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZWJjMjdhNGEtZjEyMi00OTg2LTllMzQtN2JlZWNjYzI4YzFhXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://watchnow.trakt.tv/watchnow/323253323"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt14123284",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "C3T-qTTgDq0",
-          "video_title": "Patreon: Havoc (2025) di Gareth Evans - Minirece richiesta da Paolo T.",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Gareth Evans",
-      "it_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/81330790"
-        }
-      ]
-    },
     "movie:lui è tornato:tt4176826": {
       "id": "movie:lui è tornato:tt4176826",
       "imdb_id": "tt4176826",
@@ -182455,36 +182029,6 @@
         }
       ],
       "director": "Nando Cicero",
-      "it_flatrate": []
-    },
-    "movie:mai dire ninja:tt0118708": {
-      "id": "movie:mai dire ninja:tt0118708",
-      "imdb_id": "tt0118708",
-      "category": "movie",
-      "it_title": "Mai dire ninja",
-      "orig_title": "Beverly Hills Ninja",
-      "year": 1997,
-      "cast": "Chris Farley, Nicollette Sheridan",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2IxOTRkMDItYzRjZC00ZDQ4LWEyNTQtZjlmMWExN2U2ZjU5XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://watchnow.trakt.tv/watchnow/325928311"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0118708",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "f2YLxIj5pNY",
-          "video_title": "Patreon: Mai dire ninja (1997) di Dennis Dugan - Minirece richiesta da Zorg",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Dennis Dugan",
       "it_flatrate": []
     },
     "movie:bambola:tt0115794": {
@@ -183322,36 +182866,6 @@
       "director": "Masaki Kobayashi",
       "it_flatrate": []
     },
-    "movie:fist of the north star:tt0113074": {
-      "id": "movie:fist of the north star:tt0113074",
-      "imdb_id": "tt0113074",
-      "category": "movie",
-      "it_title": "Fist of the North Star",
-      "orig_title": "Fist of the North Star",
-      "year": 1995,
-      "cast": "Gary Daniels, Malcolm McDowell",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjY5NzViYTItZTVhOC00YWVkLWJlNDMtMTYzZDJjYTU2ZmYxXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/324835343"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0113074",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "iq77VN9fi_c",
-          "video_title": "Patreon: Fist of the North Star (1995) di Tony Randel - Minirece richiesta da Florian",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Tony Randel",
-      "it_flatrate": []
-    },
     "movie:il boom:tt0056883": {
       "id": "movie:il boom:tt0056883",
       "imdb_id": "tt0056883",
@@ -183823,41 +183337,6 @@
       "director": "John Landis",
       "it_flatrate": []
     },
-    "movie:chernobyl diaries - la mutazione:tt1991245": {
-      "id": "movie:chernobyl diaries - la mutazione:tt1991245",
-      "imdb_id": "tt1991245",
-      "category": "movie",
-      "it_title": "Chernobyl Diaries - La mutazione",
-      "orig_title": "Chernobyl Diaries",
-      "year": 2012,
-      "cast": "Jesse McCartney, Jonathan Sadowski",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzkwNDkyNTUxNV5BMl5BanBnXkFtZTcwODY1NTE3Nw@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt1991245",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "sDa-HIdnaN0",
-          "video_title": "Patreon: Chernobyl Diaries - La mutazione (2012) di B. Parker - Mini richiesta da Michael Coppola",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Bradley Parker",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8b89ea2-a183-b1b0-882d-e9a2116eac69"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8b89ea2-a183-b1b0-882d-e9a2116eac69"
-        }
-      ]
-    },
     "movie:selvaggi:tt0114386": {
       "id": "movie:selvaggi:tt0114386",
       "imdb_id": "tt0114386",
@@ -184227,52 +183706,6 @@
       "director": "Ettore Scola",
       "it_flatrate": []
     },
-    "movie:ti amo in tutte le lingue del mondo:tt0493171": {
-      "id": "movie:ti amo in tutte le lingue del mondo:tt0493171",
-      "imdb_id": "tt0493171",
-      "category": "movie",
-      "it_title": "Ti amo in tutte le lingue del mondo",
-      "orig_title": "I Love You in Every Language in the World",
-      "year": 2005,
-      "cast": "Leonardo Pieraccioni, Giorgio Panariello",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU0OTMwNzE5N15BMl5BanBnXkFtZTcwNTIyOTI0MQ@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "blue_tv",
-          "name": "blue TV",
-          "link": "https://watchnow.trakt.tv/watchnow/326739845"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0493171",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "vrwLwex7nBU",
-          "video_title": "Patreon: Ti amo in tutte le lingue del mondo (2005) di Leonardo Pieraccioni -  Richiesta da Inside",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Leonardo Pieraccioni",
-      "it_flatrate": [
-        {
-          "source": "skygo",
-          "name": "Sky Go",
-          "link": "https://skygo.sky.it/"
-        },
-        {
-          "source": "nowtv",
-          "name": "Now TV",
-          "link": "https://www.nowtv.it/watch/asset/ti-amo-in-tutte-le-lingue-del-mondo/R_605129_HD"
-        },
-        {
-          "source": "amazoninfinity",
-          "name": "Infinity Selection Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2b7d955-3d18-f119-b8f6-f8ac62b50f4e"
-        }
-      ]
-    },
     "movie:il volto di un altro:tt0061065": {
       "id": "movie:il volto di un altro:tt0061065",
       "imdb_id": "tt0061065",
@@ -184391,42 +183824,6 @@
           "source": "nowtv",
           "name": "Now TV",
           "link": "https://www.nowtv.it/watch/asset/hotel-transylvania/R_594483_HD"
-        }
-      ]
-    },
-    "movie:toy boy - un ragazzo in vendita:tt1186370": {
-      "id": "movie:toy boy - un ragazzo in vendita:tt1186370",
-      "imdb_id": "tt1186370",
-      "category": "movie",
-      "it_title": "Toy Boy - Un ragazzo in vendita",
-      "orig_title": "Spread",
-      "year": 2009,
-      "cast": "Ashton Kutcher, Anne Heche",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzY5NjMzNzUwN15BMl5BanBnXkFtZTcwNTQ1ODY2Mg@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/327680209"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1186370",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "e9Fj07bGrEI",
-          "video_title": "Patreon: Toy Boy - Un ragazzo in vendita (2009) di David Mackenzie -  Richiesta da Coree Tartufo",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "David Mackenzie",
-      "it_flatrate": [
-        {
-          "source": "amazonthefilmclub",
-          "name": "The Film Club Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cabc6dcd-fcbd-e445-4165-08f99d9269bb"
         }
       ]
     },
@@ -185070,30 +184467,6 @@
         }
       ],
       "director": "Abdellatif Kechiche",
-      "it_flatrate": []
-    },
-    "movie:slappy - occhio alla pinna:tt0120213": {
-      "id": "movie:slappy - occhio alla pinna:tt0120213",
-      "imdb_id": "tt0120213",
-      "category": "movie",
-      "it_title": "Slappy - Occhio alla pinna",
-      "orig_title": "Slappy and the Stinkers",
-      "year": 1998,
-      "cast": "BD Wong, Bronson Pinchot",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZmI2NmFmYTktOGY5OS00ZWFlLWJlZWUtYzZlNGI1ZmYwNmVlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0120213",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "coWUMhcKTW8",
-          "video_title": "Patreon: Slappy - Occhio alla pinna (1998) di  Barnet Kellman - Minirece richiesta da Joey B.",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Barnet Kellman",
       "it_flatrate": []
     },
     "movie:il giorno dello sciacallo:tt0069947": {
@@ -186694,29 +186067,6 @@
         }
       ]
     },
-    "movie:don't look at the demon:tt5249706": {
-      "id": "movie:don't look at the demon:tt5249706",
-      "imdb_id": "tt5249706",
-      "category": "movie",
-      "it_title": "Don't Look at the Demon",
-      "orig_title": "Don't Look at the Demon",
-      "year": 2022,
-      "cast": "Fiona Dourif, Jordan Belfi",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDdkYzYwMjktOGJkOS00ZGRkLTg0YmQtM2RhMjkyYjAwMDA2XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt5249706",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "SkZyedbFl6g",
-          "video_title": "Patreon: Don't Look at the Demon (2022) di Brando Lee - Minirece richiesta da Claudio Fina",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "it_flatrate": []
-    },
     "movie:ricky bobby - la storia di un uomo che sapeva contare fino a uno - di a. mckay:tt0349529": {
       "id": "movie:ricky bobby - la storia di un uomo che sapeva contare fino a uno - di a. mckay:tt0349529",
       "imdb_id": "tt0349529",
@@ -186828,66 +186178,6 @@
       ],
       "director": "Steno",
       "it_flatrate": []
-    },
-    "movie:the astronaut's wife - la moglie dell'astronauta:tt0138304": {
-      "id": "movie:the astronaut's wife - la moglie dell'astronauta:tt0138304",
-      "imdb_id": "tt0138304",
-      "category": "movie",
-      "it_title": "The Astronaut's Wife - La moglie dell'astronauta",
-      "orig_title": "The Astronaut's Wife",
-      "year": 1999,
-      "cast": "Charlize Theron, Johnny Depp",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTIxNjViMDgtMjM5Yy00ZDY1LWE3YzUtYWFiMDNlNWFjMDNkXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0138304",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "rPzP07C_0VM",
-          "video_title": "Patreon: The Astronaut's Wife - La moglie dell'astronauta (1999) di R.Ravich - Richiesta da Gloria94",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Rand Ravich",
-      "it_flatrate": []
-    },
-    "movie:cappuccetto rosso sangue:tt1486185": {
-      "id": "movie:cappuccetto rosso sangue:tt1486185",
-      "imdb_id": "tt1486185",
-      "category": "movie",
-      "it_title": "Cappuccetto rosso sangue",
-      "orig_title": "Red Riding Hood",
-      "year": 2011,
-      "cast": "Amanda Seyfried, Lukas Haas",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTc4NjYyMzQ5MV5BMl5BanBnXkFtZTcwNjE5Mjc3NA@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://watchnow.trakt.tv/watchnow/325851132"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1486185",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "xvA0jGI19X0",
-          "video_title": "Patreon: Cappuccetto rosso sangue (2011) di Catherine Hardwick - Minirece richiesta da Elena per Fab",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Catherine Hardwicke",
-      "it_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/70167073"
-        }
-      ]
     },
     "movie:demoniaca:tt0104155": {
       "id": "movie:demoniaca:tt0104155",
@@ -187079,62 +186369,6 @@
       ],
       "director": "Mariano Laurenti",
       "it_flatrate": []
-    },
-    "movie:sharknado:tt2724064": {
-      "id": "movie:sharknado:tt2724064",
-      "imdb_id": "tt2724064",
-      "category": "movie",
-      "it_title": "Sharknado",
-      "orig_title": "Sharknado",
-      "year": 2013,
-      "cast": "Ian Ziering, Tara Reid",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTNkOTA0NjYtM2VjOC00ZmYzLWI1NzQtMjY4NTU2MGNkZmU0XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/325874009"
-        },
-        {
-          "source": "netzkino",
-          "name": "Netzkino (free)",
-          "link": "https://watchnow.trakt.tv/watchnow/325874012"
-        },
-        {
-          "source": "rakuten_tv",
-          "name": "Rakuten TV",
-          "link": "https://watchnow.trakt.tv/watchnow/325874013"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt2724064",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "g4JmE29HGsQ",
-          "video_title": "Patreon: Sharknado (2013) di Anthony C. Ferrone - Minirece richiesta da Oculus",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Anthony C. Ferrante",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d0b9a658-3260-e87d-0268-50fa98fe0632"
-        },
-        {
-          "source": "plex",
-          "name": "Plex",
-          "link": "https://watch.plex.tv/movie/sharknado-2013?autoplay=1&utm_content=5d776a3496b655001fde6841&utm_medium=deeplink&utm_source=justWatch-v2-catalog"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d0b9a658-3260-e87d-0268-50fa98fe0632"
-        }
-      ]
     },
     "movie:la ragazza con la valigia:tt0054225": {
       "id": "movie:la ragazza con la valigia:tt0054225",
@@ -187728,30 +186962,6 @@
       "director": "Ettore Scola",
       "it_flatrate": []
     },
-    "movie:so cosa hai fatto:tt0119345": {
-      "id": "movie:so cosa hai fatto:tt0119345",
-      "imdb_id": "tt0119345",
-      "category": "movie",
-      "it_title": "So cosa hai fatto",
-      "orig_title": "I Know What You Did Last Summer",
-      "year": 1997,
-      "cast": "Jennifer Love Hewitt, Sarah Michelle Gellar",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGE1MmMxZDMtYzkyYS00N2EzLTgxYWItNWZiN2NmMzZiZTNmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0119345",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "TDUYmkIy1Z4",
-          "video_title": "Patreon: So cosa hai fatto (1997) di Jim Gillespie - Minirece richiesta da Ellen91",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Jim Gillespie",
-      "it_flatrate": []
-    },
     "movie:la morte ha sorriso all'assassino:tt0068972": {
       "id": "movie:la morte ha sorriso all'assassino:tt0068972",
       "imdb_id": "tt0068972",
@@ -188307,30 +187517,6 @@
         }
       ],
       "director": "Roland Emmerich",
-      "it_flatrate": []
-    },
-    "movie:daylight - trappola nel tunnel:tt0116040": {
-      "id": "movie:daylight - trappola nel tunnel:tt0116040",
-      "imdb_id": "tt0116040",
-      "category": "movie",
-      "it_title": "Daylight - Trappola nel tunnel",
-      "orig_title": "Daylight",
-      "year": 1996,
-      "cast": "Sylvester Stallone, Amy Brenneman",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTM2YTg0OWUtODc5ZC00ZGU2LWFkZGYtMDFmZGE3NzFhYjM4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0116040",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "DoAFWeQjoqw",
-          "video_title": "Patreon: Daylight - Trappola nel tunnel (1996) di Rob Cohen - Minirece richiesta da Furia",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Rob Cohen",
       "it_flatrate": []
     },
     "movie:independence day:tt0116629": {
@@ -189423,30 +188609,6 @@
       "director": "Tony Britten",
       "it_flatrate": []
     },
-    "movie:il regno del fuoco:tt0253556": {
-      "id": "movie:il regno del fuoco:tt0253556",
-      "imdb_id": "tt0253556",
-      "category": "movie",
-      "it_title": "Il regno del fuoco",
-      "orig_title": "Reign of Fire",
-      "year": 2002,
-      "cast": "Matthew McConaughey, Christian Bale",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTFkMGVmZTUtMzcyMC00ZTBkLWExNzAtNTVmYTE3MjIzOTk1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0253556",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "fbw7G2M481c",
-          "video_title": "Patreon: Il regno del fuoco (2002) di Rob S. Bowman - Minirece richiesta da Jay",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Rob S. Bowman",
-      "it_flatrate": []
-    },
     "show:peacemaker:tt13146488": {
       "id": "show:peacemaker:tt13146488",
       "imdb_id": "tt13146488",
@@ -189625,30 +188787,6 @@
       "director": "Alessandro Piva",
       "it_flatrate": []
     },
-    "movie:evolution:tt0251075": {
-      "id": "movie:evolution:tt0251075",
-      "imdb_id": "tt0251075",
-      "category": "movie",
-      "it_title": "Evolution",
-      "orig_title": "Evolution",
-      "year": 2001,
-      "cast": "David Duchovny, Orlando Jones",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjMwZjJjYzItZjUwZS00MTU5LTlmOTItMmE5MGFhZTg2MWM2XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0251075",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "Yw8TP28Brm0",
-          "video_title": "Patreon: Evolution (2001) di Ivan Reitman - Minirece richiesta da Fall",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Ivan Reitman",
-      "it_flatrate": []
-    },
     "movie:alien 2 - sulla terra:tt0078749": {
       "id": "movie:alien 2 - sulla terra:tt0078749",
       "imdb_id": "tt0078749",
@@ -189763,42 +188901,6 @@
       "director": "John Carpenter",
       "it_flatrate": []
     },
-    "movie:i fantastici 4 e silver surfer:tt0486576": {
-      "id": "movie:i fantastici 4 e silver surfer:tt0486576",
-      "imdb_id": "tt0486576",
-      "category": "movie",
-      "it_title": "I Fantastici 4 e Silver Surfer",
-      "orig_title": "Fantastic Four: Rise of the Silver Surfer",
-      "year": 2007,
-      "cast": "Ioan Gruffudd, Jessica Alba",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNmZmMTU0OGQtOWRmNS00ZjA1LWJkM2EtYmUwNGEzMjIyZDM1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/326526846"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0486576",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "S276UASkfRY",
-          "video_title": "Patreon: I Fantastici 4 e Silver Surfer (2007) di Tim Story - Minirece richiesta da duroamorire",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Tim Story",
-      "it_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-06810fd3-a12e-4185-829b-36b3c814ce97"
-        }
-      ]
-    },
     "movie:5 cm al secondo:tt0983213": {
       "id": "movie:5 cm al secondo:tt0983213",
       "imdb_id": "tt0983213",
@@ -189845,30 +188947,6 @@
         }
       ],
       "director": "Stan Winston",
-      "it_flatrate": []
-    },
-    "movie:vacanze di natale:tt0205493": {
-      "id": "movie:vacanze di natale:tt0205493",
-      "imdb_id": "tt0205493",
-      "category": "movie",
-      "it_title": "Vacanze di Natale",
-      "orig_title": "Vacanze di Natale",
-      "year": 1983,
-      "cast": "Jerry Calà, Christian De Sica",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDc0NTRjYzYtMDZkYy00MWI5LWIwYmQtZmQzOGNkMTVhYmIzXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0205493",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "5J-KnihRNKo",
-          "video_title": "Patreon: Vacanze di Natale (1983) di Carlo Vanzina - Minirece richiesta da Maurone",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Carlo Vanzina",
       "it_flatrate": []
     },
     "movie:tutto quella notte:tt0092513": {
@@ -190035,36 +189113,6 @@
           "source": "netflix",
           "name": "Netflix",
           "link": "https://www.netflix.com/title/80174974"
-        }
-      ]
-    },
-    "movie:winnie-the-pooh: sangue e miele:tt19623240": {
-      "id": "movie:winnie-the-pooh: sangue e miele:tt19623240",
-      "imdb_id": "tt19623240",
-      "category": "movie",
-      "it_title": "Winnie-the-Pooh: Sangue e miele",
-      "orig_title": "Winnie-the-Pooh: Blood and Honey",
-      "year": 2023,
-      "cast": "Nikolai Leon, Maria Taylor",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTA1YjEyNmQtNGNiYi00OWFlLWJlMDQtOWIyZjA5OTZhODVjXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt19623240",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "QghBsyK-ISo",
-          "video_title": "Patreon: Winnie-the-Pooh: Sangue e miele (2023) di Rhys Frake-Waterfield - Minirece richiesta da SG",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Rhys Frake-Waterfield",
-      "it_flatrate": [
-        {
-          "source": "amazonmidnight",
-          "name": "MIDNIGHT FACTORY Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cbed4c52-b340-4d71-a7e6-48c17e6031b2"
         }
       ]
     },
@@ -193404,47 +192452,6 @@
       ],
       "director": "Giampaolo Morelli",
       "it_flatrate": []
-    },
-    "movie:catwoman:tt0327554": {
-      "id": "movie:catwoman:tt0327554",
-      "imdb_id": "tt0327554",
-      "category": "movie",
-      "it_title": "Catwoman",
-      "orig_title": "Catwoman",
-      "year": 2004,
-      "cast": "Halle Berry, Sharon Stone",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOWQwOGYwNTYtZWMzNS00M2UxLTgwMjEtYjcwYmY3ZjU2ZDliXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/324292415"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0327554",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "kkrdEr9z4p0",
-          "video_title": "Patreon: Catwoman (2004) di Pitof - Minirece richiesta da bartvanzetti",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Pitof",
-      "it_flatrate": [
-        {
-          "source": "amazonhbomax",
-          "name": "HBO Max Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16b4391d-d95a-288f-34de-87f8c61427d3"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://www.hbomax.com/it/en/movie/758c1fa8-086e-419f-ba83-cbd2ff18be89"
-        }
-      ]
     },
     "movie:umberto d.:tt0045274": {
       "id": "movie:umberto d.:tt0045274",
@@ -197615,62 +196622,6 @@
       "director": "Riccardo Milani",
       "it_flatrate": []
     },
-    "movie:morbius:tt5108870": {
-      "id": "movie:morbius:tt5108870",
-      "imdb_id": "tt5108870",
-      "category": "movie",
-      "it_title": "Morbius",
-      "orig_title": "Morbius",
-      "year": 2022,
-      "cast": "Jared Leto, Matt Smith",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2UzYzFiZWUtOGU5ZC00YTIxLWFlNGUtMGU1YmI4OWUzN2FmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "blue_tv",
-          "name": "blue TV",
-          "link": "https://watchnow.trakt.tv/watchnow/326545012"
-        },
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/326545014"
-        },
-        {
-          "source": "sky",
-          "name": "Sky",
-          "link": "https://watchnow.trakt.tv/watchnow/326545013"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt5108870",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "jLcxg8xMJwk",
-          "video_title": "Patreon: Morbius (2022) di Daniel Espinosa - Mini richiesta da Mark Miller e Gabriele Marangella",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Daniel Espinosa",
-      "it_flatrate": [
-        {
-          "source": "amazoninfinity",
-          "name": "Infinity Selection Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b93f5ee1-b6a5-4808-a8f0-fe175e745cdf"
-        },
-        {
-          "source": "amazonhbomax",
-          "name": "HBO Max Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b93f5ee1-b6a5-4808-a8f0-fe175e745cdf"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://play.hbomax.com/movie/0458ed6b-2753-43f7-97a7-91a173d7a580?_gl=1*1maoelp*_up*MQ..*_ga*MjY3NTAxMTY0LjE3NzUxMjMzNTI.*_ga_QCLBQC10R6*czE3NzUxMjMzNTEkbzEkZzAkdDE3NzUxMjU0MjkkajYwJGwwJGgxNzMzOTkyMTIw"
-        }
-      ]
-    },
     "movie:invito a cena con delitto:tt0074937": {
       "id": "movie:invito a cena con delitto:tt0074937",
       "imdb_id": "tt0074937",
@@ -198597,31 +197548,6 @@
       "director": "Matteo Garrone",
       "it_flatrate": []
     },
-    "movie:superhero:tt0426592": {
-      "id": "movie:superhero:tt0426592",
-      "imdb_id": "tt0426592",
-      "category": "movie",
-      "it_title": "Superhero",
-      "orig_title": "Superhero Movie",
-      "year": 2008,
-      "cast": "Drake Bell, Leslie Nielsen",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTc0Njc1MTU5Nl5BMl5BanBnXkFtZTcwMjA4NDE2MQ@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0426592",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "VKQ2AqYns9E",
-          "video_title": "Patreon: Superhero (2008) di Craig Mazin - Minirece richiesta da Salvatore Del Piano",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Superhero"
-        }
-      ],
-      "director": "Craig Mazin",
-      "it_flatrate": []
-    },
     "movie:febbre da cavallo:tt0074520": {
       "id": "movie:febbre da cavallo:tt0074520",
       "imdb_id": "tt0074520",
@@ -198836,58 +197762,6 @@
       ],
       "director": "Enzo G. Castellari",
       "it_flatrate": []
-    },
-    "movie:me contro te il film - la vendetta del signor s:tt11559652": {
-      "id": "movie:me contro te il film - la vendetta del signor s:tt11559652",
-      "imdb_id": "tt11559652",
-      "category": "movie",
-      "it_title": "Me contro Te Il Film - La vendetta del Signor S",
-      "orig_title": "Me contro Te - Il film: La vendetta del Signor S",
-      "year": 2020,
-      "cast": "Sofia Scalia, Luigi Calagna",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzQwZDE5MDktNjc2YS00NmNkLTk1Y2YtZmIzYmY1ZTBkOTQ2XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/81473701"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt11559652",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "lOPL8exoXcw",
-          "video_title": "Patreon: Me contro Te Il Film - La vendetta del Signor S (2020) di G. Leuzzi - Richiesta da Stefano",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Me contro Te Il Film - La vendetta del Signor S"
-        }
-      ],
-      "director": "Gianluca Leuzzi",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0b8e1b0-4ae0-17d1-de69-b77d46957f00"
-        },
-        {
-          "source": "amazonhbomax",
-          "name": "HBO Max Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0b8e1b0-4ae0-17d1-de69-b77d46957f00"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://www.hbomax.com/it/en/movie/de3ec58b-40aa-40b6-8926-cea17bf11cf2"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0b8e1b0-4ae0-17d1-de69-b77d46957f00"
-        }
-      ]
     },
     "movie:arianna:tt0050658": {
       "id": "movie:arianna:tt0050658",
@@ -202687,48 +201561,6 @@
       ],
       "it_flatrate": []
     },
-    "movie:il mio west:tt0148508": {
-      "id": "movie:il mio west:tt0148508",
-      "imdb_id": "tt0148508",
-      "category": "movie",
-      "it_title": "Il mio West",
-      "orig_title": "Il mio West",
-      "year": 1998,
-      "cast": "Leonardo Pieraccioni, Harvey Keitel",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNmUzZGYxNzMtNTA1OC00ZWRlLThhMWEtYWQxMWQzOGQwODI2XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netzkino",
-          "name": "Netzkino",
-          "link": "https://www.netzkino.de/details/il-mio-west"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0148508",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "RaHs9oMkO_s",
-          "video_title": "Patreon: Il mio West (1998) di Giovanni Veronesi - Richesta da Marco Moroni dedicata a Mighty Pirate",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Il mio West"
-        }
-      ],
-      "director": "Giovanni Veronesi",
-      "it_flatrate": [
-        {
-          "source": "timvision",
-          "name": "Timvision",
-          "link": "https://www.timvision.it/h/9060236902_92900005?autoplay=true&utm_source=googleAssistant&utm_medium=app-to-app"
-        },
-        {
-          "source": "amazoninfinity",
-          "name": "Infinity Selection Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.babbfbd9-250d-a72b-4f48-6490c0237e25"
-        }
-      ]
-    },
     "movie:nezha:tt10627720": {
       "id": "movie:nezha:tt10627720",
       "imdb_id": "tt10627720",
@@ -203269,30 +202101,6 @@
         }
       ],
       "director": "Aleksej Oktjabrinovič Balabanov",
-      "it_flatrate": []
-    },
-    "movie:spice girls - il film:tt0120185": {
-      "id": "movie:spice girls - il film:tt0120185",
-      "imdb_id": "tt0120185",
-      "category": "movie",
-      "it_title": "Spice Girls - Il film",
-      "orig_title": "Spice World",
-      "year": 1997,
-      "cast": "Mel B, Emma Bunton",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjUxOWVmMWEtOTRmNi00MGQxLTkwYWMtYzhmNWUzYTYyYjQ5XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0120185",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "DyDDP7vCJ8Q",
-          "video_title": "Patreon: Spice Girls - Il film (1997) di Bob Spiers - Minirece richiesta da bartvanzetti",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Bob Spiers",
       "it_flatrate": []
     },
     "movie:amici miei - atto iiº:tt0083549": {
@@ -206078,37 +204886,6 @@
       ],
       "director": "Dino Risi",
       "it_flatrate": []
-    },
-    "movie:skyline:tt1564585": {
-      "id": "movie:skyline:tt1564585",
-      "imdb_id": "tt1564585",
-      "category": "movie",
-      "it_title": "Skyline",
-      "orig_title": "Skyline",
-      "year": 2010,
-      "cast": "Eric Balfour, Donald Faison",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAwNDkwOTc5M15BMl5BanBnXkFtZTcwMTE2MTMwNA@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt1564585",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "0nHv-amI9I4",
-          "video_title": "Patreon: \"Skyline\" (2010)  Strause Bros - Richiesta da Rolando Rizzo per Vanessa e per Enrico Carisi",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Skyline"
-        }
-      ],
-      "director": "Greg Strause, Colin Strause",
-      "it_flatrate": [
-        {
-          "source": "amazoneaglepictures",
-          "name": "Eagle No Limits Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.30bb4572-9885-02d1-06cd-55f3eda59acc"
-        }
-      ]
     },
     "movie:antiporno:tt5973032": {
       "id": "movie:antiporno:tt5973032",
@@ -221709,52 +220486,6 @@
       ],
       "it_flatrate": []
     },
-    "movie:demonic:tt13392012": {
-      "id": "movie:demonic:tt13392012",
-      "imdb_id": "tt13392012",
-      "category": "movie",
-      "it_title": "Demonic",
-      "orig_title": "Demonic",
-      "year": 2021,
-      "cast": "Carly Pope, Chris William Martin",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BODk4MDAxMmItMzYxYy00YjFiLWIwZWItNjBhZGQ1YTQzZDE0XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazonhomeofhorror",
-          "name": "Home of Horror Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6296cfad-f4c8-4269-9ee1-a71ae060cab5"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt13392012",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "TEHukJ6rUgQ",
-          "video_title": "Patreon: Demonic (2021) di Neill Blomkamp - Minirece richiesta da Davide Mele e Cristian Cagnin",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Neill Blomkamp",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e757445-16f6-46ab-a0dd-fac2391d05e2"
-        },
-        {
-          "source": "amazonmidnight",
-          "name": "MIDNIGHT FACTORY Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e757445-16f6-46ab-a0dd-fac2391d05e2"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e757445-16f6-46ab-a0dd-fac2391d05e2"
-        }
-      ]
-    },
     "movie:stellastrega:tt9235982": {
       "id": "movie:stellastrega:tt9235982",
       "imdb_id": "tt9235982",
@@ -223069,43 +221800,6 @@
           "source": "amazonprimevideowithads",
           "name": "Amazon Prime Video with Ads",
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.544f3fea-2d3d-48d8-adb2-2409db18b6b2"
-        }
-      ]
-    },
-    "movie:amityville : dolllhouse:tt0115535": {
-      "id": "movie:amityville : dolllhouse:tt0115535",
-      "imdb_id": "tt0115535",
-      "category": "movie",
-      "it_title": "Amityville : Dolllhouse",
-      "orig_title": "Amityville: Dollhouse",
-      "year": 1996,
-      "cast": "Robin Thomas, Starr Andreeff",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZWU0NmMyZmEtMjkzYy00MzlhLWE1N2UtZGExYTU5MzVkZDA2XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "plex",
-          "name": "Plex",
-          "link": "https://watch.plex.tv/movie/amityville-dollhouse-1996?autoplay=1&utm_content=5d77689033f255001e859acc&utm_medium=deeplink&utm_source=justWatch-v2-catalog"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0115535",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "0We0XtceD_w",
-          "video_title": "Patreon: \"Amityville:Dollhouse\" (1996) di Steve White - Minirece richiesta da Marco Zanetti",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Amityville : Dolllhouse"
-        }
-      ],
-      "director": "Steve White",
-      "it_flatrate": [
-        {
-          "source": "plex",
-          "name": "Plex",
-          "link": "https://watch.plex.tv/movie/amityville-dollhouse-1996?autoplay=1&utm_content=5d77689033f255001e859acc&utm_medium=deeplink&utm_source=justWatch-v2-catalog"
         }
       ]
     },
