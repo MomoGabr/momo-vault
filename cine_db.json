@@ -128720,52 +128720,6 @@
       "it_flatrate": [],
       "watchnow_checked": true
     },
-    "movie:backaroo banzai:tt0086856": {
-      "id": "movie:backaroo banzai:tt0086856",
-      "imdb_id": "tt0086856",
-      "category": "movie",
-      "it_title": "Backaroo Banzai",
-      "orig_title": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
-      "year": 1984,
-      "cast": "Peter Weller, John Lithgow",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDc0M2Q1MGUtNWQzMC00NTg0LWE1ZWQtYjk3YmY2ZTk2MDgxXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazonmgmplus",
-          "name": "MGM Plus Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6cf809be-616d-4596-a325-e7b5d0e6b9a8"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0086856",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "qWOgb_pwuPA",
-          "video_title": "I Consigli di Frusciante: Aprile 2022",
-          "timestamp": "25:26",
-          "seconds": 1526
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_adventuresofbuckaroobanzaiacrossthe8thdimension_1984",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/chro980.html",
-          "mentioned_as": "Adventures of Buckaroo Banzai Across the 8th Dimension"
-        }
-      ],
-      "director": "W. D. Richter",
-      "it_flatrate": [
-        {
-          "source": "amazonmgmplus",
-          "name": "MGM Plus Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6cf809be-616d-4596-a325-e7b5d0e6b9a8"
-        }
-      ],
-      "watchnow_checked": true
-    },
     "movie:l'ultimo giorno sulla terra:tt1707391": {
       "id": "movie:l'ultimo giorno sulla terra:tt1707391",
       "imdb_id": "tt1707391",
@@ -322447,30 +322401,6 @@
         }
       ]
     },
-    "movie:natale sul nilo:tt0337689": {
-      "id": "movie:natale sul nilo:tt0337689",
-      "imdb_id": "tt0337689",
-      "category": "movie",
-      "it_title": "Natale sul Nilo",
-      "orig_title": "Natale sul Nilo",
-      "year": 2002,
-      "cast": "Christian De Sica, Massimo Boldi",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNWZhOTNiZGQtNDcxNC00NDYwLWE5MmQtZjdkMmMwMDBmZjdlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0337689",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "4iEFS2J02vU",
-          "video_title": "Patreon: Natale sul Nilo (2002) di Neri Parenti - Minirece richiesta da Tori dedicata a Wandako",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Neri Parenti",
-      "it_flatrate": []
-    },
     "movie:elogio della lotta:tt0060586": {
       "id": "movie:elogio della lotta:tt0060586",
       "imdb_id": "tt0060586",
@@ -322778,36 +322708,6 @@
         }
       ],
       "director": "Stan Winston",
-      "it_flatrate": []
-    },
-    "movie:box office 3d - il film dei film:tt1969959": {
-      "id": "movie:box office 3d - il film dei film:tt1969959",
-      "imdb_id": "tt1969959",
-      "category": "movie",
-      "it_title": "Box Office 3D - Il film dei film",
-      "orig_title": "Box Office 3D: The Filmest of Films",
-      "year": 2011,
-      "cast": "Ezio Greggio, Maurizio Mattioli",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDVjMWU4MmItNWQyNC00OTVmLThmMzctNDc2MmUzNGJiYjEzXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "blue_tv",
-          "name": "blue TV",
-          "link": "https://watchnow.trakt.tv/watchnow/329133529"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1969959",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "uZzmihaa74g",
-          "video_title": "Patreon: Box Office 3D - Il film dei film (2011) di Ezio Greggio - Minirece richiesta da Andrea",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Ezio Greggio",
       "it_flatrate": []
     },
     "movie:doomsday - il giorno del giudizio:tt0483607": {
@@ -323726,54 +323626,6 @@
         }
       ]
     },
-    "movie:cemento armato:tt1104688": {
-      "id": "movie:cemento armato:tt1104688",
-      "imdb_id": "tt1104688",
-      "category": "movie",
-      "it_title": "Cemento Armato",
-      "orig_title": "Concrete Romance",
-      "year": 2007,
-      "cast": "Nicolas Vaporidis, Giorgio Faletti",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU0ODUyMzg4NV5BMl5BanBnXkFtZTcwOTA2OTYxOQ@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt1104688",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "LZgGnuqTd2U",
-          "video_title": "Patreon: Cemento Armato (2007) - Minirece richiesta da Enrico Cericola",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Cemento Armato"
-        }
-      ],
-      "director": "Marco Martani",
-      "it_flatrate": []
-    },
-    "movie:the lady (stag.1 - ep.1):tt2482748": {
-      "id": "movie:the lady (stag.1 - ep.1):tt2482748",
-      "imdb_id": "tt2482748",
-      "category": "movie",
-      "it_title": "The Lady (Stag.1 - Ep.1)",
-      "orig_title": "Disturban Legends Ep1",
-      "year": 2012,
-      "cast": "Ruthie Ames, Andre Francois",
-      "poster_url": "",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt2482748",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "vkEqLB3_YvA",
-          "video_title": "Patreon: The Lady (Stag.1 - Ep.1) di Lory Del Santo - Minirece richiesta da Enea Fonti",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "it_flatrate": []
-    },
     "movie:sunrise boulevard (2024) (corto):tt33057646": {
       "id": "movie:sunrise boulevard (2024) (corto):tt33057646",
       "imdb_id": "tt33057646",
@@ -323878,30 +323730,6 @@
           "link": "https://www.nowtv.it/watch/asset/everest/R_200684_HD"
         }
       ]
-    },
-    "movie:banzai:tt0125670": {
-      "id": "movie:banzai:tt0125670",
-      "imdb_id": "tt0125670",
-      "category": "movie",
-      "it_title": "Banzai",
-      "orig_title": "Banzai",
-      "year": 1997,
-      "cast": "Paolo Villaggio, Francesco De Rosa",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzJhMzljMWEtZDE0MC00ZWMyLTljYWUtYjkyM2EzMWFhMDk1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0125670",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "P1rAy_lZ6UQ",
-          "video_title": "Patreon: Banzai (1997) di Carlo Vanzina - Minirece richiesta da OldBoy",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Carlo Vanzina",
-      "it_flatrate": []
     },
     "movie:bacurau:tt2762506": {
       "id": "movie:bacurau:tt2762506",
