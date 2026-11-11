@@ -175642,42 +175642,6 @@
       "director": "Demián Rugna",
       "it_flatrate": []
     },
-    "movie:parto col folle:tt1231583": {
-      "id": "movie:parto col folle:tt1231583",
-      "imdb_id": "tt1231583",
-      "category": "movie",
-      "it_title": "Parto col folle",
-      "orig_title": "Due Date",
-      "year": 2010,
-      "cast": "Robert Downey Jr., Zach Galifianakis",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU5MTgxODM3Nl5BMl5BanBnXkFtZTcwMjMxNDEwNA@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://watchnow.trakt.tv/watchnow/324145938"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1231583",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "Txhx54ANksM",
-          "video_title": "Patreon: Parto col folle (2010) di Todd Phillips - Minirece richiesta da Trisha",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Todd Phillips",
-      "it_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/70130675"
-        }
-      ]
-    },
     "movie:you're next:tt1853739": {
       "id": "movie:you're next:tt1853739",
       "imdb_id": "tt1853739",
@@ -217372,48 +217336,6 @@
           "source": "netflix",
           "name": "Netflix",
           "link": "https://www.netflix.com/title/81002922"
-        }
-      ]
-    },
-    "movie:the twilight saga- breaking dawn parte 1:tt1324999": {
-      "id": "movie:the twilight saga- breaking dawn parte 1:tt1324999",
-      "imdb_id": "tt1324999",
-      "category": "movie",
-      "it_title": "The Twilight saga- Breaking Dawn parte 1",
-      "orig_title": "The Twilight Saga: Breaking Dawn - Part 1",
-      "year": 2011,
-      "cast": "Kristen Stewart, Robert Pattinson",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjBlY2M2MTctMzU3Yi00MTY3LTlkMTAtMzhlMzY1YjZlYTA2XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/70202142"
-        },
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-4991b563-11ab-43c5-ac70-de7ca1ac2952"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1324999",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "IrSz6NfLJ84",
-          "video_title": "MovieBlog- 193: recensione The Twilight saga- Breaking Dawn parte 1",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "The Twilight saga- Breaking Dawn parte 1"
-        }
-      ],
-      "director": "Bill Condon",
-      "it_flatrate": [
-        {
-          "source": "amazoneaglemagic",
-          "name": "Eagle Magic Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f6b9ebc8-c301-641f-bf16-2ed5447be100"
         }
       ]
     },
