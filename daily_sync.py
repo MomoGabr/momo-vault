@@ -5,6 +5,7 @@ e rigenera index.html + cine_dashboard.html in ~15 secondi.
 """
 
 from concurrent.futures import ThreadPoolExecutor
+from datetime import datetime, timezone
 import json
 import os
 import re
@@ -93,11 +94,13 @@ EBERT_NEG_WORDS = (
 )
 
 
-def sync_latest_rogerebert_feed(db_data, headers, ch_map):
+def sync_latest_rogerebert_feed(db_data, headers, ch_map, daily_log=None):
     """
     Scarica le ultime recensioni da https://www.rogerebert.com/reviews/feed
     e https://www.rogerebert.com/category/great-movies/feed e aggiunge quelle positive!
     """
+    if daily_log is None:
+        daily_log = []
     processed_set = set(db_data.get("processed_videos", []))
     new_ebert = []
     for feed_url, is_great in (
@@ -147,6 +150,12 @@ def sync_latest_rogerebert_feed(db_data, headers, ch_map):
         k = mcs.find_matching_movie_key(db_data["items"], title, target_year=yr)
         if k and k in db_data["items"]:
             db_data["items"][k]["recommendations"].append(rec)
+            tt = db_data["items"][k].get("imdb_id", "")
+            daily_log.append(
+                f"  • [Roger Ebert] {db_data['items'][k].get('it_title')} ({db_data['items'][k].get('year')})\n"
+                f"    🔗 Recensione: {link}\n"
+                f"    🎬 Trakt: https://app.trakt.tv/movies/{tt}"
+            )
         else:
             enr = cd.enrich_movie(
                 {
@@ -168,15 +177,22 @@ def sync_latest_rogerebert_feed(db_data, headers, ch_map):
                     db_data["items"][fid] = enr
                 else:
                     db_data["items"][fid]["recommendations"].append(rec)
+                daily_log.append(
+                    f"  • [Roger Ebert] {enr.get('it_title')} ({enr.get('year')})\n"
+                    f"    🔗 Recensione: {link}\n"
+                    f"    🎬 Trakt: https://app.trakt.tv/movies/{enr.get('imdb_id')}"
+                )
 
     db_data["processed_videos"] = list(processed_set)
 
 
-def sync_latest_scaruffi_cinema(db_data, headers, ch_map):
+def sync_latest_scaruffi_cinema(db_data, headers, ch_map, daily_log=None):
     """
     Controlla https://www.scaruffi.com/cinema/best26.html e chro020.html
     per eventuali nuovi film >= 7.0 aggiunti da Piero Scaruffi.
     """
+    if daily_log is None:
+        daily_log = []
     processed_set = set(db_data.get("processed_videos", []))
     new_scar = []
     for p_name, def_yr in (("best26.html", 2026), ("best25.html", 2025), ("chro020.html", 2025)):
@@ -227,6 +243,12 @@ def sync_latest_scaruffi_cinema(db_data, headers, ch_map):
         if k and k in db_data["items"]:
             if not any(r.get("creator") == "Piero Scaruffi" for r in db_data["items"][k].get("recommendations", [])):
                 db_data["items"][k]["recommendations"].append(rec)
+                tt = db_data["items"][k].get("imdb_id", "")
+                daily_log.append(
+                    f"  • [Piero Scaruffi] {db_data['items'][k].get('it_title')} ({db_data['items'][k].get('year')})\n"
+                    f"    🔗 Scheda Scaruffi: {link}\n"
+                    f"    🎬 Trakt: https://app.trakt.tv/movies/{tt}"
+                )
         else:
             enr = cd.enrich_movie(
                 {
@@ -248,8 +270,53 @@ def sync_latest_scaruffi_cinema(db_data, headers, ch_map):
                     db_data["items"][fid] = enr
                 else:
                     db_data["items"][fid]["recommendations"].append(rec)
+                daily_log.append(
+                    f"  • [Piero Scaruffi] {enr.get('it_title')} ({enr.get('year')})\n"
+                    f"    🔗 Scheda Scaruffi: {link}\n"
+                    f"    🎬 Trakt: https://app.trakt.tv/movies/{enr.get('imdb_id')}"
+                )
 
     db_data["processed_videos"] = list(processed_set)
+
+
+def update_daily_log_file(daily_log, total_items, total_watched):
+    log_path = os.path.join(cd.BASE_DIR, "daily_updates.txt")
+    docs_log_path = os.path.join(cd.BASE_DIR, "docs", "daily_updates.txt")
+    now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    header = (
+        f"========================================================================\n"
+        f"📅 SYNC DEL {now_str} | Opere nel Vault: {total_items} | Visti Trakt: {total_watched}\n"
+        f"========================================================================\n"
+    )
+    if daily_log:
+        body = f"✨ Nuovi video/recensioni aggiunti oggi ({len(daily_log)}):\n" + "\n".join(daily_log) + "\n\n"
+    else:
+        body = "✓ Nessun nuovo video/recensione uscito oggi (Trakt e Streaming CH/IT sincronizzati).\n\n"
+
+    existing = ""
+    if os.path.exists(log_path):
+        try:
+            with open(log_path, encoding="utf-8") as f:
+                existing = f.read()
+        except Exception:
+            existing = ""
+
+    # Rimuovi eventuale banner statico iniziale prima di prependere il nuovo blocco in cima
+    banner = (
+        "########################################################################\n"
+        "# 🎬 MOMO VAULT — REGISTRO GIORNALIERO NUOVI VIDEO E LINK AGGIUNTI     #\n"
+        "########################################################################\n\n"
+    )
+    if existing.startswith("####"):
+        parts = existing.split("\n\n", 1)
+        existing = parts[1] if len(parts) > 1 else ""
+
+    new_content = banner + header + body + existing
+    with open(log_path, "w", encoding="utf-8") as f:
+        f.write(new_content)
+    if os.path.isdir(os.path.join(cd.BASE_DIR, "docs")):
+        with open(docs_log_path, "w", encoding="utf-8") as f:
+            f.write(new_content)
 
 
 def main():
@@ -272,6 +339,7 @@ def main():
         ratings_imdb = db_data.get("ratings_imdb", {})
 
     processed_set = set(db_data.get("processed_videos", []))
+    daily_log = []
 
     new_candidates = []
     for creator, ch_id in ALL_CHANNELS:
@@ -310,6 +378,13 @@ def main():
                 }
                 if k and k in db_data["items"]:
                     db_data["items"][k]["recommendations"].append(rec)
+                    tt = db_data["items"][k].get("imdb_id", "")
+                    yt_url = f"https://youtu.be/{vid}?t={raw['seconds'] or 0}s"
+                    daily_log.append(
+                        f"  • [{creator}] {db_data['items'][k].get('it_title')} ({db_data['items'][k].get('year')}) — {meta['title']}\n"
+                        f"    ▶️ Video YouTube: {yt_url}\n"
+                        f"    🎬 Trakt: https://app.trakt.tv/movies/{tt}"
+                    )
                 else:
                     raw["inferred_year"] = explicit_yr
                     to_enrich.append((raw, rec))
@@ -335,13 +410,20 @@ def main():
                     db_data["items"][fid] = enriched
                 else:
                     db_data["items"][fid]["recommendations"].append(rec)
+                yt_url = f"https://youtu.be/{rec['video_id']}?t={rec.get('seconds') or 0}s"
+                daily_log.append(
+                    f"  • [{rec['creator']}] {enriched.get('it_title')} ({enriched.get('year')}) — {rec.get('video_title')}\n"
+                    f"    ▶️ Video YouTube: {yt_url}\n"
+                    f"    🎬 Trakt: https://app.trakt.tv/movies/{enriched.get('imdb_id', '')}"
+                )
 
         db_data["processed_videos"] = list(processed_set)
 
-    sync_latest_rogerebert_feed(db_data, headers, ch_map)
-    sync_latest_scaruffi_cinema(db_data, headers, ch_map)
+    sync_latest_rogerebert_feed(db_data, headers, ch_map, daily_log)
+    sync_latest_scaruffi_cinema(db_data, headers, ch_map, daily_log)
     cd.save_db(db_data)
     cd.generate_html(db_data, watched_imdb, ratings_imdb)
+    update_daily_log_file(daily_log, len(db_data["items"]), len(watched_imdb))
     print(f"✅ Sync completato! Opere nel Vault: {len(db_data['items'])}")
 
 
