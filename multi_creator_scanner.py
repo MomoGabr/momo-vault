@@ -202,15 +202,33 @@ def process_creator_video(v_entry):
             pass
 
     # 1. Se il titolo del video è una Recensione Singola (Alò / Criticoni / Marra / Victorlaszlo MovieBlog),
-    # NON leggere mai i capitoli della descrizione ("01:20 Trama", "05:00 Spoiler") come se fossero film!
+    # usa PRIMA il parlato vero del creator (YouTubeTranscriptApi, seconda metà del video + descrizione)
+    # e usa i commenti solo come fallback se i sottotitoli non sono disponibili!
     single_title, dir_hint = extract_single_movie_from_creator_title(creator, title)
     if single_title:
-        if comment_text:
-            score, _, _ = cd.score_frusciante_verdict(comment_text)
-            if score <= 0:
-                return vid, creator, meta, []
-        else:
+        if (meta.get("length_seconds") or 999) <= 110:
             return vid, creator, meta, []
+        verdict_ok = None
+        try:
+            from youtube_transcript_api import YouTubeTranscriptApi
+            tr = YouTubeTranscriptApi().fetch(vid, languages=["it", "en"])
+            full_t = " ".join(s.text for s in tr)
+            # Valuta soprattutto il verdetto finale (ultimo 45% del parlato) + la descrizione
+            end_t = full_t[int(len(full_t) * 0.55) :] + " " + desc
+            score_tr, _, neg_tr = cd.score_frusciante_verdict(end_t)
+            verdict_ok = (score_tr > 0) or (score_tr == 0 and len(neg_tr) == 0)
+        except Exception:
+            verdict_ok = None
+
+        if verdict_ok is False:
+            return vid, creator, meta, []
+        if verdict_ok is None:
+            if comment_text:
+                score, _, neg_c = cd.score_frusciante_verdict(desc + " " + comment_text)
+                if score < 0 or len(neg_c) >= 2:
+                    return vid, creator, meta, []
+            else:
+                return vid, creator, meta, []
 
         return (
             vid,
