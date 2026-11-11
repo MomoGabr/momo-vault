@@ -1802,6 +1802,209 @@
         }
       ]
     },
+    "movie:una battaglia dopo l'altra:tt30144839": {
+      "id": "movie:una battaglia dopo l'altra:tt30144839",
+      "imdb_id": "tt30144839",
+      "category": "movie",
+      "it_title": "Una battaglia dopo l'altra",
+      "orig_title": "One Battle After Another",
+      "year": 2025,
+      "cast": "Leonardo DiCaprio, Sean Penn",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "canal_plus",
+          "name": "Canal+",
+          "link": "https://watchnow.trakt.tv/watchnow/327355761"
+        },
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/327355762"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt30144839",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "UsKYLSkEzSw",
+          "video_title": "Federico Frusciante: Il Meglio e Peggio 2025",
+          "timestamp": "11:55:09",
+          "seconds": 42909,
+          "mentioned_as": "Una battaglia dopo l'altra"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "MPnJdRuASTQ",
+          "video_title": "Frusciante al Cinema: Una battaglia dopo l'altra (2025) di Paul Thomas Anderson - Settembre 2025",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Una battaglia dopo l'altra"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "THei1K4rtpM",
+          "video_title": "I MIGLIORI FILM DEL 2025",
+          "timestamp": "1:02:31",
+          "seconds": 3751,
+          "mentioned_as": "Una Battaglia dopo l'Altra"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "oQG2eUOyfTY",
+          "video_title": "CRITICONI su “Una battaglia dopo l'altra” di P. T. Anderson | Criticoni al Cinema",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Una battaglia dopo l'altra"
+        },
+        {
+          "creator": "Francesco Alò",
+          "video_id": "j_Z7FlK3NQ4",
+          "video_title": "\"Una battaglia dopo l'altra\" di Paul Thomas Anderson - recensione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Una battaglia dopo l'altra"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "UGAF6-zPq3g",
+          "video_title": "MovieBlog- 1028: recensione Una Battaglia Dopo l'Altra",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Una Battaglia Dopo l'Altra"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_one-battle-after-another-movie-review-2025",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/one-battle-after-another-movie-review-2025",
+          "mentioned_as": "One Battle After Another"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "fscBqxztZBo",
+          "video_title": "Una Battaglia Dopo l'Altra è clamoroso",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Una Battaglia Dopo l'Altra"
+        }
+      ],
+      "director": "Paul Thomas Anderson",
+      "it_flatrate": [
+        {
+          "source": "amazonhbomax",
+          "name": "HBO Max (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/301122019"
+        },
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/301122020"
+        }
+      ]
+    },
+    "movie:alien:tt0078748": {
+      "id": "movie:alien:tt0078748",
+      "imdb_id": "tt0078748",
+      "category": "movie",
+      "it_title": "Alien",
+      "orig_title": "Alien",
+      "year": 1979,
+      "cast": "Sigourney Weaver, Tom Skerritt",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/326986303"
+        },
+        {
+          "source": "home_of_horror_amazon_channel",
+          "name": "Home of Horror (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/326986304"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0078748",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "hVy2Tf4R-kc",
+          "video_title": "Le Monografie di Frusciante: Ridley Scott (Dicembre 2018)",
+          "timestamp": "05:12",
+          "seconds": 312,
+          "mentioned_as": "Alien"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "Z1THW15a5I8",
+          "video_title": "Federico Frusciante: Le Saghe - Alien (Tutti i film della serie)",
+          "timestamp": "01:14",
+          "seconds": 74,
+          "mentioned_as": "Alien"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "8Tj2YUjVdyQ",
+          "video_title": "MovieBlog- 335: Recensione Alien (1979)",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Alien"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_alien_1979",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/scott.html",
+          "mentioned_as": "Alien"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "D-LGPZgvrkM",
+          "video_title": "CULT: “ALIEN” con Frusciante, Dario Moccia e Victorlaszlo88 - parte 1",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ALIEN"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "zqluXlwNcJ4",
+          "video_title": "Alien: Covenant Official Tralier #TalkAbout",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Alien"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "eDwNyO7m9tM",
+          "video_title": "NewsVic- 20: L'\"Alien\" di Neill Blomkamp",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Alien"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "pdXq30OcjHs",
+          "video_title": "Cult con Dario Moccia, Marra e Frusciante: Alien- parte 2",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Alien"
+        }
+      ],
+      "director": "Ridley Scott",
+      "it_flatrate": [
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/301304168"
+        }
+      ]
+    },
     "movie:tre manifesti a ebbing, missouri:tt5027774": {
       "id": "movie:tre manifesti a ebbing, missouri:tt5027774",
       "imdb_id": "tt5027774",
@@ -1997,102 +2200,6 @@
           "source": "hbo_max",
           "name": "HBO Max",
           "link": "https://watchnow.trakt.tv/watchnow/301151531"
-        }
-      ]
-    },
-    "movie:una battaglia dopo l'altra:tt30144839": {
-      "id": "movie:una battaglia dopo l'altra:tt30144839",
-      "imdb_id": "tt30144839",
-      "category": "movie",
-      "it_title": "Una battaglia dopo l'altra",
-      "orig_title": "One Battle After Another",
-      "year": 2025,
-      "cast": "Leonardo DiCaprio, Sean Penn",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "canal_plus",
-          "name": "Canal+",
-          "link": "https://watchnow.trakt.tv/watchnow/327355761"
-        },
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/327355762"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt30144839",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "UsKYLSkEzSw",
-          "video_title": "Federico Frusciante: Il Meglio e Peggio 2025",
-          "timestamp": "11:55:09",
-          "seconds": 42909,
-          "mentioned_as": "Una battaglia dopo l'altra"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "MPnJdRuASTQ",
-          "video_title": "Frusciante al Cinema: Una battaglia dopo l'altra (2025) di Paul Thomas Anderson - Settembre 2025",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Una battaglia dopo l'altra"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "THei1K4rtpM",
-          "video_title": "I MIGLIORI FILM DEL 2025",
-          "timestamp": "1:02:31",
-          "seconds": 3751,
-          "mentioned_as": "Una Battaglia dopo l'Altra"
-        },
-        {
-          "creator": "I Criticoni",
-          "video_id": "oQG2eUOyfTY",
-          "video_title": "CRITICONI su “Una battaglia dopo l'altra” di P. T. Anderson | Criticoni al Cinema",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Una battaglia dopo l'altra"
-        },
-        {
-          "creator": "Francesco Alò",
-          "video_id": "j_Z7FlK3NQ4",
-          "video_title": "\"Una battaglia dopo l'altra\" di Paul Thomas Anderson - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Una battaglia dopo l'altra"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "UGAF6-zPq3g",
-          "video_title": "MovieBlog- 1028: recensione Una Battaglia Dopo l'Altra",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Una Battaglia Dopo l'Altra"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_one-battle-after-another-movie-review-2025",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/one-battle-after-another-movie-review-2025",
-          "mentioned_as": "One Battle After Another"
-        }
-      ],
-      "director": "Paul Thomas Anderson",
-      "it_flatrate": [
-        {
-          "source": "amazonhbomax",
-          "name": "HBO Max (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/301122019"
-        },
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/301122020"
         }
       ]
     },
@@ -4094,97 +4201,6 @@
         }
       ]
     },
-    "movie:alien:tt0078748": {
-      "id": "movie:alien:tt0078748",
-      "imdb_id": "tt0078748",
-      "category": "movie",
-      "it_title": "Alien",
-      "orig_title": "Alien",
-      "year": 1979,
-      "cast": "Sigourney Weaver, Tom Skerritt",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/326986303"
-        },
-        {
-          "source": "home_of_horror_amazon_channel",
-          "name": "Home of Horror (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/326986304"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0078748",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "hVy2Tf4R-kc",
-          "video_title": "Le Monografie di Frusciante: Ridley Scott (Dicembre 2018)",
-          "timestamp": "05:12",
-          "seconds": 312,
-          "mentioned_as": "Alien"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "Z1THW15a5I8",
-          "video_title": "Federico Frusciante: Le Saghe - Alien (Tutti i film della serie)",
-          "timestamp": "01:14",
-          "seconds": 74,
-          "mentioned_as": "Alien"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "8Tj2YUjVdyQ",
-          "video_title": "MovieBlog- 335: Recensione Alien (1979)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Alien"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_alien_1979",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/scott.html",
-          "mentioned_as": "Alien"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "D-LGPZgvrkM",
-          "video_title": "CULT: “ALIEN” con Frusciante, Dario Moccia e Victorlaszlo88 - parte 1",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "ALIEN"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "zqluXlwNcJ4",
-          "video_title": "Alien: Covenant Official Tralier #TalkAbout",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Alien"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "eDwNyO7m9tM",
-          "video_title": "NewsVic- 20: L'\"Alien\" di Neill Blomkamp",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Alien"
-        }
-      ],
-      "director": "Ridley Scott",
-      "it_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/301304168"
-        }
-      ]
-    },
     "movie:daredevil:tt0287978": {
       "id": "movie:daredevil:tt0287978",
       "imdb_id": "tt0287978",
@@ -5089,6 +5105,240 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt1486834",
       "watchnow_checked": true
+    },
+    "movie:non aprite quella porta:tt0072271": {
+      "id": "movie:non aprite quella porta:tt0072271",
+      "imdb_id": "tt0072271",
+      "category": "movie",
+      "it_title": "Non aprite quella porta",
+      "orig_title": "The Texas Chain Saw Massacre",
+      "year": 1974,
+      "cast": "Marilyn Burns, Edwin Neal",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjE1MGJkMjUtY2VkNi00N2U1LWI2NWEtMDExNGYzYjRkZTM0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0072271",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "4W3J_hv5rkA",
+          "video_title": "Le Monografie di Frusciante: Tobe Hooper",
+          "timestamp": "00:34",
+          "seconds": 34,
+          "mentioned_as": "Non aprite quella porta"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "vncaenL9zXw",
+          "video_title": "Federico Frusciante: Le Saghe - Non aprite quella porta (Tutti i film della serie) - Aprile 2024",
+          "timestamp": "00:50",
+          "seconds": 50,
+          "mentioned_as": "Non aprite quella porta"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "DmETpOgwHMM",
+          "video_title": "I Consigli di Frusciante: Giugno 2024",
+          "timestamp": "01:00:18",
+          "seconds": 3618,
+          "mentioned_as": "Non aprite quella porta"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "KdVaS8qhfew",
+          "video_title": "Patreon: Non aprite quella porta (1974) di Tobe Hooper -  Minirece richiesta da Adriano Ziffer",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Non aprite quella porta"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_texaschainsawmassacre_1974",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro970.html",
+          "mentioned_as": "The Texas Chainsaw Massacre"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "AZPEfvOO_IQ",
+          "video_title": "“Non Aprite quella Porta” (1974)",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Non Aprite quella Porta"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "p7IJ9UO6gpA",
+          "video_title": "MovieBlog Cult: Non Aprite Quella Porta (in sala in 4K il 23, 24 e 25 Settembre!)",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Non Aprite Quella Porta"
+        }
+      ],
+      "director": "Tobe Hooper",
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:l'esorcista:tt0070047": {
+      "id": "movie:l'esorcista:tt0070047",
+      "imdb_id": "tt0070047",
+      "category": "movie",
+      "it_title": "L'Esorcista",
+      "orig_title": "The Exorcist",
+      "year": 1973,
+      "cast": "Ellen Burstyn, Max von Sydow",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjg3YjE4ZjAtYTdmYS00ZTBkLWE1ZjgtNzAzODUwNzRiYjlmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/326488839"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0070047",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "yG1i4x4nKqE",
+          "video_title": "Patreon: L'Esorcista (1973) di William Friedkin - Minirece richiesta da Ermes Villani",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "L'Esorcista"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "vmlcvgh1aiM",
+          "video_title": "Federico Frusciante: Le Saghe - L'ESORCISTA (Tutti i film della serie)",
+          "timestamp": "00:58",
+          "seconds": 58
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "zvV5UJn09eM",
+          "video_title": "MovieBlog- 135: Recensione L'Esorcista",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "L'Esorcista"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-exorcist-1973",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-exorcist-1973",
+          "mentioned_as": "The Exorcist"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_exorcist_1973",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/friedkin.html",
+          "mentioned_as": "The Exorcist"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "lxR-pbetNrM",
+          "video_title": "Parliamo de \"L'ESORCISTA\" e Cinema HORROR con Frusciante, Dario Moccia e Victorlaszlo88 - parte 2",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "L'ESORCISTA"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "fpBfwqhMReo",
+          "video_title": "CULT  CON DARIO MOCCIA, FRUSCIANTE E MARRA: L'ESORCISTA- Parte 1",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "L'ESORCISTA"
+        }
+      ],
+      "director": "William Friedkin",
+      "it_flatrate": []
+    },
+    "movie:chi ha incastrato roger rabbit:tt0096438": {
+      "id": "movie:chi ha incastrato roger rabbit:tt0096438",
+      "imdb_id": "tt0096438",
+      "category": "movie",
+      "it_title": "Chi ha incastrato Roger Rabbit",
+      "orig_title": "Who Framed Roger Rabbit",
+      "year": 1988,
+      "cast": "Bob Hoskins, Christopher Lloyd",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDc5ZGRiM2EtMWRmMC00YjViLWEwMjYtNGE5MWVlZGEzZGM0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/324307140"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0096438",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "rWb6aqBUhCg",
+          "video_title": "Patreon: Chi ha incastrato Roger Rabbit (1988) di R. Zemeckis - Minirece richiesta da Vox per Anna",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "0XCwtjcfeSA",
+          "video_title": "Le Monografie di Frusciante: Robert Zemeckis (Ottobre 2019)",
+          "timestamp": "21:42",
+          "seconds": 1302
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_who-framed-roger-rabbit-1988",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/who-framed-roger-rabbit-1988",
+          "mentioned_as": "Who Framed Roger Rabbit"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_whoframedrogerrabbit_1988",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/zemeckis.html",
+          "mentioned_as": "Who Framed Roger Rabbit"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "AdxtiHcn4rc",
+          "video_title": "CULT: “Chi ha incastrato Roger Rabbit” con Dario, Frusciante e Victor - parte 2",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Chi ha incastrato Roger Rabbit"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "pMr2TGRppEM",
+          "video_title": "MovieBlog- 319: Chi Ha Incastrato Roger Rabbit?",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Chi Ha Incastrato Roger Rabbit?"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "h2z-_CH6ra8",
+          "video_title": "Cinema Cult: Chi ha incastrato Roger Rabbit?-  Parte 1",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Chi ha incastrato Roger Rabbit?"
+        }
+      ],
+      "director": "Robert Zemeckis",
+      "it_flatrate": []
     },
     "movie:blade runner:tt0083658": {
       "id": "movie:blade runner:tt0083658",
@@ -9911,145 +10161,6 @@
         }
       ]
     },
-    "movie:non aprite quella porta:tt0072271": {
-      "id": "movie:non aprite quella porta:tt0072271",
-      "imdb_id": "tt0072271",
-      "category": "movie",
-      "it_title": "Non aprite quella porta",
-      "orig_title": "The Texas Chain Saw Massacre",
-      "year": 1974,
-      "cast": "Marilyn Burns, Edwin Neal",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjE1MGJkMjUtY2VkNi00N2U1LWI2NWEtMDExNGYzYjRkZTM0XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0072271",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "4W3J_hv5rkA",
-          "video_title": "Le Monografie di Frusciante: Tobe Hooper",
-          "timestamp": "00:34",
-          "seconds": 34,
-          "mentioned_as": "Non aprite quella porta"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "vncaenL9zXw",
-          "video_title": "Federico Frusciante: Le Saghe - Non aprite quella porta (Tutti i film della serie) - Aprile 2024",
-          "timestamp": "00:50",
-          "seconds": 50,
-          "mentioned_as": "Non aprite quella porta"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "DmETpOgwHMM",
-          "video_title": "I Consigli di Frusciante: Giugno 2024",
-          "timestamp": "01:00:18",
-          "seconds": 3618,
-          "mentioned_as": "Non aprite quella porta"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "KdVaS8qhfew",
-          "video_title": "Patreon: Non aprite quella porta (1974) di Tobe Hooper -  Minirece richiesta da Adriano Ziffer",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Non aprite quella porta"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_texaschainsawmassacre_1974",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/chro970.html",
-          "mentioned_as": "The Texas Chainsaw Massacre"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "AZPEfvOO_IQ",
-          "video_title": "“Non Aprite quella Porta” (1974)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Non Aprite quella Porta"
-        }
-      ],
-      "director": "Tobe Hooper",
-      "it_flatrate": [],
-      "watchnow_checked": true
-    },
-    "movie:l'esorcista:tt0070047": {
-      "id": "movie:l'esorcista:tt0070047",
-      "imdb_id": "tt0070047",
-      "category": "movie",
-      "it_title": "L'Esorcista",
-      "orig_title": "The Exorcist",
-      "year": 1973,
-      "cast": "Ellen Burstyn, Max von Sydow",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjg3YjE4ZjAtYTdmYS00ZTBkLWE1ZjgtNzAzODUwNzRiYjlmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/326488839"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0070047",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "yG1i4x4nKqE",
-          "video_title": "Patreon: L'Esorcista (1973) di William Friedkin - Minirece richiesta da Ermes Villani",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "L'Esorcista"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "vmlcvgh1aiM",
-          "video_title": "Federico Frusciante: Le Saghe - L'ESORCISTA (Tutti i film della serie)",
-          "timestamp": "00:58",
-          "seconds": 58
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "zvV5UJn09eM",
-          "video_title": "MovieBlog- 135: Recensione L'Esorcista",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "L'Esorcista"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_the-exorcist-1973",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/the-exorcist-1973",
-          "mentioned_as": "The Exorcist"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_exorcist_1973",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/friedkin.html",
-          "mentioned_as": "The Exorcist"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "lxR-pbetNrM",
-          "video_title": "Parliamo de \"L'ESORCISTA\" e Cinema HORROR con Frusciante, Dario Moccia e Victorlaszlo88 - parte 2",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "L'ESORCISTA"
-        }
-      ],
-      "director": "William Friedkin",
-      "it_flatrate": []
-    },
     "movie:suspiria:tt1034415": {
       "id": "movie:suspiria:tt1034415",
       "imdb_id": "tt1034415",
@@ -10924,77 +11035,6 @@
         }
       ]
     },
-    "movie:chi ha incastrato roger rabbit:tt0096438": {
-      "id": "movie:chi ha incastrato roger rabbit:tt0096438",
-      "imdb_id": "tt0096438",
-      "category": "movie",
-      "it_title": "Chi ha incastrato Roger Rabbit",
-      "orig_title": "Who Framed Roger Rabbit",
-      "year": 1988,
-      "cast": "Bob Hoskins, Christopher Lloyd",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDc5ZGRiM2EtMWRmMC00YjViLWEwMjYtNGE5MWVlZGEzZGM0XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/324307140"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0096438",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "rWb6aqBUhCg",
-          "video_title": "Patreon: Chi ha incastrato Roger Rabbit (1988) di R. Zemeckis - Minirece richiesta da Vox per Anna",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "0XCwtjcfeSA",
-          "video_title": "Le Monografie di Frusciante: Robert Zemeckis (Ottobre 2019)",
-          "timestamp": "21:42",
-          "seconds": 1302
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_who-framed-roger-rabbit-1988",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/who-framed-roger-rabbit-1988",
-          "mentioned_as": "Who Framed Roger Rabbit"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_whoframedrogerrabbit_1988",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/zemeckis.html",
-          "mentioned_as": "Who Framed Roger Rabbit"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "AdxtiHcn4rc",
-          "video_title": "CULT: “Chi ha incastrato Roger Rabbit” con Dario, Frusciante e Victor - parte 2",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Chi ha incastrato Roger Rabbit"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "pMr2TGRppEM",
-          "video_title": "MovieBlog- 319: Chi Ha Incastrato Roger Rabbit?",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Chi Ha Incastrato Roger Rabbit?"
-        }
-      ],
-      "director": "Robert Zemeckis",
-      "it_flatrate": []
-    },
     "movie:taxi driver:tt0075314": {
       "id": "movie:taxi driver:tt0075314",
       "imdb_id": "tt0075314",
@@ -11048,6 +11088,14 @@
           "seconds": 0,
           "external_rec_url": "https://www.scaruffi.com/director/scorsese.html",
           "mentioned_as": "Taxi Driver"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "57yGUSG3uSQ",
+          "video_title": "CULT CON DARIO E FRUSCIANTE: TAXI DRIVER (DALLA RUBRICA DI DARIO MOCCIA)",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "TAXI DRIVER"
         }
       ],
       "director": "Martin Scorsese",
@@ -11064,6 +11112,322 @@
         }
       ],
       "watchnow_checked": true
+    },
+    "movie:spider:tt0278731": {
+      "id": "movie:spider:tt0278731",
+      "imdb_id": "tt0278731",
+      "category": "movie",
+      "it_title": "Spider",
+      "orig_title": "Spider",
+      "year": 2002,
+      "cast": "Ralph Fiennes, Miranda Richardson",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTllODI2MWUtMDM2Mi00OTVkLTgyZWItOGFlZGQyZTRmZjhjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0278731",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "U_RPNuVRUBI",
+          "video_title": "Patreon: Spider (2002) di David Cronenberg - Minirece richiesta da Camilla",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "icaJ8t7hmOU",
+          "video_title": "Le recensioni di Frusciante - Cronenberg",
+          "timestamp": "1:19:38",
+          "seconds": 4778
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "3yCp2_19Ytc",
+          "video_title": "MARRA VI CONSIGLIA un SACCO di FILM!! | Cerbero Podcast ",
+          "timestamp": "1:48:08",
+          "seconds": 6488,
+          "mentioned_as": "SPIDER"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "VF_xOjC_oj8",
+          "video_title": "MovieBlog- 1096:  Recensione Spider-Man Brand New Day",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Spider"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_spider-2003",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/spider-2003",
+          "mentioned_as": "Spider"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "p4zxuYeS1vM",
+          "video_title": "Cult con Dario Moccia, Frusciante e Marra: Spider-Man",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Spider"
+        }
+      ],
+      "director": "David Cronenberg",
+      "it_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/303624644"
+        },
+        {
+          "source": "amazon_prime_video_with_ads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://watchnow.trakt.tv/watchnow/303624645"
+        }
+      ]
+    },
+    "movie:il padrino:tt0068646": {
+      "id": "movie:il padrino:tt0068646",
+      "imdb_id": "tt0068646",
+      "category": "movie",
+      "it_title": "Il Padrino",
+      "orig_title": "The Godfather",
+      "year": 1972,
+      "cast": "Marlon Brando, Al Pacino",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "blue_tv",
+          "name": "blue TV",
+          "link": "https://watchnow.trakt.tv/watchnow/326970914"
+        },
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://watchnow.trakt.tv/watchnow/326970915"
+        },
+        {
+          "source": "paramount_plus",
+          "name": "Paramount+",
+          "link": "https://watchnow.trakt.tv/watchnow/326970913"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0068646",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "VMHkrMdq474",
+          "video_title": "Le Monografie di Frusciante: Francis Ford Coppola",
+          "timestamp": "25:04",
+          "seconds": 1504
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "3yCp2_19Ytc",
+          "video_title": "MARRA VI CONSIGLIA un SACCO di FILM!! | Cerbero Podcast ",
+          "timestamp": "1:15:33",
+          "seconds": 4533,
+          "mentioned_as": "APOCALYPSE NOW  IL PADRINO"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "JduBDdK3t4w",
+          "video_title": "MovieBlog- 637: Recensione Il Padrino",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Il Padrino"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_godfather_1972",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/coppola.html",
+          "mentioned_as": "The Godfather"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "r9V6owoGkE0",
+          "video_title": "CULT: “IL PADRINO” con Frusciante, Dario Moccia e Victorlaszlo88 - parte 2",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "IL PADRINO"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "NRZfIKsPiSE",
+          "video_title": "CULT CON MOCCIA, FRUSCIANTE E MARRA: IL PADRINO- parte 1",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "IL PADRINO"
+        }
+      ],
+      "director": "Francis Ford Coppola",
+      "it_flatrate": [
+        {
+          "source": "infinity_selection_amazon_channel",
+          "name": "Infinity Selection (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/300078771"
+        },
+        {
+          "source": "now_tv",
+          "name": "Now TV",
+          "link": "https://watchnow.trakt.tv/watchnow/300078768"
+        },
+        {
+          "source": "paramount_plus",
+          "name": "Paramount+",
+          "link": "https://watchnow.trakt.tv/watchnow/300078769"
+        },
+        {
+          "source": "paramount_plus_amazon_channel",
+          "name": "Paramount+ (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/300078770"
+        }
+      ]
+    },
+    "movie:ichi the killer:tt0296042": {
+      "id": "movie:ichi the killer:tt0296042",
+      "imdb_id": "tt0296042",
+      "category": "movie",
+      "it_title": "Ichi the killer",
+      "orig_title": "Ichi the Killer",
+      "year": 2001,
+      "cast": "Tadanobu Asano, Nao Ōmori",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODJmM2NjNDctZjE3My00ZjE3LWExYzUtYjg1N2YyODEzNGIyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0296042",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "KiicFNZpgQk",
+          "video_title": "Frusciante in Oriente: Febbraio 2017",
+          "timestamp": "09:09",
+          "seconds": 549,
+          "mentioned_as": "Ichi the killer"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "b6cNnvaDEUI",
+          "video_title": "Patreon: Ichi The Killer (2001) di Takashi Miike - Minirece richiesta da Waltz",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Ichi The Killer"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "51ZAXzJn9As",
+          "video_title": "MovieBlog- 144: Recensione Ichi The Killer",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Ichi The Killer"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_ichithekiller_2001",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/miike.html",
+          "mentioned_as": "Ichi the Killer"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "pUegEEt52a4",
+          "video_title": "CULT: “ICHI THE KILLER” con Frusciante, Dario Moccia e Victorlaszlo88 - parte 1",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ICHI THE KILLER"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "stsRVn-o34w",
+          "video_title": "CULT CON DARIO MOCCIA, MARRA E FRUSCIANTE: ICHI THE KILLER- Parte 2",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ICHI THE KILLER"
+        }
+      ],
+      "director": "Takashi Miike",
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:nightmare before christmas:tt0107688": {
+      "id": "movie:nightmare before christmas:tt0107688",
+      "imdb_id": "tt0107688",
+      "category": "movie",
+      "it_title": "Nightmare Before Christmas",
+      "orig_title": "The Nightmare Before Christmas",
+      "year": 1993,
+      "cast": "Danny Elfman, Chris Sarandon",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNmYxOTAzZWYtOGI3Yi00ODc3LTk5ZjYtZTY0MzVkZTg3YmRiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/326954679"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0107688",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "N9l1Qlti8cU",
+          "video_title": "Patreon: The Nightmare Before Christmas (1993) di Henry Selick - Minirece richiesta da Hana, Giorgia",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "Dh4OnplF0cQ",
+          "video_title": "MovieBlog- 242: Recensione The Nightmare Before Christmas",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "The Nightmare Before Christmas"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_tim-burtons-the-nightmare-before-christmas-1993",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/tim-burtons-the-nightmare-before-christmas-1993",
+          "mentioned_as": "Tim Burton's The Nightmare Before Christmas"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_nightmarebeforechristmas_1993",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro990.html",
+          "mentioned_as": "The Nightmare Before Christmas"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "tGPqb5h_isc",
+          "video_title": "CULT: “Nightmare Before Christmas” con Dario Moccia, Victorlaszlo88 e Frusciante - parte 1",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Nightmare Before Christmas"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "HhwDagecrYk",
+          "video_title": "Cult con Dario Moccia, Frusciante e Marra: The Nightmare Before Christmas- parte 2",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "The Nightmare Before Christmas"
+        }
+      ],
+      "director": "Henry Selick",
+      "it_flatrate": []
     },
     "movie:tempi moderni:tt0027977": {
       "id": "movie:tempi moderni:tt0027977",
@@ -12222,73 +12586,6 @@
       "director": "Paul Thomas Anderson",
       "it_flatrate": [],
       "watchnow_checked": true
-    },
-    "movie:spider:tt0278731": {
-      "id": "movie:spider:tt0278731",
-      "imdb_id": "tt0278731",
-      "category": "movie",
-      "it_title": "Spider",
-      "orig_title": "Spider",
-      "year": 2002,
-      "cast": "Ralph Fiennes, Miranda Richardson",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTllODI2MWUtMDM2Mi00OTVkLTgyZWItOGFlZGQyZTRmZjhjXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0278731",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "U_RPNuVRUBI",
-          "video_title": "Patreon: Spider (2002) di David Cronenberg - Minirece richiesta da Camilla",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "icaJ8t7hmOU",
-          "video_title": "Le recensioni di Frusciante - Cronenberg",
-          "timestamp": "1:19:38",
-          "seconds": 4778
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "3yCp2_19Ytc",
-          "video_title": "MARRA VI CONSIGLIA un SACCO di FILM!! | Cerbero Podcast ",
-          "timestamp": "1:48:08",
-          "seconds": 6488,
-          "mentioned_as": "SPIDER"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "VF_xOjC_oj8",
-          "video_title": "MovieBlog- 1096:  Recensione Spider-Man Brand New Day",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Spider"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_spider-2003",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/spider-2003",
-          "mentioned_as": "Spider"
-        }
-      ],
-      "director": "David Cronenberg",
-      "it_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/303624644"
-        },
-        {
-          "source": "amazon_prime_video_with_ads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://watchnow.trakt.tv/watchnow/303624645"
-        }
-      ]
     },
     "movie:aliens - scontro finale:tt0090605": {
       "id": "movie:aliens - scontro finale:tt0090605",
@@ -18500,100 +18797,6 @@
       "director": "Giulia Louise Steigerwalt, Giulia Steigerwalt",
       "it_flatrate": []
     },
-    "movie:il padrino:tt0068646": {
-      "id": "movie:il padrino:tt0068646",
-      "imdb_id": "tt0068646",
-      "category": "movie",
-      "it_title": "Il Padrino",
-      "orig_title": "The Godfather",
-      "year": 1972,
-      "cast": "Marlon Brando, Al Pacino",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "blue_tv",
-          "name": "blue TV",
-          "link": "https://watchnow.trakt.tv/watchnow/326970914"
-        },
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://watchnow.trakt.tv/watchnow/326970915"
-        },
-        {
-          "source": "paramount_plus",
-          "name": "Paramount+",
-          "link": "https://watchnow.trakt.tv/watchnow/326970913"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0068646",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "VMHkrMdq474",
-          "video_title": "Le Monografie di Frusciante: Francis Ford Coppola",
-          "timestamp": "25:04",
-          "seconds": 1504
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "3yCp2_19Ytc",
-          "video_title": "MARRA VI CONSIGLIA un SACCO di FILM!! | Cerbero Podcast ",
-          "timestamp": "1:15:33",
-          "seconds": 4533,
-          "mentioned_as": "APOCALYPSE NOW  IL PADRINO"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "JduBDdK3t4w",
-          "video_title": "MovieBlog- 637: Recensione Il Padrino",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Il Padrino"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_godfather_1972",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/coppola.html",
-          "mentioned_as": "The Godfather"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "r9V6owoGkE0",
-          "video_title": "CULT: “IL PADRINO” con Frusciante, Dario Moccia e Victorlaszlo88 - parte 2",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "IL PADRINO"
-        }
-      ],
-      "director": "Francis Ford Coppola",
-      "it_flatrate": [
-        {
-          "source": "infinity_selection_amazon_channel",
-          "name": "Infinity Selection (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/300078771"
-        },
-        {
-          "source": "now_tv",
-          "name": "Now TV",
-          "link": "https://watchnow.trakt.tv/watchnow/300078768"
-        },
-        {
-          "source": "paramount_plus",
-          "name": "Paramount+",
-          "link": "https://watchnow.trakt.tv/watchnow/300078769"
-        },
-        {
-          "source": "paramount_plus_amazon_channel",
-          "name": "Paramount+ (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/300078770"
-        }
-      ]
-    },
     "movie:jurassic park:tt0107290": {
       "id": "movie:jurassic park:tt0107290",
       "imdb_id": "tt0107290",
@@ -18856,65 +19059,6 @@
         }
       ]
     },
-    "movie:ichi the killer:tt0296042": {
-      "id": "movie:ichi the killer:tt0296042",
-      "imdb_id": "tt0296042",
-      "category": "movie",
-      "it_title": "Ichi the killer",
-      "orig_title": "Ichi the Killer",
-      "year": 2001,
-      "cast": "Tadanobu Asano, Nao Ōmori",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BODJmM2NjNDctZjE3My00ZjE3LWExYzUtYjg1N2YyODEzNGIyXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0296042",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "KiicFNZpgQk",
-          "video_title": "Frusciante in Oriente: Febbraio 2017",
-          "timestamp": "09:09",
-          "seconds": 549,
-          "mentioned_as": "Ichi the killer"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "b6cNnvaDEUI",
-          "video_title": "Patreon: Ichi The Killer (2001) di Takashi Miike - Minirece richiesta da Waltz",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Ichi The Killer"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "51ZAXzJn9As",
-          "video_title": "MovieBlog- 144: Recensione Ichi The Killer",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Ichi The Killer"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_ichithekiller_2001",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/miike.html",
-          "mentioned_as": "Ichi the Killer"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "pUegEEt52a4",
-          "video_title": "CULT: “ICHI THE KILLER” con Frusciante, Dario Moccia e Victorlaszlo88 - parte 1",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "ICHI THE KILLER"
-        }
-      ],
-      "director": "Takashi Miike",
-      "it_flatrate": [],
-      "watchnow_checked": true
-    },
     "movie:gremlins:tt0087363": {
       "id": "movie:gremlins:tt0087363",
       "imdb_id": "tt0087363",
@@ -18983,70 +19127,6 @@
         }
       ],
       "director": "Joe Dante",
-      "it_flatrate": []
-    },
-    "movie:nightmare before christmas:tt0107688": {
-      "id": "movie:nightmare before christmas:tt0107688",
-      "imdb_id": "tt0107688",
-      "category": "movie",
-      "it_title": "Nightmare Before Christmas",
-      "orig_title": "The Nightmare Before Christmas",
-      "year": 1993,
-      "cast": "Danny Elfman, Chris Sarandon",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNmYxOTAzZWYtOGI3Yi00ODc3LTk5ZjYtZTY0MzVkZTg3YmRiXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/326954679"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0107688",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "N9l1Qlti8cU",
-          "video_title": "Patreon: The Nightmare Before Christmas (1993) di Henry Selick - Minirece richiesta da Hana, Giorgia",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "Dh4OnplF0cQ",
-          "video_title": "MovieBlog- 242: Recensione The Nightmare Before Christmas",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "The Nightmare Before Christmas"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_tim-burtons-the-nightmare-before-christmas-1993",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/tim-burtons-the-nightmare-before-christmas-1993",
-          "mentioned_as": "Tim Burton's The Nightmare Before Christmas"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_nightmarebeforechristmas_1993",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/chro990.html",
-          "mentioned_as": "The Nightmare Before Christmas"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "tGPqb5h_isc",
-          "video_title": "CULT: “Nightmare Before Christmas” con Dario Moccia, Victorlaszlo88 e Frusciante - parte 1",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Nightmare Before Christmas"
-        }
-      ],
-      "director": "Henry Selick",
       "it_flatrate": []
     },
     "movie:the hunt:tt8244784": {
@@ -20154,6 +20234,738 @@
         }
       ]
     },
+    "movie:il settimo sigillo:tt0050976": {
+      "id": "movie:il settimo sigillo:tt0050976",
+      "imdb_id": "tt0050976",
+      "category": "movie",
+      "it_title": "IL SETTIMO SIGILLO",
+      "orig_title": "The Seventh Seal",
+      "year": 1957,
+      "cast": "Max von Sydow, Gunnar Björnstrand",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDlmYTkzOWUtODQ0MS00MmM4LWE3ZjMtYTEwNGUwMmJkYzIxXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0050976",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "lDrEojxhLzY",
+          "video_title": "Le Recensioni di Frusciante - Morte al Cinema",
+          "timestamp": "3:02",
+          "seconds": 182
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "2a6oHxHeLNo",
+          "video_title": "Patreon: Il Settimo Sigillo (1957) di I.Bergman - Minirece richiesta da Manuel Ammavuta",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "IL SETTIMO SIGILLO"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "3yCp2_19Ytc",
+          "video_title": "MARRA VI CONSIGLIA un SACCO di FILM!! | Cerbero Podcast ",
+          "timestamp": "1:11:16",
+          "seconds": 4276,
+          "mentioned_as": "IL SETTIMO SIGILLO"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_seventhseal_1956",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/bergman.html",
+          "mentioned_as": "Seventh Seal"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "k3i_3kY1A1k",
+          "video_title": "CULT CON MOCCIA, FRUSCIANTE E MAURO ZINGARELLI: IL SETTIMO SIGILLO",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "IL SETTIMO SIGILLO"
+        }
+      ],
+      "director": "Ingmar Bergman",
+      "it_flatrate": [
+        {
+          "source": "amazonnovecento",
+          "name": "Novecento (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/303397623"
+        },
+        {
+          "source": "mymovies_one",
+          "name": "MYmovies One",
+          "link": "https://watchnow.trakt.tv/watchnow/303397622"
+        }
+      ]
+    },
+    "movie:holy motors:tt2076220": {
+      "id": "movie:holy motors:tt2076220",
+      "imdb_id": "tt2076220",
+      "category": "movie",
+      "it_title": "Holy Motors",
+      "orig_title": "Holy Motors",
+      "year": 2012,
+      "cast": "Denis Lavant, Edith Scob",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODk2MDc4MDk2OF5BMl5BanBnXkFtZTcwMTcyODY1OA@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "ava_csal",
+          "name": "AVA CSAL (free)",
+          "link": "https://watchnow.trakt.tv/watchnow/327706578"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt2076220",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "JW6R3772Y6k",
+          "video_title": "Le Recensioni di Frusciante - Meglio e Peggio 2013",
+          "timestamp": "1:11:43",
+          "seconds": 4303
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "elDVOmz5X_0",
+          "video_title": "Patreon: Holy Motors (Francia, Germania 2012) di Leos Carax - Minirece richiesta da Tommaso Schifano",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Holy Motors"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_holy-motors-2012",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/holy-motors-2012",
+          "mentioned_as": "Holy Motors"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_holymotors_2012",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/carax.html",
+          "mentioned_as": "Holy Motors"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "YX9IfZXcYa8",
+          "video_title": "HOLY MOTORS è un CAPOLAVORO.",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "HOLY MOTORS"
+        }
+      ],
+      "director": "Leos Carax",
+      "it_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/303751027"
+        },
+        {
+          "source": "amazon_prime_video_with_ads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://watchnow.trakt.tv/watchnow/303751028"
+        }
+      ]
+    },
+    "movie:la mosca:tt0091064": {
+      "id": "movie:la mosca:tt0091064",
+      "imdb_id": "tt0091064",
+      "category": "movie",
+      "it_title": "La Mosca",
+      "orig_title": "The Fly",
+      "year": 1986,
+      "cast": "Jeff Goldblum, Geena Davis",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTBlNTliNTItY2VhNS00MjA5LTllYzItMmQyNGRjYTAyZWQxXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/324169863"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0091064",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "XhK9JRZI-Sw",
+          "video_title": "Patreon: La Mosca (1986) di David Cronenberg - Minirece richiesta da Faster",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "icaJ8t7hmOU",
+          "video_title": "Le recensioni di Frusciante - Cronenberg",
+          "timestamp": "43:26",
+          "seconds": 2606
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "3yCp2_19Ytc",
+          "video_title": "MARRA VI CONSIGLIA un SACCO di FILM!! | Cerbero Podcast ",
+          "timestamp": "1:27:51",
+          "seconds": 5271,
+          "mentioned_as": "LA MOSCA"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "B8szo4diMK8",
+          "video_title": "MovieBlog- 324: Recensione La Mosca",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "La Mosca"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "dgb5Aurt3Kw",
+          "video_title": "Cult con DARIO MOCCIA, FRUSCIANTE e MARRA: LA MOSCA- parte 1",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "LA MOSCA"
+        }
+      ],
+      "director": "David Cronenberg",
+      "it_flatrate": [
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/301297577"
+        }
+      ]
+    },
+    "movie:per un pugno di dollari:tt0058461": {
+      "id": "movie:per un pugno di dollari:tt0058461",
+      "imdb_id": "tt0058461",
+      "category": "movie",
+      "it_title": "Per un pugno di dollari",
+      "orig_title": "A Fistful of Dollars",
+      "year": 1964,
+      "cast": "Clint Eastwood, Gian Maria Volontè",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BM2ZkYWU1MGQtMzM3MC00ODQ5LWE1ZGQtMDM5YjczZDZhMjg5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0058461",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "Rc0FymKFL7s",
+          "video_title": "Le Recensioni di Frusciante - Leone",
+          "timestamp": "8:40",
+          "seconds": 520,
+          "mentioned_as": "Per un pugno di dollari"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "n9cgRezsr3Y",
+          "video_title": "I Consigli di Frusciante: Novembre 2025",
+          "timestamp": "56:12",
+          "seconds": 3372,
+          "mentioned_as": "Per un pugno di dollari"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "W3uspEFDT9s",
+          "video_title": "MovieBlog-469: Recensione Per Un Pugno Di Dollari",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Per Un Pugno Di Dollari"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "fqv6dd0dBJg",
+          "video_title": "MovieBlog-22 (Sergio Leone Special): Recensione Per un pugno di dollari",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Per un pugno di dollari"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "4pM0dIaF5PY",
+          "video_title": "CULT CON DARIO MOCCIA E FRUSCIANTE: PER UN PUGNO DI DOLLARI",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "PER UN PUGNO DI DOLLARI"
+        }
+      ],
+      "director": "Sergio Leone, Monte Hellman",
+      "it_flatrate": [
+        {
+          "source": "now_tv",
+          "name": "Now TV",
+          "link": "https://watchnow.trakt.tv/watchnow/301364526"
+        },
+        {
+          "source": "sky_go",
+          "name": "Sky Go",
+          "link": "https://watchnow.trakt.tv/watchnow/301364527"
+        }
+      ]
+    },
+    "movie:ritorno al futuro:tt0088763": {
+      "id": "movie:ritorno al futuro:tt0088763",
+      "imdb_id": "tt0088763",
+      "category": "movie",
+      "it_title": "Ritorno al futuro",
+      "orig_title": "Back to the Future",
+      "year": 1985,
+      "cast": "Michael J. Fox, Christopher Lloyd",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/326986702"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0088763",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "JNtvmyrd0-E",
+          "video_title": "Patreon: \"Ritorno al Futuro\" (1985) di Robert Zemeckis - Minirece richiesta da Fabrizio Milani",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Ritorno al futuro"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "0XCwtjcfeSA",
+          "video_title": "Le Monografie di Frusciante: Robert Zemeckis (Ottobre 2019)",
+          "timestamp": "15:39",
+          "seconds": 939
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_back-to-the-future-1985",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/back-to-the-future-1985",
+          "mentioned_as": "Back to the Future"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_backtothefuture_1985",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/zemeckis.html",
+          "mentioned_as": "Back to the Future"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "G6YrqoTTXYU",
+          "video_title": "MovieBlog- 13 (Cult special 4): Ritorno al futuro (parteI,II e II)",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Ritorno al futuro"
+        }
+      ],
+      "director": "Robert Zemeckis",
+      "it_flatrate": []
+    },
+    "movie:under the skin:tt1441395": {
+      "id": "movie:under the skin:tt1441395",
+      "imdb_id": "tt1441395",
+      "category": "movie",
+      "it_title": "Under the Skin",
+      "orig_title": "Under the Skin",
+      "year": 2013,
+      "cast": "Scarlett Johansson, Jeremy McWilliams",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU1MDEwMDg4Nl5BMl5BanBnXkFtZTgwOTk3NTcxMTE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt1441395",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "DruIqSyQfRk",
+          "video_title": "Patreon: Under the Skin (2013) di Jonathan Glazer - Richiesta da Michele Marino e Michele Barile",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Under the Skin"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "3yCp2_19Ytc",
+          "video_title": "MARRA VI CONSIGLIA un SACCO di FILM!! | Cerbero Podcast ",
+          "timestamp": "52:58",
+          "seconds": 3178,
+          "mentioned_as": "UNDER THE SKIN"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_under-the-skin-2014",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/under-the-skin-2014",
+          "mentioned_as": "Under the Skin"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_undertheskin_2013",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro010.html",
+          "mentioned_as": "Under the Skin"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "c6sARRs1Nsw",
+          "video_title": "\"UNDER THE SKIN\" è un capolavoro.",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "UNDER THE SKIN"
+        }
+      ],
+      "director": "Jonathan Glazer",
+      "it_flatrate": [
+        {
+          "source": "amazonanniduemila",
+          "name": "Anni Duemila (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/301152807"
+        },
+        {
+          "source": "mymovies_one",
+          "name": "MYmovies One",
+          "link": "https://watchnow.trakt.tv/watchnow/301152806"
+        }
+      ],
+      "watchnow_checked": true
+    },
+    "movie:coraline e la porta magica:tt0327597": {
+      "id": "movie:coraline e la porta magica:tt0327597",
+      "imdb_id": "tt0327597",
+      "category": "movie",
+      "it_title": "Coraline e la porta magica",
+      "orig_title": "Coraline",
+      "year": 2009,
+      "cast": "Dakota Fanning, Teri Hatcher",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzQxNjM5NzkxNV5BMl5BanBnXkFtZTcwMzg5NDMwMg@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0327597",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "Yvx9E9bT1tY",
+          "video_title": "(Gl)I (Im)Perdibili di Frusciante: Animazione (Aprile 2017)",
+          "timestamp": "00:25",
+          "seconds": 25,
+          "mentioned_as": "Coraline"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_coraline-2009",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/coraline-2009",
+          "mentioned_as": "Coraline"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "zCaUDHQFDuw",
+          "video_title": "Patreon: Coraline e la porta magica (2009) di Henry Selick - Minirece richiesta da Milla",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Coraline e la porta magica"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_coraline_2009",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro000.html",
+          "mentioned_as": "Coraline"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "sBo_QmvtGao",
+          "video_title": "Cult con Dario Moccia e Frusciante: Coraline e la Porta Magica",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Coraline e la Porta Magica"
+        }
+      ],
+      "director": "Henry Selick",
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:il cacciatore:tt0077416": {
+      "id": "movie:il cacciatore:tt0077416",
+      "imdb_id": "tt0077416",
+      "category": "movie",
+      "it_title": "IL CACCIATORE",
+      "orig_title": "The Deer Hunter",
+      "year": 1978,
+      "cast": "Robert De Niro, Christopher Walken",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZGI4YmVhMzMtMWExMS00MGZiLTg2MmItM2I2MWZjODAyM2U5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0077416",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "5hu7RoMvwrI",
+          "video_title": "Patreon: \"Il Cacciatore\" (USA 1979) di Michael Cimino - Minirece richiesta da Sergio Fratanelli",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "IL CACCIATORE"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-deer-hunter-1979",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-deer-hunter-1979",
+          "mentioned_as": "The Deer Hunter"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_deerhunter_1978",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/cimino.html",
+          "mentioned_as": "The Deer Hunter"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "Bv8HLYFTTmQ",
+          "video_title": "CULT: “IL CACCIATORE” con Frusciante, Victorlaszlo88 e Dario Moccia - parte 2",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "IL CACCIATORE"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "IjoF-_TSyoE",
+          "video_title": "Cult con Dario Moccia, Marra e Frusciante: Il Cacciatore- Parte 1",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Il Cacciatore"
+        }
+      ],
+      "director": "Michael Cimino",
+      "it_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/323731729"
+        },
+        {
+          "source": "amazon_prime_video_with_ads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://watchnow.trakt.tv/watchnow/323731730"
+        }
+      ],
+      "watchnow_checked": true
+    },
+    "movie:rosemary's baby - nastro rosso a new york:tt0063522": {
+      "id": "movie:rosemary's baby - nastro rosso a new york:tt0063522",
+      "imdb_id": "tt0063522",
+      "category": "movie",
+      "it_title": "Rosemary's Baby - Nastro rosso a New York",
+      "orig_title": "Rosemary's Baby",
+      "year": 1968,
+      "cast": "Mia Farrow, John Cassavetes",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDlhMDI3OTQtNTBkYy00NWQ5LWJmNWEtZGQwYzZlMTQ4MDI1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "paramount_plus",
+          "name": "Paramount+",
+          "link": "https://watchnow.trakt.tv/watchnow/324046153"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0063522",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "HllSTwaQ77o",
+          "video_title": "Patreon: Rosemary's Baby (1968) di Roman Polanski - Minirece richiesta da Giorgia e Lorenzo",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Rosemary's Baby"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "vwg9zdXrvpw",
+          "video_title": "Le Monografie di Frusciante: Roman Polanski (Gennaio 2017)",
+          "timestamp": "24:00",
+          "seconds": 1440
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_rosemarysbaby_1967",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/polanski.html",
+          "mentioned_as": "Rosemary's Baby"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "vGlHSbtMnJ4",
+          "video_title": "CULT: “ROSEMARY’S BABY” con Frusciante, Dario Moccia e Victorlaszlo88 - parte 2",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ROSEMARY’S BABY"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "IW37f3T5WCc",
+          "video_title": "CULT CON MOCCIA, MARRA E FRUSCIANTE: ROSEMARY'S BABY- parte 1",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ROSEMARY'S BABY"
+        }
+      ],
+      "director": "Roman Polanski, Roman Polański",
+      "it_flatrate": [
+        {
+          "source": "paramount_plus",
+          "name": "Paramount+",
+          "link": "https://watchnow.trakt.tv/watchnow/303215821"
+        }
+      ]
+    },
+    "movie:la maschera del demonio:tt0054067": {
+      "id": "movie:la maschera del demonio:tt0054067",
+      "imdb_id": "tt0054067",
+      "category": "movie",
+      "it_title": "La Maschera del Demonio",
+      "orig_title": "Black Sunday",
+      "year": 1960,
+      "cast": "Barbara Steele, John Richardson",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZGVjOTA2NjUtMzY0NS00Mzc1LWI4MzktMTIyOGJlOGNmOTk1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0054067",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "7Iv-EEglI7Q",
+          "video_title": "I Classici di Frusciante: Settembre 2025",
+          "timestamp": "44:25",
+          "seconds": 2665,
+          "mentioned_as": "La Maschera del Demonio"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "QXbvd8SYODw",
+          "video_title": "Le Recensioni di Frusciante - Mario Bava",
+          "timestamp": "10:36",
+          "seconds": 636,
+          "mentioned_as": "La maschera del demonio"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "OOgVsbEjRYM",
+          "video_title": "Patreon: La Maschera del Demonio (1960) di Mario Bava - Minirece richiesta da Vicious",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "La Maschera del Demonio"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "xnFhI3m5pI8",
+          "video_title": "CULT CON DARIO MOCCIA, FRUSCIANTE E MARRA: LA MASCHERA DEL DEMONIO (MARIO BAVA)- Parte 2",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "LA MASCHERA DEL DEMONIO"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "xnFhI3m5pI8",
+          "video_title": "CULT CON DARIO MOCCIA, FRUSCIANTE E MARRA: LA MASCHERA DEL DEMONIO (MARIO BAVA)- Parte 2",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "Mario Bava",
+      "it_flatrate": []
+    },
+    "movie:arancia meccanica:tt0066921": {
+      "id": "movie:arancia meccanica:tt0066921",
+      "imdb_id": "tt0066921",
+      "category": "movie",
+      "it_title": "Arancia Meccanica",
+      "orig_title": "A Clockwork Orange",
+      "year": 1971,
+      "cast": "Malcolm McDowell, Patrick Magee",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/326503543"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0066921",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "wza7-aPYxGY",
+          "video_title": "Patreon: Arancia Meccanica ( 1971) di Stanley Kubrick - Minirece richiesta da Domenico Sileo",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Arancia Meccanica"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "XpPAQqg1rNY",
+          "video_title": "MovieBlog- 247: Recensione Arancia Meccanica",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Arancia Meccanica"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_clockworkorange_1971",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/kubrick.html",
+          "mentioned_as": "A Clockwork Orange"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "35VHIpr_AAQ",
+          "video_title": "CULT CON MOCCIA, FRUSCIANTE E MARRA: ARANCIA MECCANICA",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ARANCIA MECCANICA"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "35VHIpr_AAQ",
+          "video_title": "CULT CON MOCCIA, FRUSCIANTE E MARRA: ARANCIA MECCANICA",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "Stanley Kubrick",
+      "it_flatrate": []
+    },
     "movie:black panther:tt1825683": {
       "id": "movie:black panther:tt1825683",
       "imdb_id": "tt1825683",
@@ -20274,66 +21086,6 @@
           "source": "paramount_plus_amazon_channel",
           "name": "Paramount+ (on Amazon)",
           "link": "https://watchnow.trakt.tv/watchnow/301534205"
-        }
-      ]
-    },
-    "movie:il settimo sigillo:tt0050976": {
-      "id": "movie:il settimo sigillo:tt0050976",
-      "imdb_id": "tt0050976",
-      "category": "movie",
-      "it_title": "IL SETTIMO SIGILLO",
-      "orig_title": "The Seventh Seal",
-      "year": 1957,
-      "cast": "Max von Sydow, Gunnar Björnstrand",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDlmYTkzOWUtODQ0MS00MmM4LWE3ZjMtYTEwNGUwMmJkYzIxXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0050976",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "lDrEojxhLzY",
-          "video_title": "Le Recensioni di Frusciante - Morte al Cinema",
-          "timestamp": "3:02",
-          "seconds": 182
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "2a6oHxHeLNo",
-          "video_title": "Patreon: Il Settimo Sigillo (1957) di I.Bergman - Minirece richiesta da Manuel Ammavuta",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "IL SETTIMO SIGILLO"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "3yCp2_19Ytc",
-          "video_title": "MARRA VI CONSIGLIA un SACCO di FILM!! | Cerbero Podcast ",
-          "timestamp": "1:11:16",
-          "seconds": 4276,
-          "mentioned_as": "IL SETTIMO SIGILLO"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_seventhseal_1956",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/bergman.html",
-          "mentioned_as": "Seventh Seal"
-        }
-      ],
-      "director": "Ingmar Bergman",
-      "it_flatrate": [
-        {
-          "source": "amazonnovecento",
-          "name": "Novecento (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/303397623"
-        },
-        {
-          "source": "mymovies_one",
-          "name": "MYmovies One",
-          "link": "https://watchnow.trakt.tv/watchnow/303397622"
         }
       ]
     },
@@ -20536,73 +21288,6 @@
           "source": "mubi_amazon_channel",
           "name": "MUBI (on Amazon)",
           "link": "https://watchnow.trakt.tv/watchnow/300027806"
-        }
-      ]
-    },
-    "movie:holy motors:tt2076220": {
-      "id": "movie:holy motors:tt2076220",
-      "imdb_id": "tt2076220",
-      "category": "movie",
-      "it_title": "Holy Motors",
-      "orig_title": "Holy Motors",
-      "year": 2012,
-      "cast": "Denis Lavant, Edith Scob",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BODk2MDc4MDk2OF5BMl5BanBnXkFtZTcwMTcyODY1OA@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "ava_csal",
-          "name": "AVA CSAL (free)",
-          "link": "https://watchnow.trakt.tv/watchnow/327706578"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt2076220",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "JW6R3772Y6k",
-          "video_title": "Le Recensioni di Frusciante - Meglio e Peggio 2013",
-          "timestamp": "1:11:43",
-          "seconds": 4303
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "elDVOmz5X_0",
-          "video_title": "Patreon: Holy Motors (Francia, Germania 2012) di Leos Carax - Minirece richiesta da Tommaso Schifano",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Holy Motors"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_holy-motors-2012",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/holy-motors-2012",
-          "mentioned_as": "Holy Motors"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_holymotors_2012",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/carax.html",
-          "mentioned_as": "Holy Motors"
-        }
-      ],
-      "director": "Leos Carax",
-      "it_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/303751027"
-        },
-        {
-          "source": "amazon_prime_video_with_ads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://watchnow.trakt.tv/watchnow/303751028"
         }
       ]
     },
@@ -22901,65 +23586,6 @@
       "director": "Rob Reiner",
       "it_flatrate": []
     },
-    "movie:la mosca:tt0091064": {
-      "id": "movie:la mosca:tt0091064",
-      "imdb_id": "tt0091064",
-      "category": "movie",
-      "it_title": "La Mosca",
-      "orig_title": "The Fly",
-      "year": 1986,
-      "cast": "Jeff Goldblum, Geena Davis",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTBlNTliNTItY2VhNS00MjA5LTllYzItMmQyNGRjYTAyZWQxXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/324169863"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0091064",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "XhK9JRZI-Sw",
-          "video_title": "Patreon: La Mosca (1986) di David Cronenberg - Minirece richiesta da Faster",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "icaJ8t7hmOU",
-          "video_title": "Le recensioni di Frusciante - Cronenberg",
-          "timestamp": "43:26",
-          "seconds": 2606
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "3yCp2_19Ytc",
-          "video_title": "MARRA VI CONSIGLIA un SACCO di FILM!! | Cerbero Podcast ",
-          "timestamp": "1:27:51",
-          "seconds": 5271,
-          "mentioned_as": "LA MOSCA"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "B8szo4diMK8",
-          "video_title": "MovieBlog- 324: Recensione La Mosca",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "La Mosca"
-        }
-      ],
-      "director": "David Cronenberg",
-      "it_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/301297577"
-        }
-      ]
-    },
     "movie:django unchained:tt1853728": {
       "id": "movie:django unchained:tt1853728",
       "imdb_id": "tt1853728",
@@ -23047,66 +23673,6 @@
           "source": "timvision",
           "name": "Timvision",
           "link": "https://watchnow.trakt.tv/watchnow/300150615"
-        }
-      ]
-    },
-    "movie:per un pugno di dollari:tt0058461": {
-      "id": "movie:per un pugno di dollari:tt0058461",
-      "imdb_id": "tt0058461",
-      "category": "movie",
-      "it_title": "Per un pugno di dollari",
-      "orig_title": "A Fistful of Dollars",
-      "year": 1964,
-      "cast": "Clint Eastwood, Gian Maria Volontè",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BM2ZkYWU1MGQtMzM3MC00ODQ5LWE1ZGQtMDM5YjczZDZhMjg5XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0058461",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "Rc0FymKFL7s",
-          "video_title": "Le Recensioni di Frusciante - Leone",
-          "timestamp": "8:40",
-          "seconds": 520,
-          "mentioned_as": "Per un pugno di dollari"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "n9cgRezsr3Y",
-          "video_title": "I Consigli di Frusciante: Novembre 2025",
-          "timestamp": "56:12",
-          "seconds": 3372,
-          "mentioned_as": "Per un pugno di dollari"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "W3uspEFDT9s",
-          "video_title": "MovieBlog-469: Recensione Per Un Pugno Di Dollari",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Per Un Pugno Di Dollari"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "fqv6dd0dBJg",
-          "video_title": "MovieBlog-22 (Sergio Leone Special): Recensione Per un pugno di dollari",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Per un pugno di dollari"
-        }
-      ],
-      "director": "Sergio Leone, Monte Hellman",
-      "it_flatrate": [
-        {
-          "source": "now_tv",
-          "name": "Now TV",
-          "link": "https://watchnow.trakt.tv/watchnow/301364526"
-        },
-        {
-          "source": "sky_go",
-          "name": "Sky Go",
-          "link": "https://watchnow.trakt.tv/watchnow/301364527"
         }
       ]
     },
@@ -28738,62 +29304,6 @@
       "director": "Brian De Palma",
       "it_flatrate": []
     },
-    "movie:ritorno al futuro:tt0088763": {
-      "id": "movie:ritorno al futuro:tt0088763",
-      "imdb_id": "tt0088763",
-      "category": "movie",
-      "it_title": "Ritorno al futuro",
-      "orig_title": "Back to the Future",
-      "year": 1985,
-      "cast": "Michael J. Fox, Christopher Lloyd",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/326986702"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0088763",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "JNtvmyrd0-E",
-          "video_title": "Patreon: \"Ritorno al Futuro\" (1985) di Robert Zemeckis - Minirece richiesta da Fabrizio Milani",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Ritorno al futuro"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "0XCwtjcfeSA",
-          "video_title": "Le Monografie di Frusciante: Robert Zemeckis (Ottobre 2019)",
-          "timestamp": "15:39",
-          "seconds": 939
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_back-to-the-future-1985",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/back-to-the-future-1985",
-          "mentioned_as": "Back to the Future"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_backtothefuture_1985",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/zemeckis.html",
-          "mentioned_as": "Back to the Future"
-        }
-      ],
-      "director": "Robert Zemeckis",
-      "it_flatrate": []
-    },
     "movie:predator:tt0093773": {
       "id": "movie:predator:tt0093773",
       "imdb_id": "tt0093773",
@@ -31852,69 +32362,6 @@
       "director": "Steven Spielberg",
       "it_flatrate": []
     },
-    "movie:under the skin:tt1441395": {
-      "id": "movie:under the skin:tt1441395",
-      "imdb_id": "tt1441395",
-      "category": "movie",
-      "it_title": "Under the Skin",
-      "orig_title": "Under the Skin",
-      "year": 2013,
-      "cast": "Scarlett Johansson, Jeremy McWilliams",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU1MDEwMDg4Nl5BMl5BanBnXkFtZTgwOTk3NTcxMTE@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt1441395",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "DruIqSyQfRk",
-          "video_title": "Patreon: Under the Skin (2013) di Jonathan Glazer - Richiesta da Michele Marino e Michele Barile",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Under the Skin"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "3yCp2_19Ytc",
-          "video_title": "MARRA VI CONSIGLIA un SACCO di FILM!! | Cerbero Podcast ",
-          "timestamp": "52:58",
-          "seconds": 3178,
-          "mentioned_as": "UNDER THE SKIN"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_under-the-skin-2014",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/under-the-skin-2014",
-          "mentioned_as": "Under the Skin"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_undertheskin_2013",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/chro010.html",
-          "mentioned_as": "Under the Skin"
-        }
-      ],
-      "director": "Jonathan Glazer",
-      "it_flatrate": [
-        {
-          "source": "amazonanniduemila",
-          "name": "Anni Duemila (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/301152807"
-        },
-        {
-          "source": "mymovies_one",
-          "name": "MYmovies One",
-          "link": "https://watchnow.trakt.tv/watchnow/301152806"
-        }
-      ],
-      "watchnow_checked": true
-    },
     "movie:10 cloverfiled lane:tt1179933": {
       "id": "movie:10 cloverfiled lane:tt1179933",
       "imdb_id": "tt1179933",
@@ -32201,58 +32648,6 @@
       ],
       "director": "Sergio Corbucci",
       "it_flatrate": []
-    },
-    "movie:coraline e la porta magica:tt0327597": {
-      "id": "movie:coraline e la porta magica:tt0327597",
-      "imdb_id": "tt0327597",
-      "category": "movie",
-      "it_title": "Coraline e la porta magica",
-      "orig_title": "Coraline",
-      "year": 2009,
-      "cast": "Dakota Fanning, Teri Hatcher",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzQxNjM5NzkxNV5BMl5BanBnXkFtZTcwMzg5NDMwMg@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0327597",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "Yvx9E9bT1tY",
-          "video_title": "(Gl)I (Im)Perdibili di Frusciante: Animazione (Aprile 2017)",
-          "timestamp": "00:25",
-          "seconds": 25,
-          "mentioned_as": "Coraline"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_coraline-2009",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/coraline-2009",
-          "mentioned_as": "Coraline"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "zCaUDHQFDuw",
-          "video_title": "Patreon: Coraline e la porta magica (2009) di Henry Selick - Minirece richiesta da Milla",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Coraline e la porta magica"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_coraline_2009",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/chro000.html",
-          "mentioned_as": "Coraline"
-        }
-      ],
-      "director": "Henry Selick",
-      "it_flatrate": [],
-      "watchnow_checked": true
     },
     "movie:un gelido inverno (winter's bone):tt1399683": {
       "id": "movie:un gelido inverno (winter's bone):tt1399683",
@@ -35999,69 +36394,6 @@
       "director": "Na Hong-jin",
       "it_flatrate": []
     },
-    "movie:il cacciatore:tt0077416": {
-      "id": "movie:il cacciatore:tt0077416",
-      "imdb_id": "tt0077416",
-      "category": "movie",
-      "it_title": "IL CACCIATORE",
-      "orig_title": "The Deer Hunter",
-      "year": 1978,
-      "cast": "Robert De Niro, Christopher Walken",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZGI4YmVhMzMtMWExMS00MGZiLTg2MmItM2I2MWZjODAyM2U5XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0077416",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "5hu7RoMvwrI",
-          "video_title": "Patreon: \"Il Cacciatore\" (USA 1979) di Michael Cimino - Minirece richiesta da Sergio Fratanelli",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "IL CACCIATORE"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_the-deer-hunter-1979",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/the-deer-hunter-1979",
-          "mentioned_as": "The Deer Hunter"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_deerhunter_1978",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/cimino.html",
-          "mentioned_as": "The Deer Hunter"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "Bv8HLYFTTmQ",
-          "video_title": "CULT: “IL CACCIATORE” con Frusciante, Victorlaszlo88 e Dario Moccia - parte 2",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "IL CACCIATORE"
-        }
-      ],
-      "director": "Michael Cimino",
-      "it_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/323731729"
-        },
-        {
-          "source": "amazon_prime_video_with_ads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://watchnow.trakt.tv/watchnow/323731730"
-        }
-      ],
-      "watchnow_checked": true
-    },
     "movie:animali fantastici e dove trovarli:tt3183660": {
       "id": "movie:animali fantastici e dove trovarli:tt3183660",
       "imdb_id": "tt3183660",
@@ -38584,67 +38916,6 @@
       "it_flatrate": [],
       "watchnow_checked": true
     },
-    "movie:rosemary's baby - nastro rosso a new york:tt0063522": {
-      "id": "movie:rosemary's baby - nastro rosso a new york:tt0063522",
-      "imdb_id": "tt0063522",
-      "category": "movie",
-      "it_title": "Rosemary's Baby - Nastro rosso a New York",
-      "orig_title": "Rosemary's Baby",
-      "year": 1968,
-      "cast": "Mia Farrow, John Cassavetes",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDlhMDI3OTQtNTBkYy00NWQ5LWJmNWEtZGQwYzZlMTQ4MDI1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "paramount_plus",
-          "name": "Paramount+",
-          "link": "https://watchnow.trakt.tv/watchnow/324046153"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0063522",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "HllSTwaQ77o",
-          "video_title": "Patreon: Rosemary's Baby (1968) di Roman Polanski - Minirece richiesta da Giorgia e Lorenzo",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Rosemary's Baby"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "vwg9zdXrvpw",
-          "video_title": "Le Monografie di Frusciante: Roman Polanski (Gennaio 2017)",
-          "timestamp": "24:00",
-          "seconds": 1440
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_rosemarysbaby_1967",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/polanski.html",
-          "mentioned_as": "Rosemary's Baby"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "vGlHSbtMnJ4",
-          "video_title": "CULT: “ROSEMARY’S BABY” con Frusciante, Dario Moccia e Victorlaszlo88 - parte 2",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "ROSEMARY’S BABY"
-        }
-      ],
-      "director": "Roman Polanski, Roman Polański",
-      "it_flatrate": [
-        {
-          "source": "paramount_plus",
-          "name": "Paramount+",
-          "link": "https://watchnow.trakt.tv/watchnow/303215821"
-        }
-      ]
-    },
     "movie:captain america: brave new world:tt14513804": {
       "id": "movie:captain america: brave new world:tt14513804",
       "imdb_id": "tt14513804",
@@ -39161,6 +39432,337 @@
         }
       ],
       "external_url": "https://app.trakt.tv/movies/tt0056801",
+      "watchnow_checked": true
+    },
+    "movie:american beauty:tt0169547": {
+      "id": "movie:american beauty:tt0169547",
+      "imdb_id": "tt0169547",
+      "category": "movie",
+      "it_title": "American Beauty",
+      "orig_title": "American Beauty",
+      "year": 1999,
+      "cast": "Kevin Spacey, Annette Bening",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDI1MDE0OTMtMmI2MS00Yjc2LTg2MTItMWExYTg5NzA1OGUzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "paramount_plus",
+          "name": "Paramount+",
+          "link": "https://watchnow.trakt.tv/watchnow/326567304"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0169547",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "ptxsWEJnhG4",
+          "video_title": "Patreon: \"American Beauty\" (1999) di Sam Mendes - Minirece richiesta da  Davide Mazzeo",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "American Beauty"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_american-beauty-1999",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/american-beauty-1999",
+          "mentioned_as": "American Beauty"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_americanbeauty_1999",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/mendes.html",
+          "mentioned_as": "American Beauty"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "mROqvkCQSRU",
+          "video_title": "MovieBlog Cult- 04: American Beauty",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "American Beauty"
+        }
+      ],
+      "director": "Sam Mendes",
+      "it_flatrate": []
+    },
+    "movie:indagine su un cittadino al di sopra di ogni sospetto:tt0065889": {
+      "id": "movie:indagine su un cittadino al di sopra di ogni sospetto:tt0065889",
+      "imdb_id": "tt0065889",
+      "category": "movie",
+      "it_title": "Indagine su un cittadino al di sopra di ogni sospetto",
+      "orig_title": "Investigation of a Citizen Above Suspicion",
+      "year": 1970,
+      "cast": "Gian Maria Volontè, Florinda Bolkan",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjUxODFlZmQtNDcwYi00NGEwLTkwODUtMjg3YjA2YjUwZTcyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0065889",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "tXUob93aAZc",
+          "video_title": "Patreon: Indagine su un cittadino al di sopra di ogni sospetto (1970) di Elio Petri - Per Aurora",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "60HgQYkMocA",
+          "video_title": "Le Monografie di Frusciante: Elio Petri pt.II (Aprile 2018)",
+          "timestamp": "00:01",
+          "seconds": 1
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_indaginesuuncittadinoaldisopradiognisospetto_1970",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/chro970.html",
+          "mentioned_as": "Indagine su un Cittadino al di Sopra di ogni Sospetto"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "tZNAiHfFR5Y",
+          "video_title": "Cult con Dario Moccia e Frusciante: Indagine su un Cittadino al di Sopra di Ogni Sospetto",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Indagine su un Cittadino al di Sopra di Ogni Sospetto"
+        }
+      ],
+      "director": "Elio Petri",
+      "it_flatrate": [
+        {
+          "source": "rai_play",
+          "name": "Rai Play",
+          "link": "https://watchnow.trakt.tv/watchnow/328821473"
+        }
+      ],
+      "watchnow_checked": true
+    },
+    "movie:perfect blue:tt0156887": {
+      "id": "movie:perfect blue:tt0156887",
+      "imdb_id": "tt0156887",
+      "category": "movie",
+      "it_title": "Perfect Blue",
+      "orig_title": "Perfect Blue",
+      "year": 1997,
+      "cast": "Junko Iwao, Rica Matsumoto",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjkyZjY1OWItNjYyNC00ZjlhLTgwOTAtMGNiYTFmYTNmZDI3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "crunchyroll",
+          "name": "Crunchyroll",
+          "link": "https://watchnow.trakt.tv/watchnow/324174126"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0156887",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "UE3OdERs-Ko",
+          "video_title": "Patreon: Perfect Blue (1997) di Satoshi Kon - Richiesta da Giovanni Cerri e Michael",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Perfect Blue"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_perfectblue_1997",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/kon.html",
+          "mentioned_as": "Perfect Blue"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "KMjBWldSo5s",
+          "video_title": "CULT: “PERFECT BLUE” con Frusciante, Dario Moccia e Victorlaszlo88 - parte 1",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "PERFECT BLUE"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "la5zYB84n1A",
+          "video_title": "CULT CON DARIO MOCCIA, FRUSCIANTE E MARRA: Perfect Blue- parte 2",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Perfect Blue"
+        }
+      ],
+      "director": "Satoshi Kon",
+      "it_flatrate": []
+    },
+    "movie:suicide club:tt0312843": {
+      "id": "movie:suicide club:tt0312843",
+      "imdb_id": "tt0312843",
+      "category": "movie",
+      "it_title": "Suicide Club",
+      "orig_title": "Suicide Club",
+      "year": 2001,
+      "cast": "Ryô Ishibashi, Masatoshi Nagase",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjQxMDI4ZjItMzA3NS00N2U2LWFiN2EtNjMxYzVjNGFmMGJiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0312843",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "zhGywibgxJ8",
+          "video_title": "Patreon: Suicide Club (2002) di Sion Sono - Minirece richiesta da Simone Giordano",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_suicideclub_2001",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/sono.html",
+          "mentioned_as": "Suicide Club"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "mE8eZE4hu8o",
+          "video_title": "CULT: “S. Club” di Sion Sono con Dario Moccia, Frusciante e Victor - parte 1",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Suicide Club"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "V8aXrHgkNUU",
+          "video_title": "Cinema Cult: S******* Club di Sion Sono- parte 2",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Suicide Club"
+        }
+      ],
+      "director": "Sion Sono",
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:psycho:tt0155975": {
+      "id": "movie:psycho:tt0155975",
+      "imdb_id": "tt0155975",
+      "category": "movie",
+      "it_title": "Psycho",
+      "orig_title": "Psycho",
+      "year": 1998,
+      "cast": "Vince Vaughn, Anne Heche",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDlhYjllMzMtZDA3Ni00NmRmLWFkOTgtNjk4OGQ5YzNlMzRhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/327686370"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0155975",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "QDEQ-JwT-T0",
+          "video_title": "Patreon: Psycho (1998) di Gus Van Sant - Minirece richiesta da Nicola Fusco",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Psycho"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_psycho",
+          "external_rec_url": "https://www.scaruffi.com/director/hitchcoc.html",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "mentioned_as": "Psycho"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "_XyuHHR43oE",
+          "video_title": "CULT: “PSYCHO” con Frusciante, Dario Moccia e Victorlaszlo88 - parte 2",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "PSYCHO"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "qIryJsLz1Rw",
+          "video_title": "CULT CON DARIO MOCCIA, FRUSCIANTE E MARRA: PSYCHO - parte 1",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "PSYCHO"
+        }
+      ],
+      "director": "Gus Van Sant",
+      "it_flatrate": []
+    },
+    "movie:i soliti ignoti:tt0052216": {
+      "id": "movie:i soliti ignoti:tt0052216",
+      "imdb_id": "tt0052216",
+      "category": "movie",
+      "it_title": "I soliti Ignoti",
+      "orig_title": "Big Deal on Madonna Street",
+      "year": 1958,
+      "cast": "Vittorio Gassman, Marcello Mastroianni",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZGNjOTNkNWUtZGNmNS00NGU4LWFkY2EtNTM5ZGU5NzI2MTY1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0052216",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "P2c87ueMACM",
+          "video_title": "Patreon: I soliti Ignoti (1958) di Mario Monicelli - Minirece richiesta da Robin Forestelli",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "I soliti Ignoti"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_bigdealonmadonnastreet_1958",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/director/monicell.html",
+          "mentioned_as": "Big Deal on Madonna Street"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "ayeS6FifeiM",
+          "video_title": "CULT: “I Soliti Ignoti” con Dario Moccia, Frusciante e Victor - parte 1",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "I Soliti Ignoti"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "0LR_OyjtCco",
+          "video_title": "CINE CULT CON DARIO MOCCIA, FRUSCIANTE E MARRA: I SOLITI IGNOTI- Parte 2",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "I SOLITI IGNOTI"
+        }
+      ],
+      "director": "Mario Monicelli",
+      "it_flatrate": [
+        {
+          "source": "raiplay",
+          "name": "Rai Play",
+          "link": "https://www.raiplay.it/programmi/isolitiignoti"
+        }
+      ],
       "watchnow_checked": true
     },
     "movie:godzilla e kong - il nuovo impero:tt14539740": {
@@ -43927,47 +44529,6 @@
           "link": "https://watchnow.trakt.tv/watchnow/306177508"
         }
       ]
-    },
-    "movie:la maschera del demonio:tt0054067": {
-      "id": "movie:la maschera del demonio:tt0054067",
-      "imdb_id": "tt0054067",
-      "category": "movie",
-      "it_title": "La Maschera del Demonio",
-      "orig_title": "Black Sunday",
-      "year": 1960,
-      "cast": "Barbara Steele, John Richardson",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZGVjOTA2NjUtMzY0NS00Mzc1LWI4MzktMTIyOGJlOGNmOTk1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0054067",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "7Iv-EEglI7Q",
-          "video_title": "I Classici di Frusciante: Settembre 2025",
-          "timestamp": "44:25",
-          "seconds": 2665,
-          "mentioned_as": "La Maschera del Demonio"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "QXbvd8SYODw",
-          "video_title": "Le Recensioni di Frusciante - Mario Bava",
-          "timestamp": "10:36",
-          "seconds": 636,
-          "mentioned_as": "La maschera del demonio"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "OOgVsbEjRYM",
-          "video_title": "Patreon: La Maschera del Demonio (1960) di Mario Bava - Minirece richiesta da Vicious",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "La Maschera del Demonio"
-        }
-      ],
-      "director": "Mario Bava",
-      "it_flatrate": []
     },
     "movie:outrage:tt1462667": {
       "id": "movie:outrage:tt1462667",
@@ -61879,54 +62440,6 @@
       "director": "Blake Edwards",
       "it_flatrate": []
     },
-    "movie:arancia meccanica:tt0066921": {
-      "id": "movie:arancia meccanica:tt0066921",
-      "imdb_id": "tt0066921",
-      "category": "movie",
-      "it_title": "Arancia Meccanica",
-      "orig_title": "A Clockwork Orange",
-      "year": 1971,
-      "cast": "Malcolm McDowell, Patrick Magee",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/326503543"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0066921",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "wza7-aPYxGY",
-          "video_title": "Patreon: Arancia Meccanica ( 1971) di Stanley Kubrick - Minirece richiesta da Domenico Sileo",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Arancia Meccanica"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "XpPAQqg1rNY",
-          "video_title": "MovieBlog- 247: Recensione Arancia Meccanica",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Arancia Meccanica"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_clockworkorange_1971",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/kubrick.html",
-          "mentioned_as": "A Clockwork Orange"
-        }
-      ],
-      "director": "Stanley Kubrick",
-      "it_flatrate": []
-    },
     "movie:fantozzi:tt0071486": {
       "id": "movie:fantozzi:tt0071486",
       "imdb_id": "tt0071486",
@@ -67192,55 +67705,6 @@
       "director": "Tomas Alfredson",
       "it_flatrate": []
     },
-    "movie:american beauty:tt0169547": {
-      "id": "movie:american beauty:tt0169547",
-      "imdb_id": "tt0169547",
-      "category": "movie",
-      "it_title": "American Beauty",
-      "orig_title": "American Beauty",
-      "year": 1999,
-      "cast": "Kevin Spacey, Annette Bening",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDI1MDE0OTMtMmI2MS00Yjc2LTg2MTItMWExYTg5NzA1OGUzXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "paramount_plus",
-          "name": "Paramount+",
-          "link": "https://watchnow.trakt.tv/watchnow/326567304"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0169547",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "ptxsWEJnhG4",
-          "video_title": "Patreon: \"American Beauty\" (1999) di Sam Mendes - Minirece richiesta da  Davide Mazzeo",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "American Beauty"
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_american-beauty-1999",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/american-beauty-1999",
-          "mentioned_as": "American Beauty"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_americanbeauty_1999",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/mendes.html",
-          "mentioned_as": "American Beauty"
-        }
-      ],
-      "director": "Sam Mendes",
-      "it_flatrate": []
-    },
     "movie:la principessa mononoke:tt0119698": {
       "id": "movie:la principessa mononoke:tt0119698",
       "imdb_id": "tt0119698",
@@ -69312,53 +69776,6 @@
           "source": "amazon_prime_video_with_ads",
           "name": "Amazon Prime Video with Ads",
           "link": "https://watchnow.trakt.tv/watchnow/303627428"
-        }
-      ],
-      "watchnow_checked": true
-    },
-    "movie:indagine su un cittadino al di sopra di ogni sospetto:tt0065889": {
-      "id": "movie:indagine su un cittadino al di sopra di ogni sospetto:tt0065889",
-      "imdb_id": "tt0065889",
-      "category": "movie",
-      "it_title": "Indagine su un cittadino al di sopra di ogni sospetto",
-      "orig_title": "Investigation of a Citizen Above Suspicion",
-      "year": 1970,
-      "cast": "Gian Maria Volontè, Florinda Bolkan",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjUxODFlZmQtNDcwYi00NGEwLTkwODUtMjg3YjA2YjUwZTcyXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0065889",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "tXUob93aAZc",
-          "video_title": "Patreon: Indagine su un cittadino al di sopra di ogni sospetto (1970) di Elio Petri - Per Aurora",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "60HgQYkMocA",
-          "video_title": "Le Monografie di Frusciante: Elio Petri pt.II (Aprile 2018)",
-          "timestamp": "00:01",
-          "seconds": 1
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_indaginesuuncittadinoaldisopradiognisospetto_1970",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/chro970.html",
-          "mentioned_as": "Indagine su un Cittadino al di Sopra di ogni Sospetto"
-        }
-      ],
-      "director": "Elio Petri",
-      "it_flatrate": [
-        {
-          "source": "rai_play",
-          "name": "Rai Play",
-          "link": "https://watchnow.trakt.tv/watchnow/328821473"
         }
       ],
       "watchnow_checked": true
@@ -75873,144 +76290,6 @@
       "director": "Robert Zemeckis",
       "it_flatrate": []
     },
-    "movie:perfect blue:tt0156887": {
-      "id": "movie:perfect blue:tt0156887",
-      "imdb_id": "tt0156887",
-      "category": "movie",
-      "it_title": "Perfect Blue",
-      "orig_title": "Perfect Blue",
-      "year": 1997,
-      "cast": "Junko Iwao, Rica Matsumoto",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjkyZjY1OWItNjYyNC00ZjlhLTgwOTAtMGNiYTFmYTNmZDI3XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "crunchyroll",
-          "name": "Crunchyroll",
-          "link": "https://watchnow.trakt.tv/watchnow/324174126"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0156887",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "UE3OdERs-Ko",
-          "video_title": "Patreon: Perfect Blue (1997) di Satoshi Kon - Richiesta da Giovanni Cerri e Michael",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Perfect Blue"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_perfectblue_1997",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/kon.html",
-          "mentioned_as": "Perfect Blue"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "KMjBWldSo5s",
-          "video_title": "CULT: “PERFECT BLUE” con Frusciante, Dario Moccia e Victorlaszlo88 - parte 1",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "PERFECT BLUE"
-        }
-      ],
-      "director": "Satoshi Kon",
-      "it_flatrate": []
-    },
-    "movie:suicide club:tt0312843": {
-      "id": "movie:suicide club:tt0312843",
-      "imdb_id": "tt0312843",
-      "category": "movie",
-      "it_title": "Suicide Club",
-      "orig_title": "Suicide Club",
-      "year": 2001,
-      "cast": "Ryô Ishibashi, Masatoshi Nagase",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjQxMDI4ZjItMzA3NS00N2U2LWFiN2EtNjMxYzVjNGFmMGJiXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0312843",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "zhGywibgxJ8",
-          "video_title": "Patreon: Suicide Club (2002) di Sion Sono - Minirece richiesta da Simone Giordano",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_suicideclub_2001",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/sono.html",
-          "mentioned_as": "Suicide Club"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "mE8eZE4hu8o",
-          "video_title": "CULT: “S. Club” di Sion Sono con Dario Moccia, Frusciante e Victor - parte 1",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Suicide Club"
-        }
-      ],
-      "director": "Sion Sono",
-      "it_flatrate": [],
-      "watchnow_checked": true
-    },
-    "movie:psycho:tt0155975": {
-      "id": "movie:psycho:tt0155975",
-      "imdb_id": "tt0155975",
-      "category": "movie",
-      "it_title": "Psycho",
-      "orig_title": "Psycho",
-      "year": 1998,
-      "cast": "Vince Vaughn, Anne Heche",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDlhYjllMzMtZDA3Ni00NmRmLWFkOTgtNjk4OGQ5YzNlMzRhXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/327686370"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0155975",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "QDEQ-JwT-T0",
-          "video_title": "Patreon: Psycho (1998) di Gus Van Sant - Minirece richiesta da Nicola Fusco",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Psycho"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_psycho",
-          "external_rec_url": "https://www.scaruffi.com/director/hitchcoc.html",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "mentioned_as": "Psycho"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "_XyuHHR43oE",
-          "video_title": "CULT: “PSYCHO” con Frusciante, Dario Moccia e Victorlaszlo88 - parte 2",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "PSYCHO"
-        }
-      ],
-      "director": "Gus Van Sant",
-      "it_flatrate": []
-    },
     "movie:ant-man and the wasp:tt5095030": {
       "id": "movie:ant-man and the wasp:tt5095030",
       "imdb_id": "tt5095030",
@@ -76328,55 +76607,6 @@
       ],
       "director": "Hayao Miyazaki",
       "it_flatrate": []
-    },
-    "movie:i soliti ignoti:tt0052216": {
-      "id": "movie:i soliti ignoti:tt0052216",
-      "imdb_id": "tt0052216",
-      "category": "movie",
-      "it_title": "I soliti Ignoti",
-      "orig_title": "Big Deal on Madonna Street",
-      "year": 1958,
-      "cast": "Vittorio Gassman, Marcello Mastroianni",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZGNjOTNkNWUtZGNmNS00NGU4LWFkY2EtNTM5ZGU5NzI2MTY1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0052216",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "P2c87ueMACM",
-          "video_title": "Patreon: I soliti Ignoti (1958) di Mario Monicelli - Minirece richiesta da Robin Forestelli",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "I soliti Ignoti"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_bigdealonmadonnastreet_1958",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/director/monicell.html",
-          "mentioned_as": "Big Deal on Madonna Street"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "ayeS6FifeiM",
-          "video_title": "CULT: “I Soliti Ignoti” con Dario Moccia, Frusciante e Victor - parte 1",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "I Soliti Ignoti"
-        }
-      ],
-      "director": "Mario Monicelli",
-      "it_flatrate": [
-        {
-          "source": "raiplay",
-          "name": "Rai Play",
-          "link": "https://www.raiplay.it/programmi/isolitiignoti"
-        }
-      ],
-      "watchnow_checked": true
     },
     "movie:ben hur:tt0052618": {
       "id": "movie:ben hur:tt0052618",
@@ -78171,6 +78401,224 @@
           "source": "amazonprimevideowithads",
           "name": "Amazon Prime Video with Ads",
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9ab600aa-6625-b547-cfc0-190e3ad8a27d"
+        }
+      ]
+    },
+    "movie:stalker:tt0079944": {
+      "id": "movie:stalker:tt0079944",
+      "imdb_id": "tt0079944",
+      "category": "movie",
+      "it_title": "Stalker",
+      "orig_title": "Stalker",
+      "year": 1979,
+      "cast": "Alisa Freyndlikh, Aleksandr Kaydanovskiy",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDIzMDRiYjgtM2U1Yy00MjlhLTliODMtM2E5NDI5Njc3YmZkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "filmingo",
+          "name": "filmingo",
+          "link": "https://watchnow.trakt.tv/watchnow/325837582"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0079944",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "i-Eqfu3MvgE",
+          "video_title": "Patreon:Stalker (1979) di Tarkovskij. Per Emanuele Piscini, Ermes Villani, Francesco Delli Benedetti",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Stalker"
+        },
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi",
+          "external_rec_url": "https://www.scaruffi.com/director/tarkovsk.html",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "mentioned_as": "Stalker"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "tYT8iACpLm0",
+          "video_title": "CULT CON DARIO E FRUSCIANTE: STALKER (DALLA RUBRICA DI DARIO MOCCIA)",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "STALKER"
+        }
+      ],
+      "director": "Andrei Tarkovsky, Andrej Arsen'evič Tarkovskij",
+      "it_flatrate": []
+    },
+    "movie:pirati dei caraibi:tt0383574": {
+      "id": "movie:pirati dei caraibi:tt0383574",
+      "imdb_id": "tt0383574",
+      "category": "movie",
+      "it_title": "Pirati dei Caraibi",
+      "orig_title": "Pirates of the Caribbean: Dead Man's Chest",
+      "year": 2006,
+      "cast": "Johnny Depp, Orlando Bloom",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "disneyplus",
+          "name": "Disney Plus",
+          "link": "https://www.disneyplus.com/browse/entity-615a50ef-fde7-4474-8c31-27c136cf862d"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0383574",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "GpgS6Xfr-Uo",
+          "video_title": "MovieBlog- 141: recensione Pirati dei Caraibi (La trilogia)",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Pirati dei Caraibi"
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "weIpzX2Afpg",
+          "video_title": "Le Monografie di Frusciante: Gore Verbinski",
+          "timestamp": "34:01",
+          "seconds": 2041
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "OxyG8tH9AIU",
+          "video_title": "RIVALUTESCION: PIRATI DEI CARAIBI",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "PIRATI DEI CARAIBI"
+        }
+      ],
+      "director": "Gore Verbinski",
+      "it_flatrate": [
+        {
+          "source": "disneyplus",
+          "name": "Disney Plus",
+          "link": "https://www.disneyplus.com/browse/entity-615a50ef-fde7-4474-8c31-27c136cf862d"
+        }
+      ]
+    },
+    "movie:una vita difficile:tt0055602": {
+      "id": "movie:una vita difficile:tt0055602",
+      "imdb_id": "tt0055602",
+      "category": "movie",
+      "it_title": "una vita difficile",
+      "orig_title": "A Difficult Life",
+      "year": 1961,
+      "cast": "Alberto Sordi, Lea Massari",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTkwYmYzYTctOTJjYy00MjU1LWE3YmQtNTUyNmI4OTA3ZTE4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0055602",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "8gvx0DP1HR8",
+          "video_title": "Patreon: \"Una vita difficile\" (1961) di Dino Risi - Minirece richiesta da Giovanni Valsesia",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "una vita difficile"
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "FO24iwhwjx0",
+          "video_title": "CULT: “Una Vita Difficile” (1961) di Dino Risi con Dario Moccia, Frusciante e Victor - parte 2",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Una Vita Difficile"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "NB5yqoN0Egc",
+          "video_title": "Cult con Dario Moccia, marra e Frusciante:Una Vita Difficile- parte 1",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Una Vita Difficile"
+        }
+      ],
+      "director": "Dino Risi",
+      "it_flatrate": []
+    },
+    "movie:il gladiatore:tt0172495": {
+      "id": "movie:il gladiatore:tt0172495",
+      "imdb_id": "tt0172495",
+      "category": "movie",
+      "it_title": "Il Gladiatore",
+      "orig_title": "Gladiator",
+      "year": 2000,
+      "cast": "Russell Crowe, Joaquin Phoenix",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "blue_tv",
+          "name": "blue TV",
+          "link": "https://watchnow.trakt.tv/watchnow/324671089"
+        },
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/324671088"
+        },
+        {
+          "source": "sky",
+          "name": "Sky",
+          "link": "https://watchnow.trakt.tv/watchnow/324671096"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0172495",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "hVy2Tf4R-kc",
+          "video_title": "Le Monografie di Frusciante: Ridley Scott (Dicembre 2018)",
+          "timestamp": "01:00:32",
+          "seconds": 3632
+        },
+        {
+          "creator": "Mr. Marra",
+          "video_id": "nQTbbsgmLpo",
+          "video_title": "CULT: “Il Gladiatore” con Dario Moccia, Frusciante e Victorlaszlo88 - parte 1",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Il Gladiatore"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "JVcP8uifReo",
+          "video_title": "Cinema Cult con Moccia, Marra e Frusciante: Il Gladiatore- parte 2",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Il Gladiatore"
+        }
+      ],
+      "director": "Ridley Scott",
+      "it_flatrate": [
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ddc039e3-a01f-4530-b91e-014a7846926b"
+        },
+        {
+          "source": "skygo",
+          "name": "Sky Go",
+          "link": "https://skygo.sky.it/"
+        },
+        {
+          "source": "nowtv",
+          "name": "Now TV",
+          "link": "https://www.nowtv.it/watch/asset/il-gladiatore/R_564435_HD"
+        },
+        {
+          "source": "amazonprimevideowithads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ddc039e3-a01f-4530-b91e-014a7846926b"
         }
       ]
     },
@@ -84111,46 +84559,6 @@
           "timestamp": "",
           "seconds": 0,
           "mentioned_as": "Nostalgia"
-        }
-      ],
-      "director": "Andrei Tarkovsky, Andrej Arsen'evič Tarkovskij",
-      "it_flatrate": []
-    },
-    "movie:stalker:tt0079944": {
-      "id": "movie:stalker:tt0079944",
-      "imdb_id": "tt0079944",
-      "category": "movie",
-      "it_title": "Stalker",
-      "orig_title": "Stalker",
-      "year": 1979,
-      "cast": "Alisa Freyndlikh, Aleksandr Kaydanovskiy",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDIzMDRiYjgtM2U1Yy00MjlhLTliODMtM2E5NDI5Njc3YmZkXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "filmingo",
-          "name": "filmingo",
-          "link": "https://watchnow.trakt.tv/watchnow/325837582"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0079944",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "i-Eqfu3MvgE",
-          "video_title": "Patreon:Stalker (1979) di Tarkovskij. Per Emanuele Piscini, Ermes Villani, Francesco Delli Benedetti",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Stalker"
-        },
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi",
-          "external_rec_url": "https://www.scaruffi.com/director/tarkovsk.html",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "mentioned_as": "Stalker"
         }
       ],
       "director": "Andrei Tarkovsky, Andrej Arsen'evič Tarkovskij",
@@ -125107,50 +125515,6 @@
       ],
       "watchnow_checked": true
     },
-    "movie:pirati dei caraibi:tt0383574": {
-      "id": "movie:pirati dei caraibi:tt0383574",
-      "imdb_id": "tt0383574",
-      "category": "movie",
-      "it_title": "Pirati dei Caraibi",
-      "orig_title": "Pirates of the Caribbean: Dead Man's Chest",
-      "year": 2006,
-      "cast": "Johnny Depp, Orlando Bloom",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-615a50ef-fde7-4474-8c31-27c136cf862d"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0383574",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "GpgS6Xfr-Uo",
-          "video_title": "MovieBlog- 141: recensione Pirati dei Caraibi (La trilogia)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Pirati dei Caraibi"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "weIpzX2Afpg",
-          "video_title": "Le Monografie di Frusciante: Gore Verbinski",
-          "timestamp": "34:01",
-          "seconds": 2041
-        }
-      ],
-      "director": "Gore Verbinski",
-      "it_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-615a50ef-fde7-4474-8c31-27c136cf862d"
-        }
-      ]
-    },
     "movie:nymphomaniac volume 2:tt2382009": {
       "id": "movie:nymphomaniac volume 2:tt2382009",
       "imdb_id": "tt2382009",
@@ -149807,39 +150171,6 @@
         }
       ]
     },
-    "movie:una vita difficile:tt0055602": {
-      "id": "movie:una vita difficile:tt0055602",
-      "imdb_id": "tt0055602",
-      "category": "movie",
-      "it_title": "una vita difficile",
-      "orig_title": "A Difficult Life",
-      "year": 1961,
-      "cast": "Alberto Sordi, Lea Massari",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTkwYmYzYTctOTJjYy00MjU1LWE3YmQtNTUyNmI4OTA3ZTE4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0055602",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "8gvx0DP1HR8",
-          "video_title": "Patreon: \"Una vita difficile\" (1961) di Dino Risi - Minirece richiesta da Giovanni Valsesia",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "una vita difficile"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "FO24iwhwjx0",
-          "video_title": "CULT: “Una Vita Difficile” (1961) di Dino Risi con Dario Moccia, Frusciante e Victor - parte 2",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Una Vita Difficile"
-        }
-      ],
-      "director": "Dino Risi",
-      "it_flatrate": []
-    },
     "movie:ink:tt37967547": {
       "id": "movie:ink:tt37967547",
       "imdb_id": "tt37967547",
@@ -151402,75 +151733,6 @@
           "source": "netflix",
           "name": "Netflix",
           "link": "https://www.netflix.com/title/80060190"
-        }
-      ]
-    },
-    "movie:il gladiatore:tt0172495": {
-      "id": "movie:il gladiatore:tt0172495",
-      "imdb_id": "tt0172495",
-      "category": "movie",
-      "it_title": "Il Gladiatore",
-      "orig_title": "Gladiator",
-      "year": 2000,
-      "cast": "Russell Crowe, Joaquin Phoenix",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "blue_tv",
-          "name": "blue TV",
-          "link": "https://watchnow.trakt.tv/watchnow/324671089"
-        },
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/324671088"
-        },
-        {
-          "source": "sky",
-          "name": "Sky",
-          "link": "https://watchnow.trakt.tv/watchnow/324671096"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0172495",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "hVy2Tf4R-kc",
-          "video_title": "Le Monografie di Frusciante: Ridley Scott (Dicembre 2018)",
-          "timestamp": "01:00:32",
-          "seconds": 3632
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "nQTbbsgmLpo",
-          "video_title": "CULT: “Il Gladiatore” con Dario Moccia, Frusciante e Victorlaszlo88 - parte 1",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Il Gladiatore"
-        }
-      ],
-      "director": "Ridley Scott",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ddc039e3-a01f-4530-b91e-014a7846926b"
-        },
-        {
-          "source": "skygo",
-          "name": "Sky Go",
-          "link": "https://skygo.sky.it/"
-        },
-        {
-          "source": "nowtv",
-          "name": "Now TV",
-          "link": "https://www.nowtv.it/watch/asset/il-gladiatore/R_564435_HD"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ddc039e3-a01f-4530-b91e-014a7846926b"
         }
       ]
     },
