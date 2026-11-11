@@ -2140,41 +2140,96 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
     text-decoration: none;
   }}
   .card-links a:hover {{ color: var(--text); text-decoration: underline; }}
+  html, body {{
+    overflow-x: hidden;
+    max-width: 100vw;
+  }}
   @media (max-width: 768px) {{
     header {{
       position: relative;
-      padding: max(12px, env(safe-area-inset-top)) 12px 12px;
+      padding: max(12px, env(safe-area-inset-top)) 10px 10px;
+      width: 100%;
+      max-width: 100vw;
+      overflow-x: hidden;
     }}
     main {{
-      padding: 12px 10px max(24px, env(safe-area-inset-bottom));
+      padding: 10px 10px max(24px, env(safe-area-inset-bottom));
+      width: 100%;
+      max-width: 100vw;
+      overflow-x: hidden;
+    }}
+    .top-row, .brand, .filters-bar {{
+      width: 100%;
+      max-width: 100%;
     }}
     .tabs {{
       width: 100%;
-      overflow-x: auto;
-      justify-content: space-between;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 4px;
     }}
     .tab-btn {{
-      padding: 7px 10px;
+      padding: 7px 6px;
       font-size: 12px;
       white-space: nowrap;
-      flex: 1;
       text-align: center;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }}
     input[type="search"] {{
       min-width: 0;
       width: 100%;
-      flex: 1;
+      flex: 1 1 100%;
+    }}
+    #btnRoulette {{
+      width: 100%;
+      justify-content: center;
     }}
     .filter-group {{
       width: 100%;
-      overflow-x: auto;
-      flex-wrap: nowrap;
-      padding: 7px 9px;
-      -webkit-overflow-scrolling: touch;
+      max-width: 100%;
+      overflow-x: hidden;
+      flex-wrap: wrap;
+      padding: 8px;
+      gap: 6px;
     }}
-    .cine-chip, .toggle-btn, .seg-btn, .action-btn, select {{
-      white-space: nowrap;
-      flex-shrink: 0;
+    .filter-group-label {{
+      width: 100%;
+      margin-bottom: 2px;
+    }}
+    .cine-chip {{
+      padding: 6px 8px;
+      font-size: 11.5px;
+      flex: 1 1 calc(33.33% - 6px);
+      text-align: center;
+      justify-content: center;
+    }}
+    .seg-ctrl {{
+      flex: 1 1 auto;
+      display: flex;
+    }}
+    .seg-btn {{
+      flex: 1;
+      text-align: center;
+      padding: 6px 8px;
+      font-size: 11.5px;
+    }}
+    .toggle-btn, .action-btn {{
+      padding: 6px 9px;
+      font-size: 11.5px;
+      flex: 1 1 auto;
+      text-align: center;
+      justify-content: center;
+    }}
+    select {{
+      max-width: 100%;
+      min-width: 0;
+      width: 100%;
+      flex: 1 1 calc(50% - 6px);
+      font-size: 12px;
+      padding: 7px 8px;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }}
     .grid {{
       grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -2254,8 +2309,12 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
         <option value="UNWATCHED">Solo Da Vedere</option>
         <option value="WATCHED">Già Visti su Trakt</option>
       </select>
-      <select id="rubricaFilter" style="display:none"><option value="ALL">Tutte</option></select>
-      <select id="directorFilter" style="display:none"><option value="ALL">Tutti</option></select>
+      <select id="directorFilter">
+        <option value="ALL">🎬 Tutti i Registi</option>
+      </select>
+      <select id="rubricaFilter">
+        <option value="ALL">🎞️ Tutte le Rubriche</option>
+      </select>
       <select id="decadeFilter">
         <option value="ALL">🕰️ Tutte le Epoche</option>
       </select>
@@ -2286,7 +2345,7 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
 const ITEMS = {data_json};
 let activeCategory = 'movie';
 let onlyChStreaming = false;
-let onlyMultiCreator = false;
+let minConsensus = 1; // 1 = Tutti, 2 = 2+ Cinefili, 3 = 3+ Cinefili, 4 = 4+ Olimpo
 let selectedCreators = new Set();
 let creatorMatchMode = 'AND'; // 'AND' = in comune a tutti i selezionati, 'OR' = almeno uno
 let streamCountry = localStorage.getItem('momo_vault_country') || 'CH';
@@ -2329,6 +2388,22 @@ ITEMS.forEach(m => {{
   m.rec_count = recs.length;
   m.creators = Array.from(new Set(recs.map(r => r.creator || 'Federico Frusciante')));
   m.creator_count = m.creators.length;
+  const rSet = new Set();
+  recs.forEach(r => {{
+    const vt = (r.video_title || '').toLowerCase();
+    if (!vt) return;
+    if (vt.includes('meglio e peggio') || vt.includes('meglio e il peggio') || vt.includes('migliori film')) rSet.add("🏆 Meglio dell'Anno");
+    else if (vt.includes('classici')) rSet.add('🏛️ I Classici');
+    else if (vt.includes('imperdibili') || vt.includes('perdibili')) rSet.add('💎 Gli Imperdibili');
+    else if (vt.includes('oriente')) rSet.add('🏮 In Oriente');
+    else if (vt.includes('underground')) rSet.add('🕳️ Underground');
+    else if (vt.includes('monografi') || vt.includes('le recensioni di frusciante -')) rSet.add('🎥 Monografie');
+    else if (vt.includes('saghe')) rSet.add('🎞️ Le Saghe');
+    else if (vt.includes('cult')) rSet.add('🔥 CULT Live');
+    else if (vt.includes('consigli')) rSet.add('👍 I Consigli del Mese');
+    else if (vt.includes('patreon') || vt.includes('minirece')) rSet.add('💌 Patreon Minirece');
+  }});
+  m.rubriche = Array.from(rSet);
   if (typeof m.year === 'number' && m.year >= 1910 && m.year <= 2030) {{
     m.decade = `${{Math.floor(m.year / 10) * 10}}s`;
   }} else {{
@@ -2436,7 +2511,7 @@ Object.entries(rubricheMap).sort((a,b) => b[1] - a[1]).forEach(([r, cnt]) => {{
   rubricaFilter.appendChild(opt);
 }});
 
-Object.entries(directorsMap).sort((a,b) => b[1] - a[1]).slice(0, 80).forEach(([d, cnt]) => {{
+Object.entries(directorsMap).sort((a,b) => b[1] - a[1]).slice(0, 250).forEach(([d, cnt]) => {{
   const opt = document.createElement('option');
   opt.value = d;
   opt.textContent = `🎬 ${{d}} (${{cnt}})`;
@@ -2477,12 +2552,25 @@ function buildInsightsClouds() {{
   document.getElementById('topDecadesCloud').innerHTML = decChips;
 }}
 
+function syncConsensusBtnUI() {{
+  btnMultiCreator.classList.toggle('active', minConsensus >= 2);
+  if (minConsensus === 1) btnMultiCreator.textContent = '🤝 2+ Consenso';
+  else if (minConsensus === 2) btnMultiCreator.textContent = '🤝 2+ Cinefili';
+  else if (minConsensus === 3) btnMultiCreator.textContent = '🔥 3+ Cinefili';
+  else btnMultiCreator.textContent = '👑 4+ Olimpo';
+}}
+window.resetConsensus = function() {{
+  minConsensus = 1;
+  syncConsensusBtnUI();
+  render();
+}};
+
 window.resetAllFilters = function() {{
   searchInput.value = '';
   onlyChStreaming = false;
-  onlyMultiCreator = false;
+  minConsensus = 1;
   btnOnlyCh.classList.remove('active');
-  btnMultiCreator.classList.remove('active');
+  syncConsensusBtnUI();
   selectedCreators.clear();
   creatorFilter.value = 'ALL';
   syncCreatorChipsUI();
@@ -2511,8 +2599,8 @@ function renderActiveFiltersBar() {{
   if (searchInput.value.trim()) {{
     tags.push(`<span class="active-tag" onclick="searchInput.value=''; render();">🔍 "${{searchInput.value.trim()}}" ✕</span>`);
   }}
-  if (onlyMultiCreator) {{
-    tags.push(`<span class="active-tag" onclick="onlyMultiCreator=false; btnMultiCreator.classList.remove('active'); render();">🤝 Consenso 2+ Cinefili ✕</span>`);
+  if (minConsensus >= 2) {{
+    tags.push(`<span class="active-tag" onclick="resetConsensus()">🤝 Consenso ${{minConsensus}}+ Cinefili ✕</span>`);
   }}
   selectedCreators.forEach(c => {{
     tags.push(`<span class="active-tag" onclick="removeCreatorChip('${{c.replace(/'/g, "\\'")}}')">🎙️ ${{c}} ✕</span>`);
@@ -2587,6 +2675,8 @@ document.querySelectorAll('.tab-btn').forEach(btn => {{
     const isVideo = activeCategory === 'movie' || activeCategory === 'show';
     document.getElementById('streamingGroup').style.display = isVideo ? '' : 'none';
     document.getElementById('watchedSeg').style.display = isVideo ? '' : 'none';
+    directorFilter.style.display = isVideo ? '' : 'none';
+    rubricaFilter.style.display = isVideo ? '' : 'none';
     decadeFilter.style.display = isVideo ? '' : 'none';
     buildInsightsClouds();
     render();
@@ -2594,8 +2684,8 @@ document.querySelectorAll('.tab-btn').forEach(btn => {{
 }});
 
 btnMultiCreator.addEventListener('click', () => {{
-  onlyMultiCreator = !onlyMultiCreator;
-  btnMultiCreator.classList.toggle('active', onlyMultiCreator);
+  minConsensus = (minConsensus >= 4) ? 1 : (minConsensus + 1);
+  syncConsensusBtnUI();
   render();
 }});
 btnCountry.addEventListener('click', () => {{
@@ -2631,7 +2721,7 @@ function getFilteredItems() {{
   const catItems = ITEMS.filter(m => (m.category || 'movie') === activeCategory);
   const selArr = Array.from(selectedCreators);
   const filtered = catItems.filter(m => {{
-    if (onlyMultiCreator && (m.creator_count || 1) < 2) return false;
+    if (minConsensus >= 2 && (m.creator_count || 1) < minConsensus) return false;
     if (selArr.length > 0) {{
       const mCrs = m.creators || [];
       if (creatorMatchMode === 'AND') {{
