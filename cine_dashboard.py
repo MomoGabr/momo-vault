@@ -2175,9 +2175,12 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
     display: none;
     position: absolute;
     top: calc(100% + 6px);
-    left: 0;
+    right: 0;
+    left: auto;
     width: 280px;
-    max-width: 90vw;
+    max-width: calc(100vw - 24px);
+    box-sizing: border-box;
+    overflow: hidden;
     background: #14161c;
     border: 1px solid #3a4050;
     border-radius: 10px;
@@ -2193,6 +2196,7 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
   .prov-picker-menu input[type="search"] {{
     width: 100%;
     min-width: 0;
+    box-sizing: border-box;
     padding: 7px 10px;
     font-size: 12.5px;
     border-radius: 7px;
@@ -2202,13 +2206,19 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
   }}
   .prov-picker-list {{
     max-height: 250px;
+    width: 100%;
+    box-sizing: border-box;
     overflow-y: auto;
+    overflow-x: hidden;
     display: flex;
     flex-direction: column;
     gap: 2px;
   }}
   .prov-opt {{
-    padding: 7px 9px;
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+    padding: 7px 10px;
     border-radius: 6px;
     font-size: 12px;
     color: var(--text);
@@ -2216,7 +2226,14 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 8px;
+    gap: 10px;
+  }}
+  .prov-opt > span:first-child {{
+    min-width: 0;
+    flex: 1 1 auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }}
   .prov-opt:hover, .prov-opt.active {{
     background: rgba(245, 197, 24, 0.16);
@@ -2224,6 +2241,8 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
     font-weight: 700;
   }}
   .prov-opt-cnt {{
+    flex: 0 0 auto;
+    white-space: nowrap;
     color: var(--muted);
     font-size: 11px;
     font-weight: 600;
@@ -2283,6 +2302,8 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
       flex: 1 1 100%;
     }}
     .prov-picker-menu {{
+      left: 0;
+      right: 0;
       width: 100%;
       max-width: 100%;
     }}
