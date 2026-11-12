@@ -77,8 +77,22 @@ EBERT_POS_WORDS = (
     "riveting",
     "exquisite",
     "unforgettable",
+    "crowd-pleasing",
+    "more heart",
+    "exalting",
+    "entertainingly",
+    "emotional center",
+    "terrific",
+    "gripping",
+    "captivating",
+    "impressive",
 )
 EBERT_NEG_WORDS = (
+    "forgets to",
+    "fun enough if",
+    "incorporeal",
+    "watered-down",
+    "suffers from",
     "disappointing",
     "tedious",
     "dull",
@@ -91,6 +105,11 @@ EBERT_NEG_WORDS = (
     "lifeless",
     "boring",
     "disaster",
+    "shallow",
+    "hollow",
+    "squanders",
+    "tiresome",
+    "misfire",
 )
 
 
@@ -122,12 +141,19 @@ def sync_latest_rogerebert_feed(db_data, headers, ch_map, daily_log=None):
                 vid = f"ebert_{slug}"
                 if vid in processed_set:
                     continue
+                m_d = re.search(r"<description><!\[CDATA\[(.*?)\]\]></description>", item_xml, re.S)
+                sub_low = (m_d.group(1) if m_d else "").lower()
                 low_xml = item_xml.lower()
-                pos = sum(1 for w in EBERT_POS_WORDS if w in low_xml)
-                neg = sum(1 for w in EBERT_NEG_WORDS if w in low_xml)
-                if not is_great and (pos < 2 or neg >= pos):
-                    processed_set.add(vid)
-                    continue
+                if not is_great:
+                    if any(w in sub_low for w in EBERT_NEG_WORDS):
+                        processed_set.add(vid)
+                        continue
+                    sub_pos = any(w in sub_low for w in EBERT_POS_WORDS)
+                    pos = sum(1 for w in EBERT_POS_WORDS if w in low_xml)
+                    neg = sum(1 for w in EBERT_NEG_WORDS if w in low_xml)
+                    if not sub_pos and (pos < 2 or neg >= pos):
+                        processed_set.add(vid)
+                        continue
                 m_yr = re.search(r"-(202\d)$", slug)
                 yr = int(m_yr.group(1)) if m_yr else 2026
                 badge = "★ Great Movie" if is_great else "★ Consigliato"
@@ -147,20 +173,27 @@ def sync_latest_rogerebert_feed(db_data, headers, ch_map, daily_log=None):
             "external_rec_url": link,
             "mentioned_as": title,
         }
+        is_tv = "-tv-review-" in link
+        cat = "show" if is_tv else "movie"
+        m_slug = "shows" if is_tv else "movies"
         k = mcs.find_matching_movie_key(db_data["items"], title, target_year=yr)
         if k and k in db_data["items"]:
-            db_data["items"][k]["recommendations"].append(rec)
-            tt = db_data["items"][k].get("imdb_id", "")
-            daily_log.append(
-                f"  • [Roger Ebert] {db_data['items'][k].get('it_title')} ({db_data['items'][k].get('year')})\n"
-                f"    🔗 Recensione: {link}\n"
-                f"    🎬 Trakt: https://app.trakt.tv/movies/{tt}"
-            )
+            existing_eb = [r for r in db_data["items"][k].get("recommendations", []) if r.get("creator") == "Roger Ebert"]
+            if existing_eb:
+                existing_eb[0]["external_rec_url"] = link
+            else:
+                db_data["items"][k]["recommendations"].append(rec)
+                tt = db_data["items"][k].get("imdb_id", "")
+                daily_log.append(
+                    f"  • [Roger Ebert] {db_data['items'][k].get('it_title')} ({db_data['items'][k].get('year')})\n"
+                    f"    🔗 Recensione: {link}\n"
+                    f"    🎬 Trakt: https://app.trakt.tv/{m_slug}/{tt}"
+                )
         else:
             enr = cd.enrich_movie(
                 {
                     "raw_title": title,
-                    "category": "movie",
+                    "category": cat,
                     "inferred_year": yr,
                     "max_video_year": 2026,
                     "is_classic": False,
@@ -171,6 +204,9 @@ def sync_latest_rogerebert_feed(db_data, headers, ch_map, daily_log=None):
                 check_ch=True,
             )
             if enr.get("imdb_id"):
+                if is_tv:
+                    enr["category"] = "show"
+                    enr["media_type"] = "show"
                 fid = enr["id"]
                 if fid not in db_data["items"]:
                     enr["recommendations"] = [rec]
@@ -180,7 +216,7 @@ def sync_latest_rogerebert_feed(db_data, headers, ch_map, daily_log=None):
                 daily_log.append(
                     f"  • [Roger Ebert] {enr.get('it_title')} ({enr.get('year')})\n"
                     f"    🔗 Recensione: {link}\n"
-                    f"    🎬 Trakt: https://app.trakt.tv/movies/{enr.get('imdb_id')}"
+                    f"    🎬 Trakt: https://app.trakt.tv/{m_slug}/{enr.get('imdb_id')}"
                 )
 
     db_data["processed_videos"] = list(processed_set)
