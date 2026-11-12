@@ -18527,63 +18527,6 @@
       ],
       "watchnow_checked": true
     },
-    "movie:diva futura:tt31105878": {
-      "id": "movie:diva futura:tt31105878",
-      "imdb_id": "tt31105878",
-      "category": "movie",
-      "it_title": "Diva Futura",
-      "orig_title": "Diva Futura",
-      "year": 2024,
-      "cast": "Pietro Castellitto, Barbara Ronchi",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmE0ZDdkYjAtMDY4Mi00NTRiLThlNDEtNGJlNzRhN2U1NDY1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt31105878",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "9uCGPtZJcSo",
-          "video_title": "\"Diva Futura\" di Giulia Steigerwalt - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Diva Futura"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "SZnROxOPTps",
-          "video_title": "Il rapporto di Schicchi con gli animali in “Diva Futura” #podcast #mrmarra #pietrocastellitto",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Diva Futura"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "ceLaFQHNQt4",
-          "video_title": "Intervista a Pietro Castellitto su “Diva Futura” #podcast #mrmarra #pietrocastellitto",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Diva Futura"
-        },
-        {
-          "creator": "Mr. Marra",
-          "video_id": "u98w_1dDkCk",
-          "video_title": "Intervista a Pietro Castellitto su “Diva Futura” #podcast #mrmarra #pietrocastellitto #divafutura",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Diva Futura"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "J2-xVX3l5s8",
-          "video_title": "Diva Futura: Una riflessione su libertà e bigottismo",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Diva Futura"
-        }
-      ],
-      "director": "Giulia Louise Steigerwalt, Giulia Steigerwalt",
-      "it_flatrate": []
-    },
     "movie:jurassic park:tt0107290": {
       "id": "movie:jurassic park:tt0107290",
       "imdb_id": "tt0107290",
@@ -23190,55 +23133,6 @@
           "link": "https://watchnow.trakt.tv/watchnow/303817704"
         }
       ]
-    },
-    "movie:the dog stars - le stelle dopo la fine:tt21285562": {
-      "id": "movie:the dog stars - le stelle dopo la fine:tt21285562",
-      "imdb_id": "tt21285562",
-      "category": "movie",
-      "it_title": "The Dog Stars - Le stelle dopo la fine",
-      "orig_title": "The Dog Stars",
-      "year": 2026,
-      "cast": "Jacob Elordi, Margaret Qualley",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOThjZGM1Y2QtYTZmOS00NGE3LTk0MjEtMWM2Y2QyM2VkMmE3XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt21285562",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "XicVQnLE8tk",
-          "video_title": "\"The Dog Stars - Le stelle dopo la fine\" di Ridley Scott - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "The Dog Stars - Le stelle dopo la fine"
-        },
-        {
-          "creator": "I Criticoni",
-          "video_id": "_7E6pQp3t1E",
-          "video_title": "Gli ATTORI in “THE DOG STARS”",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "THE DOG STARS"
-        },
-        {
-          "creator": "I Criticoni",
-          "video_id": "j9QOWemKQHA",
-          "video_title": "CRITICONI su “The Dog Stars” di RIDLEY SCOTT | Criticoni Talk #47",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "The Dog Stars"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "6SMJb-mYCyA",
-          "video_title": "MovieBlog- 1103: Recensione The Dog stars",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "The Dog stars"
-        }
-      ],
-      "director": "Ridley Scott",
-      "it_flatrate": []
     },
     "movie:bring her back - torna da me:tt32246771": {
       "id": "movie:bring her back - torna da me:tt32246771",
@@ -36232,54 +36126,6 @@
       "director": "Alain Parroni",
       "it_flatrate": []
     },
-    "movie:the fall guy:tt1684562": {
-      "id": "movie:the fall guy:tt1684562",
-      "imdb_id": "tt1684562",
-      "category": "movie",
-      "it_title": "The Fall Guy",
-      "orig_title": "The Fall Guy",
-      "year": 2024,
-      "cast": "Ryan Gosling, Emily Blunt",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BM2U0MTJiYTItMjNiZS00MzU4LTkxYTAtYTU0ZGY1ODJhMjRhXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt1684562",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "y3AW8Fy6kyk",
-          "video_title": "Patreon: The Fall Guy (2024) di David Leitch - Minirece richiesta da Orion",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "apMCtoIQG6c",
-          "video_title": "Recensione- 970: Recensione The Fall Guy",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "970: Recensione The Fall Guy"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "0iglx-Kxb-Q",
-          "video_title": "\"THE FALL GUY\" È RIUSCITO SOLO IN PARTE",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "THE FALL GUY"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "BPvUlZ3BS7A",
-          "video_title": "LA STUNT EXPERIENCE DI \"THE FALL GUY\"",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "THE FALL GUY"
-        }
-      ],
-      "director": "David Leitch",
-      "it_flatrate": []
-    },
     "movie:look back:tt39094466": {
       "id": "movie:look back:tt39094466",
       "imdb_id": "tt39094466",
@@ -37685,92 +37531,6 @@
         }
       ]
     },
-    "movie:the flash:tt0439572": {
-      "id": "movie:the flash:tt0439572",
-      "imdb_id": "tt0439572",
-      "category": "movie",
-      "it_title": "The Flash",
-      "orig_title": "The Flash",
-      "year": 2023,
-      "director": "Andy Muschietti",
-      "cast": "Ezra Miller, Michael Keaton",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYmE2NzBjNGUtNTJiMy00N2UxLWEyYzMtYzFjODFhMGZlOTgzXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/81251375"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://www.hbomax.com/ch/en/movie/69cf2552-e159-43c7-ad8e-34f7f3393514"
-        }
-      ],
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bb96b290-739b-4c0f-8823-22dfa1052036"
-        },
-        {
-          "source": "amazoninfinity",
-          "name": "Infinity Selection Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bb96b290-739b-4c0f-8823-22dfa1052036"
-        },
-        {
-          "source": "amazonhbomax",
-          "name": "HBO Max Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bb96b290-739b-4c0f-8823-22dfa1052036"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://www.hbomax.com/it/en/movie/69cf2552-e159-43c7-ad8e-34f7f3393514"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bb96b290-739b-4c0f-8823-22dfa1052036"
-        }
-      ],
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "wep-_jqNyRc",
-          "video_title": "THE FLASH: IL FINALE DIVERSO E ALTRE COSE CHE MI HANNO DISTRUTTO",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "THE FLASH"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "xXVw-5ZR7YE",
-          "video_title": "\"THE FLASH\" MI È PIACIUTO MA...",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "THE FLASH"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "E2KVK08FXuI",
-          "video_title": "EZRA MILLER COLPISCE ANCORA: CANCELLERANNO \"THE FLASH\"?",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "THE FLASH"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "e_GLSLcK9Qw",
-          "video_title": "AFFLECK E KEATON: DUE  BATMAN IN \"THE FLASH\"!",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "THE FLASH"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0439572"
-    },
     "movie:ghostbusters legacy:tt4513678": {
       "id": "movie:ghostbusters legacy:tt4513678",
       "imdb_id": "tt4513678",
@@ -38483,54 +38243,6 @@
       "director": "Edgar Wright",
       "it_flatrate": []
     },
-    "movie:odissea:tt33764258": {
-      "id": "movie:odissea:tt33764258",
-      "imdb_id": "tt33764258",
-      "category": "movie",
-      "it_title": "Odissea",
-      "orig_title": "The Odyssey",
-      "year": 2026,
-      "cast": "Matt Damon, Tom Holland",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "sPqvsUMuDMM",
-          "video_title": "\"Odissea\" di Christopher Nolan - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Odissea"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "FsIwXaPZL7A",
-          "video_title": "MovieBlog- 1095: Recensione Odissea",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Odissea"
-        },
-        {
-          "creator": "I Criticoni",
-          "video_id": "N4iuWF74F08",
-          "video_title": "Cine-Deathmatch su “ODISSEA” | Criticoni al Cinema",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "ODISSEA"
-        },
-        {
-          "creator": "I Criticoni",
-          "video_id": "zIDhdV-e4q4",
-          "video_title": "Monografia Christopher Nolan | Criticoni Talk #44",
-          "timestamp": "1:13:57",
-          "seconds": 4437,
-          "mentioned_as": "Odissea"
-        }
-      ],
-      "it_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt33764258"
-    },
     "movie:tenet:tt6723592": {
       "id": "movie:tenet:tt6723592",
       "imdb_id": "tt6723592",
@@ -38783,66 +38495,6 @@
       "director": "Rintaro, Rintarō",
       "it_flatrate": [],
       "watchnow_checked": true
-    },
-    "movie:captain america: brave new world:tt14513804": {
-      "id": "movie:captain america: brave new world:tt14513804",
-      "imdb_id": "tt14513804",
-      "category": "movie",
-      "it_title": "Captain America: Brave New World",
-      "orig_title": "Captain America: Brave New World",
-      "year": 2025,
-      "cast": "Anthony Mackie, Harrison Ford",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDRjY2E0ZmEtN2QwNi00NTEwLWI3MWItODNkMGYwYWFjNGE0XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/324668787"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt14513804",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "9Wb66ABNqkY",
-          "video_title": "Federico Frusciante: Le Saghe - MARVEL CINEMATIC UNIVERSE - FASE CINQUE",
-          "timestamp": "49:01",
-          "seconds": 2941
-        },
-        {
-          "creator": "Francesco Alò",
-          "video_id": "dQ0UD0CMf40",
-          "video_title": "\"Captain America: Brave New World\" di Julius Onah - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Captain America: Brave New World"
-        },
-        {
-          "creator": "I Criticoni",
-          "video_id": "iBw2s0SP2XE",
-          "video_title": "Cine-Deathmatch su “Cap. America - Brave New World” | Criticoni al Cinema",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Cap. America - Brave New World"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "EaV4VYXl4eY",
-          "video_title": "Captain America- Brave New World: Un film che fa il suo",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Captain America- Brave New World"
-        }
-      ],
-      "director": "Julius Onah",
-      "it_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/301221740"
-        }
-      ]
     },
     "movie:hook - capitan uncino:tt0102057": {
       "id": "movie:hook - capitan uncino:tt0102057",
@@ -40265,6 +39917,87 @@
         }
       ],
       "watchnow_checked": true
+    },
+    "movie:the dog stars - le stelle dopo la fine:tt21285562": {
+      "id": "movie:the dog stars - le stelle dopo la fine:tt21285562",
+      "imdb_id": "tt21285562",
+      "category": "movie",
+      "it_title": "The Dog Stars - Le stelle dopo la fine",
+      "orig_title": "The Dog Stars",
+      "year": 2026,
+      "cast": "Jacob Elordi, Margaret Qualley",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOThjZGM1Y2QtYTZmOS00NGE3LTk0MjEtMWM2Y2QyM2VkMmE3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt21285562",
+      "recommendations": [
+        {
+          "creator": "Francesco Alò",
+          "video_id": "XicVQnLE8tk",
+          "video_title": "\"The Dog Stars - Le stelle dopo la fine\" di Ridley Scott - recensione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "The Dog Stars - Le stelle dopo la fine"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "_7E6pQp3t1E",
+          "video_title": "Gli ATTORI in “THE DOG STARS”",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "THE DOG STARS"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "j9QOWemKQHA",
+          "video_title": "CRITICONI su “The Dog Stars” di RIDLEY SCOTT | Criticoni Talk #47",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "The Dog Stars"
+        }
+      ],
+      "director": "Ridley Scott",
+      "it_flatrate": []
+    },
+    "movie:odissea:tt33764258": {
+      "id": "movie:odissea:tt33764258",
+      "imdb_id": "tt33764258",
+      "category": "movie",
+      "it_title": "Odissea",
+      "orig_title": "The Odyssey",
+      "year": 2026,
+      "cast": "Matt Damon, Tom Holland",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Francesco Alò",
+          "video_id": "sPqvsUMuDMM",
+          "video_title": "\"Odissea\" di Christopher Nolan - recensione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Odissea"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "N4iuWF74F08",
+          "video_title": "Cine-Deathmatch su “ODISSEA” | Criticoni al Cinema",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ODISSEA"
+        },
+        {
+          "creator": "I Criticoni",
+          "video_id": "zIDhdV-e4q4",
+          "video_title": "Monografia Christopher Nolan | Criticoni Talk #44",
+          "timestamp": "1:13:57",
+          "seconds": 4437,
+          "mentioned_as": "Odissea"
+        }
+      ],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt33764258"
     },
     "movie:il vendicatore tossico:tt0090190": {
       "id": "movie:il vendicatore tossico:tt0090190",
@@ -45520,58 +45253,6 @@
         }
       ]
     },
-    "movie:planet of the apes - il pianeta delle scimmie:tt0133152": {
-      "id": "movie:planet of the apes - il pianeta delle scimmie:tt0133152",
-      "imdb_id": "tt0133152",
-      "category": "movie",
-      "it_title": "Planet of the Apes - Il pianeta delle scimmie",
-      "orig_title": "Planet of the Apes",
-      "year": 2001,
-      "cast": "Mark Wahlberg, Helena Bonham Carter",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjczODRhOTQtZjdkYi00MmM2LTg1ZmEtZDQ3YjA5MDJhODNhXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/326484742"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0133152",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "7r-Nxb2lDCk",
-          "video_title": "Le Recensioni di Frusciante - Burton",
-          "timestamp": "1:05:41",
-          "seconds": 3941,
-          "mentioned_as": "Planet of the Apes - Il pianeta delle scimmie"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "sgPqgIU0NY0",
-          "video_title": "Federico Frusciante: Le Saghe - Il pianeta delle scimmie (Tutti i film della serie) - Agosto 2023",
-          "timestamp": "40:51",
-          "seconds": 2451,
-          "mentioned_as": "Planet of the Apes - Il pianeta delle scimmie"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "VOZDoPavkk8",
-          "video_title": "Patreon: Planet of the Apes-Il Pianeta delle Scimmie (2001) di Tim Burton Mini richiesta da Camilla",
-          "timestamp": "00:00",
-          "seconds": 0
-        }
-      ],
-      "director": "Tim Burton",
-      "it_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/301275765"
-        }
-      ]
-    },
     "movie:un uomo tranquillo:tt0045061": {
       "id": "movie:un uomo tranquillo:tt0045061",
       "imdb_id": "tt0045061",
@@ -47098,58 +46779,6 @@
         }
       ]
     },
-    "movie:thor - ragnarok:tt3501632": {
-      "id": "movie:thor - ragnarok:tt3501632",
-      "imdb_id": "tt3501632",
-      "category": "movie",
-      "it_title": "Thor - Ragnarok",
-      "orig_title": "Thor: Ragnarok",
-      "year": 2017,
-      "cast": "Chris Hemsworth, Tom Hiddleston",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/326987610"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt3501632",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "u2_uJAMX4lk",
-          "video_title": "Federico Frusciante: Le Saghe - MARVEL CINEMATIC UNIVERSE - FASE TRE",
-          "timestamp": "33:45",
-          "seconds": 2025
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "sleV-N9I3ZQ",
-          "video_title": "Superflash: Recensione Thor: Ragnarok",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Thor: Ragnarok"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "bsotZyOGP0g",
-          "video_title": "MovieBlog- 557: Recensione Thor: Ragnarok (SENZA SPOILER)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Thor: Ragnarok"
-        }
-      ],
-      "director": "Taika Waititi",
-      "it_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/301767831"
-        }
-      ]
-    },
     "movie:the devil's candy:tt4935372": {
       "id": "movie:the devil's candy:tt4935372",
       "imdb_id": "tt4935372",
@@ -47722,69 +47351,6 @@
       ],
       "it_flatrate": []
     },
-    "movie:shining:tt0081505": {
-      "id": "movie:shining:tt0081505",
-      "imdb_id": "tt0081505",
-      "category": "movie",
-      "it_title": "Shining",
-      "orig_title": "The Shining",
-      "year": 1980,
-      "cast": "Jack Nicholson, Shelley Duvall",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/326697739"
-        },
-        {
-          "source": "hbo_max",
-          "name": "HBO Max",
-          "link": "https://watchnow.trakt.tv/watchnow/326697738"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0081505",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "Uiw8u-Fpfbg",
-          "video_title": "Frusciante al Cinema : Somnia  (Maggio 2016)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Shining"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "gXGAZRVa_-I",
-          "video_title": "MovieBlog- 559: Recensione Shining ",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Shining"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "ZeufH_P2FUI",
-          "video_title": "MovieBlog- 45: Recensione Shining",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Shining"
-        }
-      ],
-      "director": "Stanley Kubrick",
-      "it_flatrate": [
-        {
-          "source": "now_tv",
-          "name": "Now TV",
-          "link": "https://watchnow.trakt.tv/watchnow/301092791"
-        },
-        {
-          "source": "sky_go",
-          "name": "Sky Go",
-          "link": "https://watchnow.trakt.tv/watchnow/301092794"
-        }
-      ]
-    },
     "movie:le ali della libertà:tt0111161": {
       "id": "movie:le ali della libertà:tt0111161",
       "imdb_id": "tt0111161",
@@ -47895,68 +47461,6 @@
           "source": "far_east_amazon_channel",
           "name": "Far East (on Amazon)",
           "link": "https://watchnow.trakt.tv/watchnow/304053373"
-        }
-      ]
-    },
-    "movie:iron man 3:tt1300854": {
-      "id": "movie:iron man 3:tt1300854",
-      "imdb_id": "tt1300854",
-      "category": "movie",
-      "it_title": "IRON MAN 3",
-      "orig_title": "Iron Man 3",
-      "year": 2013,
-      "cast": "Robert Downey Jr., Guy Pearce",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjIzMzAzMjQyM15BMl5BanBnXkFtZTcwNzM2NjcyOQ@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "blue_tv",
-          "name": "blue TV",
-          "link": "https://watchnow.trakt.tv/watchnow/326976291"
-        },
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/326976290"
-        },
-        {
-          "source": "sky",
-          "name": "Sky",
-          "link": "https://watchnow.trakt.tv/watchnow/326976295"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1300854",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "DQVZGahhEmg",
-          "video_title": "Patreon: \"Iron man 3\" (USA 2013) di Shane Black - Minirece richiesta da Francesco Ciocia",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "IRON MAN 3"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "cGYQXDB6YYc",
-          "video_title": "Federico Frusciante: Le Saghe - MARVEL CINEMATIC UNIVERSE - FASE DUE",
-          "timestamp": "00:49",
-          "seconds": 49
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "Pz-35vOt9NM",
-          "video_title": "MovieBlog- 264: Recensione dal Vivo Iron Man 3",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "dal Vivo Iron Man 3"
-        }
-      ],
-      "director": "Shane Black",
-      "it_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/301527253"
         }
       ]
     },
@@ -71505,63 +71009,6 @@
       "external_url": "https://app.trakt.tv/movies/tt0080923",
       "watchnow_checked": true
     },
-    "movie:halloween - the beginning:tt0373883": {
-      "id": "movie:halloween - the beginning:tt0373883",
-      "imdb_id": "tt0373883",
-      "category": "movie",
-      "it_title": "Halloween - The Beginning",
-      "orig_title": "Halloween",
-      "year": 2007,
-      "cast": "Scout Taylor-Compton, Malcolm McDowell",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMzOTg4MzcxNF5BMl5BanBnXkFtZTcwMzY5MDE1MQ@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0373883",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "HUPs9bIRtF4",
-          "video_title": "MovieBlog- 130: Recensione Halloween The Beginning",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Halloween The Beginning"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "JuR7BSzGEqI",
-          "video_title": "Le recensioni di Frusciante - Zombie",
-          "timestamp": "43:38",
-          "seconds": 2618,
-          "mentioned_as": "Halloween - The Beginning"
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "oQZRXczQZTw",
-          "video_title": "Federico Frusciante: Le Saghe - HALLOWEEN (Tutti i film della serie)",
-          "timestamp": "41:37",
-          "seconds": 2497,
-          "mentioned_as": "Halloween - The Beginning"
-        }
-      ],
-      "director": "Rob Zombie",
-      "it_flatrate": [
-        {
-          "source": "wuaki",
-          "name": "Rakuten TV",
-          "link": "https://www.rakuten.tv/it/movies/halloween-the-beginning"
-        },
-        {
-          "source": "plex",
-          "name": "Plex",
-          "link": "https://watch.plex.tv/movie/halloween-2007?autoplay=1&utm_content=5d77682aa091de001f2e69b0&utm_medium=deeplink&utm_source=justWatch-v2-catalog"
-        },
-        {
-          "source": "amazonlionsgateplus",
-          "name": "Lionsgate+ Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e7458a32-e737-4724-9106-cea22b26f6ed"
-        }
-      ]
-    },
     "movie:two sisters:tt0365376": {
       "id": "movie:two sisters:tt0365376",
       "imdb_id": "tt0365376",
@@ -74590,157 +74037,6 @@
         }
       ]
     },
-    "movie:citizen vigilante:tt35309713": {
-      "id": "movie:citizen vigilante:tt35309713",
-      "imdb_id": "tt35309713",
-      "category": "movie",
-      "it_title": "Citizen Vigilante",
-      "orig_title": "Citizen Vigilante",
-      "year": 2026,
-      "cast": "Armie Hammer, Costas Mandylor",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2FjZjE2YmUtNjE2NS00ZjcyLWEwMzUtZGYwNzI0ZWQxODVlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt35309713",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "ItYI9yJj4ag",
-          "video_title": "\"Citizen Vigilante\" di Uwe Boll - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Citizen Vigilante"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "C_a866ozdJ0",
-          "video_title": "MovieBlog- 1092: Recensione Citizen Vigilante",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Citizen Vigilante"
-        },
-        {
-          "creator": "I Criticoni",
-          "video_id": "nSeAqfaqmYI",
-          "video_title": "CRITICONI su “CITIZEN VIGILANTE” | Criticoni Talk #42",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "CITIZEN VIGILANTE"
-        }
-      ],
-      "director": "Uwe Boll",
-      "it_flatrate": []
-    },
-    "movie:i fantastici quattro - gli inizi:tt10676052": {
-      "id": "movie:i fantastici quattro - gli inizi:tt10676052",
-      "imdb_id": "tt10676052",
-      "category": "movie",
-      "it_title": "I Fantastici Quattro - Gli inizi",
-      "orig_title": "The Fantastic Four: First Steps",
-      "year": 2025,
-      "cast": "Pedro Pascal, Vanessa Kirby",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-2142a7a9-4c49-438d-a492-296c4e08b714"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt10676052",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "f0ftFhMKcvk",
-          "video_title": "\"I Fantastici Quattro - Gli inizi\" di Matt Shakman- recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "I Fantastici Quattro - Gli inizi"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "R-pb2jPgXPM",
-          "video_title": "MovieBlog- 1017: Recensione I Fantastici 4- Gli inizi",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "I Fantastici 4"
-        },
-        {
-          "creator": "Francesco Alò",
-          "video_id": "ixQGjXySjAU",
-          "video_title": "\"I Fantastici Quattro - Gli inizi\" di Matt Shakman - recensione SPOILER",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "I Fantastici Quattro - Gli inizi"
-        }
-      ],
-      "director": "Matt Shakman",
-      "it_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-2142a7a9-4c49-438d-a492-296c4e08b714"
-        }
-      ]
-    },
-    "movie:barbie:tt1517268": {
-      "id": "movie:barbie:tt1517268",
-      "imdb_id": "tt1517268",
-      "category": "movie",
-      "it_title": "Barbie",
-      "orig_title": "Barbie",
-      "year": 2023,
-      "cast": "Margot Robbie, Ryan Gosling",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjI3NDU0ZGYtYjA2YS00Y2RlLTgwZDAtYTE2YTM5ZjE1M2JlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/80157969"
-        },
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.17f2bd91-afd8-4ae8-8dbc-9c49066e771c"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://www.hbomax.com/ch/en/movie/5f1abeb8-a3df-4685-a766-f38488da1657"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1517268",
-      "recommendations": [
-        {
-          "creator": "Mr. Marra",
-          "video_id": "bRdQfEYcCe4",
-          "video_title": "Ho Visto “BARBIE”…",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "BARBIE"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "tdJNpN-17CE",
-          "video_title": "MovieBlog- 919: Recensione Barbie",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Barbie"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "sKNA3txAW4k",
-          "video_title": "BARBIE: UN TRAILER STUPIDO CHE NASCONDE ALTRO? - REACTION E ANALISI",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "BARBIE"
-        }
-      ],
-      "director": "Greta Gerwig",
-      "it_flatrate": []
-    },
     "movie:shazam!:tt0448115": {
       "id": "movie:shazam!:tt0448115",
       "imdb_id": "tt0448115",
@@ -75413,53 +74709,6 @@
       "it_flatrate": [],
       "watchnow_checked": true
     },
-    "movie:michael:tt11378946": {
-      "id": "movie:michael:tt11378946",
-      "imdb_id": "tt11378946",
-      "category": "movie",
-      "it_title": "Michael",
-      "orig_title": "Michael",
-      "year": 2026,
-      "cast": "Jaafar Jackson, Nia Long",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "skysvod",
-          "name": "Sky",
-          "link": "https://show.sky.ch/en/title/128386"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt11378946",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "B3Op4MNlhKo",
-          "video_title": "MovieBlog- 1079: Recensione Michael",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Michael"
-        },
-        {
-          "creator": "Francesco Alò",
-          "video_id": "de5SeFc1kDM",
-          "video_title": "\"Michael\" di Antoine Fuqua - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Michael"
-        },
-        {
-          "creator": "I Criticoni",
-          "video_id": "e1olqR3dnSs",
-          "video_title": "MICHAEL: cosa NON VA  #criticoni",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "MICHAEL"
-        }
-      ],
-      "director": "Antoine Fuqua",
-      "it_flatrate": []
-    },
     "movie:bucking fastard:tt35670577": {
       "id": "movie:bucking fastard:tt35670577",
       "imdb_id": "tt35670577",
@@ -75920,58 +75169,6 @@
       "director": "Robert Zemeckis",
       "it_flatrate": []
     },
-    "movie:ant-man and the wasp:tt5095030": {
-      "id": "movie:ant-man and the wasp:tt5095030",
-      "imdb_id": "tt5095030",
-      "category": "movie",
-      "it_title": "Ant-Man and the Wasp",
-      "orig_title": "Ant-Man and the Wasp",
-      "year": 2018,
-      "cast": "Paul Rudd, Evangeline Lilly",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BODVkY2ZmZTAtYzFhMi00YzZlLWE2YWMtMDBiYjY2OTU4ZWM0XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-3533ca7b-e187-4bf5-a65c-7c903cd2d4ad"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt5095030",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "u2_uJAMX4lk",
-          "video_title": "Federico Frusciante: Le Saghe - MARVEL CINEMATIC UNIVERSE - FASE TRE",
-          "timestamp": "01:07:00",
-          "seconds": 4020
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "2xTtvRjnMhE",
-          "video_title": "Superflash- Recensione Ant Man and the Wasp",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Ant Man and the Wasp"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "4mX8AaYgNB0",
-          "video_title": "MovieBlog- 613: Recensione Ant-Man and the Wasp",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Ant-Man and the Wasp"
-        }
-      ],
-      "director": "Peyton Reed",
-      "it_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-3533ca7b-e187-4bf5-a65c-7c903cd2d4ad"
-        }
-      ]
-    },
     "movie:bumblebee:tt4701182": {
       "id": "movie:bumblebee:tt4701182",
       "imdb_id": "tt4701182",
@@ -76239,59 +75436,6 @@
         }
       ],
       "watchnow_checked": true
-    },
-    "movie:buen camino:tt38350059": {
-      "id": "movie:buen camino:tt38350059",
-      "imdb_id": "tt38350059",
-      "category": "movie",
-      "it_title": "Buen Camino",
-      "orig_title": "Buen Camino",
-      "year": 2025,
-      "cast": "Checco Zalone, Beatriz Arjona",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGFhZTM0MTItNDY4YS00ZTdlLTk4MmItYjJlYmU1OTg2ZGZjXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/82083303"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt38350059",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "6hxuNWqrBBA",
-          "video_title": "\"Buen Camino\" di Gennaro Nunziante - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Buen Camino"
-        },
-        {
-          "creator": "I Criticoni",
-          "video_id": "BCyorDZGz0k",
-          "video_title": "CRITICONI su CHECCO ZALONE “Buen camino” | Criticoni Talk #32",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Buen camino"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "NNxakO-MtIU",
-          "video_title": "MovieBlog- 1055: Recensione Buen Camino",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Buen Camino"
-        }
-      ],
-      "director": "Gennaro Nunziante",
-      "it_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/82083303"
-        }
-      ]
     },
     "movie:eternals:tt9032400": {
       "id": "movie:eternals:tt9032400",
@@ -77498,73 +76642,6 @@
       "it_flatrate": [],
       "watchnow_checked": true
     },
-    "movie:it: welcome to derry:tt7349950": {
-      "id": "movie:it: welcome to derry:tt7349950",
-      "imdb_id": "tt7349950",
-      "category": "movie",
-      "it_title": "It: Welcome to Derry",
-      "orig_title": "It: Chapter Two",
-      "year": 2019,
-      "cast": "Jessica Chastain, James McAvoy",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzUxM2VhOGItZTY2My00OTA4LWI4NjUtMDA5YWJjM2M2NDJjXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/81081050"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://www.hbomax.com/ch/en/movie/f074dc8a-09b6-47be-b3fa-480c72af3060"
-        }
-      ],
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "1B4ojA7XrQI",
-          "video_title": "Patreon: It: Welcome to Derry (2026) di Andy Muschietti - Minirece richiesta da Temistocle",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "sj9pmEoFFXU",
-          "video_title": "MovieBlog- 695: Recensione IT- Capitolo Due",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "IT- Capitolo Due"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "oke9HAAWOcs",
-          "video_title": "It- Welcome to Derry: Una serie horror clamorosa",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "It- Welcome to Derry"
-        }
-      ],
-      "director": "Andy Muschietti",
-      "it_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/81081050"
-        },
-        {
-          "source": "amazonhbomax",
-          "name": "HBO Max Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23841b88-b1cc-4bdf-894e-41325647d09f"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://www.hbomax.com/it/en/movie/f074dc8a-09b6-47be-b3fa-480c72af3060"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt7349950"
-    },
     "movie:lee cronin - la mummia:tt32612507": {
       "id": "movie:lee cronin - la mummia:tt32612507",
       "imdb_id": "tt32612507",
@@ -77808,64 +76885,6 @@
       ],
       "director": "J. A. Bayona, Juan Antonio Bayona",
       "it_flatrate": []
-    },
-    "show:the boys:tt1190634": {
-      "id": "show:the boys:tt1190634",
-      "imdb_id": "tt1190634",
-      "category": "show",
-      "it_title": "THE BOYS",
-      "orig_title": "The Boys",
-      "year": 2019,
-      "cast": "Karl Urban, Jack Quaid",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjU4OWNiYzQtMzc1NS00NjZlLTgyYTctZWY4ZmEzMTkxYjA4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "show",
-      "ch_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9ab600aa-6625-b547-cfc0-190e3ad8a27d"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/shows/tt1190634",
-      "recommendations": [
-        {
-          "creator": "Mr. Marra",
-          "video_id": "pybibtGatUk",
-          "video_title": "Ho visto “THE BOYS” - 1’ Stagione RECENSIONE",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "THE BOYS"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "LGucLy4sp7c",
-          "video_title": "The Boys: previsioni (spaventate) sul finale",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "The Boys"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "8j2Cy-JaUfk",
-          "video_title": "LE PRIME PUNTATE DI \"THE BOYS\" 4 SPACCANO!",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "THE BOYS"
-        }
-      ],
-      "director": "Eric Kripke",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9ab600aa-6625-b547-cfc0-190e3ad8a27d"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9ab600aa-6625-b547-cfc0-190e3ad8a27d"
-        }
-      ]
     },
     "movie:stalker:tt0079944": {
       "id": "movie:stalker:tt0079944",
@@ -78528,6 +77547,427 @@
       ],
       "external_url": "https://app.trakt.tv/movies/tt0119396",
       "watchnow_checked": true
+    },
+    "movie:diva futura:tt31105878": {
+      "id": "movie:diva futura:tt31105878",
+      "imdb_id": "tt31105878",
+      "category": "movie",
+      "it_title": "Diva Futura",
+      "orig_title": "Diva Futura",
+      "year": 2024,
+      "cast": "Pietro Castellitto, Barbara Ronchi",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmE0ZDdkYjAtMDY4Mi00NTRiLThlNDEtNGJlNzRhN2U1NDY1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt31105878",
+      "recommendations": [
+        {
+          "creator": "Francesco Alò",
+          "video_id": "9uCGPtZJcSo",
+          "video_title": "\"Diva Futura\" di Giulia Steigerwalt - recensione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Diva Futura"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "J2-xVX3l5s8",
+          "video_title": "Diva Futura: Una riflessione su libertà e bigottismo",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Diva Futura"
+        }
+      ],
+      "director": "Giulia Louise Steigerwalt, Giulia Steigerwalt",
+      "it_flatrate": []
+    },
+    "movie:the fall guy:tt1684562": {
+      "id": "movie:the fall guy:tt1684562",
+      "imdb_id": "tt1684562",
+      "category": "movie",
+      "it_title": "The Fall Guy",
+      "orig_title": "The Fall Guy",
+      "year": 2024,
+      "cast": "Ryan Gosling, Emily Blunt",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BM2U0MTJiYTItMjNiZS00MzU4LTkxYTAtYTU0ZGY1ODJhMjRhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt1684562",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "y3AW8Fy6kyk",
+          "video_title": "Patreon: The Fall Guy (2024) di David Leitch - Minirece richiesta da Orion",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "BPvUlZ3BS7A",
+          "video_title": "LA STUNT EXPERIENCE DI \"THE FALL GUY\"",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "THE FALL GUY"
+        }
+      ],
+      "director": "David Leitch",
+      "it_flatrate": []
+    },
+    "movie:thor - ragnarok:tt3501632": {
+      "id": "movie:thor - ragnarok:tt3501632",
+      "imdb_id": "tt3501632",
+      "category": "movie",
+      "it_title": "Thor - Ragnarok",
+      "orig_title": "Thor: Ragnarok",
+      "year": 2017,
+      "cast": "Chris Hemsworth, Tom Hiddleston",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/326987610"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt3501632",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "u2_uJAMX4lk",
+          "video_title": "Federico Frusciante: Le Saghe - MARVEL CINEMATIC UNIVERSE - FASE TRE",
+          "timestamp": "33:45",
+          "seconds": 2025
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "bsotZyOGP0g",
+          "video_title": "MovieBlog- 557: Recensione Thor: Ragnarok (SENZA SPOILER)",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Thor: Ragnarok"
+        }
+      ],
+      "director": "Taika Waititi",
+      "it_flatrate": [
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/301767831"
+        }
+      ]
+    },
+    "movie:shining:tt0081505": {
+      "id": "movie:shining:tt0081505",
+      "imdb_id": "tt0081505",
+      "category": "movie",
+      "it_title": "Shining",
+      "orig_title": "The Shining",
+      "year": 1980,
+      "cast": "Jack Nicholson, Shelley Duvall",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/326697739"
+        },
+        {
+          "source": "hbo_max",
+          "name": "HBO Max",
+          "link": "https://watchnow.trakt.tv/watchnow/326697738"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0081505",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "gXGAZRVa_-I",
+          "video_title": "MovieBlog- 559: Recensione Shining ",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Shining"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "ZeufH_P2FUI",
+          "video_title": "MovieBlog- 45: Recensione Shining",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Shining"
+        }
+      ],
+      "director": "Stanley Kubrick",
+      "it_flatrate": [
+        {
+          "source": "now_tv",
+          "name": "Now TV",
+          "link": "https://watchnow.trakt.tv/watchnow/301092791"
+        },
+        {
+          "source": "sky_go",
+          "name": "Sky Go",
+          "link": "https://watchnow.trakt.tv/watchnow/301092794"
+        }
+      ]
+    },
+    "movie:iron man 3:tt1300854": {
+      "id": "movie:iron man 3:tt1300854",
+      "imdb_id": "tt1300854",
+      "category": "movie",
+      "it_title": "IRON MAN 3",
+      "orig_title": "Iron Man 3",
+      "year": 2013,
+      "cast": "Robert Downey Jr., Guy Pearce",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjIzMzAzMjQyM15BMl5BanBnXkFtZTcwNzM2NjcyOQ@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "blue_tv",
+          "name": "blue TV",
+          "link": "https://watchnow.trakt.tv/watchnow/326976291"
+        },
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/326976290"
+        },
+        {
+          "source": "sky",
+          "name": "Sky",
+          "link": "https://watchnow.trakt.tv/watchnow/326976295"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1300854",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "cGYQXDB6YYc",
+          "video_title": "Federico Frusciante: Le Saghe - MARVEL CINEMATIC UNIVERSE - FASE DUE",
+          "timestamp": "00:49",
+          "seconds": 49
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "Pz-35vOt9NM",
+          "video_title": "MovieBlog- 264: Recensione dal Vivo Iron Man 3",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "dal Vivo Iron Man 3"
+        }
+      ],
+      "director": "Shane Black",
+      "it_flatrate": [
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/301527253"
+        }
+      ]
+    },
+    "movie:i fantastici quattro - gli inizi:tt10676052": {
+      "id": "movie:i fantastici quattro - gli inizi:tt10676052",
+      "imdb_id": "tt10676052",
+      "category": "movie",
+      "it_title": "I Fantastici Quattro - Gli inizi",
+      "orig_title": "The Fantastic Four: First Steps",
+      "year": 2025,
+      "cast": "Pedro Pascal, Vanessa Kirby",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "disneyplus",
+          "name": "Disney Plus",
+          "link": "https://www.disneyplus.com/browse/entity-2142a7a9-4c49-438d-a492-296c4e08b714"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt10676052",
+      "recommendations": [
+        {
+          "creator": "Francesco Alò",
+          "video_id": "f0ftFhMKcvk",
+          "video_title": "\"I Fantastici Quattro - Gli inizi\" di Matt Shakman- recensione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "I Fantastici Quattro - Gli inizi"
+        },
+        {
+          "creator": "Francesco Alò",
+          "video_id": "ixQGjXySjAU",
+          "video_title": "\"I Fantastici Quattro - Gli inizi\" di Matt Shakman - recensione SPOILER",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "I Fantastici Quattro - Gli inizi"
+        }
+      ],
+      "director": "Matt Shakman",
+      "it_flatrate": [
+        {
+          "source": "disneyplus",
+          "name": "Disney Plus",
+          "link": "https://www.disneyplus.com/browse/entity-2142a7a9-4c49-438d-a492-296c4e08b714"
+        }
+      ]
+    },
+    "movie:barbie:tt1517268": {
+      "id": "movie:barbie:tt1517268",
+      "imdb_id": "tt1517268",
+      "category": "movie",
+      "it_title": "Barbie",
+      "orig_title": "Barbie",
+      "year": 2023,
+      "cast": "Margot Robbie, Ryan Gosling",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjI3NDU0ZGYtYjA2YS00Y2RlLTgwZDAtYTE2YTM5ZjE1M2JlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://www.netflix.com/title/80157969"
+        },
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.17f2bd91-afd8-4ae8-8dbc-9c49066e771c"
+        },
+        {
+          "source": "max",
+          "name": "HBO Max",
+          "link": "https://www.hbomax.com/ch/en/movie/5f1abeb8-a3df-4685-a766-f38488da1657"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1517268",
+      "recommendations": [
+        {
+          "creator": "Mr. Marra",
+          "video_id": "bRdQfEYcCe4",
+          "video_title": "Ho Visto “BARBIE”…",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "BARBIE"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "tdJNpN-17CE",
+          "video_title": "MovieBlog- 919: Recensione Barbie",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Barbie"
+        }
+      ],
+      "director": "Greta Gerwig",
+      "it_flatrate": []
+    },
+    "movie:it: welcome to derry:tt7349950": {
+      "id": "movie:it: welcome to derry:tt7349950",
+      "imdb_id": "tt7349950",
+      "category": "movie",
+      "it_title": "It: Welcome to Derry",
+      "orig_title": "It: Chapter Two",
+      "year": 2019,
+      "cast": "Jessica Chastain, James McAvoy",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzUxM2VhOGItZTY2My00OTA4LWI4NjUtMDA5YWJjM2M2NDJjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://www.netflix.com/title/81081050"
+        },
+        {
+          "source": "max",
+          "name": "HBO Max",
+          "link": "https://www.hbomax.com/ch/en/movie/f074dc8a-09b6-47be-b3fa-480c72af3060"
+        }
+      ],
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "1B4ojA7XrQI",
+          "video_title": "Patreon: It: Welcome to Derry (2026) di Andy Muschietti - Minirece richiesta da Temistocle",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "oke9HAAWOcs",
+          "video_title": "It- Welcome to Derry: Una serie horror clamorosa",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "It- Welcome to Derry"
+        }
+      ],
+      "director": "Andy Muschietti",
+      "it_flatrate": [
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://www.netflix.com/title/81081050"
+        },
+        {
+          "source": "amazonhbomax",
+          "name": "HBO Max Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23841b88-b1cc-4bdf-894e-41325647d09f"
+        },
+        {
+          "source": "max",
+          "name": "HBO Max",
+          "link": "https://www.hbomax.com/it/en/movie/f074dc8a-09b6-47be-b3fa-480c72af3060"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt7349950"
+    },
+    "show:the boys:tt1190634": {
+      "id": "show:the boys:tt1190634",
+      "imdb_id": "tt1190634",
+      "category": "show",
+      "it_title": "THE BOYS",
+      "orig_title": "The Boys",
+      "year": 2019,
+      "cast": "Karl Urban, Jack Quaid",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjU4OWNiYzQtMzc1NS00NjZlLTgyYTctZWY4ZmEzMTkxYjA4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "show",
+      "ch_flatrate": [
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9ab600aa-6625-b547-cfc0-190e3ad8a27d"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/shows/tt1190634",
+      "recommendations": [
+        {
+          "creator": "Mr. Marra",
+          "video_id": "pybibtGatUk",
+          "video_title": "Ho visto “THE BOYS” - 1’ Stagione RECENSIONE",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "THE BOYS"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "8j2Cy-JaUfk",
+          "video_title": "LE PRIME PUNTATE DI \"THE BOYS\" 4 SPACCANO!",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "THE BOYS"
+        }
+      ],
+      "director": "Eric Kripke",
+      "it_flatrate": [
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9ab600aa-6625-b547-cfc0-190e3ad8a27d"
+        },
+        {
+          "source": "amazonprimevideowithads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9ab600aa-6625-b547-cfc0-190e3ad8a27d"
+        }
+      ]
     },
     "movie:il buio nella mente:tt0112769": {
       "id": "movie:il buio nella mente:tt0112769",
@@ -79211,51 +78651,6 @@
         }
       ]
     },
-    "movie:i pirati dei caraibi : la vendetta di salazar:tt1790809": {
-      "id": "movie:i pirati dei caraibi : la vendetta di salazar:tt1790809",
-      "imdb_id": "tt1790809",
-      "category": "movie",
-      "it_title": "I pirati dei Caraibi : La vendetta di Salazar",
-      "orig_title": "Pirates of the Caribbean: Dead Men Tell No Tales",
-      "year": 2017,
-      "cast": "Johnny Depp, Geoffrey Rush",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/326934949"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1790809",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "7SKECpeVhec",
-          "video_title": "FlashVic- 59: Recensione Pirati dei Caraibi- La Vendetta di Salazar",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Pirati dei Caraibi- La Vendetta di Salazar"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "XstMjUp-qZE",
-          "video_title": "MovieBlog- 536: Recensione Pirati dei Caraibi- La Vendetta di Salazar (SENZA SPOILER)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Pirati dei Caraibi- La Vendetta di Salazar"
-        }
-      ],
-      "director": "Joachim Rønning, Espen Sandberg",
-      "it_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/301479592"
-        }
-      ]
-    },
     "movie:aladdin:tt0103639": {
       "id": "movie:aladdin:tt0103639",
       "imdb_id": "tt0103639",
@@ -79481,45 +78876,6 @@
       "it_flatrate": [],
       "watchnow_checked": true
     },
-    "movie:follemente:tt34621892": {
-      "id": "movie:follemente:tt34621892",
-      "imdb_id": "tt34621892",
-      "category": "movie",
-      "it_title": "Follemente",
-      "orig_title": "Madly",
-      "year": 2025,
-      "cast": "Edoardo Leo, Pilar Fogliati",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTQ5ZjViMGEtMzE4YS00MWQ0LWE3Y2UtZDc0ZThkNTBmYzBkXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt34621892",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "IQMk96hZAlU",
-          "video_title": "\"Follemente\" di Paolo Genovese - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Follemente"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "X9vLe_i6Sng",
-          "video_title": "Follemente: un film gradevole e senza pretese",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Follemente"
-        }
-      ],
-      "director": "Paolo Genovese",
-      "it_flatrate": [
-        {
-          "source": "raiplay",
-          "name": "Rai Play",
-          "link": "https://www.raiplay.it/programmi/follemente"
-        }
-      ]
-    },
     "movie:smile:tt15474916": {
       "id": "movie:smile:tt15474916",
       "imdb_id": "tt15474916",
@@ -79564,55 +78920,6 @@
       ],
       "director": "Parker Finn",
       "it_flatrate": []
-    },
-    "movie:io sono la fine del mondo:tt33306253": {
-      "id": "movie:io sono la fine del mondo:tt33306253",
-      "imdb_id": "tt33306253",
-      "category": "movie",
-      "it_title": "Io sono la fine del mondo",
-      "orig_title": "I Am the End of the World",
-      "year": 2025,
-      "cast": "Angelo Duro, Giorgio Colangeli",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BM2VkYTQ5NmItNzU1Yy00N2Q4LThhN2YtYmNkMzQzNDQyMDA2XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt33306253",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "yc5uzk417I8",
-          "video_title": "\"Io sono la fine del mondo\" di Gennaro Nunziante - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Io sono la fine del mondo"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "Y0kzO-6FjSU",
-          "video_title": "Io Sono la Fine del Mondo: Film tremendo che sfrutta il malcontento",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Io Sono la Fine del Mondo"
-        }
-      ],
-      "director": "Gennaro Nunziante",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09cc6a4d-d75f-4316-92fc-1c1b25182323"
-        },
-        {
-          "source": "nowtv",
-          "name": "Now TV",
-          "link": "https://www.nowtv.it/watch/asset/io-sono-la-fine-del-mondo/R_617464_HD"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09cc6a4d-d75f-4316-92fc-1c1b25182323"
-        }
-      ]
     },
     "movie:fino alla fine del mondo:tt0101458": {
       "id": "movie:fino alla fine del mondo:tt0101458",
@@ -91829,50 +91136,6 @@
         }
       ]
     },
-    "movie:la notte dei morti viventi:tt0100258": {
-      "id": "movie:la notte dei morti viventi:tt0100258",
-      "imdb_id": "tt0100258",
-      "category": "movie",
-      "it_title": "La notte dei morti viventi",
-      "orig_title": "Night of the Living Dead",
-      "year": 1990,
-      "cast": "Tony Todd, Patricia Tallman",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTNjZWQwNDEtNjg3Ny00Y2MwLWI2ZmEtMzkyMTFlZGJkNTkyXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "artflix",
-          "name": "Artiflix",
-          "link": "https://watchnow.trakt.tv/watchnow/325896607"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0100258",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "PMOdOp9D9L4",
-          "video_title": "Patreon: La notte dei morti viventi (1990) di Tom Savini - Minirece richiesta da Fa42",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "EMIqNwjOa7M",
-          "video_title": "Frusciante intervista George A.Romero (Lucca 09/04/16)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "La Notte dei morti viventi"
-        }
-      ],
-      "director": "Tom Savini",
-      "it_flatrate": [
-        {
-          "source": "artflix",
-          "name": "Artiflix",
-          "link": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
-        }
-      ]
-    },
     "movie:hardware - metallo letale:tt0099740": {
       "id": "movie:hardware - metallo letale:tt0099740",
       "imdb_id": "tt0099740",
@@ -94276,37 +93539,6 @@
           "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bea9f74c-955d-9d62-4b8f-bffbd1017d09"
         }
       ]
-    },
-    "movie:non ho sonno:tt0220827": {
-      "id": "movie:non ho sonno:tt0220827",
-      "imdb_id": "tt0220827",
-      "category": "movie",
-      "it_title": "Non ho sonno",
-      "orig_title": "Sleepless",
-      "year": 2001,
-      "cast": "Max von Sydow, Stefano Dionisi",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGQ3YzM3NGYtNDk3OC00ZTk0LWFiMWUtMWIxODk1ZjEyMmE4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt0220827",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "x-JgehbDWWk",
-          "video_title": "Patreon: Non ho sonno (2001) di Dario Argento - Minirece richiesta da PatMorrison",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "9YXoAfHeK6s",
-          "video_title": "Le Recensioni di Frusciante - Argento",
-          "timestamp": "1:12:38",
-          "seconds": 4358
-        }
-      ],
-      "director": "Dario Argento",
-      "it_flatrate": []
     },
     "movie:phenomena:tt0087909": {
       "id": "movie:phenomena:tt0087909",
@@ -98283,54 +97515,6 @@
         }
       ]
     },
-    "movie:the place:tt7063210": {
-      "id": "movie:the place:tt7063210",
-      "imdb_id": "tt7063210",
-      "category": "movie",
-      "it_title": "The Place",
-      "orig_title": "The Place",
-      "year": 2017,
-      "cast": "Valerio Mastandrea, Marco Giallini",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2E3YzAwMmYtYmUxMS00M2ZlLTkzOGQtNTRhZmY3ZWEwMWVhXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt7063210",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "F9NeIoGkL7w",
-          "video_title": "Patreon: The Place (2017) di Paolo Genovese - Minirece richiesta da Cristian Aloisi",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "9T5tIwR1T5w",
-          "video_title": "MovieBlog- 564: Recensione The Place",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "The Place"
-        }
-      ],
-      "director": "Paolo Genovese",
-      "it_flatrate": [
-        {
-          "source": "timvision",
-          "name": "Timvision",
-          "link": "https://www.timvision.it/h/9060238252_92900005?autoplay=true&utm_source=googleAssistant&utm_medium=app-to-app"
-        },
-        {
-          "source": "mediasetplay",
-          "name": "Mediaset Infinity",
-          "link": "https://mediasetinfinity.mediaset.it/movie/theplace/the-place_F306383601000101"
-        },
-        {
-          "source": "amazoninfinity",
-          "name": "Infinity Selection Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb84eab-62fe-61fa-fe3d-ac0f8af58fdb"
-        }
-      ]
-    },
     "movie:kingsman- il cerchio d'oro:  (spoiler):tt4649466": {
       "id": "movie:kingsman- il cerchio d'oro:  (spoiler):tt4649466",
       "imdb_id": "tt4649466",
@@ -99975,51 +99159,6 @@
       "director": "Aldo Baglio, Giacomo Poretti",
       "it_flatrate": []
     },
-    "movie:x-men - l'inizio:tt1270798": {
-      "id": "movie:x-men - l'inizio:tt1270798",
-      "imdb_id": "tt1270798",
-      "category": "movie",
-      "it_title": "X-Men - L'inizio",
-      "orig_title": "X-Men: First Class",
-      "year": 2011,
-      "cast": "James McAvoy, Michael Fassbender",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disney_plus",
-          "name": "Disney+",
-          "link": "https://watchnow.trakt.tv/watchnow/326937821"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1270798",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "vcX2oz2SVZw",
-          "video_title": "Patreon: X-Men - L'inizio (2011) di Matthew Vaughn - Minirece richiesta da Kenshiro J. Joestar",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "X-Men - L'inizio"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "h_xb8NA4Srs",
-          "video_title": "MovieBlog- 148: Recensione  X-Men First Class",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "X-Men First Class"
-        }
-      ],
-      "director": "Matthew Vaughn",
-      "it_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-9f9e9ae3-88d8-467b-8969-28d253cc4687"
-        }
-      ]
-    },
     "movie:thor:tt0800369": {
       "id": "movie:thor:tt0800369",
       "imdb_id": "tt0800369",
@@ -100648,51 +99787,6 @@
         }
       ]
     },
-    "movie:x-men: apocalisse:tt3385516": {
-      "id": "movie:x-men: apocalisse:tt3385516",
-      "imdb_id": "tt3385516",
-      "category": "movie",
-      "it_title": "X-Men: Apocalisse",
-      "orig_title": "X-Men: Apocalypse",
-      "year": 2016,
-      "cast": "James McAvoy, Michael Fassbender",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjVhNWY3NjItNmZjOS00NTU3LWFiZTctNzdjNGM5Y2Y0MDUwXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-3ea207ed-b92e-4e71-9ce6-5c0d8afd4265"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt3385516",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "z2z3E3A_3V8",
-          "video_title": "MovieBlog- 465: Recensione X-Men: Apocalypse (SENZA SPOILER)",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "X-Men: Apocalypse"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "I3EjcxBARgo",
-          "video_title": "FlashVic- 42: Recensione X-Men Apocalypse feat. C4Comic",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "X-Men Apocalypse feat. C4Comic"
-        }
-      ],
-      "director": "Bryan Singer",
-      "it_flatrate": [
-        {
-          "source": "disneyplus",
-          "name": "Disney Plus",
-          "link": "https://www.disneyplus.com/browse/entity-3ea207ed-b92e-4e71-9ce6-5c0d8afd4265"
-        }
-      ]
-    },
     "movie:batman v superman: dawn of justice:tt2975590": {
       "id": "movie:batman v superman: dawn of justice:tt2975590",
       "imdb_id": "tt2975590",
@@ -100765,61 +99859,6 @@
           "source": "max",
           "name": "HBO Max",
           "link": "https://www.hbomax.com/it/en/movie/f672e34c-6103-4a1c-a925-e131b6b70761"
-        }
-      ]
-    },
-    "movie:rec 3- genesis:tt1649444": {
-      "id": "movie:rec 3- genesis:tt1649444",
-      "imdb_id": "tt1649444",
-      "category": "movie",
-      "it_title": "Rec 3- Genesis",
-      "orig_title": "[REC] 3: Genesis",
-      "year": 2012,
-      "cast": "Leticia Dolera, Diego Martín",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDM3OTUzMTA1OF5BMl5BanBnXkFtZTcwNTkwMTE3Nw@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "amazonhomeofhorror",
-          "name": "Home of Horror Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e4795acd-85a4-41ed-8dc8-7ddb936bbea8"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1649444",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "ReyvWw8w-Gs",
-          "video_title": "MovieBlog- 229: Recensione Rec 3- Genesis",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Rec 3- Genesis"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "KLHM_trNddQ",
-          "video_title": "MovieBlog- 382- Recensione Rec 4",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Rec 4"
-        }
-      ],
-      "director": "Paco Plaza",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a74b7c17-75a3-4c0f-b18c-abd0892ba719"
-        },
-        {
-          "source": "wuaki",
-          "name": "Rakuten TV",
-          "link": "https://www.rakuten.tv/it/movies/rec-3-la-genesi"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a74b7c17-75a3-4c0f-b18c-abd0892ba719"
         }
       ]
     },
@@ -149948,39 +148987,6 @@
       "director": "Danny Boyle",
       "it_flatrate": []
     },
-    "movie:la vita da grandi:tt30064085": {
-      "id": "movie:la vita da grandi:tt30064085",
-      "imdb_id": "tt30064085",
-      "category": "movie",
-      "it_title": "La vita da grandi",
-      "orig_title": "Siblings",
-      "year": 2025,
-      "cast": "Matilda De Angelis, Yuri Tuci",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmJiYjViMDctZjI0NC00Njk1LWE1MzQtZjFmODhkMjY1Y2QxXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt30064085",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "YjeGkt_Syuc",
-          "video_title": "\"La vita da grandi\" di Greta Scarano - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "La vita da grandi"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "S_S_In7wNm4",
-          "video_title": "La Vita da Grandi: Intervista alla regista Greta Scarano",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "La Vita da Grandi"
-        }
-      ],
-      "director": "Greta Scarano",
-      "it_flatrate": []
-    },
     "movie:babygirl:tt30057084": {
       "id": "movie:babygirl:tt30057084",
       "imdb_id": "tt30057084",
@@ -150167,45 +149173,6 @@
       "director": "Takashi Yamazaki",
       "it_flatrate": []
     },
-    "movie:la casa - il rogo del male:tt31170389": {
-      "id": "movie:la casa - il rogo del male:tt31170389",
-      "imdb_id": "tt31170389",
-      "category": "movie",
-      "it_title": "LA CASA - Il rogo del male",
-      "orig_title": "Evil Dead Burn",
-      "year": 2026,
-      "cast": "Souheila Yacoub, Tandi Wright",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/82715255"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt31170389",
-      "recommendations": [
-        {
-          "creator": "I Criticoni",
-          "video_id": "QjA9DL6ynhc",
-          "video_title": "CRITICONI su “LA CASA - Il rogo del male” e genitivo sassone nel Cinema. | Criticoni Talk #43",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "LA CASA - Il rogo del male"
-        },
-        {
-          "creator": "Francesco Alò",
-          "video_id": "eAzm4qRsjeE",
-          "video_title": "\"La casa - Il Rogo del Male\" di Sébastien Vaniček - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "La casa - Il Rogo del Male"
-        }
-      ],
-      "director": "Sébastien Vaniček",
-      "it_flatrate": []
-    },
     "movie:black phone 2:tt29644189": {
       "id": "movie:black phone 2:tt29644189",
       "imdb_id": "tt29644189",
@@ -150292,71 +149259,6 @@
       ],
       "it_flatrate": [],
       "external_url": "https://app.trakt.tv/movies/tt31711618"
-    },
-    "movie:l'illusione perfetta - now you see me:tt4712810": {
-      "id": "movie:l'illusione perfetta - now you see me:tt4712810",
-      "imdb_id": "tt4712810",
-      "category": "movie",
-      "it_title": "L'illusione perfetta - Now You See Me",
-      "orig_title": "Now You See Me: Now You Don't",
-      "year": 2025,
-      "cast": "Jesse Eisenberg, Woody Harrelson",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "skysvod",
-          "name": "Sky",
-          "link": "https://show.sky.ch/en/title/126935"
-        },
-        {
-          "source": "canalplus",
-          "name": "Canal+",
-          "link": "https://www.canalplus.com/ch/cinema/insaisissables-3/h/30620981_50001"
-        }
-      ],
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "1LTGi5yM9l8",
-          "video_title": "MovieBlog- 1044: Recensione L'Illusione Perfetta- Now You See Me: Now You Don't",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "L'Illusione Perfetta"
-        },
-        {
-          "creator": "Francesco Alò",
-          "video_id": "an_GbblpUuo",
-          "video_title": "\"L'illusione perfetta - Now You See Me: Now You Don't\" di Ruben Fleischer - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "L'illusione perfetta - Now You See Me"
-        }
-      ],
-      "director": "Ruben Fleischer",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.585cb14a-c9cb-44ca-aa72-9c9593164f84"
-        },
-        {
-          "source": "skygo",
-          "name": "Sky Go",
-          "link": "https://skygo.sky.it/"
-        },
-        {
-          "source": "nowtv",
-          "name": "Now TV",
-          "link": "https://www.nowtv.it/watch/asset/lillusione-perfetta-now-you-see-me-now-you-dont/R_603166_HD"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.585cb14a-c9cb-44ca-aa72-9c9593164f84"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt4712810"
     },
     "movie:il grande giorno:tt20871388": {
       "id": "movie:il grande giorno:tt20871388",
@@ -150602,109 +149504,6 @@
         }
       ],
       "external_url": "https://app.trakt.tv/movies/tt6139732"
-    },
-    "movie:wonka:tt6166392": {
-      "id": "movie:wonka:tt6166392",
-      "imdb_id": "tt6166392",
-      "category": "movie",
-      "it_title": "Wonka",
-      "orig_title": "Wonka",
-      "year": 2023,
-      "director": "Paul King",
-      "cast": "Timothée Chalamet, Gustave Die",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BM2Y1N2ZhNjctYjVhZC00MDg2LWFhNTItMzI3ZjAwZDhjYmFiXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/81602840"
-        },
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c100f7c-38bf-4058-8bc0-c1889e183194"
-        },
-        {
-          "source": "netflixkids",
-          "name": "Netflix Kids",
-          "link": "https://www.netflix.com/title/81602840"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://www.hbomax.com/ch/en/movie/c34d4c23-39eb-4eb8-95dd-209fa0cb3fb4"
-        }
-      ],
-      "it_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "ZOfaLS2wpyw",
-          "video_title": "MovieBlog- 940: Recensione Wonka",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Wonka"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "7zeb3JHeHKY",
-          "video_title": "IL PRIMO TRAILER DI \"WONKA\" MI CONVINCE POCO",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "WONKA"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt6166392"
-    },
-    "movie:blue beetle:tt9362930": {
-      "id": "movie:blue beetle:tt9362930",
-      "imdb_id": "tt9362930",
-      "category": "movie",
-      "it_title": "Blue Beetle",
-      "orig_title": "Blue Beetle",
-      "year": 2023,
-      "director": "Angel Manuel Soto, Ángel Manuel Soto",
-      "cast": "Xolo Maridueña, Bruna Marquezine",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTEyYzQzOTMtMWExNi00OWNjLTgwMDUtNzY0YjhmZDBiMTk2XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "netflix",
-          "name": "Netflix",
-          "link": "https://www.netflix.com/title/81674659"
-        },
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.434deeba-aba1-4f21-a1a7-56da6fb29cdc"
-        },
-        {
-          "source": "max",
-          "name": "HBO Max",
-          "link": "https://www.hbomax.com/ch/en/movie/11177b4b-fffd-410b-8238-3a63fea1c0d4"
-        }
-      ],
-      "it_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "wkbnOCCVSp8",
-          "video_title": "MovieBlog- 920: Recensione Blue Beetle",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Blue Beetle"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "J19EDHyRnPg",
-          "video_title": "BLUE BEETLE: IL PRIMO TRAILER MI HA DIVERTITO MOLTO! - REACTION E ANALISI",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "BLUE BEETLE"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt9362930"
     },
     "movie:scomode verità:tt11891850": {
       "id": "movie:scomode verità:tt11891850",
@@ -153129,55 +151928,6 @@
         }
       ]
     },
-    "movie:romeo e giulietta:tt0063518": {
-      "id": "movie:romeo e giulietta:tt0063518",
-      "imdb_id": "tt0063518",
-      "category": "movie",
-      "it_title": "Romeo e Giulietta",
-      "orig_title": "Romeo and Juliet",
-      "year": 1968,
-      "cast": "Leonard Whiting, Olivia Hussey",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDAxNjRiZmEtOWUxYy00YjVmLWFlMDItZmQxOWI3MjI2Y2NmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "source": "paramount_plus",
-          "name": "Paramount+",
-          "link": "https://watchnow.trakt.tv/watchnow/325961691"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0063518",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "lr5Uf1VdNFc",
-          "video_title": "Patreon: Romeo e Giulietta (1968) di Franco Zeffirelli - Minirece richiesta da Maura Angry Maratta",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "OcwY64Kx_hM",
-          "video_title": "ROMEO È GIULIETTA: INTERVISTA AL REGISTA GIOVANNI VERONESI",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "ROMEO È GIULIETTA"
-        }
-      ],
-      "director": "Franco Zeffirelli",
-      "it_flatrate": [
-        {
-          "source": "paramountplus",
-          "name": "Paramount Plus",
-          "link": "https://www.paramountplus.com/movies/romeo-and-juliet/Cjq2cmMS6RWLdupf00j7F_VH7LCvm9YL?searchReferral="
-        },
-        {
-          "source": "amazonparamountplus",
-          "name": "Paramount+ Amazon Channel",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09cb0f75-2ec1-4d4d-8863-46c0f92311e2"
-        }
-      ]
-    },
     "movie:il mostro:tt0076411": {
       "id": "movie:il mostro:tt0076411",
       "imdb_id": "tt0076411",
@@ -155383,6 +154133,469 @@
       "director": "Justin Benson, Aaron Moorhead",
       "it_flatrate": [],
       "watchnow_checked": true
+    },
+    "movie:la notte dei morti viventi:tt0100258": {
+      "id": "movie:la notte dei morti viventi:tt0100258",
+      "imdb_id": "tt0100258",
+      "category": "movie",
+      "it_title": "La notte dei morti viventi",
+      "orig_title": "Night of the Living Dead",
+      "year": 1990,
+      "cast": "Tony Todd, Patricia Tallman",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTNjZWQwNDEtNjg3Ny00Y2MwLWI2ZmEtMzkyMTFlZGJkNTkyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "artflix",
+          "name": "Artiflix",
+          "link": "https://watchnow.trakt.tv/watchnow/325896607"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0100258",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "PMOdOp9D9L4",
+          "video_title": "Patreon: La notte dei morti viventi (1990) di Tom Savini - Minirece richiesta da Fa42",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "Tom Savini",
+      "it_flatrate": [
+        {
+          "source": "artflix",
+          "name": "Artiflix",
+          "link": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N"
+        }
+      ]
+    },
+    "movie:non ho sonno:tt0220827": {
+      "id": "movie:non ho sonno:tt0220827",
+      "imdb_id": "tt0220827",
+      "category": "movie",
+      "it_title": "Non ho sonno",
+      "orig_title": "Sleepless",
+      "year": 2001,
+      "cast": "Max von Sydow, Stefano Dionisi",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGQ3YzM3NGYtNDk3OC00ZTk0LWFiMWUtMWIxODk1ZjEyMmE4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt0220827",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "9YXoAfHeK6s",
+          "video_title": "Le Recensioni di Frusciante - Argento",
+          "timestamp": "1:12:38",
+          "seconds": 4358
+        }
+      ],
+      "director": "Dario Argento",
+      "it_flatrate": []
+    },
+    "movie:the place:tt7063210": {
+      "id": "movie:the place:tt7063210",
+      "imdb_id": "tt7063210",
+      "category": "movie",
+      "it_title": "The Place",
+      "orig_title": "The Place",
+      "year": 2017,
+      "cast": "Valerio Mastandrea, Marco Giallini",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2E3YzAwMmYtYmUxMS00M2ZlLTkzOGQtNTRhZmY3ZWEwMWVhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt7063210",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "9T5tIwR1T5w",
+          "video_title": "MovieBlog- 564: Recensione The Place",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "The Place"
+        }
+      ],
+      "director": "Paolo Genovese",
+      "it_flatrate": [
+        {
+          "source": "timvision",
+          "name": "Timvision",
+          "link": "https://www.timvision.it/h/9060238252_92900005?autoplay=true&utm_source=googleAssistant&utm_medium=app-to-app"
+        },
+        {
+          "source": "mediasetplay",
+          "name": "Mediaset Infinity",
+          "link": "https://mediasetinfinity.mediaset.it/movie/theplace/the-place_F306383601000101"
+        },
+        {
+          "source": "amazoninfinity",
+          "name": "Infinity Selection Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb84eab-62fe-61fa-fe3d-ac0f8af58fdb"
+        }
+      ]
+    },
+    "movie:x-men - l'inizio:tt1270798": {
+      "id": "movie:x-men - l'inizio:tt1270798",
+      "imdb_id": "tt1270798",
+      "category": "movie",
+      "it_title": "X-Men - L'inizio",
+      "orig_title": "X-Men: First Class",
+      "year": 2011,
+      "cast": "James McAvoy, Michael Fassbender",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "disney_plus",
+          "name": "Disney+",
+          "link": "https://watchnow.trakt.tv/watchnow/326937821"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1270798",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "h_xb8NA4Srs",
+          "video_title": "MovieBlog- 148: Recensione  X-Men First Class",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "X-Men First Class"
+        }
+      ],
+      "director": "Matthew Vaughn",
+      "it_flatrate": [
+        {
+          "source": "disneyplus",
+          "name": "Disney Plus",
+          "link": "https://www.disneyplus.com/browse/entity-9f9e9ae3-88d8-467b-8969-28d253cc4687"
+        }
+      ]
+    },
+    "movie:x-men: apocalisse:tt3385516": {
+      "id": "movie:x-men: apocalisse:tt3385516",
+      "imdb_id": "tt3385516",
+      "category": "movie",
+      "it_title": "X-Men: Apocalisse",
+      "orig_title": "X-Men: Apocalypse",
+      "year": 2016,
+      "cast": "James McAvoy, Michael Fassbender",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjVhNWY3NjItNmZjOS00NTU3LWFiZTctNzdjNGM5Y2Y0MDUwXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "disneyplus",
+          "name": "Disney Plus",
+          "link": "https://www.disneyplus.com/browse/entity-3ea207ed-b92e-4e71-9ce6-5c0d8afd4265"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt3385516",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "I3EjcxBARgo",
+          "video_title": "FlashVic- 42: Recensione X-Men Apocalypse feat. C4Comic",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "X-Men Apocalypse feat. C4Comic"
+        }
+      ],
+      "director": "Bryan Singer",
+      "it_flatrate": [
+        {
+          "source": "disneyplus",
+          "name": "Disney Plus",
+          "link": "https://www.disneyplus.com/browse/entity-3ea207ed-b92e-4e71-9ce6-5c0d8afd4265"
+        }
+      ]
+    },
+    "movie:rec 3- genesis:tt1649444": {
+      "id": "movie:rec 3- genesis:tt1649444",
+      "imdb_id": "tt1649444",
+      "category": "movie",
+      "it_title": "Rec 3- Genesis",
+      "orig_title": "[REC] 3: Genesis",
+      "year": 2012,
+      "cast": "Leticia Dolera, Diego Martín",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDM3OTUzMTA1OF5BMl5BanBnXkFtZTcwNTkwMTE3Nw@@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "amazonhomeofhorror",
+          "name": "Home of Horror Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e4795acd-85a4-41ed-8dc8-7ddb936bbea8"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt1649444",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "ReyvWw8w-Gs",
+          "video_title": "MovieBlog- 229: Recensione Rec 3- Genesis",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Rec 3- Genesis"
+        }
+      ],
+      "director": "Paco Plaza",
+      "it_flatrate": [
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a74b7c17-75a3-4c0f-b18c-abd0892ba719"
+        },
+        {
+          "source": "wuaki",
+          "name": "Rakuten TV",
+          "link": "https://www.rakuten.tv/it/movies/rec-3-la-genesi"
+        },
+        {
+          "source": "amazonprimevideowithads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a74b7c17-75a3-4c0f-b18c-abd0892ba719"
+        }
+      ]
+    },
+    "movie:la vita da grandi:tt30064085": {
+      "id": "movie:la vita da grandi:tt30064085",
+      "imdb_id": "tt30064085",
+      "category": "movie",
+      "it_title": "La vita da grandi",
+      "orig_title": "Siblings",
+      "year": 2025,
+      "cast": "Matilda De Angelis, Yuri Tuci",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmJiYjViMDctZjI0NC00Njk1LWE1MzQtZjFmODhkMjY1Y2QxXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt30064085",
+      "recommendations": [
+        {
+          "creator": "Francesco Alò",
+          "video_id": "YjeGkt_Syuc",
+          "video_title": "\"La vita da grandi\" di Greta Scarano - recensione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "La vita da grandi"
+        }
+      ],
+      "director": "Greta Scarano",
+      "it_flatrate": []
+    },
+    "movie:la casa - il rogo del male:tt31170389": {
+      "id": "movie:la casa - il rogo del male:tt31170389",
+      "imdb_id": "tt31170389",
+      "category": "movie",
+      "it_title": "LA CASA - Il rogo del male",
+      "orig_title": "Evil Dead Burn",
+      "year": 2026,
+      "cast": "Souheila Yacoub, Tandi Wright",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://www.netflix.com/title/82715255"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt31170389",
+      "recommendations": [
+        {
+          "creator": "I Criticoni",
+          "video_id": "QjA9DL6ynhc",
+          "video_title": "CRITICONI su “LA CASA - Il rogo del male” e genitivo sassone nel Cinema. | Criticoni Talk #43",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "LA CASA - Il rogo del male"
+        }
+      ],
+      "director": "Sébastien Vaniček",
+      "it_flatrate": []
+    },
+    "movie:l'illusione perfetta - now you see me:tt4712810": {
+      "id": "movie:l'illusione perfetta - now you see me:tt4712810",
+      "imdb_id": "tt4712810",
+      "category": "movie",
+      "it_title": "L'illusione perfetta - Now You See Me",
+      "orig_title": "Now You See Me: Now You Don't",
+      "year": 2025,
+      "cast": "Jesse Eisenberg, Woody Harrelson",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "skysvod",
+          "name": "Sky",
+          "link": "https://show.sky.ch/en/title/126935"
+        },
+        {
+          "source": "canalplus",
+          "name": "Canal+",
+          "link": "https://www.canalplus.com/ch/cinema/insaisissables-3/h/30620981_50001"
+        }
+      ],
+      "recommendations": [
+        {
+          "creator": "Francesco Alò",
+          "video_id": "an_GbblpUuo",
+          "video_title": "\"L'illusione perfetta - Now You See Me: Now You Don't\" di Ruben Fleischer - recensione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "L'illusione perfetta - Now You See Me"
+        }
+      ],
+      "director": "Ruben Fleischer",
+      "it_flatrate": [
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.585cb14a-c9cb-44ca-aa72-9c9593164f84"
+        },
+        {
+          "source": "skygo",
+          "name": "Sky Go",
+          "link": "https://skygo.sky.it/"
+        },
+        {
+          "source": "nowtv",
+          "name": "Now TV",
+          "link": "https://www.nowtv.it/watch/asset/lillusione-perfetta-now-you-see-me-now-you-dont/R_603166_HD"
+        },
+        {
+          "source": "amazonprimevideowithads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.585cb14a-c9cb-44ca-aa72-9c9593164f84"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt4712810"
+    },
+    "movie:wonka:tt6166392": {
+      "id": "movie:wonka:tt6166392",
+      "imdb_id": "tt6166392",
+      "category": "movie",
+      "it_title": "Wonka",
+      "orig_title": "Wonka",
+      "year": 2023,
+      "director": "Paul King",
+      "cast": "Timothée Chalamet, Gustave Die",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BM2Y1N2ZhNjctYjVhZC00MDg2LWFhNTItMzI3ZjAwZDhjYmFiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://www.netflix.com/title/81602840"
+        },
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c100f7c-38bf-4058-8bc0-c1889e183194"
+        },
+        {
+          "source": "netflixkids",
+          "name": "Netflix Kids",
+          "link": "https://www.netflix.com/title/81602840"
+        },
+        {
+          "source": "max",
+          "name": "HBO Max",
+          "link": "https://www.hbomax.com/ch/en/movie/c34d4c23-39eb-4eb8-95dd-209fa0cb3fb4"
+        }
+      ],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "ZOfaLS2wpyw",
+          "video_title": "MovieBlog- 940: Recensione Wonka",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Wonka"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt6166392"
+    },
+    "movie:blue beetle:tt9362930": {
+      "id": "movie:blue beetle:tt9362930",
+      "imdb_id": "tt9362930",
+      "category": "movie",
+      "it_title": "Blue Beetle",
+      "orig_title": "Blue Beetle",
+      "year": 2023,
+      "director": "Angel Manuel Soto, Ángel Manuel Soto",
+      "cast": "Xolo Maridueña, Bruna Marquezine",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTEyYzQzOTMtMWExNi00OWNjLTgwMDUtNzY0YjhmZDBiMTk2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "netflix",
+          "name": "Netflix",
+          "link": "https://www.netflix.com/title/81674659"
+        },
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.434deeba-aba1-4f21-a1a7-56da6fb29cdc"
+        },
+        {
+          "source": "max",
+          "name": "HBO Max",
+          "link": "https://www.hbomax.com/ch/en/movie/11177b4b-fffd-410b-8238-3a63fea1c0d4"
+        }
+      ],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "wkbnOCCVSp8",
+          "video_title": "MovieBlog- 920: Recensione Blue Beetle",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Blue Beetle"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt9362930"
+    },
+    "movie:romeo e giulietta:tt0063518": {
+      "id": "movie:romeo e giulietta:tt0063518",
+      "imdb_id": "tt0063518",
+      "category": "movie",
+      "it_title": "Romeo e Giulietta",
+      "orig_title": "Romeo and Juliet",
+      "year": 1968,
+      "cast": "Leonard Whiting, Olivia Hussey",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDAxNjRiZmEtOWUxYy00YjVmLWFlMDItZmQxOWI3MjI2Y2NmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [
+        {
+          "source": "paramount_plus",
+          "name": "Paramount+",
+          "link": "https://watchnow.trakt.tv/watchnow/325961691"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt0063518",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "lr5Uf1VdNFc",
+          "video_title": "Patreon: Romeo e Giulietta (1968) di Franco Zeffirelli - Minirece richiesta da Maura Angry Maratta",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ],
+      "director": "Franco Zeffirelli",
+      "it_flatrate": [
+        {
+          "source": "paramountplus",
+          "name": "Paramount Plus",
+          "link": "https://www.paramountplus.com/movies/romeo-and-juliet/Cjq2cmMS6RWLdupf00j7F_VH7LCvm9YL?searchReferral="
+        },
+        {
+          "source": "amazonparamountplus",
+          "name": "Paramount+ Amazon Channel",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09cb0f75-2ec1-4d4d-8863-46c0f92311e2"
+        }
+      ]
     },
     "movie:madre:tt9234450": {
       "id": "movie:madre:tt9234450",
@@ -284405,33 +283618,6 @@
         }
       ],
       "external_url": "https://app.trakt.tv/movies/tt1788391",
-      "watchnow_checked": true
-    },
-    "movie:michael:tt1906426": {
-      "id": "movie:michael:tt1906426",
-      "imdb_id": "tt1906426",
-      "category": "movie",
-      "it_title": "Michael",
-      "orig_title": "Michael",
-      "year": 2011,
-      "director": "Markus Schleinzer",
-      "cast": "Michael Fuith, David Rauchenberger",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTgxMTc1NjkxMV5BMl5BanBnXkFtZTcwMjA0MDA0Nw@@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "it_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_michael_2011",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/chro010.html",
-          "mentioned_as": "Michael"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt1906426",
       "watchnow_checked": true
     },
     "movie:l'ultima battaglia - the front line:tt2007387": {
