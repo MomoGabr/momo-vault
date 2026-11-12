@@ -143,15 +143,9 @@ def sync_latest_rogerebert_feed(db_data, headers, ch_map, daily_log=None):
                     continue
                 m_d = re.search(r"<description><!\[CDATA\[(.*?)\]\]></description>", item_xml, re.S)
                 sub_low = (m_d.group(1) if m_d else "").lower()
-                low_xml = item_xml.lower()
+                end_low = item_xml[-2000:].lower()
                 if not is_great:
-                    if any(w in sub_low for w in EBERT_NEG_WORDS):
-                        processed_set.add(vid)
-                        continue
-                    sub_pos = any(w in sub_low for w in EBERT_POS_WORDS)
-                    pos = sum(1 for w in EBERT_POS_WORDS if w in low_xml)
-                    neg = sum(1 for w in EBERT_NEG_WORDS if w in low_xml)
-                    if not sub_pos and (pos < 2 or neg >= pos):
+                    if any(w in sub_low for w in EBERT_NEG_WORDS) or any(w in end_low for w in EBERT_NEG_WORDS):
                         processed_set.add(vid)
                         continue
                 m_yr = re.search(r"-(202\d)$", slug)

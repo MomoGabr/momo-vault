@@ -76056,6 +76056,178 @@
       ],
       "watchnow_checked": true
     },
+    "movie:it ends:tt35519455": {
+      "id": "movie:it ends:tt35519455",
+      "imdb_id": "tt35519455",
+      "category": "movie",
+      "it_title": "It Ends",
+      "orig_title": "It Ends",
+      "year": 2025,
+      "cast": "Phinehas Yoon, Akira Jackson",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjI5MDU4YjktNDkwYi00ODk4LThiY2ItMDE5ZjdhZjIzNzkzXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt35519455",
+      "recommendations": [
+        {
+          "creator": "Francesco Alò",
+          "video_id": "Iq4w9exKfgM",
+          "video_title": "\"It Ends\" di Alexander Ullom - recensione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "It Ends"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "b_MJBmW9ApA",
+          "video_title": "ViConsiglio: Film per Halloween!",
+          "timestamp": "4:30",
+          "seconds": 270,
+          "mentioned_as": "It Ends"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_it-ends-alex-ullom-horror-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/it-ends-alex-ullom-horror-movie-review-2026",
+          "mentioned_as": "It Ends"
+        }
+      ],
+      "director": "Alexander Ullom",
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:wildwood - i segreti del bosco proibito:tt2056785": {
+      "id": "movie:wildwood - i segreti del bosco proibito:tt2056785",
+      "imdb_id": "tt2056785",
+      "category": "movie",
+      "it_title": "WIldwood - I segreti del bosco proibito",
+      "orig_title": "Wildwood",
+      "year": 2026,
+      "cast": "Peyton Elizabeth Lee, Jacob Tremblay",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2JjOGQ1OGMtZmUwYS00YmQ2LTllNzQtZjU2YjY1NzM2NzJjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt2056785",
+      "recommendations": [
+        {
+          "creator": "Francesco Alò",
+          "video_id": "SX8F1UCh4Os",
+          "video_title": "\"Wildwood\" di Travis Knight - recensione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Wildwood"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "YNkLgBdJ8Hw",
+          "video_title": "MovieBlog- 1114: Recensione Wildwood",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Wildwood"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_wildwood-laika-studios-stop-motion-animation-film-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/wildwood-laika-studios-stop-motion-animation-film-review-2026",
+          "mentioned_as": "Wildwood"
+        }
+      ],
+      "director": "Travis Knight",
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:naza:tt44766123": {
+      "id": "movie:naza:tt44766123",
+      "imdb_id": "tt44766123",
+      "category": "movie",
+      "it_title": "NAZA",
+      "orig_title": "Naza",
+      "year": 2026,
+      "cast": "Yuval Abraham",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzA5YjdhYTYtNmY5ZS00Mzg1LTkyNDItOGQ1YzQ1MDYzNWJlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt44766123",
+      "recommendations": [
+        {
+          "creator": "Francesco Alò",
+          "video_id": "wazP3F_xxfA",
+          "video_title": "\"NAZA\" di Yuval Abraham e Rachel Szor - recensione Mostra del Cinema di Venezia 2026 - Concorso",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "NAZA"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "fLLYdbEOY58",
+          "video_title": "MovieBlog- 1106: Recensione Naza",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Naza"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_naza-film-documentary-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/naza-film-documentary-review-2026",
+          "mentioned_as": "NAZA"
+        }
+      ],
+      "director": "Yuval Abraham, Rachel Szor",
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:godzilla minus zero:tt34384661": {
+      "id": "movie:godzilla minus zero:tt34384661",
+      "imdb_id": "tt34384661",
+      "category": "movie",
+      "it_title": "GODZILLA Minus Zero",
+      "orig_title": "Godzilla Minus Zero",
+      "year": 2026,
+      "cast": "Minami Hamabe, Ryūnosuke Kamiki",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzY2OWFhMTgtODJhMi00NDIyLWIzNTQtYjc4MjE4YTBjYzllXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt34384661",
+      "recommendations": [
+        {
+          "creator": "I Criticoni",
+          "video_id": "Df_riRC_O8E",
+          "video_title": "CRITICONI su “GODZILLA Minus Zero” di Takashi Yamazaki | Criticoni Talk #50",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "GODZILLA Minus Zero"
+        },
+        {
+          "creator": "Francesco Alò",
+          "video_id": "rpiH6YEoRSg",
+          "video_title": "\"Godzilla Minus Zero\" di Takashi Yamazaki - recensione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Godzilla Minus Zero"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_godzilla-minus-zero-toho-film-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/godzilla-minus-zero-toho-film-review-2026",
+          "mentioned_as": "Godzilla Minus Zero"
+        }
+      ],
+      "director": "Takashi Yamazaki",
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
     "movie:godzilla e kong - il nuovo impero:tt14539740": {
       "id": "movie:godzilla e kong - il nuovo impero:tt14539740",
       "imdb_id": "tt14539740",
@@ -77351,40 +77523,6 @@
           "link": "https://watchnow.trakt.tv/watchnow/302806584"
         }
       ]
-    },
-    "movie:it ends:tt35519455": {
-      "id": "movie:it ends:tt35519455",
-      "imdb_id": "tt35519455",
-      "category": "movie",
-      "it_title": "It Ends",
-      "orig_title": "It Ends",
-      "year": 2025,
-      "cast": "Phinehas Yoon, Akira Jackson",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjI5MDU4YjktNDkwYi00ODk4LThiY2ItMDE5ZjdhZjIzNzkzXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt35519455",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "Iq4w9exKfgM",
-          "video_title": "\"It Ends\" di Alexander Ullom - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "It Ends"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "b_MJBmW9ApA",
-          "video_title": "ViConsiglio: Film per Halloween!",
-          "timestamp": "4:30",
-          "seconds": 270,
-          "mentioned_as": "It Ends"
-        }
-      ],
-      "director": "Alexander Ullom",
-      "it_flatrate": [],
-      "watchnow_checked": true
     },
     "movie:l'esorcista - il credente:tt12921446": {
       "id": "movie:l'esorcista - il credente:tt12921446",
@@ -95923,74 +96061,6 @@
           "link": "https://www.netflix.com/title/70019060"
         }
       ]
-    },
-    "movie:wildwood - i segreti del bosco proibito:tt2056785": {
-      "id": "movie:wildwood - i segreti del bosco proibito:tt2056785",
-      "imdb_id": "tt2056785",
-      "category": "movie",
-      "it_title": "WIldwood - I segreti del bosco proibito",
-      "orig_title": "Wildwood",
-      "year": 2026,
-      "cast": "Peyton Elizabeth Lee, Jacob Tremblay",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2JjOGQ1OGMtZmUwYS00YmQ2LTllNzQtZjU2YjY1NzM2NzJjXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt2056785",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "SX8F1UCh4Os",
-          "video_title": "\"Wildwood\" di Travis Knight - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Wildwood"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "YNkLgBdJ8Hw",
-          "video_title": "MovieBlog- 1114: Recensione Wildwood",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Wildwood"
-        }
-      ],
-      "director": "Travis Knight",
-      "it_flatrate": [],
-      "watchnow_checked": true
-    },
-    "movie:naza:tt44766123": {
-      "id": "movie:naza:tt44766123",
-      "imdb_id": "tt44766123",
-      "category": "movie",
-      "it_title": "NAZA",
-      "orig_title": "Naza",
-      "year": 2026,
-      "cast": "Yuval Abraham",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzA5YjdhYTYtNmY5ZS00Mzg1LTkyNDItOGQ1YzQ1MDYzNWJlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt44766123",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "wazP3F_xxfA",
-          "video_title": "\"NAZA\" di Yuval Abraham e Rachel Szor - recensione Mostra del Cinema di Venezia 2026 - Concorso",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "NAZA"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "fLLYdbEOY58",
-          "video_title": "MovieBlog- 1106: Recensione Naza",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Naza"
-        }
-      ],
-      "director": "Yuval Abraham, Rachel Szor",
-      "it_flatrate": [],
-      "watchnow_checked": true
     },
     "movie:masters of the universe:tt0427340": {
       "id": "movie:masters of the universe:tt0427340",
@@ -147195,40 +147265,6 @@
         }
       ]
     },
-    "movie:godzilla minus zero:tt34384661": {
-      "id": "movie:godzilla minus zero:tt34384661",
-      "imdb_id": "tt34384661",
-      "category": "movie",
-      "it_title": "GODZILLA Minus Zero",
-      "orig_title": "Godzilla Minus Zero",
-      "year": 2026,
-      "cast": "Minami Hamabe, Ryūnosuke Kamiki",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzY2OWFhMTgtODJhMi00NDIyLWIzNTQtYjc4MjE4YTBjYzllXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt34384661",
-      "recommendations": [
-        {
-          "creator": "I Criticoni",
-          "video_id": "Df_riRC_O8E",
-          "video_title": "CRITICONI su “GODZILLA Minus Zero” di Takashi Yamazaki | Criticoni Talk #50",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "GODZILLA Minus Zero"
-        },
-        {
-          "creator": "Francesco Alò",
-          "video_id": "rpiH6YEoRSg",
-          "video_title": "\"Godzilla Minus Zero\" di Takashi Yamazaki - recensione",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Godzilla Minus Zero"
-        }
-      ],
-      "director": "Takashi Yamazaki",
-      "it_flatrate": [],
-      "watchnow_checked": true
-    },
     "movie:black phone 2:tt29644189": {
       "id": "movie:black phone 2:tt29644189",
       "imdb_id": "tt29644189",
@@ -153087,6 +153123,113 @@
           "mentioned_as": "Game of Thrones"
         }
       ],
+      "watchnow_checked": true
+    },
+    "movie:fjord:tt35410859": {
+      "id": "movie:fjord:tt35410859",
+      "imdb_id": "tt35410859",
+      "category": "movie",
+      "it_title": "Fjord",
+      "orig_title": "Fjord",
+      "year": 2026,
+      "cast": "Sebastian Stan, Renate Reinsve",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGQwZTQ0YzgtZjk5Mi00NTg1LTg0MmMtZmNjNGUwYjhjNWJhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt35410859",
+      "recommendations": [
+        {
+          "creator": "Francesco Alò",
+          "video_id": "pGUtORZx19M",
+          "video_title": "\"Fjord\" di Cristian Mungiu - recensione Festival di Cannes 2026 Concorso",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Fjord"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_fjord-sebastian-stan-film-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/fjord-sebastian-stan-film-review-2026",
+          "mentioned_as": "Fjord"
+        }
+      ],
+      "director": "Cristian Mungiu",
+      "it_flatrate": [],
+      "watchnow_checked": true
+    },
+    "movie:club kid:tt38058097": {
+      "id": "movie:club kid:tt38058097",
+      "imdb_id": "tt38058097",
+      "category": "movie",
+      "it_title": "Club Kid",
+      "orig_title": "Club Kid",
+      "year": 2026,
+      "director": "Jordan Firstman",
+      "cast": "Jordan Firstman, Cara Delevingne",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTNlYTY0NDgtYjc2Ny00YjU2LWFkYTEtMThlODc5MDFjNDBkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_clubkid_2026",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best26.html",
+          "mentioned_as": "Club Kid"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_club-kid-jordan-firstman-a24-film-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/club-kid-jordan-firstman-a24-film-review-2026",
+          "mentioned_as": "Club Kid"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt38058097",
+      "watchnow_checked": true
+    },
+    "movie:the only living pickpocket in new york:tt36482679": {
+      "id": "movie:the only living pickpocket in new york:tt36482679",
+      "imdb_id": "tt36482679",
+      "category": "movie",
+      "it_title": "The Only Living Pickpocket in New York",
+      "orig_title": "The Only Living Pickpocket in New York",
+      "year": 2026,
+      "director": "Noah Segan",
+      "cast": "John Turturro, Giancarlo Esposito",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODc3NTVjOGMtMzVjYy00NzQ0LTg3MmYtODg3NzljMzNlOTJmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_onlylivingpickpocketinnewyork_2026",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best26.html",
+          "mentioned_as": "The Only Living Pickpocket in New York"
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-only-living-pickpocket-in-new-york-film-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-only-living-pickpocket-in-new-york-film-review-2026",
+          "mentioned_as": "The Only Living Pickpocket in New York"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/movies/tt36482679",
       "watchnow_checked": true
     },
     "movie:l'uomo d'acciaio:tt0770828": {
@@ -212723,32 +212866,6 @@
         }
       ],
       "director": "Pedro Almodóvar",
-      "it_flatrate": [],
-      "watchnow_checked": true
-    },
-    "movie:fjord:tt35410859": {
-      "id": "movie:fjord:tt35410859",
-      "imdb_id": "tt35410859",
-      "category": "movie",
-      "it_title": "Fjord",
-      "orig_title": "Fjord",
-      "year": 2026,
-      "cast": "Sebastian Stan, Renate Reinsve",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGQwZTQ0YzgtZjk5Mi00NTg1LTg0MmMtZmNjNGUwYjhjNWJhXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt35410859",
-      "recommendations": [
-        {
-          "creator": "Francesco Alò",
-          "video_id": "pGUtORZx19M",
-          "video_title": "\"Fjord\" di Cristian Mungiu - recensione Festival di Cannes 2026 Concorso",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Fjord"
-        }
-      ],
-      "director": "Cristian Mungiu",
       "it_flatrate": [],
       "watchnow_checked": true
     },
@@ -305083,60 +305200,6 @@
       "external_url": "https://app.trakt.tv/movies/tt22183852",
       "watchnow_checked": true
     },
-    "movie:club kid:tt38058097": {
-      "id": "movie:club kid:tt38058097",
-      "imdb_id": "tt38058097",
-      "category": "movie",
-      "it_title": "Club Kid",
-      "orig_title": "Club Kid",
-      "year": 2026,
-      "director": "Jordan Firstman",
-      "cast": "Jordan Firstman, Cara Delevingne",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTNlYTY0NDgtYjc2Ny00YjU2LWFkYTEtMThlODc5MDFjNDBkXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "it_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_clubkid_2026",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/best26.html",
-          "mentioned_as": "Club Kid"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt38058097",
-      "watchnow_checked": true
-    },
-    "movie:the only living pickpocket in new york:tt36482679": {
-      "id": "movie:the only living pickpocket in new york:tt36482679",
-      "imdb_id": "tt36482679",
-      "category": "movie",
-      "it_title": "The Only Living Pickpocket in New York",
-      "orig_title": "The Only Living Pickpocket in New York",
-      "year": 2026,
-      "director": "Noah Segan",
-      "cast": "John Turturro, Giancarlo Esposito",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BODc3NTVjOGMtMzVjYy00NzQ0LTg3MmYtODg3NzljMzNlOTJmXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "it_flatrate": [],
-      "recommendations": [
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_onlylivingpickpocketinnewyork_2026",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/best26.html",
-          "mentioned_as": "The Only Living Pickpocket in New York"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt36482679",
-      "watchnow_checked": true
-    },
     "movie:les matins merveilleux:tt35914028": {
       "id": "movie:les matins merveilleux:tt35914028",
       "imdb_id": "tt35914028",
@@ -324688,6 +324751,1158 @@
         }
       ],
       "watchnow_checked": true
+    },
+    "movie:littermates:tt35051345": {
+      "id": "movie:littermates:tt35051345",
+      "imdb_id": "tt35051345",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Littermates",
+      "orig_title": "Littermates",
+      "year": 2026,
+      "cast": "Kaylee McGregor, Joey Bader",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNmMxZmU1NTktZDVmNi00YWY0LWI2MWUtN2MxYzIxZGRiZjdkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt35051345",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_littermates-film-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/littermates-film-review-2026",
+          "mentioned_as": "Littermates"
+        }
+      ]
+    },
+    "movie:zi:tt39150111": {
+      "id": "movie:zi:tt39150111",
+      "imdb_id": "tt39150111",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Zi",
+      "orig_title": "Zi",
+      "year": 2026,
+      "cast": "Jin Ha, Michelle Mao",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTU0YWVjZmItYWVhYS00NDJkLThmN2YtZTFiNjA3ZjE4MjA3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt39150111",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_zi-kogonada-haley-lu-richardson-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/zi-kogonada-haley-lu-richardson-movie-review-2026",
+          "mentioned_as": "Zi"
+        }
+      ],
+      "director": "Kogonada"
+    },
+    "movie:hen:tt29283995": {
+      "id": "movie:hen:tt29283995",
+      "imdb_id": "tt29283995",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Hen",
+      "orig_title": "Hen",
+      "year": 2025,
+      "cast": "Yannis Kokiasmenos, Maria Diakopanayotou",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTFhOWExMzAtYWEzNi00MWM3LTk5NmItNDI4MGNjMDA4ZTRhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt29283995",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_hen-georgia-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/hen-georgia-movie-review-2026",
+          "mentioned_as": "Hen"
+        }
+      ],
+      "director": "György Pálfi"
+    },
+    "movie:mouse:tt13652154": {
+      "id": "movie:mouse:tt13652154",
+      "imdb_id": "tt13652154",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Mouse",
+      "orig_title": "Mouse",
+      "year": 2026,
+      "cast": "Sophie Okonedo, Katherine Mallen Kupferer",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzVjNzY1ZDAtZjk5NS00OTRjLTkzYjktZjk3NDMyZmRlNmNjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt13652154",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_mouse-sophie-okonedo-film-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/mouse-sophie-okonedo-film-review-2026",
+          "mentioned_as": "Mouse"
+        }
+      ],
+      "director": "Kelly O'Sullivan, Alex Thompson"
+    },
+    "movie:trauma or, monsters all:tt37808582": {
+      "id": "movie:trauma or, monsters all:tt37808582",
+      "imdb_id": "tt37808582",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Trauma or, Monsters All",
+      "orig_title": "Trauma or, Monsters All",
+      "year": 2026,
+      "cast": "Laetitia Hollard, Aitana Doyle",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjZiNGJmMDYtZWI5OC00YTk2LThhZDgtN2JjZWFmMTUzYjMyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt37808582",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_trauma-or-monsters-all-larry-fessenden-film-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/trauma-or-monsters-all-larry-fessenden-film-review-2026",
+          "mentioned_as": "Trauma or, Monsters All"
+        }
+      ]
+    },
+    "movie:the mongoose:tt13611778": {
+      "id": "movie:the mongoose:tt13611778",
+      "imdb_id": "tt13611778",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "The Mongoose",
+      "orig_title": "The Mongoose",
+      "year": 2026,
+      "cast": "Liam Neeson, Marisa Tomei",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDBmN2E2YTQtMWE2Ni00ZjMxLWE4NGItODk2ZDZjZDU0MjdlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt13611778",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-mongoose-liam-neeson-film-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-mongoose-liam-neeson-film-review-2026",
+          "mentioned_as": "The Mongoose"
+        }
+      ]
+    },
+    "movie:manhood:tt39637432": {
+      "id": "movie:manhood:tt39637432",
+      "imdb_id": "tt39637432",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Manhood",
+      "orig_title": "Manhood",
+      "year": 2026,
+      "cast": "William Moore, Ruben Ramirez",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODBkNTY5MzMtMDU3OC00YzkyLTliZTAtYjAyNjY3ZTFhNzRiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt39637432",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_manhood-penis-enlargement-documentary-film-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/manhood-penis-enlargement-documentary-film-review-2026",
+          "mentioned_as": "Manhood"
+        }
+      ]
+    },
+    "movie:closure:tt39075417": {
+      "id": "movie:closure:tt39075417",
+      "imdb_id": "tt39075417",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Closure",
+      "orig_title": "Closure",
+      "year": 2026,
+      "cast": "",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDU4MTQzNjktMDUwZi00NGJmLTk1MTUtNzJmYWI2OTRhNzJkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt39075417",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_closure-documentary-film-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/closure-documentary-film-review-2026",
+          "mentioned_as": "Closure"
+        }
+      ],
+      "director": "Michal Marczak"
+    },
+    "movie:the cycle:tt32358390": {
+      "id": "movie:the cycle:tt32358390",
+      "imdb_id": "tt32358390",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "The Cycle",
+      "orig_title": "The Cycle",
+      "year": 2026,
+      "cast": "Deborah Ann Woll, Jeffrey Donovan",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BM2MxZDAwZmItOWI5Ni00YjEzLTg1Y2UtMWE1ZjYyNDJjMDczXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt32358390",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-cycle",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-cycle",
+          "mentioned_as": "The Cycle"
+        }
+      ]
+    },
+    "movie:a talent for murder:tt14129116": {
+      "id": "movie:a talent for murder:tt14129116",
+      "imdb_id": "tt14129116",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "A Talent for Murder",
+      "orig_title": "A Talent for Murder",
+      "year": 2026,
+      "cast": "Helen Mirren, Alden Ehrenreich",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOWI2M2I1OTItMWYwMC00N2I0LWFkMDUtNjZhNWZmYmQ0MzI1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt14129116",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_a-talent-for-murder-helen-mirren-alden-ehrenreich-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/a-talent-for-murder-helen-mirren-alden-ehrenreich-movie-review-2026",
+          "mentioned_as": "A Talent for Murder"
+        }
+      ],
+      "director": "Anton Corbijn"
+    },
+    "movie:trust me, i’m a doctor:tt31456607": {
+      "id": "movie:trust me, i’m a doctor:tt31456607",
+      "imdb_id": "tt31456607",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Trust Me, I’m a Doctor",
+      "orig_title": "Trust Me, I'm a Doctor",
+      "year": 2026,
+      "cast": "Linda Hamilton, Abbie Cornish",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTNlNGU1NmEtMDdkZS00OGUwLWI3MTYtNzk5YWU4ZjFkNWJhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt31456607",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_trust-me-im-a-doctor-kal-penn-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/trust-me-im-a-doctor-kal-penn-movie-review-2026",
+          "mentioned_as": "Trust Me, I’m a Doctor"
+        }
+      ]
+    },
+    "movie:the disciple: a wu-tang fable:tt39150035": {
+      "id": "movie:the disciple: a wu-tang fable:tt39150035",
+      "imdb_id": "tt39150035",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "The Disciple: A Wu-Tang Fable",
+      "orig_title": "The Disciple: A Wu-Tang Fable",
+      "year": 2026,
+      "cast": "Cyrus Bozorgmehr, Cappadonna",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZGY3MTMyYzktMjRiNi00NzU2LWIwMGQtNDViODlkMzU4YzQyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt39150035",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-disciple-a-wu-tang-fable-netflix-documentary-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-disciple-a-wu-tang-fable-netflix-documentary-review-2026",
+          "mentioned_as": "The Disciple: A Wu-Tang Fable"
+        }
+      ]
+    },
+    "movie:hallowarrior:tt29703555": {
+      "id": "movie:hallowarrior:tt29703555",
+      "imdb_id": "tt29703555",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Hallowarrior",
+      "orig_title": "Hallowarrior",
+      "year": 2026,
+      "cast": "Milly Shapiro, Shannyn Sossamon",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzZkMmRhYzItMmNiMi00NThmLWEyM2ItMTg4ZDg4ODA0N2Y4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt29703555",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_hallowarrior-horror-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/hallowarrior-horror-movie-review-2026",
+          "mentioned_as": "Hallowarrior"
+        }
+      ]
+    },
+    "movie:whalefall:tt28535715": {
+      "id": "movie:whalefall:tt28535715",
+      "imdb_id": "tt28535715",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Whalefall",
+      "orig_title": "Whalefall",
+      "year": 2026,
+      "cast": "Austin Abrams, Josh Brolin",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOWJkMjA4M2MtODRkMi00NzI4LTk4MDQtNDZlODdhNDdkYmM3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt28535715",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_whalefall-austin-abrams-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/whalefall-austin-abrams-movie-review-2026",
+          "mentioned_as": "Whalefall"
+        }
+      ],
+      "director": "Brian Duffield"
+    },
+    "movie:other mommy:tt36586020": {
+      "id": "movie:other mommy:tt36586020",
+      "imdb_id": "tt36586020",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Other Mommy",
+      "orig_title": "Other Mommy",
+      "year": 2026,
+      "cast": "Jessica Chastain, Jay Duplass",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGUyODYyYTctMmY0Mi00ZWIwLThjYWItZDJmODY4NGU1YjY1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt36586020",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_other-mommy-jessica-chastain-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/other-mommy-jessica-chastain-movie-review-2026",
+          "mentioned_as": "Other Mommy"
+        }
+      ],
+      "director": "Rob Savage"
+    },
+    "show:the pet cemetery murders: a ghost story:tt46683025": {
+      "id": "show:the pet cemetery murders: a ghost story:tt46683025",
+      "imdb_id": "tt46683025",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "The Pet Cemetery Murders: A Ghost Story",
+      "orig_title": "The Pet Cemetery Murders: A Ghost Story",
+      "year": 2026,
+      "cast": "Patricia Newman, Cindy Graf",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDdlZDdkZmMtMzc0YS00NjU3LThkZDMtZjlmNjkzZmZkNDM1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt46683025",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-pet-cemetery-murders-a-ghost-story-hbo-documentary-tv-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-pet-cemetery-murders-a-ghost-story-hbo-documentary-tv-review-2026",
+          "mentioned_as": "The Pet Cemetery Murders: A Ghost Story"
+        }
+      ]
+    },
+    "movie:california schemin’:tt29549490": {
+      "id": "movie:california schemin’:tt29549490",
+      "imdb_id": "tt29549490",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "California Schemin’",
+      "orig_title": "California Schemin'",
+      "year": 2025,
+      "cast": "Seamus McLean Ross, Samuel Bottomley",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOWM0ZWNkOTEtNWViNC00MzQ2LThlYjYtMjE3YzVkYmExMjBiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt29549490",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_california-schemin-james-mcavoy-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/california-schemin-james-mcavoy-movie-review-2026",
+          "mentioned_as": "California Schemin’"
+        }
+      ],
+      "director": "James McAvoy"
+    },
+    "movie:musk:tt27041231": {
+      "id": "movie:musk:tt27041231",
+      "imdb_id": "tt27041231",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Musk",
+      "orig_title": "Musk",
+      "year": 2026,
+      "cast": "Elon Musk, Justine Musk",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzU2ZGE5YjgtMGRiMC00MDIyLTk4N2EtYTk3NTFiYWI4YWFhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt27041231",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_elon-musk-alex-gibney-hbo-documentary-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/elon-musk-alex-gibney-hbo-documentary-movie-review-2026",
+          "mentioned_as": "Musk"
+        }
+      ],
+      "director": "Alex Gibney"
+    },
+    "movie:my undesirable friends: part ii – exile:tt39317981": {
+      "id": "movie:my undesirable friends: part ii – exile:tt39317981",
+      "imdb_id": "tt39317981",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "My Undesirable Friends: Part II – Exile",
+      "orig_title": "My Undesirable Friends: Part II - Exile",
+      "year": 2026,
+      "cast": "Ksenia Mironova, Anna Nemzer",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZmU1Mzk2ODgtZDkzNS00MjMwLTg4ZjItNmVmZTk3ZTIzMGIyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt39317981",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_my-undesirable-friends-part-ii-exile-documentary-film-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/my-undesirable-friends-part-ii-exile-documentary-film-review-2026",
+          "mentioned_as": "My Undesirable Friends: Part II – Exile"
+        }
+      ],
+      "director": "Julia Loktev"
+    },
+    "movie:beware boiúna:tt10377864": {
+      "id": "movie:beware boiúna:tt10377864",
+      "imdb_id": "tt10377864",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Beware Boiúna",
+      "orig_title": "Beware Boiúna",
+      "year": 2026,
+      "cast": "Logan Marshall-Green, Kiana Madeira",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDQxZDM1NGYtOTlmMS00ZDUxLWJlNDEtZjRiMGIyNzZmM2U0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt10377864",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_beware-boiuna-horror-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/beware-boiuna-horror-movie-review-2026",
+          "mentioned_as": "Beware Boiúna"
+        }
+      ],
+      "director": "Mike P. Nelson"
+    },
+    "movie:the last first: winter k2:tt39150288": {
+      "id": "movie:the last first: winter k2:tt39150288",
+      "imdb_id": "tt39150288",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "The Last First: Winter K2",
+      "orig_title": "The Last First: Winter K2",
+      "year": 2026,
+      "cast": "John Snorri Sigurjónsson, Muhammad Ali Sadpara",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGY5MzE4NDgtNzg1YS00YjBlLTg1ZDYtZGY0NWE0OGQxMmU2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt39150288",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-last-first-winter-k2-apple-documentary-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-last-first-winter-k2-apple-documentary-review-2026",
+          "mentioned_as": "The Last First: Winter K2"
+        }
+      ],
+      "director": "Amir Bar-Lev"
+    },
+    "show:east of eden:tt21097264": {
+      "id": "show:east of eden:tt21097264",
+      "imdb_id": "tt21097264",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "East of Eden",
+      "orig_title": "East of Eden",
+      "year": 2026,
+      "cast": "Florence Pugh, Christopher Abbott",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNmI2ODMyNjctZTA1MS00ODNhLWI3ZjAtMmE4MDE4OWRjMWZlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt21097264",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_east-of-eden-netflix-tv-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/east-of-eden-netflix-tv-review-2026",
+          "mentioned_as": "East of Eden"
+        }
+      ]
+    },
+    "movie:the scout:tt36590599": {
+      "id": "movie:the scout:tt36590599",
+      "imdb_id": "tt36590599",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "The Scout",
+      "orig_title": "The Scout",
+      "year": 2025,
+      "cast": "Rutanya Alda, Matt Barats",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzJlNDI0NmEtYjU0Yy00NTA0LTkyZDUtMjc1M2VkYzEyNGU1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt36590599",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-scout-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-scout-movie-review-2026",
+          "mentioned_as": "The Scout"
+        }
+      ]
+    },
+    "movie:unabomber:tt6933238": {
+      "id": "movie:unabomber:tt6933238",
+      "imdb_id": "tt6933238",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Unabomber",
+      "orig_title": "Unabomber",
+      "year": 2026,
+      "cast": "Russell Crowe, Shailene Woodley",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTVlMmRkMzctNTk5OC00OWUxLWIxMWYtYjFmYzRjZDQxNTQ5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt6933238",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_unabomber-jacob-tremblay-russell-crowe-netflix-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/unabomber-jacob-tremblay-russell-crowe-netflix-movie-review-2026",
+          "mentioned_as": "Unabomber"
+        }
+      ],
+      "director": "Janus Metz Pedersen"
+    },
+    "movie:a prayer for the dying:tt31183803": {
+      "id": "movie:a prayer for the dying:tt31183803",
+      "imdb_id": "tt31183803",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "A Prayer for the Dying",
+      "orig_title": "A Prayer for the Dying",
+      "year": 2026,
+      "cast": "Johnny Flynn, John C. Reilly",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTlkMmIxMDAtNzlmZS00MzE3LWI1OWQtMWZiNTgzN2E5Njg2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt31183803",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_a-prayer-for-the-dying-john-c-reilly-johnny-flynn-western-film-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/a-prayer-for-the-dying-john-c-reilly-johnny-flynn-western-film-review-2026",
+          "mentioned_as": "A Prayer for the Dying"
+        }
+      ]
+    },
+    "show:bucks county, usa:tt34967971": {
+      "id": "show:bucks county, usa:tt34967971",
+      "imdb_id": "tt34967971",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "Bucks County, USA",
+      "orig_title": "Bucks County, USA",
+      "year": 2025,
+      "cast": "Lily Freeman, Evi Casey",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzAxY2I2M2MtYmVkOS00ODJhLTkzZDMtMzUyMjUzMDZmZWRhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt34967971",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_bucks-county-usa-pbs-documentary-tv-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/bucks-county-usa-pbs-documentary-tv-review-2026",
+          "mentioned_as": "Bucks County, USA"
+        }
+      ]
+    },
+    "movie:without blood:tt18398986": {
+      "id": "movie:without blood:tt18398986",
+      "imdb_id": "tt18398986",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Without Blood",
+      "orig_title": "Without Blood",
+      "year": 2024,
+      "cast": "Salma Hayek, Demián Bichir",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmUyZWY1OWUtNDBkZi00NGM3LThkZDEtNDVkMmZjYzA4ZTk3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt18398986",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_without-blood-salma-hayek-angelina-jolie-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/without-blood-salma-hayek-angelina-jolie-movie-review-2026",
+          "mentioned_as": "Without Blood"
+        }
+      ]
+    },
+    "movie:last train to fortune:tt27592184": {
+      "id": "movie:last train to fortune:tt27592184",
+      "imdb_id": "tt27592184",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Last Train to Fortune",
+      "orig_title": "Last Train to Fortune",
+      "year": 2025,
+      "cast": "Mary Steenburgen, Malcolm McDowell",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTdlNDFhNGYtYTkyNy00ZWZlLWE4OTktOTZkYmJiOWI4NzFlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt27592184",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_last-train-to-fortune-malcolm-mcdowell-western-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/last-train-to-fortune-malcolm-mcdowell-western-movie-review-2026",
+          "mentioned_as": "Last Train to Fortune"
+        }
+      ],
+      "director": "Adam Rifkin"
+    },
+    "movie:the weight:tt10794054": {
+      "id": "movie:the weight:tt10794054",
+      "imdb_id": "tt10794054",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "The Weight",
+      "orig_title": "The Weight",
+      "year": 2026,
+      "cast": "Ethan Hawke, Russell Crowe",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZWU1NWY0MzctYmFiYS00MDU3LWFlNDItZDc5ZGY3Y2JiYTI4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt10794054",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-weight-ethan-hawke-russell-crowe-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-weight-ethan-hawke-russell-crowe-movie-review-2026",
+          "mentioned_as": "The Weight"
+        }
+      ],
+      "director": "Padraic McKinley"
+    },
+    "movie:love of your life:tt34384900": {
+      "id": "movie:love of your life:tt34384900",
+      "imdb_id": "tt34384900",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Love of Your Life",
+      "orig_title": "Love of Your Life",
+      "year": 2026,
+      "cast": "Margaret Qualley, Aaron Pierre",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDZjM2Y5NWUtODhjMi00N2MwLWEwMTktZDUwNzg1Y2Y1OWNkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt34384900",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_love-of-your-life-margaret-qualley-prime-video-film-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/love-of-your-life-margaret-qualley-prime-video-film-review-2026",
+          "mentioned_as": "Love of Your Life"
+        }
+      ],
+      "director": "Rachel Morrison"
+    },
+    "movie:the oldest person in the world:tt39032797": {
+      "id": "movie:the oldest person in the world:tt39032797",
+      "imdb_id": "tt39032797",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "The Oldest Person in the World",
+      "orig_title": "The Oldest Person in the World",
+      "year": 2026,
+      "cast": "Ann Blackwell, Violet Brown",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTljMTlhMzQtYWNhYS00MGVjLTk0ZGYtM2E4YmM0ZWU1ZWE3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt39032797",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-oldest-person-in-the-world-documentary-film-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-oldest-person-in-the-world-documentary-film-review-2026",
+          "mentioned_as": "The Oldest Person in the World"
+        }
+      ],
+      "director": "Sam Green"
+    },
+    "movie:runner:tt31349844": {
+      "id": "movie:runner:tt31349844",
+      "imdb_id": "tt31349844",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Runner",
+      "orig_title": "Runner",
+      "year": 2026,
+      "cast": "Alan Ritchson, Owen Wilson",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOThmN2YyMzMtN2Y2Zi00MjViLTg2NzQtNGM0ZDU3ZDAyYThhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt31349844",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_runner-alan-ritchson-owen-wilson-angel-studios-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/runner-alan-ritchson-owen-wilson-angel-studios-movie-review-2026",
+          "mentioned_as": "Runner"
+        }
+      ],
+      "director": "Scott Waugh"
+    },
+    "movie:mighty mary:tt41026232": {
+      "id": "movie:mighty mary:tt41026232",
+      "imdb_id": "tt41026232",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Mighty Mary",
+      "orig_title": "Mighty Mary",
+      "year": 2026,
+      "cast": "Stu Argo, Amy Baltzell",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjJhOGI4NjctM2ZhYi00MzIzLWEwMDktNjM5MGI0ZmI2N2ExXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt41026232",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_mighty-mary-hugh-jackman-elizabeth-banks-documentary-film-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/mighty-mary-hugh-jackman-elizabeth-banks-documentary-film-review-2026",
+          "mentioned_as": "Mighty Mary"
+        }
+      ]
+    },
+    "movie:why did i get married again?:tt38061210": {
+      "id": "movie:why did i get married again?:tt38061210",
+      "imdb_id": "tt38061210",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Why Did I Get Married Again?",
+      "orig_title": "Why Did I Get Married Again?",
+      "year": 2026,
+      "cast": "Tyler Perry, Taraji P. Henson",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTE5YWVkMTAtODJkYi00Y2IwLTlkZDAtYTQ3MDI3ODFiMWI5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt38061210",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_why-did-i-get-married-again-tyler-perry-netflix-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/why-did-i-get-married-again-tyler-perry-netflix-movie-review-2026",
+          "mentioned_as": "Why Did I Get Married Again?"
+        }
+      ]
+    },
+    "movie:by any means:tt34379051": {
+      "id": "movie:by any means:tt34379051",
+      "imdb_id": "tt34379051",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "By Any Means",
+      "orig_title": "By Any Means",
+      "year": 2026,
+      "cast": "Yahya Abdul-Mateen II, Mark Wahlberg",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTUwODQ5N2QtMGM3Ny00YTk1LWJlZTctMTE5ZTAzNTMwOGQxXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt34379051",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_by-any-means-mark-wahlberg-yahya-abdul-mateen-ii-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/by-any-means-mark-wahlberg-yahya-abdul-mateen-ii-movie-review-2026",
+          "mentioned_as": "By Any Means"
+        }
+      ],
+      "director": "Elegance Bratton"
+    },
+    "movie:barbara forever:tt39150008": {
+      "id": "movie:barbara forever:tt39150008",
+      "imdb_id": "tt39150008",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Barbara Forever",
+      "orig_title": "Barbara Forever",
+      "year": 2026,
+      "cast": "Florrie Burke, Gina Carducci",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGJmN2IzNDUtMzQ5Mi00OTgzLWE0ZTQtMzZjNmYyYjZiM2RiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt39150008",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_barbara-forever-documentary-film-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/barbara-forever-documentary-film-review-2026",
+          "mentioned_as": "Barbara Forever"
+        }
+      ],
+      "director": "Brydie O’Connor"
+    },
+    "movie:chronovisor:tt39196981": {
+      "id": "movie:chronovisor:tt39196981",
+      "imdb_id": "tt39196981",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Chronovisor",
+      "orig_title": "Chronovisor",
+      "year": 2026,
+      "cast": "Anne Laure Sellier",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2NhZWJlYWEtN2EzMC00OTYwLTkzMzItZjI0NGYxYThlY2MwXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt39196981",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_chronovisor-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/chronovisor-movie-review-2026",
+          "mentioned_as": "Chronovisor"
+        }
+      ],
+      "director": "Kevin Walker, Jack Auen"
+    },
+    "movie:fall 2: deadpoint:tt31192372": {
+      "id": "movie:fall 2: deadpoint:tt31192372",
+      "imdb_id": "tt31192372",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Fall 2: Deadpoint",
+      "orig_title": "Fall 2: Deadpoint",
+      "year": 2026,
+      "cast": "Harriet Slater, Arsema Thomas",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTI4MjNjNDgtOWY2ZC00YTdjLThhMGItZjZiYjRhNmVhY2JhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt31192372",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_fall-2-deadpoint-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/fall-2-deadpoint-movie-review-2026",
+          "mentioned_as": "Fall 2: Deadpoint"
+        }
+      ],
+      "director": "Michael Spierig, Peter Spierig"
+    },
+    "movie:buddy:tt37281055": {
+      "id": "movie:buddy:tt37281055",
+      "imdb_id": "tt37281055",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Buddy",
+      "orig_title": "Buddy",
+      "year": 2026,
+      "cast": "Cristin Milioti, Delaney Quinn",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMWRkNWJhNjYtY2FkZC00YjFlLWFjMjUtZGFhMjc5MGYyODE4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt37281055",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_buddy-horror-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/buddy-horror-movie-review-2026",
+          "mentioned_as": "Buddy"
+        }
+      ],
+      "director": "Casper Kelly"
+    },
+    "movie:the sun never sets:tt37818327": {
+      "id": "movie:the sun never sets:tt37818327",
+      "imdb_id": "tt37818327",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "The Sun Never Sets",
+      "orig_title": "The Sun Never Sets",
+      "year": 2026,
+      "cast": "Dakota Fanning, Debby Ryan",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYmM1N2EwOGMtOTdlOC00ZGY2LTkzNDEtZjFhYWY1NTBmOTM3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt37818327",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-sun-never-sets-dakota-fanning-joe-swanberg-film-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-sun-never-sets-dakota-fanning-joe-swanberg-film-review-2026",
+          "mentioned_as": "The Sun Never Sets"
+        }
+      ]
+    },
+    "movie:colony:tt34385135": {
+      "id": "movie:colony:tt34385135",
+      "imdb_id": "tt34385135",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Colony",
+      "orig_title": "Colony",
+      "year": 2026,
+      "cast": "Jun Ji-hyun, Koo Kyo-hwan",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzI5YWViNGUtNGRiMy00OThhLWIwOGUtZjkyZDk2NjliODY2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt34385135",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_colony-korean-zombie-film-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/colony-korean-zombie-film-review-2026",
+          "mentioned_as": "Colony"
+        }
+      ],
+      "director": "Yeon Sang-ho"
+    },
+    "show:death of the pastor’s wife:tt44113382": {
+      "id": "show:death of the pastor’s wife:tt44113382",
+      "imdb_id": "tt44113382",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "Death of the Pastor’s Wife",
+      "orig_title": "Death of the Pastor's Wife",
+      "year": 2026,
+      "cast": "Mica Miller, John Paul Miller",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjM2MDkyZjEtZmJmOS00MWQzLTlhNjEtZThiMGE3NGQyN2RlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt44113382",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_death-of-the-pastors-wife-netflix-documentary-tv-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/death-of-the-pastors-wife-netflix-documentary-tv-review-2026",
+          "mentioned_as": "Death of the Pastor’s Wife"
+        }
+      ]
+    },
+    "movie:the magic faraway tree:tt7734244": {
+      "id": "movie:the magic faraway tree:tt7734244",
+      "imdb_id": "tt7734244",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "The Magic Faraway Tree",
+      "orig_title": "The Magic Faraway Tree",
+      "year": 2026,
+      "cast": "Andrew Garfield, Claire Foy",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZThiYWI3ZTYtMjZmYy00Njc5LWE4OGYtNTlmNTQyYWZmYjQ0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt7734244",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-magic-faraway-tree-andrew-garfield-rebecca-ferguson-fantasy-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-magic-faraway-tree-andrew-garfield-rebecca-ferguson-fantasy-movie-review-2026",
+          "mentioned_as": "The Magic Faraway Tree"
+        }
+      ],
+      "director": "Ben Gregor"
+    },
+    "movie:the fence:tt33837526": {
+      "id": "movie:the fence:tt33837526",
+      "imdb_id": "tt33837526",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "The Fence",
+      "orig_title": "The Fence",
+      "year": 2025,
+      "cast": "Isaach De Bankolé, Matt Dillon",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTMzYzRmMDYtNDY2OC00Yjk4LTk1YjQtMDdlMDY4MTI1MDA2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt33837526",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-fence-claire-denis-matt-dillon-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-fence-claire-denis-matt-dillon-movie-review-2026",
+          "mentioned_as": "The Fence"
+        }
+      ],
+      "director": "Claire Denis"
+    },
+    "movie:rosebush pruning:tt27844906": {
+      "id": "movie:rosebush pruning:tt27844906",
+      "imdb_id": "tt27844906",
+      "category": "movie",
+      "media_type": "movie",
+      "it_title": "Rosebush Pruning",
+      "orig_title": "Rosebush Pruning",
+      "year": 2026,
+      "cast": "Callum Turner, Elle Fanning",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjkyZWI0OTgtMzU2Mi00N2U0LTk0NDAtYmY5ODA4ODZmOWM0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt27844906",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_rosebush-pruning-callum-turner-mubi-movie-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/rosebush-pruning-callum-turner-mubi-movie-review-2026",
+          "mentioned_as": "Rosebush Pruning"
+        }
+      ],
+      "director": "Karim Aïnouz"
     },
     "music:nail:foetus": {
       "id": "music:nail:foetus",
