@@ -115,48 +115,85 @@ EBERT_NEG_WORDS = (
 
 def sync_latest_rogerebert_feed(db_data, headers, ch_map, daily_log=None):
     """
-    Scarica le ultime recensioni da https://www.rogerebert.com/reviews/feed
-    e https://www.rogerebert.com/category/great-movies/feed e aggiunge quelle positive!
+    Scarica le ultime recensioni da https://www.rogerebert.com usando il bypass
+    Cloudflare/WordPress (/reviews/feed?feed=&_rating_filter=30%2C40&_paged=N
+    e /reviews/<slug>/feed?feed=) per filtrare SOLO sulle vere STELLE (>= 3.0 su 4)!
     """
     if daily_log is None:
         daily_log = []
     processed_set = set(db_data.get("processed_videos", []))
     new_ebert = []
-    for feed_url, is_great in (
-        ("https://www.rogerebert.com/reviews/feed", False),
-        ("https://www.rogerebert.com/category/great-movies/feed", True),
-    ):
+    ua_headers = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
+
+    # 1. Leggi le prime 3 pagine dell'archivio filtrato direttamente per >= 3.0 stelle (30..40)
+    candidate_links = []
+    for pg in (1, 2, 3):
+        u = f"https://www.rogerebert.com/reviews/feed?feed=&_rating_filter=30%2C40&_paged={pg}"
         try:
-            r = requests.get(feed_url, headers={"User-Agent": "Mozilla/5.0"}, timeout=12)
-            if r.status_code != 200:
-                continue
-            for item_xml in re.findall(r"<item>(.*?)</item>", r.text, re.S):
-                m_t = re.search(r"<title>(.*?)</title>", item_xml)
-                m_l = re.search(r"<link>(.*?)</link>", item_xml)
-                if not m_t or not m_l:
-                    continue
-                title = m_t.group(1).strip()
-                link = m_l.group(1).strip()
-                slug = link.rstrip("/").split("/")[-1]
-                vid = f"ebert_{slug}"
-                if vid in processed_set:
-                    continue
-                m_d = re.search(r"<description><!\[CDATA\[(.*?)\]\]></description>", item_xml, re.S)
-                sub_low = (m_d.group(1) if m_d else "").lower()
-                end_low = item_xml[-2000:].lower()
-                if not is_great:
-                    if any(w in sub_low for w in EBERT_NEG_WORDS) or any(w in end_low for w in EBERT_NEG_WORDS):
-                        processed_set.add(vid)
-                        continue
-                m_yr = re.search(r"-(202\d)$", slug)
-                yr = int(m_yr.group(1)) if m_yr else 2026
-                badge = "★ Great Movie" if is_great else "★ Consigliato"
-                new_ebert.append((vid, title, yr, link, badge))
+            r = requests.get(u, headers=ua_headers, timeout=15)
+            if r.status_code == 200:
+                cards = re.findall(
+                    r'<a href="(https://www\.rogerebert\.com/reviews/[^"]+)"[^>]*>.*?<span>(.*?)</span>.*?filled\s+(star\d+)',
+                    r.text,
+                    re.S,
+                )
+                for link, raw_t, star_cls in cards:
+                    stars = 0.5 if star_cls == "star5" else int(star_cls.replace("star", "")) / 10.0
+                    if stars >= 3.0:
+                        candidate_links.append((link.strip().rstrip("/"), raw_t.strip(), stars, False))
         except Exception:
             pass
 
-    print(f"  • {'RogerEbert.com':20s}: {len(new_ebert)} nuove recensioni positive dal feed")
-    for vid, title, yr, link, badge in new_ebert:
+    # 2. Controlla anche il feed Great Movies (sempre 4.0 stelle)
+    try:
+        r_gm = requests.get("https://www.rogerebert.com/category/great-movies/feed", headers=ua_headers, timeout=12)
+        if r_gm.status_code == 200:
+            for item_xml in re.findall(r"<item>(.*?)</item>", r_gm.text, re.S):
+                m_t = re.search(r"<title>(.*?)</title>", item_xml)
+                m_l = re.search(r"<link>(.*?)</link>", item_xml)
+                if m_t and m_l:
+                    candidate_links.append((m_l.group(1).strip().rstrip("/"), m_t.group(1).strip(), 4.0, True))
+    except Exception:
+        pass
+
+    seen_slugs = set()
+    for link, raw_title, stars, is_great in candidate_links:
+        slug = link.split("/")[-1]
+        if slug in seen_slugs:
+            continue
+        seen_slugs.add(slug)
+        vid = f"ebert_{slug}"
+        if vid in processed_set:
+            continue
+
+        # Verifica JSON-LD della singola recensione via /feed?feed= per leggere ratingValue, regista e anno
+        title = re.sub(r"\s*\(\d{4}\)\s*$", "", raw_title).strip()
+        m_yr = re.search(r"-(202\d)$", slug)
+        yr = int(m_yr.group(1)) if m_yr else 2026
+        director_hint = ""
+        try:
+            r_det = requests.get(f"{link}/feed?feed=", headers=ua_headers, timeout=12, allow_redirects=False)
+            if r_det.status_code == 200:
+                m_rv = re.search(r'"ratingValue":\s*([0-9.]+)', r_det.text)
+                if m_rv:
+                    stars = float(m_rv.group(1))
+                if not is_great and stars < 3.0:
+                    processed_set.add(vid)
+                    continue
+                m_dir = re.search(r'"director":\s*\{"@type":\s*"Person",\s*"name":\s*"([^"]+)"\}', r_det.text)
+                if m_dir:
+                    director_hint = m_dir.group(1).strip()
+                m_dc = re.search(r'"dateCreated":\s*"(\d{4})-', r_det.text)
+                if m_dc:
+                    yr = int(m_dc.group(1))
+        except Exception:
+            pass
+
+        badge = "★ Great Movie" if is_great else f"★ {stars:g}/4"
+        new_ebert.append((vid, title, yr, link, badge, director_hint))
+
+    print(f"  • {'RogerEbert.com':20s}: {len(new_ebert)} nuove recensioni >= 3.0★ verificate")
+    for vid, title, yr, link, badge, director_hint in new_ebert:
         processed_set.add(vid)
         rec = {
             "creator": "Roger Ebert",
@@ -168,7 +205,7 @@ def sync_latest_rogerebert_feed(db_data, headers, ch_map, daily_log=None):
             "mentioned_as": title,
         }
         is_tv = "-tv-review-" in link
-        cat = "show" if is_tv else "movie"
+        cat = "series" if is_tv else "movie"
         m_slug = "shows" if is_tv else "movies"
         k = mcs.find_matching_movie_key(db_data["items"], title, target_year=yr)
         if k and k in db_data["items"]:
@@ -191,7 +228,7 @@ def sync_latest_rogerebert_feed(db_data, headers, ch_map, daily_log=None):
                     "inferred_year": yr,
                     "max_video_year": 2026,
                     "is_classic": False,
-                    "director_hint": "",
+                    "director_hint": director_hint,
                 },
                 headers,
                 ch_map,
@@ -199,7 +236,7 @@ def sync_latest_rogerebert_feed(db_data, headers, ch_map, daily_log=None):
             )
             if enr.get("imdb_id"):
                 if is_tv:
-                    enr["category"] = "show"
+                    enr["category"] = "series"
                     enr["media_type"] = "show"
                 fid = enr["id"]
                 if fid not in db_data["items"]:

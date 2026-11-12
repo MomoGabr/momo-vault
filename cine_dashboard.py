@@ -3612,9 +3612,10 @@ def main():
             f"    💾 Checkpoint salvato al video #{cp.get('global_index')}/{total_channel} "
             f"[{cp.get('video_id')}] — Totale opere nel Vault: {len(db_data['items'])}"
         )
-    counts = {"movie": 0, "music": 0, "book": 0}
+    counts = {"movie": 0, "series": 0, "show": 0, "music": 0, "book": 0}
     for it in db_data["items"].values():
-        counts[it.get("category", "movie")] += 1
+        c = it.get("category", "movie")
+        counts[c] = counts.get(c, 0) + 1
     ch_movies = sum(
         1
         for it in db_data["items"].values()
