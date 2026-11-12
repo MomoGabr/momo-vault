@@ -1792,6 +1792,101 @@
         }
       ]
     },
+    "show:l'attacco dei giganti:tt2560140": {
+      "id": "show:l'attacco dei giganti:tt2560140",
+      "imdb_id": "tt2560140",
+      "category": "show",
+      "it_title": "L'attacco dei giganti",
+      "orig_title": "Attack on Titan",
+      "year": 2013,
+      "cast": "Jessie James Grelle, Bryce Papenbrook",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "show",
+      "ch_flatrate": [
+        {
+          "source": "amazon_prime_video",
+          "name": "Amazon Prime Video",
+          "link": "https://watchnow.trakt.tv/watchnow/324738328"
+        },
+        {
+          "source": "crunchyroll",
+          "name": "Crunchyroll",
+          "link": "https://watchnow.trakt.tv/watchnow/324738329"
+        },
+        {
+          "source": "crunchyroll_amazon_channel",
+          "name": "Crunchyroll (on Amazon)",
+          "link": "https://watchnow.trakt.tv/watchnow/324738330"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/shows/tt2560140",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "TgoECLCjS9A",
+          "video_title": "I Consigli di Frusciante: Ottobre 2015",
+          "timestamp": "8:00",
+          "seconds": 480
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "lZ4NDKoBTvw",
+          "video_title": "Patreon: L'Attacco dei Giganti - Stagione 1 (2013) - Minirece richiesta da Giosuè Mantovan",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_the-attack-2013",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/the-attack-2013",
+          "mentioned_as": "The Attack"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "8rz_wVCOU-I",
+          "video_title": "ATTACK ON TITAN: UN FINALE PERFETTO",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ATTACK ON TITAN"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "hvq7rZWOOxM",
+          "video_title": "ATTACK ON TITAN STAGIONE 4 P.1: Tutta Un'Altra Cosa",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ATTACK ON TITAN"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "X8cG3fEbCfM",
+          "video_title": "ATTACK ON TITAN STAGIONE 3: NARRAZIONE SPAVENTOSA",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ATTACK ON TITAN"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "iNyBEwnUkhU",
+          "video_title": "ATTACK ON TITAN STAGIONE 2: DA QUI PARTE TUTTO",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ATTACK ON TITAN"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "MvrAqEButqQ",
+          "video_title": "ATTACK ON TITAN STAGIONE 1: MINDBLOWN INCREDIBILE",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ATTACK ON TITAN"
+        }
+      ],
+      "it_flatrate": []
+    },
     "movie:after the hunt:tt32159989": {
       "id": "movie:after the hunt:tt32159989",
       "imdb_id": "tt32159989",
@@ -38063,69 +38158,6 @@
         }
       ]
     },
-    "show:l'attacco dei giganti:tt2560140": {
-      "id": "show:l'attacco dei giganti:tt2560140",
-      "imdb_id": "tt2560140",
-      "category": "show",
-      "it_title": "L'attacco dei giganti",
-      "orig_title": "Attack on Titan",
-      "year": 2013,
-      "cast": "Jessie James Grelle, Bryce Papenbrook",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "show",
-      "ch_flatrate": [
-        {
-          "source": "amazon_prime_video",
-          "name": "Amazon Prime Video",
-          "link": "https://watchnow.trakt.tv/watchnow/324738328"
-        },
-        {
-          "source": "crunchyroll",
-          "name": "Crunchyroll",
-          "link": "https://watchnow.trakt.tv/watchnow/324738329"
-        },
-        {
-          "source": "crunchyroll_amazon_channel",
-          "name": "Crunchyroll (on Amazon)",
-          "link": "https://watchnow.trakt.tv/watchnow/324738330"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/shows/tt2560140",
-      "recommendations": [
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "TgoECLCjS9A",
-          "video_title": "I Consigli di Frusciante: Ottobre 2015",
-          "timestamp": "8:00",
-          "seconds": 480
-        },
-        {
-          "creator": "Federico Frusciante",
-          "video_id": "lZ4NDKoBTvw",
-          "video_title": "Patreon: L'Attacco dei Giganti - Stagione 1 (2013) - Minirece richiesta da Giosuè Mantovan",
-          "timestamp": "00:00",
-          "seconds": 0
-        },
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_the-attack-2013",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/the-attack-2013",
-          "mentioned_as": "The Attack"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "8rz_wVCOU-I",
-          "video_title": "ATTACK ON TITAN: UN FINALE PERFETTO",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "ATTACK ON TITAN"
-        }
-      ],
-      "it_flatrate": []
-    },
     "movie:io sono leggenda:tt0480249": {
       "id": "movie:io sono leggenda:tt0480249",
       "imdb_id": "tt0480249",
@@ -39414,6 +39446,168 @@
         }
       ],
       "watchnow_checked": true
+    },
+    "show:the boys:tt1190634": {
+      "id": "show:the boys:tt1190634",
+      "imdb_id": "tt1190634",
+      "category": "show",
+      "it_title": "THE BOYS",
+      "orig_title": "The Boys",
+      "year": 2019,
+      "cast": "Karl Urban, Jack Quaid",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjU4OWNiYzQtMzc1NS00NjZlLTgyYTctZWY4ZmEzMTkxYjA4XkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "show",
+      "ch_flatrate": [
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9ab600aa-6625-b547-cfc0-190e3ad8a27d"
+        }
+      ],
+      "external_url": "https://app.trakt.tv/shows/tt1190634",
+      "recommendations": [
+        {
+          "creator": "Mr. Marra",
+          "video_id": "pybibtGatUk",
+          "video_title": "Ho visto “THE BOYS” - 1’ Stagione RECENSIONE",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "THE BOYS"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "8j2Cy-JaUfk",
+          "video_title": "LE PRIME PUNTATE DI \"THE BOYS\" 4 SPACCANO!",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "THE BOYS"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "P-swf3HqbgA",
+          "video_title": "The Boys 4X08: Un finale di stagione clamoroso!",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "The Boys"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "3n8MsOFhVXs",
+          "video_title": "THE BOYS S04: UN INIZIO COL BOTTO",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "THE BOYS"
+        }
+      ],
+      "director": "Eric Kripke",
+      "it_flatrate": [
+        {
+          "source": "amazonprimevideo",
+          "name": "Amazon Prime Video",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9ab600aa-6625-b547-cfc0-190e3ad8a27d"
+        },
+        {
+          "source": "amazonprimevideowithads",
+          "name": "Amazon Prime Video with Ads",
+          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9ab600aa-6625-b547-cfc0-190e3ad8a27d"
+        }
+      ]
+    },
+    "show:the bear:tt14452776": {
+      "id": "show:the bear:tt14452776",
+      "imdb_id": "tt14452776",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "The Bear",
+      "orig_title": "The Bear",
+      "year": 2022,
+      "cast": "Jeremy Allen White, Ebon Moss-Bachrach",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjk2NWI5OTctODcwYy00NGRmLWFmN2YtOTZiNzFiYjVlODBkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt14452776",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "fX6MrRT29dA",
+          "video_title": "The Bear- Stagione 5: Un Finale Sublime!",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "The Bear"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "iY6HJ9jKMBA",
+          "video_title": "The Bear 4: Una stagione intensissima",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "The Bear"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "sycq68QET4k",
+          "video_title": "The Bear s03: E' scialba come dicono?",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "The Bear"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "SEyj-G_7tVg",
+          "video_title": "THE BEAR: UNA SERIE QUASI PERFETTA",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "THE BEAR"
+        }
+      ]
+    },
+    "show:one piece:tt0388629": {
+      "id": "show:one piece:tt0388629",
+      "imdb_id": "tt0388629",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "One Piece",
+      "orig_title": "One Piece",
+      "year": 1999,
+      "cast": "Mayumi Tanaka, Akemi Okamura",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt0388629",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "P0hea1ZMtss",
+          "video_title": "One Piece Stagione 2: Quanto cuore!",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "One Piece"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "T8VQMsr-GiE",
+          "video_title": "ONE PIECE: LA SERIE LIVE ACTION DI NETFLIX FUNZIONA TANTO!",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ONE PIECE"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "tQvd0wQ-y08",
+          "video_title": "One Piece: pareri a caldo su tutta la prima stagione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "One Piece"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "r-kDLSThVGE",
+          "video_title": "ONE PIECE: PARAGONI TRA ANIME/MANGA E SERIE DI NETFLIX",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ONE PIECE"
+        }
+      ]
     },
     "movie:babylon:tt10640346": {
       "id": "movie:babylon:tt10640346",
@@ -75699,6 +75893,46 @@
       "it_flatrate": [],
       "watchnow_checked": true
     },
+    "show:fallout:tt12637874": {
+      "id": "show:fallout:tt12637874",
+      "imdb_id": "tt12637874",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "Fallout",
+      "orig_title": "Fallout",
+      "year": 2024,
+      "cast": "Ella Purnell, Aaron Moten",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzE1MTZmY2ItMTgxNi00OGU5LTk4NTItMmY2ODFhYzhjZjRkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt12637874",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "JNDM3ccYJcw",
+          "video_title": "Fallout stagione 2: Spettacolare ma con troppa carne al fuoco",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Fallout"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "UTyaFkrHVsY",
+          "video_title": "Fallout 2X01: Un inizio di stagione molto convincente!",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Fallout"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "Nv7qVyUR8FA",
+          "video_title": "FALLOUT: LA SERIE E' UNA BO*BA ATOMICA",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "FALLOUT"
+        }
+      ]
+    },
     "movie:godzilla e kong - il nuovo impero:tt14539740": {
       "id": "movie:godzilla e kong - il nuovo impero:tt14539740",
       "imdb_id": "tt14539740",
@@ -77477,56 +77711,6 @@
         }
       ],
       "external_url": "https://app.trakt.tv/shows/tt7349950"
-    },
-    "show:the boys:tt1190634": {
-      "id": "show:the boys:tt1190634",
-      "imdb_id": "tt1190634",
-      "category": "show",
-      "it_title": "THE BOYS",
-      "orig_title": "The Boys",
-      "year": 2019,
-      "cast": "Karl Urban, Jack Quaid",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjU4OWNiYzQtMzc1NS00NjZlLTgyYTctZWY4ZmEzMTkxYjA4XkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "show",
-      "ch_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9ab600aa-6625-b547-cfc0-190e3ad8a27d"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/shows/tt1190634",
-      "recommendations": [
-        {
-          "creator": "Mr. Marra",
-          "video_id": "pybibtGatUk",
-          "video_title": "Ho visto “THE BOYS” - 1’ Stagione RECENSIONE",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "THE BOYS"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "8j2Cy-JaUfk",
-          "video_title": "LE PRIME PUNTATE DI \"THE BOYS\" 4 SPACCANO!",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "THE BOYS"
-        }
-      ],
-      "director": "Eric Kripke",
-      "it_flatrate": [
-        {
-          "source": "amazonprimevideo",
-          "name": "Amazon Prime Video",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9ab600aa-6625-b547-cfc0-190e3ad8a27d"
-        },
-        {
-          "source": "amazonprimevideowithads",
-          "name": "Amazon Prime Video with Ads",
-          "link": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9ab600aa-6625-b547-cfc0-190e3ad8a27d"
-        }
-      ]
     },
     "movie:il buio nella mente:tt0112769": {
       "id": "movie:il buio nella mente:tt0112769",
@@ -152224,6 +152408,230 @@
       ],
       "external_url": "https://app.trakt.tv/shows/tt3581920",
       "watchnow_checked": true
+    },
+    "show:spider-noir:tt30460310": {
+      "id": "show:spider-noir:tt30460310",
+      "imdb_id": "tt30460310",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "Spider-Noir",
+      "orig_title": "Spider-Noir",
+      "year": 2026,
+      "cast": "Nicolas Cage, Lamorne Morris",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjU3NjEwNTItMzc1Mi00Y2QyLTljNDItOTQ4YjU4NjZjN2EyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt30460310",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_spider-noir-nicolas-cage-spider-man-amazon-prime-video-tv-review-2026",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/spider-noir-nicolas-cage-spider-man-amazon-prime-video-tv-review-2026",
+          "mentioned_as": "Spider-Noir"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "rlfPuyBhAn8",
+          "video_title": "Spider-Noir: Una serie davvero bella!",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Spider-Noir"
+        }
+      ]
+    },
+    "show:shōgun:tt2788316": {
+      "id": "show:shōgun:tt2788316",
+      "imdb_id": "tt2788316",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "Shōgun",
+      "orig_title": "Shōgun",
+      "year": 2024,
+      "cast": "Cosmo Jarvis, Hiroyuki Sanada",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZmJkMDRjYzEtMWI3Ny00OWE3LWJlNTItMGQ1MTQzMzc3NDY5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt2788316",
+      "recommendations": [
+        {
+          "creator": "Roger Ebert",
+          "video_id": "ebert_shogun-tv-review-2024",
+          "video_title": "Roger Ebert",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.rogerebert.com/reviews/shogun-tv-review-2024",
+          "mentioned_as": "Shōgun"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "GvY5liwpbI0",
+          "video_title": "SHOGUN: Una serie d'altri tempi",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "SHOGUN"
+        }
+      ]
+    },
+    "show:mercoledì:tt13443470": {
+      "id": "show:mercoledì:tt13443470",
+      "imdb_id": "tt13443470",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "Mercoledì",
+      "orig_title": "Wednesday",
+      "year": 2022,
+      "cast": "Jenna Ortega, Emma Myers",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2E1NDI5OWEtODJmYi00Nzg2LWI4MjUtODFiMTU2YWViOTU3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt13443470",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "OekUxj8ZyfI",
+          "video_title": "Patreon: Mercoledì (2022) - Stagione 1 - Minirece richiesta da Gabriela Gatto",
+          "timestamp": "00:00",
+          "seconds": 0
+        },
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "XV6Uh141Vrw",
+          "video_title": "Patreon: Mercoledì (seconda stagione) (2025) Per Gabry Gatto e Giulia dedicata a Saretta",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ]
+    },
+    "show:black mirror:tt2085059": {
+      "id": "show:black mirror:tt2085059",
+      "imdb_id": "tt2085059",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "BLACK MIRROR",
+      "orig_title": "Black Mirror",
+      "year": 2011,
+      "cast": "Anjana Vasan, Cristin Milioti",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt2085059",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "5UC05K1ITUc",
+          "video_title": "BLACK MIRROR STAGIONE 6: MA CHE E' 'STA ROBA?",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "BLACK MIRROR"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "1ZdTvROcb4I",
+          "video_title": "Black Mirror:  Quarta stagione un po' 'Meh'",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Black Mirror"
+        }
+      ]
+    },
+    "show:cobra kai:tt7221388": {
+      "id": "show:cobra kai:tt7221388",
+      "imdb_id": "tt7221388",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "COBRA KAI",
+      "orig_title": "Cobra Kai",
+      "year": 2018,
+      "cast": "Ralph Macchio, William Zabka",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjA3NDkwNzktNjJkYi00ODNhLWFhYzQtYzk5NjU4MDM0OWZmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt7221388",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "xWnki7UAxJk",
+          "video_title": "COBRA KAI 5: UNA GRANDE STAGIONE!",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "COBRA KAI"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "B3kE3GmNzxc",
+          "video_title": "COBRA KAI: LA QUARTA STAGIONE SPACCA ANCORA",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "COBRA KAI"
+        }
+      ]
+    },
+    "show:dark:tt5753856": {
+      "id": "show:dark:tt5753856",
+      "imdb_id": "tt5753856",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "DARK",
+      "orig_title": "Dark",
+      "year": 2017,
+      "cast": "Louis Hofmann, Karoline Eichhorn",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTUzNjQ2MTY5NV5BMl5BanBnXkFtZTgwOTAzNTQxNDM@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt5753856",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "hSnMYZUOWUk",
+          "video_title": "DARK S02: PARENTELE MALEDETTE",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "DARK"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "pnzlSTajsCM",
+          "video_title": "DARK S01: L'EFFETTO MARTY MCFLY",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "DARK"
+        }
+      ]
+    },
+    "show:game of thrones:tt0944947": {
+      "id": "show:game of thrones:tt0944947",
+      "imdb_id": "tt0944947",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "Game of Thrones",
+      "orig_title": "Game of Thrones",
+      "year": 2011,
+      "cast": "Emilia Clarke, Peter Dinklage",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGYxOGJkMjItZjVkZC00OGEzLWExNjktOTZmNGZhZmRlMTk2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt0944947",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "Wl6enALBifs",
+          "video_title": "Game of Thrones: Pareri sulla Settima Stagione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Game of Thrones"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "4akTyCPpF8I",
+          "video_title": "Game of Thrones: Season Seven Is Coming",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Game of Thrones"
+        }
+      ]
     },
     "movie:l'uomo d'acciaio:tt0770828": {
       "id": "movie:l'uomo d'acciaio:tt0770828",
@@ -316862,31 +317270,6 @@
       ],
       "director": "Anthony Maras"
     },
-    "show:spider-noir:tt30460310": {
-      "id": "show:spider-noir:tt30460310",
-      "imdb_id": "tt30460310",
-      "category": "show",
-      "media_type": "show",
-      "it_title": "Spider-Noir",
-      "orig_title": "Spider-Noir",
-      "year": 2026,
-      "cast": "Nicolas Cage, Lamorne Morris",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjU3NjEwNTItMzc1Mi00Y2QyLTljNDItOTQ4YjU4NjZjN2EyXkEyXkFqcGc@._V1_UX400_.jpg",
-      "ch_flatrate": [],
-      "it_flatrate": [],
-      "external_url": "https://app.trakt.tv/shows/tt30460310",
-      "recommendations": [
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_spider-noir-nicolas-cage-spider-man-amazon-prime-video-tv-review-2026",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/spider-noir-nicolas-cage-spider-man-amazon-prime-video-tv-review-2026",
-          "mentioned_as": "Spider-Noir"
-        }
-      ]
-    },
     "movie:passenger:tt33763941": {
       "id": "movie:passenger:tt33763941",
       "imdb_id": "tt33763941",
@@ -318910,31 +319293,6 @@
         }
       ]
     },
-    "show:shōgun:tt2788316": {
-      "id": "show:shōgun:tt2788316",
-      "imdb_id": "tt2788316",
-      "category": "show",
-      "media_type": "show",
-      "it_title": "Shōgun",
-      "orig_title": "Shōgun",
-      "year": 2024,
-      "cast": "Cosmo Jarvis, Hiroyuki Sanada",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZmJkMDRjYzEtMWI3Ny00OWE3LWJlNTItMGQ1MTQzMzc3NDY5XkEyXkFqcGc@._V1_UX400_.jpg",
-      "ch_flatrate": [],
-      "it_flatrate": [],
-      "external_url": "https://app.trakt.tv/shows/tt2788316",
-      "recommendations": [
-        {
-          "creator": "Roger Ebert",
-          "video_id": "ebert_shogun-tv-review-2024",
-          "video_title": "Roger Ebert",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.rogerebert.com/reviews/shogun-tv-review-2024",
-          "mentioned_as": "Shōgun"
-        }
-      ]
-    },
     "show:hijack:tt19854762": {
       "id": "show:hijack:tt19854762",
       "imdb_id": "tt19854762",
@@ -319507,6 +319865,844 @@
           "seconds": 0,
           "external_rec_url": "https://www.rogerebert.com/reviews/dr-death-tv-review-2021",
           "mentioned_as": "Dr. Death"
+        }
+      ]
+    },
+    "show:stranger things:tt4574334": {
+      "id": "show:stranger things:tt4574334",
+      "imdb_id": "tt4574334",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "Stranger Things",
+      "orig_title": "Stranger Things",
+      "year": 2016,
+      "cast": "Millie Bobby Brown, Finn Wolfhard",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjEzMDAxOTUyMV5BMl5BanBnXkFtZTgwNzAxMzYzOTE@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt4574334",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "Kl1yDpiV_50",
+          "video_title": "Patreon: Stranger Things (2016) - Stagione 1 - Minirece richiesta da Federico Salomone, Bleach96",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ]
+    },
+    "show:it (miniserie):tt0099864": {
+      "id": "show:it (miniserie):tt0099864",
+      "imdb_id": "tt0099864",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "It (Miniserie)",
+      "orig_title": "It",
+      "year": 1990,
+      "cast": "Richard Thomas, Tim Reid",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDFhODExOTctNTFkZS00NjE1LWE2MWMtY2Q1ZThhMGY5NjJkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt0099864",
+      "recommendations": [
+        {
+          "creator": "Federico Frusciante",
+          "video_id": "TbdqV9IzyTY",
+          "video_title": "Patreon: It (Miniserie) (1990) di Tommy Lee Wallace - Minirece richiesta da normaldik",
+          "timestamp": "00:00",
+          "seconds": 0
+        }
+      ]
+    },
+    "show:la scalata:tt0297623": {
+      "id": "show:la scalata:tt0297623",
+      "imdb_id": "tt0297623",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "La SCALATA",
+      "orig_title": "La scalata",
+      "year": 1993,
+      "cast": "Klausjürgen Wussow, Dalila Di Lazzaro",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjY4ODE2OWUtZWIzMy00NzZmLWIwMzktNGY4YmE0M2Y0NTNkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt0297623",
+      "recommendations": [
+        {
+          "creator": "Mr. Marra",
+          "video_id": "lktciJIzwyU",
+          "video_title": "La SCALATA: 45esimo al MONDO in questa Season + NUOVA LISTA 📝 | MarraMTgGameplay#02",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "La SCALATA"
+        }
+      ]
+    },
+    "show:neon genesis evangelion:tt0112159": {
+      "id": "show:neon genesis evangelion:tt0112159",
+      "imdb_id": "tt0112159",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "NEON GENESIS EVANGELION",
+      "orig_title": "Neon Genesis Evangelion",
+      "year": 1995,
+      "cast": "Megumi Ogata, Megumi Hayashibara",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjZjZGI3ZDQtODNmZC00NjE0LTlmYTUtOTljMWI2YjNmMTQ0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt0112159",
+      "recommendations": [
+        {
+          "creator": "Mr. Marra",
+          "video_id": "tE79cg6fFYw",
+          "video_title": "ho visto NEON GENESIS EVANGELION... | ANALISI serie 1995",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "NEON GENESIS EVANGELION"
+        }
+      ]
+    },
+    "show:peaky blinders:tt2442560": {
+      "id": "show:peaky blinders:tt2442560",
+      "imdb_id": "tt2442560",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "Peaky Blinders",
+      "orig_title": "Peaky Blinders",
+      "year": 2013,
+      "cast": "Cillian Murphy, Paul Anderson",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGM0NGY3ZmItOGE2ZC00OWIxLTk0N2EtZWY4Yzg3ZDlhNGI3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt2442560",
+      "recommendations": [
+        {
+          "creator": "Mr. Marra",
+          "video_id": "ye0pC9L6PqY",
+          "video_title": "Peaky Blinders: PREGI e DIFETTI (recensione 1’ stagione)",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Peaky Blinders"
+        }
+      ]
+    },
+    "show:only murders in the building:tt11691774": {
+      "id": "show:only murders in the building:tt11691774",
+      "imdb_id": "tt11691774",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "Only Murders in the Building",
+      "orig_title": "Only Murders in the Building",
+      "year": 2021,
+      "cast": "Steve Martin, Martin Short",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDFjZDg5MzItYmQxYS00ZmJkLWIwZGEtMjc0Y2QwYzRlNzg5XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt11691774",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "RiWjwpZ4EWs",
+          "video_title": "Only Murders in the Building- S01: Un gioiello",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Only Murders in the Building"
+        }
+      ]
+    },
+    "show:the gentlemen:tt13210838": {
+      "id": "show:the gentlemen:tt13210838",
+      "imdb_id": "tt13210838",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "The Gentlemen",
+      "orig_title": "The Gentlemen",
+      "year": 2024,
+      "cast": "Theo James, Kaya Scodelario",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzM0YzFhMTYtYjZkNS00MWRmLTg2ZDgtY2MzYjQ5ODVmOTI1XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt13210838",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "CncTSnFZt04",
+          "video_title": "The Gentlemen stagione 2: Un po' sbilanciata",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "The Gentlemen"
+        }
+      ]
+    },
+    "show:invincible:tt6741278": {
+      "id": "show:invincible:tt6741278",
+      "imdb_id": "tt6741278",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "Invincible",
+      "orig_title": "Invincible",
+      "year": 2021,
+      "cast": "Steven Yeun, J.K. Simmons",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZGM5MmM2ZDAtMzBjNS00NjMxLWE4ZTMtNzFjMWMxYzU2ZThjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt6741278",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "V5ZxXMK5Vxw",
+          "video_title": "Invincible- Stagione 4: Un vero gioiello",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Invincible"
+        }
+      ]
+    },
+    "show:harry potter:tt13918446": {
+      "id": "show:harry potter:tt13918446",
+      "imdb_id": "tt13918446",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "Harry Potter",
+      "orig_title": "Harry Potter",
+      "year": 2026,
+      "cast": "Arabella Stanton, Dominic McLaughlin",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTY4OGFjMjgtMTM5OS00NTE1LWE1MDAtZTlhY2E1OTcyNzBjXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt13918446",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "_o16GRbBWbs",
+          "video_title": "Harry Potter: Perchè non boicotterò la serie",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Harry Potter"
+        }
+      ]
+    },
+    "show:a knight of the seven kingdoms:tt27497448": {
+      "id": "show:a knight of the seven kingdoms:tt27497448",
+      "imdb_id": "tt27497448",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "A Knight Of the Seven Kingdoms",
+      "orig_title": "A Knight of the Seven Kingdoms",
+      "year": 2026,
+      "cast": "Peter Claffey, Dexter Sol Ansell",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzg4M2U3YWMtMWY4MS00MzFkLTk2ZWQtOThiOGYxZDEyMGQ2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt27497448",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "0ZF4AiCqZGE",
+          "video_title": "A Knight Of the Seven Kingdoms 1X06: Finale di stagione perfetto!",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "A Knight Of the Seven Kingdoms"
+        }
+      ]
+    },
+    "show:peacemaker:tt13146488": {
+      "id": "show:peacemaker:tt13146488",
+      "imdb_id": "tt13146488",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "Peacemaker",
+      "orig_title": "Peacemaker",
+      "year": 2022,
+      "cast": "John Cena, Danielle Brooks",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDIyMGU2NTktOTM3YS00OTRjLWJiMmItNDEyNjVhZTZiZGUxXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt13146488",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "Qfwc25IvR5o",
+          "video_title": "Peacemaker Stagione 2: Gunn è un genio!",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Peacemaker"
+        }
+      ]
+    },
+    "show:gen v:tt13159924": {
+      "id": "show:gen v:tt13159924",
+      "imdb_id": "tt13159924",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "Gen V",
+      "orig_title": "Gen V",
+      "year": 2023,
+      "cast": "Jaz Sinclair, Lizze Broadway",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWU4YTljYmItYjczNS00MWY0LWI3NjctZjJhYjU3NWNmNWZhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt13159924",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "tvCi6evpdAE",
+          "video_title": "Gen V stagione 2 è divertente ma difettosissima",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Gen V"
+        }
+      ]
+    },
+    "show:adolescence:tt31806037": {
+      "id": "show:adolescence:tt31806037",
+      "imdb_id": "tt31806037",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "ADOLESCENCE",
+      "orig_title": "Adolescence",
+      "year": 2025,
+      "cast": "Stephen Graham, Owen Cooper",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGY1YjBiNzMtYWZhNC00OWViLWE0MzItNjc4YzczOGNiM2I0XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt31806037",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "oTbCzSNFT9g",
+          "video_title": "\"ADOLESCENCE\" È UNA SERIE SCONVOLGENTE",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ADOLESCENCE"
+        }
+      ]
+    },
+    "show:daredevil:tt3322312": {
+      "id": "show:daredevil:tt3322312",
+      "imdb_id": "tt3322312",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "Daredevil",
+      "orig_title": "Daredevil",
+      "year": 2015,
+      "cast": "Charlie Cox, Vincent D'Onofrio",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt3322312",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "GLx2mgwyP14",
+          "video_title": "Daredevil: Rinascita 1X01-2: Il Livello delle serie MCU si è alzato",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Daredevil"
+        }
+      ]
+    },
+    "show:from:tt9813792": {
+      "id": "show:from:tt9813792",
+      "imdb_id": "tt9813792",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "From",
+      "orig_title": "From",
+      "year": 2022,
+      "cast": "Harold Perrineau, Catalina Sandino Moreno",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDAwNDljNWEtNWE1Zi00YjFlLWEzM2UtY2E3ZTM1MTcxMTcyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt9813792",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "t7rs-VnMdlc",
+          "video_title": "From - Stagione 3: La miglior stagione",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "From"
+        }
+      ]
+    },
+    "show:kaos:tt8550732": {
+      "id": "show:kaos:tt8550732",
+      "imdb_id": "tt8550732",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "KAOS",
+      "orig_title": "Kaos",
+      "year": 2024,
+      "cast": "Jeff Goldblum, Janet McTeer",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjczMDQ5MTEtYzY1Ni00M2FlLWI2NGMtYTYyZjM1ZGNkNGQyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt8550732",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "hHJQSTnrBTI",
+          "video_title": "KAOS: UNA SERIE CHE TI RAPISCE!",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "KAOS"
+        }
+      ]
+    },
+    "show:baby reindeer:tt13649112": {
+      "id": "show:baby reindeer:tt13649112",
+      "imdb_id": "tt13649112",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "BABY REINDEER",
+      "orig_title": "Baby Reindeer",
+      "year": 2024,
+      "cast": "Richard Gadd, Jessica Gunning",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzlmY2E1OTUtMjEzZi00Y2YxLWI5NmMtZmZhOWZkMjIzMDJiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt13649112",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "LwOMQycRU7Q",
+          "video_title": "BABY REINDEER: UNA SERIE CHE MI HA DAVVERO SCONVOLTO",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "BABY REINDEER"
+        }
+      ]
+    },
+    "show:ripley:tt11016042": {
+      "id": "show:ripley:tt11016042",
+      "imdb_id": "tt11016042",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "RIPLEY",
+      "orig_title": "Ripley",
+      "year": 2024,
+      "cast": "Andrew Scott, Dakota Fanning",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmI0NzgyY2ItODVmMy00YzQzLWI3ODAtMzExZDMxYWU0YmZhXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt11016042",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "cNfbqErPEjI",
+          "video_title": "RIPLEY: UNA SERIE DAL SAPORE HITCHCOCKIANO",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "RIPLEY"
+        }
+      ]
+    },
+    "show:hazbin hotel:tt7216636": {
+      "id": "show:hazbin hotel:tt7216636",
+      "imdb_id": "tt7216636",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "HAZBIN HOTEL",
+      "orig_title": "Hazbin Hotel",
+      "year": 2019,
+      "cast": "Erika Henningsen, Stephanie Beatriz",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGMxYWIwMWYtZjY4OC00MzMwLWIyNDEtYWNiZTJlMzg3ODdiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt7216636",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "1ydLrNddCys",
+          "video_title": "HAZBIN HOTEL: UNA SERIE ANIMATA PER ADULTI SPETTACOLARE",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "HAZBIN HOTEL"
+        }
+      ]
+    },
+    "show:the mandalorian:tt8111088": {
+      "id": "show:the mandalorian:tt8111088",
+      "imdb_id": "tt8111088",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "THE MANDALORIAN",
+      "orig_title": "The Mandalorian",
+      "year": 2019,
+      "cast": "Pedro Pascal, Chris Bartlett",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjgxZGM0OWUtZGY1MS00MWRmLTk2N2ItYjQyZTI1OThlZDliXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt8111088",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "X1djiWM_05s",
+          "video_title": "THE MANDALORIAN STAGIONE 3: UN INIZIO MOLTO TIEPIDO",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "THE MANDALORIAN"
+        }
+      ]
+    },
+    "show:one piece live action:tt29345496": {
+      "id": "show:one piece live action:tt29345496",
+      "imdb_id": "tt29345496",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "ONE PIECE LIVE ACTION",
+      "orig_title": "The Normies: One Piece (Live Action) Reactions",
+      "year": 2023,
+      "cast": "Navi Kaur, Marketa Ruzickova",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTA3Y2Q2OTUtY2EzZi00ZjQzLTg5YTgtYmM1MmRjMjY4NzkwXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt29345496",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "rXDiHE_daRM",
+          "video_title": "ONE PIECE LIVE ACTION: LE PRIME IMMAGINI DELLA SERIE NETFLIX!",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ONE PIECE LIVE ACTION"
+        }
+      ]
+    },
+    "show:alice in borderland:tt10795658": {
+      "id": "show:alice in borderland:tt10795658",
+      "imdb_id": "tt10795658",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "ALICE IN BORDERLAND",
+      "orig_title": "Alice in Borderland",
+      "year": 2020,
+      "cast": "Kento Yamazaki, Tao Tsuchiya",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYmMzODA4M2MtMjBmNC00YjFhLTg4NzgtODgyNzE4NWQxMThmXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt10795658",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "loX63RBDnyE",
+          "video_title": "ALICE IN BORDERLAND STAGIONE 2: MEGLIO DI SQUID GAME",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ALICE IN BORDERLAND"
+        }
+      ]
+    },
+    "show:house of the dragon:tt11198330": {
+      "id": "show:house of the dragon:tt11198330",
+      "imdb_id": "tt11198330",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "HOUSE OF THE DRAGON",
+      "orig_title": "House of the Dragon",
+      "year": 2022,
+      "cast": "Matt Smith, Emma D'Arcy",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOWU2ZDA0M2EtNWEyYy00MWUwLWI4NjAtYzkxMDFjYzZkNGFiXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt11198330",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "Uwc9fU38gfs",
+          "video_title": "HOUSE OF THE DRAGON 1X10: UN FINALE DI STAGIONE GRAFFIANTE",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "HOUSE OF THE DRAGON"
+        }
+      ]
+    },
+    "show:she-hulk:tt10857160": {
+      "id": "show:she-hulk:tt10857160",
+      "imdb_id": "tt10857160",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "SHE-HULK",
+      "orig_title": "She Hulk: Attorney at Law",
+      "year": 2022,
+      "cast": "Tatiana Maslany, Ginger Gonzaga",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjg4ZTQ1MjctNzEyMS00YWM2LTk1ZTQtNDU3ZDJjNjhhMDhkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt10857160",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "iXPmHxAbljU",
+          "video_title": "SHE-HULK 1X04: LA VERA STRUTTURA DELLA SERIE",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "SHE-HULK"
+        }
+      ]
+    },
+    "show:better call saul:tt3032476": {
+      "id": "show:better call saul:tt3032476",
+      "imdb_id": "tt3032476",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "BETTER CALL SAUL",
+      "orig_title": "Better Call Saul",
+      "year": 2015,
+      "cast": "Bob Odenkirk, Rhea Seehorn",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTAxOTQ0MjUzMzJeQTJeQWpwZ15BbWU4MDY0NTAxNzMx._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt3032476",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "7hLfYEdcyHk",
+          "video_title": "BETTER CALL SAUL 6X10: LA PUNTATA PIU' IMPORTANTE DELLA SERIE",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "BETTER CALL SAUL"
+        }
+      ]
+    },
+    "show:obi-wan kenobi:tt8466564": {
+      "id": "show:obi-wan kenobi:tt8466564",
+      "imdb_id": "tt8466564",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "OBI-WAN KENOBI",
+      "orig_title": "Obi-Wan Kenobi",
+      "year": 2022,
+      "cast": "Ewan McGregor, Moses Ingram",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGU4ODlmNmMtMDM0OS00NTMxLWFlODUtZGFkMjU5NDdhMjgyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt8466564",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "tQwZ4AhCJ4E",
+          "video_title": "OBI-WAN KENOBI 1X03: LE COSE SI FANNO SERIE",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "OBI-WAN KENOBI"
+        }
+      ]
+    },
+    "show:doctor strange:tt3693414": {
+      "id": "show:doctor strange:tt3693414",
+      "imdb_id": "tt3693414",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "DOCTOR STRANGE",
+      "orig_title": "Doctor Stranger",
+      "year": 2014,
+      "cast": "Lee Jong-suk, Jin Se-yeon",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjc5Y2I5ZjctMzE4YS00NWE0LThjMTUtYzY2YTUwMWI3NDVkXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt3693414",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "XGBbDyqFeag",
+          "video_title": "DOCTOR STRANGE 2: I CAMEO SVELATI E LE SERIE DELL'MCU COLLEGATE AL FILM",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "DOCTOR STRANGE"
+        }
+      ]
+    },
+    "show:the witcher:tt5180504": {
+      "id": "show:the witcher:tt5180504",
+      "imdb_id": "tt5180504",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "THE WITCHER",
+      "orig_title": "The Witcher",
+      "year": 2019,
+      "cast": "Freya Allan, Anya Chalotra",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTQzMzNmMzUtODgwNS00YTdhLTg5N2MtOWU1YTc4YWY3NjRlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt5180504",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "RmbZddocJ_E",
+          "video_title": "THE WITCHER STAGIONE 2: DAVVERO STRAORDINARIA",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "THE WITCHER"
+        }
+      ]
+    },
+    "show:cowboy bebop:tt0213338": {
+      "id": "show:cowboy bebop:tt0213338",
+      "imdb_id": "tt0213338",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "COWBOY BEBOP",
+      "orig_title": "Cowboy Bebop",
+      "year": 1998,
+      "cast": "Koichi Yamadera, Unsho Ishizuka",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU3ZTdiOGQtYmYwYy00OGM5LThmNjMtZGJmNTVlZjk1ZmEyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt0213338",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "SgievEWwyVU",
+          "video_title": "COWBOY BEBOP: LA SERIE LIVE ACTION E' INTRIGANTE!",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "COWBOY BEBOP"
+        }
+      ]
+    },
+    "show:squid game:tt10919420": {
+      "id": "show:squid game:tt10919420",
+      "imdb_id": "tt10919420",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "SQUID GAME",
+      "orig_title": "Squid Game",
+      "year": 2021,
+      "cast": "Lee Jung-jae, Wi Ha-joon",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDcxYjg1OTctYmUxZi00ZjhjLWIwNTMtNmI2M2Y4OTU1YWU2XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt10919420",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "6n6FOI6_pW0",
+          "video_title": "SQUID GAME: UNA SERIE TAGLIENTE E DEVASTANTE",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "SQUID GAME"
+        }
+      ]
+    },
+    "show:zero:tt23872886": {
+      "id": "show:zero:tt23872886",
+      "imdb_id": "tt23872886",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "ZERO",
+      "orig_title": "Zero Day",
+      "year": 2025,
+      "cast": "Robert De Niro, Jesse Plemons",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmYwNWM3ZWEtMmRlMi00MTA5LWFlY2QtMGI2MTdjOWFiZjgxXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt23872886",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "ARVdRciNC6k",
+          "video_title": "ZERO: LA SERIE IL CUI TITOLO E' ANCHE IL VOTO CHE SI MERITA",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "ZERO"
+        }
+      ]
+    },
+    "show:scrubs:tt40197357": {
+      "id": "show:scrubs:tt40197357",
+      "imdb_id": "tt40197357",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "SCRUBS",
+      "orig_title": "Scrubs",
+      "year": 2026,
+      "cast": "Zach Braff, Sarah Chalke",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDUwODJiYjktZjE0Yy00ZjViLWJiZWEtNThlNjI5MDg5MWY3XkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt40197357",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "iTcd64IAEts",
+          "video_title": "SCRUBS: LA MIA SERIE",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "SCRUBS"
+        }
+      ]
+    },
+    "show:narcos:tt2707408": {
+      "id": "show:narcos:tt2707408",
+      "imdb_id": "tt2707408",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "Narcos",
+      "orig_title": "Narcos",
+      "year": 2015,
+      "cast": "Pedro Pascal, Wagner Moura",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzQwOTcwMzIwN15BMl5BanBnXkFtZTgwMjYxMTA0NjE@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt2707408",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "_HH5MdXdPyA",
+          "video_title": "Narcos Stagione 3: Escobar Chi?",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Narcos"
+        }
+      ]
+    },
+    "show:13 reasons why:tt1837492": {
+      "id": "show:13 reasons why:tt1837492",
+      "imdb_id": "tt1837492",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "13 Reasons Why",
+      "orig_title": "13 Reasons Why",
+      "year": 2017,
+      "cast": "Dylan Minnette, Katherine Langford",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNThjYzQ3ZjYtM2I0ZC00OGNjLTlmNGItYjE3ZWI5MWIyMWYyXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt1837492",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "knsDp1yYl9s",
+          "video_title": "13 Reasons Why: L'Utile Seconda Stagione #MaAncheNo",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "13 Reasons Why"
+        }
+      ]
+    },
+    "show:stay:tt2201227": {
+      "id": "show:stay:tt2201227",
+      "imdb_id": "tt2201227",
+      "category": "show",
+      "media_type": "show",
+      "it_title": "Stay",
+      "orig_title": "Stay Close",
+      "year": 2021,
+      "cast": "Cush Jumbo, James Nesbitt",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMWI1NTIwN2UtY2VmYS00NzM5LWFhOTQtODM3MWI1MWU4ZGFlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "external_url": "https://app.trakt.tv/shows/tt2201227",
+      "recommendations": [
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "TkyVD4hOv3w",
+          "video_title": "Stay (A)live #1: Nuova stagione per film e serie tv",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Stay"
         }
       ]
     },

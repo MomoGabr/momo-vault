@@ -3,12 +3,87 @@
 ########################################################################
 
 ========================================================================
-📅 SYNC DEL 2026-11-12 15:29 UTC | Opere nel Vault: 10442 | Visti Trakt: 363
+📅 SYNC DEL 2026-11-12 16:35 UTC | Opere nel Vault: 10560 | Visti Trakt: 363
 ========================================================================
-✓ Nessun nuovo video/recensione uscito oggi (Trakt e Streaming CH/IT sincronizzati).
+✨ Nuovi video/recensioni aggiunti oggi (25):
+  • [Roger Ebert] The Body (2026) [SHOW]
+    🔗 Recensione: https://www.rogerebert.com/reviews/the-body-netflix-tv-review-2026
+    🎬 Trakt: https://app.trakt.tv/shows/tt8014982
+  • [Roger Ebert] Jimmy (2026) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/jimmy-stewart-biopic-film-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt31179962
+  • [Roger Ebert] Soul Patrol (2026) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/soul-patrol-documentary-film-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt38952225
+  • [Roger Ebert] Drummer Boy (2026) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/drummer-boy-angel-studios-movie-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt10098420
+  • [Roger Ebert] Klara and the Sun (2026) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/klara-and-the-sun-taika-waititi-film-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt14371256
+  • [Roger Ebert] Love Language (2026) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/love-language-chloe-grace-moretz-romantic-comedy-film-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt33998222
+  • [Roger Ebert] Sacrifice (2025) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/sacrifice-chris-evans-anya-taylor-joy-netflix-film-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt32268992
+  • [Roger Ebert] DreamQuil (2026) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/dreamquil-elizabeth-backs-movie-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt27733119
+  • [Roger Ebert] 14th (2026) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/14th-ava-duvernay-netflix-documentary-film-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt43682722
+  • [Roger Ebert] World Without Cows (2024) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/world-without-cows-documentary-film-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt36363878
+  • [Roger Ebert] Treasure Island (2026) [SHOW]
+    🔗 Recensione: https://www.rogerebert.com/reviews/treasure-island-david-oyelowo-mgm-tv-review-2026
+    🎬 Trakt: https://app.trakt.tv/shows/tt40385667
+  • [Roger Ebert] The Beast (2026) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/the-beast-samuel-l-jackson-joel-kinnaman-movie-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt29256561
+  • [Roger Ebert] Matchbox: The Movie (2026) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/matchbox-the-movie-john-cena-apple-tv-movie-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt28498219
+  • [Roger Ebert] Misty Green (2026) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/misty-green-chris-rock-film-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt34385184
+  • [Roger Ebert] Below (2026) [SHOW]
+    🔗 Recensione: https://www.rogerebert.com/reviews/below-josh-hartnett-netflix-tv-review-2026
+    🎬 Trakt: https://app.trakt.tv/shows/tt35934755
+  • [Roger Ebert] Who is Martin Mull? (2026) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/who-is-martin-mull-netflix-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt9859238
+  • [Roger Ebert] The Incomer (2026) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/the-incomer-domhnall-gleeson-movie-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt36980182
+  • [Roger Ebert] The Deputy (2026) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/the-deputy-duke-nicholson-william-h-macy-movie-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt29494959
+  • [Roger Ebert] Twiggy (2024) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/twiggy-documentary-film-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt23643456
+  • [Roger Ebert] Ha-chan, Shake Your Booty! (2026) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/ha-chan-shake-your-booty-rinko-kikuchi-movie-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt39149197
+  • [Roger Ebert] Charlie Harper (2025) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/charlie-harper-emilie-jones-nick-robinson-movie-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt27739255
+  • [Roger Ebert] Take Me Home (2026) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/take-me-home-film-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt37263549
+  • [Roger Ebert] The Love Hypothesis (2026) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/the-love-hypothesis-lili-reinhart-prime-video-movie-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt22526100
+  • [Roger Ebert] Run Terry Run (2025) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/run-terry-run-documentary-film-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt39130015
+  • [Roger Ebert] Knife: The Attempted Murder of Salman Rushdie (2026) [MOVIE]
+    🔗 Recensione: https://www.rogerebert.com/reviews/knife-the-attempted-murder-of-salman-rushdie-documentary-movie-review-2026
+    🎬 Trakt: https://app.trakt.tv/movies/tt32534849
 
 ========================================================================
-📅 SYNC DEL 2026-11-11 14:38 UTC | Opere nel Vault: 10454 | Visti Trakt: 363
+📅 SYNC DEL 2026-11-12 16:21 UTC | Opere nel Vault: 10465 | Visti Trakt: 363
 ========================================================================
 ✨ Nuovi video/recensioni aggiunti oggi (23):
   • [Roger Ebert] The Good Daughter (2026) [SHOW]
