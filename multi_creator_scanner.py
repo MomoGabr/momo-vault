@@ -350,7 +350,7 @@ def find_matching_movie_key(items_dict, raw_title, target_year=None, dir_hint=""
     tl = raw_title.lower().strip()
     candidates = []
     for k, it in items_dict.items():
-        if it.get("category") != "movie":
+        if it.get("category") not in ("movie", "show"):
             continue
         it_t = (it.get("it_title") or "").lower().strip()
         or_t = (it.get("orig_title") or "").lower().strip()

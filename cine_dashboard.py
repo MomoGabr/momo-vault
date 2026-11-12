@@ -1254,21 +1254,22 @@ def enrich_movie(item, headers, ch_sources_map, check_ch=True):
         except Exception:
             pass
 
+    cat_out = "show" if media_type == "shows" else "movie"
     final_id = (
-        f"movie:{title.lower()}:{imdb_id}"
+        f"{cat_out}:{title.lower()}:{imdb_id}"
         if imdb_id
-        else f"movie:{title.lower()}:{'classic' if is_classic else (year or 'any')}"
+        else f"{cat_out}:{title.lower()}:{'classic' if is_classic else (year or 'any')}"
     )
     return {
         "id": final_id,
         "imdb_id": imdb_id,
-        "category": "movie",
+        "category": cat_out,
         "it_title": title,
         "orig_title": orig_title,
         "year": year,
         "cast": cast,
         "poster_url": poster_url,
-        "media_type": "show" if media_type == "shows" else "movie",
+        "media_type": cat_out,
         "ch_flatrate": ch_flatrate,
         "it_flatrate": it_flatrate,
         "external_url": f"https://app.trakt.tv/{'shows' if media_type == 'shows' else 'movies'}/{imdb_id}"
