@@ -1225,13 +1225,14 @@ def enrich_movie(item, headers, ch_sources_map, check_ch=True):
 
     ch_flatrate = []
     it_flatrate = []
+    no_flatrate = []
     if imdb_id and check_ch:
         try:
             wn_url = f"https://api.trakt.tv/{media_type}/{imdb_id}/watchnow"
             wn_resp = requests.get(wn_url, headers=headers, timeout=10)
             if wn_resp.status_code == 200:
                 wn_json = wn_resp.json()
-                for c_code, target_list in (("ch", ch_flatrate), ("it", it_flatrate)):
+                for c_code, target_list in (("ch", ch_flatrate), ("it", it_flatrate), ("no", no_flatrate)):
                     c_data = wn_json.get(c_code, {})
                     seen_flat = set()
                     for bucket in ("subscription", "free"):
@@ -1272,6 +1273,7 @@ def enrich_movie(item, headers, ch_sources_map, check_ch=True):
         "media_type": cat_out,
         "ch_flatrate": ch_flatrate,
         "it_flatrate": it_flatrate,
+        "no_flatrate": no_flatrate,
         "external_url": f"https://app.trakt.tv/{'shows' if media_type == 'shows' else 'movies'}/{imdb_id}"
         if imdb_id
         else "",
@@ -1557,6 +1559,10 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
             copy_it.pop("it_flatrate", None)
         else:
             copy_it["it_flatrate"] = [{"name": p.get("name", ""), "link": p.get("link", "")} for p in copy_it["it_flatrate"]]
+        if not copy_it.get("no_flatrate"):
+            copy_it.pop("no_flatrate", None)
+        else:
+            copy_it["no_flatrate"] = [{"name": p.get("name", ""), "link": p.get("link", "")} for p in copy_it["no_flatrate"]]
         if not copy_it.get("my_rating"):
             copy_it.pop("my_rating", None)
         if not copy_it.get("watched"):
@@ -2376,6 +2382,7 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
       <div class="seg-ctrl" id="countrySeg">
         <button class="seg-btn active" data-c="CH" onclick="setStreamCountry('CH')">🇨🇭 CH</button>
         <button class="seg-btn" data-c="IT" onclick="setStreamCountry('IT')">🇮🇹 IT</button>
+        <button class="seg-btn" data-c="NO" onclick="setStreamCountry('NO')">🇳🇴 NO</button>
       </div>
       <button class="action-btn gold" id="btnCountry" style="display:none">🇨🇭</button>
       <button class="toggle-btn" id="btnOnlyCh">⚡ Solo Streaming</button>
@@ -2466,10 +2473,14 @@ const statsPills = document.getElementById('statsPills');
 const insightsPanel = document.getElementById('insightsPanel');
 
 function getActiveFlatrate(m) {{
-  return streamCountry === 'IT' ? (m.it_flatrate || []) : (m.ch_flatrate || []);
+  if (streamCountry === 'IT') return m.it_flatrate || [];
+  if (streamCountry === 'NO') return m.no_flatrate || [];
+  return m.ch_flatrate || [];
 }}
 function getCountryFlag() {{
-  return streamCountry === 'IT' ? '🇮🇹' : '🇨🇭';
+  if (streamCountry === 'IT') return '🇮🇹';
+  if (streamCountry === 'NO') return '🇳🇴';
+  return '🇨🇭';
 }}
 
 const counts = {{ movie: 0, show: 0, music: 0, book: 0 }};
@@ -3359,6 +3370,8 @@ def normalize_and_deduplicate_items(items_dict):
                 merged[canon_key]["ch_flatrate"] = item["ch_flatrate"]
             if not merged[canon_key].get("it_flatrate") and item.get("it_flatrate"):
                 merged[canon_key]["it_flatrate"] = item["it_flatrate"]
+            if not merged[canon_key].get("no_flatrate") and item.get("no_flatrate"):
+                merged[canon_key]["no_flatrate"] = item["no_flatrate"]
             if not merged[canon_key].get("director") and item.get("director"):
                 merged[canon_key]["director"] = item["director"]
         else:
