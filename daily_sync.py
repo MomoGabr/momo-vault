@@ -205,7 +205,7 @@ def sync_latest_rogerebert_feed(db_data, headers, ch_map, daily_log=None):
             "mentioned_as": title,
         }
         is_tv = "-tv-review-" in link
-        cat = "series" if is_tv else "movie"
+        cat = "show" if is_tv else "movie"
         m_slug = "shows" if is_tv else "movies"
         k = mcs.find_matching_movie_key(db_data["items"], title, target_year=yr)
         if k and k in db_data["items"]:
@@ -236,7 +236,7 @@ def sync_latest_rogerebert_feed(db_data, headers, ch_map, daily_log=None):
             )
             if enr.get("imdb_id"):
                 if is_tv:
-                    enr["category"] = "series"
+                    enr["category"] = "show"
                     enr["media_type"] = "show"
                 fid = enr["id"]
                 if fid not in db_data["items"]:
