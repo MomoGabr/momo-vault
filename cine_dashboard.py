@@ -1419,9 +1419,12 @@ def fetch_user_trakt_state(headers):
         for endpoint, key_name in (("movies", "movie"), ("shows", "show")):
             page = 1
             while True:
+                q_params = {"page": page, "limit": 250}
+                if endpoint == "shows":
+                    q_params["extended"] = "full"
                 w_resp = requests.get(
                     f"https://api.trakt.tv/users/me/watched/{endpoint}",
-                    params={"page": page, "limit": 250},
+                    params=q_params,
                     headers=headers,
                     timeout=15,
                 )
@@ -1432,8 +1435,14 @@ def fetch_user_trakt_state(headers):
                     break
                 for row in rows:
                     imdb_id = row.get(key_name, {}).get("ids", {}).get("imdb")
-                    if imdb_id:
-                        watched_imdb.add(imdb_id)
+                    if not imdb_id:
+                        continue
+                    if endpoint == "shows":
+                        aired = int(row.get("show", {}).get("aired_episodes") or 0)
+                        plays = int(row.get("plays") or 0)
+                        if aired <= 0 or plays < aired:
+                            continue
+                    watched_imdb.add(imdb_id)
                 if len(rows) < 250:
                     break
                 page += 1
@@ -1455,7 +1464,8 @@ def fetch_user_trakt_state(headers):
                     imdb_id = row.get(key_name, {}).get("ids", {}).get("imdb")
                     if imdb_id:
                         ratings_imdb[imdb_id] = row.get("rating")
-                        watched_imdb.add(imdb_id)
+                        if endpoint == "movies":
+                            watched_imdb.add(imdb_id)
                 if len(rows) < 250:
                     break
                 page += 1
@@ -3128,7 +3138,8 @@ render();
 async function fetchAllTraktPages(baseUrl, hdrs) {{
   const all = [];
   for (let page = 1; page <= 20; page++) {{
-    const r = await fetch(`${{baseUrl}}?page=${{page}}&limit=250`, {{ headers: hdrs, cache: 'no-store' }});
+    const sep = baseUrl.includes('?') ? '&' : '?';
+    const r = await fetch(`${{baseUrl}}${{sep}}page=${{page}}&limit=250`, {{ headers: hdrs, cache: 'no-store' }});
     if (!r.ok) break;
     const rows = await r.json();
     if (!Array.isArray(rows) || rows.length === 0) break;
@@ -3145,16 +3156,21 @@ async function syncLiveTraktFromBrowser() {{
   try {{
     const [wMov, wShow, rMov, rShow] = await Promise.all([
       fetchAllTraktPages('https://api.trakt.tv/users/momo-gabr/watched/movies', hdrs),
-      fetchAllTraktPages('https://api.trakt.tv/users/momo-gabr/watched/shows', hdrs),
+      fetchAllTraktPages('https://api.trakt.tv/users/momo-gabr/watched/shows?extended=full', hdrs),
       fetchAllTraktPages('https://api.trakt.tv/users/momo-gabr/ratings/movies', hdrs),
       fetchAllTraktPages('https://api.trakt.tv/users/momo-gabr/ratings/shows', hdrs),
     ]);
     const liveWatched = new Set();
     const liveRatings = {{}};
     wMov.forEach(x => {{ const id = x.movie?.ids?.imdb; if (id) liveWatched.add(id); }});
-    wShow.forEach(x => {{ const id = x.show?.ids?.imdb; if (id) liveWatched.add(id); }});
+    wShow.forEach(x => {{
+      const id = x.show?.ids?.imdb;
+      const aired = x.show?.aired_episodes || 0;
+      const plays = x.plays || 0;
+      if (id && aired > 0 && plays >= aired) liveWatched.add(id);
+    }});
     rMov.forEach(x => {{ const id = x.movie?.ids?.imdb; if (id) {{ liveWatched.add(id); liveRatings[id] = x.rating; }} }});
-    rShow.forEach(x => {{ const id = x.show?.ids?.imdb; if (id) {{ liveWatched.add(id); liveRatings[id] = x.rating; }} }});
+    rShow.forEach(x => {{ const id = x.show?.ids?.imdb; if (id) {{ liveRatings[id] = x.rating; }} }});
     if (liveWatched.size > 0) {{
       let changed = false;
       ITEMS.forEach(m => {{
