@@ -16,10 +16,10 @@ import multi_creator_scanner as mcs
 
 ALL_CHANNELS = [
     ("Federico Frusciante", "UCeiW1AdgyfDyW5wPLjZqH2Q"),
-    ("Francesco Alò", "UC3i9322156_vA8N1E3R-k9w"),
-    ("I Criticoni", "UCwce2-aT-1g39hB3L4nB0aw"),
-    ("Mr. Marra", "UCf9_D6s-7h423l1l6_s6k7w"),
-    ("Victorlaszlo88", "UC-9_p7h2L2N9C8-3W6-5z8g"),
+    ("Francesco Alò", "UC64x__-nUk0PiHv4Vmzs0NA"),
+    ("I Criticoni", "UCqhjRUQGCnX4Y22kR_KD-Yg"),
+    ("Mr. Marra", "UC_FaoEnCojZYsumBP_MFgfw"),
+    ("Victorlaszlo88", "UCIfXF2g-jES4VTAPQzgIRUw"),
 ]
 
 
