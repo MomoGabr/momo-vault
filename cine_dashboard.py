@@ -2176,6 +2176,158 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
     text-decoration: none;
   }}
   .card-links a:hover {{ color: var(--text); text-decoration: underline; }}
+  .prov-trigger-btn {{
+    background: #12141a;
+    color: var(--text);
+    border: 1px solid var(--border);
+    padding: 6px 11px;
+    border-radius: 7px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    transition: all 0.15s;
+  }}
+  .prov-trigger-btn:hover {{
+    border-color: #525b70;
+    color: #fff;
+  }}
+  .prov-trigger-btn.active-filter {{
+    background: rgba(245, 197, 24, 0.16);
+    border-color: var(--gold);
+    color: var(--gold);
+  }}
+  .prov-modal-backdrop {{
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.82);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    z-index: 99999;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    box-sizing: border-box;
+  }}
+  .prov-modal-backdrop.open {{
+    display: flex;
+  }}
+  .prov-modal-card {{
+    background: #141720;
+    border: 1px solid #363d50;
+    border-radius: 14px;
+    width: 100%;
+    max-width: 440px;
+    max-height: 85vh;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 25px 60px rgba(0, 0, 0, 0.95);
+    overflow: hidden;
+    animation: provFadeIn 0.18s ease-out;
+  }}
+  @keyframes provFadeIn {{
+    from {{ opacity: 0; transform: scale(0.96) translateY(8px); }}
+    to {{ opacity: 1; transform: scale(1) translateY(0); }}
+  }}
+  .prov-modal-header {{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 18px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  }}
+  .prov-modal-title {{
+    font-size: 15px;
+    font-weight: 800;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }}
+  .prov-modal-close {{
+    background: transparent;
+    border: none;
+    color: var(--muted);
+    font-size: 22px;
+    font-weight: 400;
+    cursor: pointer;
+    line-height: 1;
+    padding: 4px 8px;
+    border-radius: 6px;
+    transition: color 0.15s;
+  }}
+  .prov-modal-close:hover {{ color: #fff; }}
+  .prov-search-wrap {{
+    padding: 12px 16px 8px;
+  }}
+  .prov-search-input {{
+    width: 100%;
+    box-sizing: border-box;
+    background: #0b0d12;
+    border: 1px solid #2d3444;
+    color: #fff;
+    border-radius: 9px;
+    padding: 11px 14px;
+    font-size: 16px;
+    font-weight: 500;
+    outline: none;
+    transition: border-color 0.15s;
+  }}
+  .prov-search-input:focus {{
+    border-color: var(--gold);
+  }}
+  .prov-modal-list {{
+    overflow-y: auto;
+    padding: 6px 16px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    max-height: 55vh;
+  }}
+  .prov-modal-item {{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 15px;
+    border-radius: 9px;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    cursor: pointer;
+    transition: all 0.15s;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+  }}
+  .prov-modal-item:hover, .prov-modal-item.active {{
+    background: rgba(245, 197, 24, 0.16);
+    border-color: rgba(245, 197, 24, 0.5);
+  }}
+  .prov-modal-name {{
+    font-size: 15px;
+    font-weight: 700;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }}
+  .prov-modal-item.active .prov-modal-name {{
+    color: var(--gold);
+  }}
+  .prov-modal-count {{
+    background: rgba(255, 255, 255, 0.08);
+    color: var(--muted);
+    font-size: 12.5px;
+    font-weight: 700;
+    padding: 3px 10px;
+    border-radius: 12px;
+    white-space: nowrap;
+  }}
+  .prov-modal-item.active .prov-modal-count {{
+    background: rgba(245, 197, 24, 0.25);
+    color: var(--gold);
+  }}
   html, body {{
     overflow-x: clip;
     max-width: 100vw;
@@ -2218,6 +2370,23 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
     #btnRoulette {{
       width: 100%;
       justify-content: center;
+    }}
+    .prov-trigger-btn {{
+      width: 100%;
+      flex: 1 1 100%;
+      justify-content: space-between;
+      padding: 8px 12px;
+      font-size: 12.5px;
+    }}
+    .prov-modal-backdrop {{
+      padding: 0;
+      align-items: flex-end;
+    }}
+    .prov-modal-card {{
+      max-width: 100%;
+      max-height: 85vh;
+      border-bottom-left-radius: 0;
+      border-bottom-right-radius: 0;
     }}
     .filter-group {{
       width: 100%;
@@ -2336,7 +2505,11 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
       </div>
       <button class="action-btn gold" id="btnCountry" style="display:none">🇨🇭</button>
       <button class="toggle-btn" id="btnOnlyCh">⚡ Solo Streaming</button>
-      <select id="providerFilter">
+      <button type="button" class="prov-trigger-btn" id="provTriggerBtn" onclick="openProvModal()">
+        <span id="provTriggerLabel">📺 Piattaforme (Tutte)</span>
+        <span style="opacity:0.6;font-size:11px;">▾</span>
+      </button>
+      <select id="providerFilter" style="display:none">
         <option value="ALL">📺 Piattaforme (Tutte)</option>
       </select>
     </div>
@@ -2383,6 +2556,19 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
   <div class="grid" id="moviesGrid"></div>
   <div id="scrollSentinel" style="height:40px;margin-top:20px;"></div>
 </main>
+
+<div class="prov-modal-backdrop" id="provModal" onclick="closeProvModal(event)">
+  <div class="prov-modal-card" onclick="event.stopPropagation()">
+    <div class="prov-modal-header">
+      <div class="prov-modal-title" id="provModalTitle">📺 Scegli Piattaforma Streaming</div>
+      <button type="button" class="prov-modal-close" onclick="closeProvModal()">✕</button>
+    </div>
+    <div class="prov-search-wrap">
+      <input type="search" id="provSearchInput" class="prov-search-input" placeholder="🔍 Cerca piattaforma (Netflix, MUBI, Sky)..." oninput="filterProvModalOptions()" autocomplete="off">
+    </div>
+    <div class="prov-modal-list" id="provModalList"></div>
+  </div>
+</div>
 
 <script>
 const ITEMS = {data_json};
@@ -2477,6 +2663,84 @@ Object.entries(creatorsMap).sort((a,b) => b[1] - a[1]).forEach(([c, cnt]) => {{
   creatorFilter.appendChild(opt);
 }});
 
+let currentProvCounts = [];
+
+function updateProvTriggerLabel() {{
+  const flag = getCountryFlag();
+  const val = providerFilter.value;
+  const btn = document.getElementById('provTriggerBtn');
+  const lbl = document.getElementById('provTriggerLabel');
+  if (!lbl) return;
+  if (!val || val === 'ALL') {{
+    lbl.textContent = `📺 Piattaforme ${{streamCountry}} (Tutte)`;
+    if (btn) btn.classList.remove('active-filter');
+  }} else {{
+    lbl.textContent = `${{flag}} ${{val}}`;
+    if (btn) btn.classList.add('active-filter');
+  }}
+}}
+
+window.openProvModal = function() {{
+  const modal = document.getElementById('provModal');
+  const inp = document.getElementById('provSearchInput');
+  const titleEl = document.getElementById('provModalTitle');
+  if (titleEl) titleEl.textContent = `📺 Piattaforme Streaming (${{streamCountry}})`;
+  if (inp) {{
+    inp.value = '';
+    filterProvModalOptions();
+  }}
+  if (modal) {{
+    modal.classList.add('open');
+    setTimeout(() => {{ if (inp) inp.focus(); }}, 60);
+  }}
+}};
+
+window.closeProvModal = function(e) {{
+  if (e && e.target && e.target !== e.currentTarget && !e.target.classList.contains('prov-modal-close')) return;
+  const modal = document.getElementById('provModal');
+  if (modal) modal.classList.remove('open');
+}};
+
+window.selectProvFromModal = function(val) {{
+  providerFilter.value = val;
+  updateProvTriggerLabel();
+  closeProvModal();
+  render();
+}};
+
+window.filterProvModalOptions = function() {{
+  const flag = getCountryFlag();
+  const q = (document.getElementById('provSearchInput')?.value || '').trim().toLowerCase();
+  const listEl = document.getElementById('provModalList');
+  if (!listEl) return;
+  const curVal = providerFilter.value;
+  const rows = [];
+  if (!q) {{
+    rows.push(`
+      <div class="prov-modal-item ${{curVal === 'ALL' ? 'active' : ''}}" onclick="selectProvFromModal('ALL')">
+        <span class="prov-modal-name"><span>${{flag}}</span> Tutte le piattaforme</span>
+        <span class="prov-modal-count">${{currentProvCounts.length}} piattaforme</span>
+      </div>
+    `);
+  }}
+  let matched = 0;
+  currentProvCounts.forEach(([pName, cnt]) => {{
+    if (q && !pName.toLowerCase().includes(q)) return;
+    matched++;
+    const esc = pName.replace(/'/g, "\\'");
+    rows.push(`
+      <div class="prov-modal-item ${{curVal === pName ? 'active' : ''}}" onclick="selectProvFromModal('${{esc}}')">
+        <span class="prov-modal-name"><span>${{flag}}</span> ${{pName}}</span>
+        <span class="prov-modal-count">${{cnt}} film</span>
+      </div>
+    `);
+  }});
+  if (q && matched === 0) {{
+    rows.push(`<div style="padding:28px 12px;text-align:center;color:var(--muted);font-size:14.5px;">Nessuna piattaforma trovata per "<b>${{q}}</b>"</div>`);
+  }}
+  listEl.innerHTML = rows.join('');
+}};
+
 function rebuildCountryUI() {{
   const flag = getCountryFlag();
   btnOnlyCh.textContent = `⚡ Solo Streaming ${{streamCountry}}`;
@@ -2494,7 +2758,8 @@ function rebuildCountryUI() {{
       pMap[p.name] = (pMap[p.name] || 0) + 1;
     }});
   }});
-  Object.entries(pMap).sort((a, b) => b[1] - a[1]).forEach(([p, cnt]) => {{
+  currentProvCounts = Object.entries(pMap).sort((a, b) => b[1] - a[1]);
+  currentProvCounts.forEach(([p, cnt]) => {{
     const opt = document.createElement('option');
     opt.value = p;
     opt.textContent = `${{flag}} ${{p}} (${{cnt}})`;
@@ -2502,6 +2767,8 @@ function rebuildCountryUI() {{
   }});
   if (pMap[prevVal]) providerFilter.value = prevVal;
   else providerFilter.value = 'ALL';
+  updateProvTriggerLabel();
+  filterProvModalOptions();
 }}
 window.setStreamCountry = function(c) {{
   streamCountry = c;
@@ -2625,6 +2892,7 @@ window.resetAllFilters = function() {{
   creatorFilter.value = 'ALL';
   syncCreatorChipsUI();
   providerFilter.value = 'ALL';
+  updateProvTriggerLabel();
   rubricaFilter.value = 'ALL';
   directorFilter.value = 'ALL';
   decadeFilter.value = 'ALL';
@@ -2659,7 +2927,7 @@ function renderActiveFiltersBar() {{
     tags.push(`<span class="active-tag" onclick="onlyChStreaming=false; btnOnlyCh.classList.remove('active'); render();">${{getCountryFlag()}} Solo Streaming ${{streamCountry}} ✕</span>`);
   }}
   if (providerFilter.value !== 'ALL') {{
-    tags.push(`<span class="active-tag" onclick="providerFilter.value='ALL'; render();">${{getCountryFlag()}} ${{providerFilter.value}} ✕</span>`);
+    tags.push(`<span class="active-tag" onclick="selectProvFromModal('ALL')">${{getCountryFlag()}} ${{providerFilter.value}} ✕</span>`);
   }}
   if (rubricaFilter.value !== 'ALL') {{
     tags.push(`<span class="active-tag" onclick="rubricaFilter.value='ALL'; render();">${{rubricaFilter.value}} ✕</span>`);
@@ -2967,6 +3235,9 @@ window.toggleCrMenu = function(e, el) {{
 }};
 document.addEventListener('click', () => {{
   document.querySelectorAll('.cr-dropdown.open').forEach(d => d.classList.remove('open'));
+}});
+document.addEventListener('keydown', (e) => {{
+  if (e.key === 'Escape') closeProvModal();
 }});
 
 buildInsightsClouds();
