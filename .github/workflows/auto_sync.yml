@@ -2,8 +2,10 @@ name: Daily Momo Vault Auto-Sync
 
 on:
   schedule:
-    # Gira 3 volte al giorno (05:17, 12:17, 19:17 UTC) su minuto non-tondo (:17) per evitare code GitHub
-    - cron: '17 5,12,19 * * *'
+    # 3 esecuzioni giornaliere su righe separate (minuto :23) per massima affidabilità su GitHub Actions
+    - cron: '23 7 * * *'
+    - cron: '23 13 * * *'
+    - cron: '23 19 * * *'
   workflow_dispatch: # Permette anche l'avvio manuale con 1 clic da GitHub
 
 permissions:
@@ -27,18 +29,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run Daily YouTube + RogerEbert + Trakt Sync
+      - name: Run Daily YouTube + RogerEbert + Scaruffi + Trakt Sync
         env:
           TRAKT_CLIENT_ID: ${{ secrets.TRAKT_CLIENT_ID }}
           TRAKT_ACCESS_TOKEN: ${{ secrets.TRAKT_ACCESS_TOKEN }}
         run: |
           python3 daily_sync.py
-          cp index.html docs/index.html
-          cp daily_updates.txt docs/daily_updates.txt
+          rm -f cine_dashboard.html index.html
 
       - name: Commit and Push updated Vault & Dashboard
         run: |
           git config user.name "MomoGabr"
           git config user.email "MomoGabr@users.noreply.github.com"
-          git add cine_db.json index.html docs/index.html daily_updates.txt docs/daily_updates.txt
+          git add cine_db.json docs/index.html daily_updates.txt docs/daily_updates.txt
           git diff --staged --quiet || (git commit -m "chore(vault): daily auto-sync YouTube + Ebert + Scaruffi + Trakt" && git push)

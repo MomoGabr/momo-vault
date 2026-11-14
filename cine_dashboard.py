@@ -1228,30 +1228,49 @@ def enrich_movie(item, headers, ch_sources_map, check_ch=True):
     no_flatrate = []
     if imdb_id and check_ch:
         try:
-            wn_url = f"https://api.trakt.tv/{media_type}/{imdb_id}/watchnow"
-            wn_resp = requests.get(wn_url, headers=headers, timeout=10)
-            if wn_resp.status_code == 200:
-                wn_json = wn_resp.json()
-                for c_code, target_list in (("ch", ch_flatrate), ("it", it_flatrate), ("no", no_flatrate)):
-                    c_data = wn_json.get(c_code, {})
-                    seen_flat = set()
-                    for bucket in ("subscription", "free"):
-                        for offer in c_data.get(bucket, []):
-                            src = offer.get("source")
-                            if src and src not in seen_flat:
-                                seen_flat.add(src)
-                                meta = ch_sources_map.get(src, {})
-                                target_list.append(
-                                    {
-                                        "source": src,
-                                        "name": meta.get(
-                                            "name", src.replace("_", " ").title()
-                                        ),
-                                        "link": "https://" + offer["link"].lstrip("/")
-                                        if offer.get("link")
-                                        else "",
-                                    }
-                                )
+            q_jw = """
+            query($q: String!) {
+              popularTitles(country: US, first: 4, filter: {searchQuery: $q}) {
+                edges {
+                  node {
+                    content(country: US, language: "en") { externalIds { imdbId } }
+                    ch: offers(country: CH, platform: WEB, filter: {monetizationTypes: [FLATRATE, FREE, ADS]}) { package { clearName } standardWebURL }
+                    it: offers(country: IT, platform: WEB, filter: {monetizationTypes: [FLATRATE, FREE, ADS]}) { package { clearName } standardWebURL }
+                    no: offers(country: NO, platform: WEB, filter: {monetizationTypes: [FLATRATE, FREE, ADS]}) { package { clearName } standardWebURL }
+                  }
+                }
+              }
+            }
+            """
+            jw_resp = requests.post(
+                "https://apis.justwatch.com/graphql",
+                json={"query": q_jw, "variables": {"q": orig_title or title}},
+                headers={"User-Agent": "Mozilla/5.0"},
+                timeout=10,
+            )
+            if jw_resp.status_code == 200:
+                edges = ((jw_resp.json().get("data") or {}).get("popularTitles") or {}).get("edges") or []
+                for edge in edges:
+                    node = edge.get("node") or {}
+                    ext_tt = ((node.get("content") or {}).get("externalIds") or {}).get("imdbId")
+                    if ext_tt == imdb_id:
+                        for c_code, target_list in (("ch", ch_flatrate), ("it", it_flatrate), ("no", no_flatrate)):
+                            seen_p = set()
+                            for off in node.get(c_code) or []:
+                                raw_p = ((off.get("package") or {}).get("clearName") or "").strip()
+                                if not raw_p:
+                                    continue
+                                cp = re.sub(r"\s+(Amazon|Apple TV|Roku Premium)\s+Channel.*$", "", raw_p, flags=re.I)
+                                cp = re.sub(r"\s+(Standard\s+)?with\s+Ads.*$", "", cp, flags=re.I)
+                                cp = re.sub(r"\s+(Premium|Essential|Basic).*$", "", cp, flags=re.I).strip()
+                                if cp in ("Sky Showtime", "SkyShowtime"):
+                                    cp = "SkyShowtime"
+                                if cp in ("Amazon Prime", "Amazon Prime Video"):
+                                    cp = "Amazon Prime Video"
+                                if cp and cp not in seen_p:
+                                    seen_p.add(cp)
+                                    target_list.append({"name": cp, "link": off.get("standardWebURL") or ""})
+                        break
         except Exception:
             pass
 
@@ -3193,9 +3212,10 @@ syncLiveTraktFromBrowser();
 """
     with open(HTML_PATH, "w", encoding="utf-8") as f:
         f.write(html)
-    index_path = os.path.join(BASE_DIR, "index.html")
-    with open(index_path, "w", encoding="utf-8") as f:
-        f.write(html)
+    docs_index = os.path.join(BASE_DIR, "docs", "index.html")
+    if os.path.isdir(os.path.join(BASE_DIR, "docs")):
+        with open(docs_index, "w", encoding="utf-8") as f:
+            f.write(html)
 
 
 def build_or_load_full_5k_index():
