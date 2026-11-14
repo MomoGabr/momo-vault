@@ -2176,106 +2176,6 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
     text-decoration: none;
   }}
   .card-links a:hover {{ color: var(--text); text-decoration: underline; }}
-  .prov-picker {{
-    position: relative;
-    display: inline-flex;
-    flex: 1 1 auto;
-  }}
-  .prov-picker-btn {{
-    background: #13151a;
-    color: var(--text);
-    border: 1px solid var(--border);
-    padding: 7px 11px;
-    border-radius: 8px;
-    font-size: 12.5px;
-    font-weight: 600;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 8px;
-    width: 100%;
-    min-width: 185px;
-  }}
-  .prov-picker-btn:hover, .prov-picker.open .prov-picker-btn {{
-    border-color: var(--gold);
-  }}
-  .prov-picker-menu {{
-    display: none;
-    position: absolute;
-    top: calc(100% + 6px);
-    right: 0;
-    left: auto;
-    width: 280px;
-    max-width: calc(100vw - 24px);
-    box-sizing: border-box;
-    overflow: hidden;
-    background: #14161c;
-    border: 1px solid #3a4050;
-    border-radius: 10px;
-    padding: 8px;
-    box-shadow: 0 12px 32px rgba(0,0,0,0.85);
-    z-index: 200;
-    flex-direction: column;
-    gap: 6px;
-  }}
-  .prov-picker.open .prov-picker-menu {{
-    display: flex;
-  }}
-  .prov-picker-menu input[type="search"] {{
-    width: 100%;
-    min-width: 0;
-    box-sizing: border-box;
-    padding: 7px 10px;
-    font-size: 12.5px;
-    border-radius: 7px;
-    background: #0f1014;
-    border: 1px solid var(--border);
-    color: var(--text);
-  }}
-  .prov-picker-list {{
-    max-height: 250px;
-    width: 100%;
-    box-sizing: border-box;
-    overflow-y: auto;
-    overflow-x: hidden;
-    display: flex;
-    flex-direction: column;
-    gap: 2px;
-  }}
-  .prov-opt {{
-    width: 100%;
-    box-sizing: border-box;
-    overflow: hidden;
-    padding: 7px 10px;
-    border-radius: 6px;
-    font-size: 12px;
-    color: var(--text);
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 10px;
-  }}
-  .prov-opt > span:first-child {{
-    min-width: 0;
-    flex: 1 1 auto;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }}
-  .prov-opt:hover, .prov-opt.active {{
-    background: rgba(245, 197, 24, 0.16);
-    color: var(--gold);
-    font-weight: 700;
-  }}
-  .prov-opt-cnt {{
-    flex: 0 0 auto;
-    white-space: nowrap;
-    color: var(--muted);
-    font-size: 11px;
-    font-weight: 600;
-  }}
   html, body {{
     overflow-x: clip;
     max-width: 100vw;
@@ -2427,7 +2327,7 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
       <select id="creatorFilter" style="display:none"><option value="ALL">Tutti</option></select>
     </div>
 
-    <!-- Gruppo 2: Streaming (Paese CH/IT + Piattaforma con Ricerca) -->
+    <!-- Gruppo 2: Streaming (Paese CH/IT/NO + Piattaforma) -->
     <div class="filter-group" id="streamingGroup">
       <div class="seg-ctrl" id="countrySeg">
         <button class="seg-btn active" data-c="CH" onclick="setStreamCountry('CH')">🇨🇭 CH</button>
@@ -2436,18 +2336,8 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
       </div>
       <button class="action-btn gold" id="btnCountry" style="display:none">🇨🇭</button>
       <button class="toggle-btn" id="btnOnlyCh">⚡ Solo Streaming</button>
-      <div class="prov-picker" id="provPicker">
-        <button type="button" class="prov-picker-btn" id="provPickerBtn" onclick="toggleProvMenu(event)">
-          <span id="provPickerLabel">📺 Piattaforme (Tutte)</span>
-          <span>▾</span>
-        </button>
-        <div class="prov-picker-menu" id="provPickerMenu" onclick="event.stopPropagation()">
-          <input type="search" id="provSearchInput" placeholder="🔍 Cerca piattaforma (MUBI, Netflix, RaiPlay)..." oninput="filterProvOptions()">
-          <div class="prov-picker-list" id="provPickerList"></div>
-        </div>
-      </div>
-      <select id="providerFilter" style="display:none">
-        <option value="ALL">Tutte le piattaforme</option>
+      <select id="providerFilter">
+        <option value="ALL">📺 Piattaforme (Tutte)</option>
       </select>
     </div>
 
@@ -2587,68 +2477,6 @@ Object.entries(creatorsMap).sort((a,b) => b[1] - a[1]).forEach(([c, cnt]) => {{
   creatorFilter.appendChild(opt);
 }});
 
-let currentProvCounts = [];
-
-function updateProvPickerLabel() {{
-  const flag = getCountryFlag();
-  const val = providerFilter.value;
-  const lbl = document.getElementById('provPickerLabel');
-  if (!lbl) return;
-  if (!val || val === 'ALL') {{
-    lbl.textContent = `${{flag}} Piattaforme ${{streamCountry}} (Tutte)`;
-  }} else {{
-    lbl.textContent = `${{flag}} ${{val}}`;
-  }}
-}}
-
-window.selectProvOption = function(val) {{
-  providerFilter.value = val;
-  updateProvPickerLabel();
-  const pk = document.getElementById('provPicker');
-  if (pk) pk.classList.remove('open');
-  filterProvOptions();
-  render();
-}};
-
-window.filterProvOptions = function() {{
-  const flag = getCountryFlag();
-  const q = (document.getElementById('provSearchInput')?.value || '').trim().toLowerCase();
-  const listEl = document.getElementById('provPickerList');
-  if (!listEl) return;
-  const curVal = providerFilter.value;
-  const rows = [];
-  if (!q) {{
-    rows.push(`<div class="prov-opt ${{curVal === 'ALL' ? 'active' : ''}}" onclick="selectProvOption('ALL')">
-      <span>${{flag}} Tutte le piattaforme ${{streamCountry}}</span>
-      <span class="prov-opt-cnt">${{currentProvCounts.length}}</span>
-    </div>`);
-  }}
-  currentProvCounts.forEach(([pName, cnt]) => {{
-    if (q && !pName.toLowerCase().includes(q)) return;
-    const esc = pName.replace(/'/g, "\\'");
-    rows.push(`<div class="prov-opt ${{curVal === pName ? 'active' : ''}}" onclick="selectProvOption('${{esc}}')">
-      <span>${{flag}} ${{pName}}</span>
-      <span class="prov-opt-cnt">${{cnt}} film</span>
-    </div>`);
-  }});
-  listEl.innerHTML = rows.length ? rows.join('') : `<div style="padding:8px;font-size:12px;color:var(--muted);">Nessuna piattaforma trovata</div>`;
-}};
-
-window.toggleProvMenu = function(e) {{
-  e.stopPropagation();
-  const pk = document.getElementById('provPicker');
-  if (!pk) return;
-  const isOpen = pk.classList.toggle('open');
-  if (isOpen) {{
-    const inp = document.getElementById('provSearchInput');
-    if (inp) {{
-      inp.value = '';
-      filterProvOptions();
-      setTimeout(() => inp.focus(), 30);
-    }}
-  }}
-}};
-
 function rebuildCountryUI() {{
   const flag = getCountryFlag();
   btnOnlyCh.textContent = `⚡ Solo Streaming ${{streamCountry}}`;
@@ -2659,15 +2487,14 @@ function rebuildCountryUI() {{
   }});
 
   const prevVal = providerFilter.value;
-  providerFilter.innerHTML = `<option value="ALL">Piattaforme ${{streamCountry}} (Tutte)</option>`;
+  providerFilter.innerHTML = `<option value="ALL">📺 Piattaforme ${{streamCountry}} (Tutte)</option>`;
   const pMap = {{}};
   ITEMS.forEach(m => {{
     getActiveFlatrate(m).forEach(p => {{
       pMap[p.name] = (pMap[p.name] || 0) + 1;
     }});
   }});
-  currentProvCounts = Object.entries(pMap).sort((a, b) => b[1] - a[1]);
-  currentProvCounts.forEach(([p, cnt]) => {{
+  Object.entries(pMap).sort((a, b) => b[1] - a[1]).forEach(([p, cnt]) => {{
     const opt = document.createElement('option');
     opt.value = p;
     opt.textContent = `${{flag}} ${{p}} (${{cnt}})`;
@@ -2675,8 +2502,6 @@ function rebuildCountryUI() {{
   }});
   if (pMap[prevVal]) providerFilter.value = prevVal;
   else providerFilter.value = 'ALL';
-  updateProvPickerLabel();
-  filterProvOptions();
 }}
 window.setStreamCountry = function(c) {{
   streamCountry = c;
@@ -2800,7 +2625,6 @@ window.resetAllFilters = function() {{
   creatorFilter.value = 'ALL';
   syncCreatorChipsUI();
   providerFilter.value = 'ALL';
-  updateProvPickerLabel();
   rubricaFilter.value = 'ALL';
   directorFilter.value = 'ALL';
   decadeFilter.value = 'ALL';
@@ -2835,7 +2659,7 @@ function renderActiveFiltersBar() {{
     tags.push(`<span class="active-tag" onclick="onlyChStreaming=false; btnOnlyCh.classList.remove('active'); render();">${{getCountryFlag()}} Solo Streaming ${{streamCountry}} ✕</span>`);
   }}
   if (providerFilter.value !== 'ALL') {{
-    tags.push(`<span class="active-tag" onclick="selectProvOption('ALL')">${{getCountryFlag()}} ${{providerFilter.value}} ✕</span>`);
+    tags.push(`<span class="active-tag" onclick="providerFilter.value='ALL'; render();">${{getCountryFlag()}} ${{providerFilter.value}} ✕</span>`);
   }}
   if (rubricaFilter.value !== 'ALL') {{
     tags.push(`<span class="active-tag" onclick="rubricaFilter.value='ALL'; render();">${{rubricaFilter.value}} ✕</span>`);
@@ -3143,8 +2967,6 @@ window.toggleCrMenu = function(e, el) {{
 }};
 document.addEventListener('click', () => {{
   document.querySelectorAll('.cr-dropdown.open').forEach(d => d.classList.remove('open'));
-  const pk = document.getElementById('provPicker');
-  if (pk) pk.classList.remove('open');
 }});
 
 buildInsightsClouds();
