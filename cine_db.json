@@ -332778,38 +332778,12 @@
       ],
       "director": "Virgilio Villoresi"
     },
-    "movie:cherry & virgin:tt14576898": {
-      "id": "movie:cherry & virgin:tt14576898",
-      "imdb_id": "tt14576898",
-      "category": "movie",
-      "it_title": "Cherry & Virgin",
-      "orig_title": "CHERRY AND VIRGIN",
-      "year": 2026,
-      "cast": "Risa Hinami, Yaeko Kiyose",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGFmZGM3N2EtOGM4ZS00Y2E5LWIxYjItZTk2ZjhiZjNmYTNlXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [],
-      "it_flatrate": [],
-      "no_flatrate": [],
-      "external_url": "https://app.trakt.tv/movies/tt14576898",
-      "recommendations": [
-        {
-          "creator": "Piero Scaruffi",
-          "video_id": "scaruffi_cherryvirgin_2026",
-          "video_title": "Piero Scaruffi",
-          "timestamp": "",
-          "seconds": 0,
-          "external_rec_url": "https://www.scaruffi.com/cinema/best26.html",
-          "mentioned_as": "Cherry & Virgin"
-        }
-      ]
-    },
     "movie:oh to believe in another world review:tt36933402": {
       "id": "movie:oh to believe in another world review:tt36933402",
       "imdb_id": "tt36933402",
       "category": "movie",
-      "it_title": "Oh to Believe in Another World review",
-      "orig_title": "Cocorico 2",
+      "it_title": "Oh to Believe in Another World",
+      "orig_title": "Oh to Believe in Another World",
       "year": 2026,
       "cast": "Christian Clavier, Didier Bourdon",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BMGYzYzI5MzktNmMwMi00MzFjLTgwZjktOWVmZjJmNzliZTZmXkEyXkFqcGc@._V1_UX400_.jpg",
@@ -332826,7 +332800,7 @@
           "timestamp": "",
           "seconds": 0,
           "external_rec_url": "https://www.scaruffi.com/cinema/best26.html",
-          "mentioned_as": "Oh to Believe in Another World review"
+          "mentioned_as": "Oh to Believe in Another World"
         }
       ],
       "director": "Julien Hervé"
@@ -380898,6 +380872,35 @@
           "seconds": 55,
           "mentioned_as": "La regina del male (Seizure)"
         }
+      ]
+    },
+    "movie:cherry & virgin:tt21216870": {
+      "id": "movie:cherry & virgin:tt21216870",
+      "imdb_id": "tt21216870",
+      "category": "movie",
+      "it_title": "Cherry & Virgin",
+      "orig_title": "Cherry & Virgin",
+      "year": 2022,
+      "cast": "Risa Hinami, Yaeko Kiyose",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGFmZGM3N2EtOGM4ZS00Y2E5LWIxYjItZTk2ZjhiZjNmYTNlXkEyXkFqcGc@._V1_UX400_.jpg",
+      "media_type": "movie",
+      "ch_flatrate": [],
+      "it_flatrate": [],
+      "no_flatrate": [],
+      "external_url": "https://app.trakt.tv/movies/tt21216870",
+      "recommendations": [
+        {
+          "creator": "Piero Scaruffi",
+          "video_id": "scaruffi_cherryvirgin_2026",
+          "video_title": "Piero Scaruffi",
+          "timestamp": "",
+          "seconds": 0,
+          "external_rec_url": "https://www.scaruffi.com/cinema/best26.html",
+          "mentioned_as": "Cherry & Virgin"
+        }
+      ],
+      "directors": [
+        "Masanao Kawajiri"
       ]
     }
   },

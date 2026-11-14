@@ -279,6 +279,7 @@ def sync_latest_scaruffi_cinema(db_data, headers, ch_map, daily_log=None):
                 href = (m.group(2) or "").strip("\"'").lstrip("./")
                 director = re.sub(r"<.*?>", "", m.group(3)).strip()
                 raw_titles = re.sub(r"<.*?>", "", m.group(4)).strip()
+                raw_titles = re.sub(r"\s+review\s*$", "", raw_titles, flags=re.I).strip()
                 parts = [p.strip(" `") for p in raw_titles.split("/") if p.strip(" `")]
                 if not parts:
                     continue
