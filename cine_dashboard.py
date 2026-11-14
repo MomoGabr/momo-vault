@@ -2457,7 +2457,6 @@ def generate_html(db_data, watched_imdb, ratings_imdb):
         <option value="CONSENSUS">🤝 Ordina: Consenso Cinefili</option>
         <option value="YEAR_DESC">📅 Anno (Recenti → Storici)</option>
         <option value="YEAR_ASC">🏛️ Anno (Storici → Recenti)</option>
-        <option value="MY_RATING">⭐ Il mio voto Trakt</option>
         <option value="TITLE_ASC">🔤 Titolo (A → Z)</option>
       </select>
     </div>
@@ -3044,9 +3043,7 @@ function renderCardHtml(m) {{
     if (m.category === 'book') extLabel = '📚 Scheda Libro ↗';
     const extUrl = m.external_url || (m.imdb_id ? `https://app.trakt.tv/${{(m.category === 'show' || m.media_type === 'show') ? 'shows' : 'movies'}}/${{m.imdb_id}}` : '');
 
-    const leftRibbon = m.my_rating
-      ? `<span class="rating-ribbon">★ ${{m.my_rating}}/10</span>`
-      : '';
+    const leftRibbon = '';
 
     return `
       <div class="card">
