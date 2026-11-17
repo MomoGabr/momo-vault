@@ -341,6 +341,13 @@ def process_creator_video(v_entry):
     return vid, creator, meta, (items if len(items) >= 3 else [])
 
 
+def norm_key_title(s):
+    s = (s or "").lower()
+    s = re.sub(r"[-–—:]", " ", s)
+    s = re.sub(r"\b(e|ed|il|lo|la|i|gli|le|del|dello|della|dei|degli|delle|the|of|and)\b", " ", s)
+    return re.sub(r"[^a-z0-9]+", "", s)
+
+
 def find_matching_movie_key(items_dict, raw_title, target_year=None, dir_hint=""):
     """
     Cerca un film già presente nel Vault verificando che, in caso di omonimi
@@ -348,13 +355,14 @@ def find_matching_movie_key(items_dict, raw_title, target_year=None, dir_hint=""
     l'anno o il regista siano compatibili col video del creator!
     """
     tl = raw_title.lower().strip()
+    ntl = norm_key_title(raw_title)
     candidates = []
     for k, it in items_dict.items():
         if it.get("category") not in ("movie", "show"):
             continue
         it_t = (it.get("it_title") or "").lower().strip()
         or_t = (it.get("orig_title") or "").lower().strip()
-        if tl in (it_t, or_t):
+        if tl in (it_t, or_t) or (ntl and ntl in (norm_key_title(it_t), norm_key_title(or_t))):
             candidates.append((k, it))
 
     if not candidates:

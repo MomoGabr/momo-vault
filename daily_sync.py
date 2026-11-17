@@ -454,7 +454,9 @@ def main():
                         f"    🎬 Trakt: https://app.trakt.tv/movies/{tt}"
                     )
                 else:
-                    raw["inferred_year"] = explicit_yr
+                    raw["inferred_year"] = explicit_yr or (
+                        raw.get("max_video_year") if len(items) == 1 and not raw.get("is_classic") else None
+                    )
                     to_enrich.append((raw, rec))
 
         if to_enrich:

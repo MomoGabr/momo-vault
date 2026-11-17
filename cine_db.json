@@ -20965,8 +20965,8 @@
       "id": "movie:look back:tt39094466",
       "imdb_id": "tt39094466",
       "category": "movie",
-      "it_title": "Look Back",
-      "orig_title": "Look Back",
+      "it_title": "Look Back (di Hirokazu Kore-eda)",
+      "orig_title": "Look Back (Rukku Bakku)",
       "year": 2026,
       "director": "Hirokazu Kore-eda",
       "cast": "Ryô Ikeda, Miyu Sasaki",
@@ -20996,14 +20996,6 @@
           "creator": "I Criticoni",
           "video_id": "RfulEbGofNQ",
           "video_title": "Day 5: HIROKAZU KORE'EDA - “Look Back” + “Arrested Memory” di Sabu | Criticoni a Venezia 83",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Look Back"
-        },
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "c5_-PEZKzoo",
-          "video_title": "Look Back: Intervista a Hirokazu Koreeda",
           "timestamp": "00:00",
           "seconds": 0,
           "mentioned_as": "Look Back"
@@ -81754,7 +81746,7 @@
       "id": "movie:look back:tt31711040",
       "imdb_id": "tt31711040",
       "category": "movie",
-      "it_title": "Look Back",
+      "it_title": "Look Back (Anime)",
       "orig_title": "Look Back",
       "year": 2024,
       "cast": "Yumi Kawai, Mizuki Yoshida",
@@ -332695,6 +332687,14 @@
           "timestamp": "00:00",
           "seconds": 0,
           "mentioned_as": "Scrooge e gli spiriti del Natale"
+        },
+        {
+          "creator": "Victorlaszlo88",
+          "video_id": "nq10_LmnOjI",
+          "video_title": "MovieBlog- 1121: Recensione Scrooge- Gli Spiriti del Natale",
+          "timestamp": "00:00",
+          "seconds": 0,
+          "mentioned_as": "Scrooge- Gli Spiriti del Natale"
         }
       ],
       "director": "Ti West"
@@ -332859,59 +332859,6 @@
         }
       ],
       "director": "Anthony Russo, Joe Russo"
-    },
-    "movie:scrooge- gli spiriti del natale:tt0066344": {
-      "id": "movie:scrooge- gli spiriti del natale:tt0066344",
-      "imdb_id": "tt0066344",
-      "category": "movie",
-      "it_title": "Scrooge- Gli Spiriti del Natale",
-      "orig_title": "Scrooge",
-      "year": 1970,
-      "cast": "Albert Finney, Alec Guinness",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDMxM2M1Y2QtNTVhZi00ODRhLTgxOTItMTBjNDg5ZjIyZTRkXkEyXkFqcGc@._V1_UX400_.jpg",
-      "media_type": "movie",
-      "ch_flatrate": [
-        {
-          "name": "Popcorntimes",
-          "link": "https://popcorntimes.tv/de/m/2gi6xMaL/scrooge"
-        },
-        {
-          "name": "Plex",
-          "link": "https://watch.plex.tv/movie/scrooge-1970?autoplay=1&utm_content=5d9f35046fc551001ef803db&utm_medium=deeplink&utm_source=justWatch-v2-catalog"
-        }
-      ],
-      "it_flatrate": [
-        {
-          "name": "Plex",
-          "link": "https://watch.plex.tv/movie/scrooge-1970?autoplay=1&utm_content=5d9f35046fc551001ef803db&utm_medium=deeplink&utm_source=justWatch-v2-catalog"
-        }
-      ],
-      "no_flatrate": [
-        {
-          "name": "SkyShowtime",
-          "link": "https://www.skyshowtime.com/no/stream/movies/scrooge/4b14dc55-0e88-3e90-83a5-72638e96fadd"
-        },
-        {
-          "name": "Strim",
-          "link": "https://www.strim.no/film/14320345:vod/scrooge"
-        },
-        {
-          "name": "Plex",
-          "link": "https://watch.plex.tv/movie/scrooge-1970?autoplay=1&utm_content=5d9f35046fc551001ef803db&utm_medium=deeplink&utm_source=justWatch-v2-catalog"
-        }
-      ],
-      "external_url": "https://app.trakt.tv/movies/tt0066344",
-      "recommendations": [
-        {
-          "creator": "Victorlaszlo88",
-          "video_id": "nq10_LmnOjI",
-          "video_title": "MovieBlog- 1121: Recensione Scrooge- Gli Spiriti del Natale",
-          "timestamp": "00:00",
-          "seconds": 0,
-          "mentioned_as": "Scrooge- Gli Spiriti del Natale"
-        }
-      ],
-      "director": "Ronald Neame"
     },
     "music:nail:foetus": {
       "id": "music:nail:foetus",
